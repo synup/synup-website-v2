@@ -1,0 +1,28 @@
+{
+  "slug": "salesforce-crm",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Salesforce CRM",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f239573f380cacbf6bfe6",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f239573f380cacbf6bfe0_6548e1d6b56fe856d1bb920c_Salesforce.svg",
+  "title_tag": "Integrate Salesforce CRM with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Salesforce CRM + Synup</strong></h1><p id=\"\">Elevate your review acquisition and management by integrating Salesforce CRM with Synup's specialized capabilities.</p><h2 id=\"\">What is Salesforce CRM?</h2><p id=\"\">Salesforce CRM is a dynamic customer relationship management solution that pioneers in enhancing customer experiences, streamlining business processes, and driving sales productivity with its wide array of features and customization options.</p><h2 id=\"\">Why Salesforce CRM + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Optimized Review Acquisition: </strong>Utilize Synup’s expertise to automate and optimize the review acquisition process directly within Salesforce, ensuring a consistent and efficient collection of valuable customer feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Enriched Customer Data:</strong> Enhance Salesforce’s rich customer data with meaningful reviews and feedback, allowing for more personalized and customer-centric sales strategies.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Feedback Integration: </strong>Automate the integration of customer feedback into Salesforce records, ensuring that customer insights are always up-to-date and easily accessible.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Decision Making: </strong>Leverage the combined insights from Synup and Salesforce for more strategic and informed decision-making, improving the effectiveness of sales and marketing efforts.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Holistic View of Interactions:</strong> Achieve a more comprehensive view of customer interactions by synchronizing review data with other customer information, allowing for a nuanced understanding of customer needs and preferences.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Enhanced Productivity and Cost-Efficiency: </strong>Streamline and automate various processes related to review acquisition and management, leading to improved productivity and reduced operational costs.</li></ul><p id=\"\">Integrating Salesforce CRM with Synup offers a formidable solution that significantly enhances the process of review acquisition and management, ensuring a more refined, strategic, and customer-centric approach to sales and marketing efforts.</p><h2 id=\"\">How to integrate Salesforce CRM + Synup?</h2><p id=\"\">Salesforce CRM integration for customer relationship management is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the CRM Integration tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM Button.</li></ul><ul id=\"\"><li id=\"\">Select Salesforce CRM as your CRM software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Salesforce CRM account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Manage customer relationships using Salesforce CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Salesforce CRM",
+    "description": "Supercharge Salesforce CRM with Synup: Automate reviews, enrich data, and make smarter decisions for customer-centric success.",
+    "canonical": "https://www.synup.com/integrations/salesforce-crm",
+    "ogImage": null
+  }
+}

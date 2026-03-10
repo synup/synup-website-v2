@@ -1,0 +1,26 @@
+{
+  "slug": "funnels-landing-pages",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Funnels & Landing Pages",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68cd1be846817afd24a4be4c",
+  "archived": false,
+  "draft": true,
+  "created_on": "Fri Sep 19 2025 09:01:28 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Sep 19 2025 09:12:22 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "__MISSING__",
+  "sub_description": "__MISSING__",
+  "first_col": "N",
+  "second_col": "Y",
+  "select_table_category": "agency-management",
+  "list_order": "8.0",
+  "select_pages": "gohighlevel-alternative",
+  "seo": {
+    "title": "Funnels & Landing Pages",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/funnels-landing-pages",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "freeagent",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Kostenloser Agent",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2e6202a34397e9e1f3",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:10 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:10 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2e6202a34397e9e1ee_6548e16840cff87da71a049e_FreeAgent.svg",
+  "title_tag": "Integrieren Sie Freeagent mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">FreeAgent + Synchronisierung</strong></h1><p id=\"\">Verbessern Sie Ihre Strategien zur Kundenbewertung, indem Sie die leistungsstarke Integration der Buchhaltungsfunktionen von FreeAgent in die innovativen Bewertungsmanagement-Lösungen von Synup nutzen.</p><h2 id=\"\">Was ist FreeAgent?</h2><p id=\"\">FreeAgent ist eine umfassende Buchhaltungssoftware, die insbesondere von kleinen Unternehmen und Freiberuflern bevorzugt wird. Sie vereinfacht das Rechnungsmanagement, die Kostenverfolgung und die Zeiterfassung und ermöglicht einen besser organisierten und effizienteren Finanzworkflow.</p><h2 id=\"\">Warum FreeAgent + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Aufforderungen per Fakturierung überprüfen: </strong>Nutzen Sie die Fakturierungsinteraktionen von FreeAgent, um Kunden zur Abgabe von Bewertungen aufzufordern und ihre Erfahrungen und ihr Feedback in Echtzeit zu erfassen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Konsolidiertes Kundenverständnis: </strong>Verknüpfen Sie die detaillierten Kundentransaktionshistorien von FreeAgent mit den Bewertungsinformationen von Synup, um ein umfassenderes und umfassenderes Verständnis der Kundenerfahrungen und -bedürfnisse zu erhalten.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatisierte Feedback-Workflows:</strong> Integrieren Sie automatisierte Überprüfungsanfragen in die Buchhaltungsabläufe von FreeAgent und verbessern Sie so die Konsistenz und Relevanz bei der Erfassung von Feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Personalisierte Bewertungsmitteilungen: </strong>Passen Sie Bewertungsanfragen und Antworten auf der Grundlage individueller Kundeninteraktionen und historischer Transaktionsdaten in FreeAgent an und fördern Sie so einen ansprechenderen und aussagekräftigeren Austausch.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategische Geschäftsverbesserungen: </strong>Nutzen Sie die kombinierte Intelligenz aus finanziellen Interaktionen und Kundenrezensionen, um Geschäftsstrategien, Dienstleistungen und Kundenbeziehungen auf bessere Ergebnisse und Kundenzufriedenheit auszurichten.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimierte Ressourcenauslastung:</strong> Koordinieren Sie das Überprüfungsmanagement nahtlos innerhalb der bestehenden Workflows von FreeAgent und ermöglichen Sie so einen effizienteren und harmonisierteren betrieblichen Ansatz.</li></ul><p id=\"\">Die Verbindung von FreeAgent mit Synup ermöglicht eine synergetische Zusammenarbeit, die das Potenzial von Buchhaltungsinteraktionen für eine ausgeklügelte, intelligente und effektive Akquise und Verwaltung von Bewertungen maximiert und so verbesserte Kundenbeziehungen und Geschäftsstrategien fördert.</p><h2 id=\"\">Wie integriere ich FreeAgent + Synup?</h2><p id=\"\">Die FreeAgent-Integration für die Buchhaltung steht allen Synup-Abonnenten zur Verfügung. Um die Integration einzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Besuchen Sie die Registerkarte Buchhaltung auf der Synup-Konsole.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf die Schaltfläche Buchhaltungssoftware verbinden.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie FreeAgent als Ihre Buchhaltungssoftware.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr FreeAgent-Konto.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung der Buchhaltung.</li></ul><ul id=\"\"><li id=\"\">Verwalte deine Finanzen mit FreeAgent.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Kostenloser Agent",
+    "description": "FreeAgent + Synup: Verbessern Sie Bewertungen und Buchhaltung — sorgen Sie für effiziente Kundenbeziehungen und Geschäftswachstum",
+    "canonical": "https://www.synup.com/de/integrations/kostenloser-agent",
+    "ogImage": null
+  }
+}

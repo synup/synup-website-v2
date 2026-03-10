@@ -1,0 +1,28 @@
+{
+  "slug": "microsoft-cortana",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Microsoft Cortana",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23928386df55b71ed6a2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:38 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:38 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23928386df55b71ed69c_65312e325ed5043cb8ddbcb5_Microsoft%2520Cortana.svg",
+  "title_tag": "Manage Your Business Information on Microsoft Cortana with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Microsoft Cortana + Synup</h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on Microsoft Cortana with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\">What is Microsoft Cortana?</h2><p id=\"\">Microsoft Cortana, a sophisticated virtual assistant and AI-powered tool developed by Microsoft, assists users with tasks, answers questions, and provides personalized assistance across various devices and platforms. Whether you're looking to streamline your digital interactions or enhance productivity, Cortana offers advanced features to meet your needs.</p><h2 id=\"\">Why Microsoft Cortana + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Complete Control Over Listings:</strong> With the ability to manage your business listings on Microsoft Cortana, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\"><strong id=\"\">Broaden Your Reach:</strong> Adding your business to Microsoft Cortana through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\"><strong id=\"\">Accurate Business Information:</strong> Enhance trust and credibility by publishing accurate information on Microsoft Cortana.</li><li id=\"\"><strong id=\"\">Customer Engagement:</strong> View and respond back to reviews on Microsoft Cortana, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ul><h2 id=\"\">How to integrate Microsoft Cortana + Synup?</h2><p id=\"\">The Microsoft Cortana integration is available to all Synup listings plan subscribers. To view &amp; manage the Microsoft Cortana integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Microsoft Cortana logo to manage the Synup + Microsoft Cortana integration and associated settings.</li></ol>",
+  "integration_types": "voice-assistant",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Microsoft Cortana",
+    "description": "Optimize your business presence. Synup integration with Microsoft Cortana ensures accurate information for enhanced online visibility and interactions.",
+    "canonical": "https://www.synup.com/integrations/microsoft-cortana",
+    "ogImage": null
+  }
+}

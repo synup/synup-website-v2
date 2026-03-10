@@ -1,0 +1,28 @@
+{
+  "slug": "freeagent",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Agente gratuito",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a762827950fef6777ed96a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:34 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:34 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Freeagent con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Suscribirse a FreeAgent +</strong></h1><p id=\"\">Mejore sus estrategias de revisión de clientes aprovechando la poderosa integración de las capacidades de contabilidad de FreeAgent con las innovadoras soluciones de gestión de reseñas de Synup.</p><h2 id=\"\">¿Qué es FreeAgent?</h2><p id=\"\">FreeAgent es un software de contabilidad integral, especialmente preferido por pequeñas empresas y autónomos, que simplifica la gestión de facturas, el seguimiento de los gastos y el control del tiempo, lo que permite un flujo de trabajo financiero más organizado y eficiente.</p><h2 id=\"\">¿Por qué FreeAgent + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Revise las solicitudes a través de la facturación: </strong>Utilice las interacciones de facturación de FreeAgent como una forma de solicitar reseñas a los clientes, capturando sus experiencias y comentarios en tiempo real.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Comprensión consolidada del cliente: </strong>Combina los historiales detallados de las transacciones de los clientes de FreeAgent con las opiniones de Synup, creando una comprensión más rica y completa de las experiencias y necesidades de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujos de trabajo de comentarios automatizados:</strong> Integre las solicitudes de revisión automatizadas en los flujos de trabajo de contabilidad de FreeAgent, mejorando la coherencia y la relevancia en la adquisición de comentarios.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Comunicaciones de revisión personalizadas: </strong>Personalice las solicitudes de revisión y las respuestas en función de las interacciones individuales de los clientes y los datos históricos de las transacciones en FreeAgent, fomentando intercambios más atractivos y significativos.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Mejoras empresariales estratégicas: </strong>Aproveche la inteligencia combinada de las interacciones financieras y las opiniones de los clientes para dirigir las estrategias comerciales, los servicios y las relaciones con los clientes hacia la mejora de los resultados y la satisfacción.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Utilización optimizada de los recursos:</strong> Coordine los esfuerzos de gestión de revisiones sin problemas dentro de los flujos de trabajo existentes de FreeAgent, lo que facilita un enfoque operativo más eficiente y armonizado.</li></ul><p id=\"\">La conexión de FreeAgent con Synup abre una colaboración sinérgica que maximiza el potencial de las interacciones contables para una adquisición y gestión de revisiones sofisticadas, inteligentes y eficaces, lo que fomenta la mejora de las relaciones con los clientes y las estrategias comerciales.</p><h2 id=\"\">¿Cómo integrar FreeAgent + Synup?</h2><p id=\"\">La integración de FreeAgent para la contabilidad está disponible para todos los suscriptores de Synup. Para ver y gestionar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Contabilidad en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar software de contabilidad.</li></ul><ul id=\"\"><li id=\"\">Seleccione FreeAgent como su software de contabilidad.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de FreeAgent.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar la contabilidad.</li></ul><ul id=\"\"><li id=\"\">Administre sus finanzas con FreeAgent.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Agente gratuito",
+    "description": "FreeAgent + Synup: Mejore las revisiones y la contabilidad: genere relaciones eficientes con los clientes y el crecimiento empresarial",
+    "canonical": "https://www.synup.com/es/integrations/agente-gratuito",
+    "ogImage": null
+  }
+}

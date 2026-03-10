@@ -1,0 +1,28 @@
+{
+  "slug": "marketo",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Marketo",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c668191e6ad611ffa10",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:54 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:54 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2fbf4a2eab67efd25c_6548dd6ce4b4f981b2c44115_Marketo.svg",
+  "title_tag": "Intégrez Marketo à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Marketo + Synup</h1><p id=\"\">Exploitez la puissance de la gestion personnalisée des avis grâce à l'intégration de Marketo et Synup.</p><h2 id=\"\">Qu'est-ce que Marketo&nbsp;?</h2><p id=\"\">Marketo est une puissante plateforme d'automatisation du marketing, capable de rationaliser un éventail de tâches marketing, de la gestion des prospects aux campagnes par e-mail. Elle est spécialisée dans la création de campagnes personnalisées et engageantes qui génèrent des prospects et favorisent des relations durables avec les clients, favorisant ainsi la réussite commerciale. Grâce à ses outils complets, Marketo mesure méticuleusement les efforts de marketing, en veillant à ce que les stratégies soient continuellement optimisées pour un impact et une génération de revenus optimaux.</p><h2 id=\"\">Pourquoi Marketo + Synup&nbsp;?</h2><p id=\"\"><strong id=\"\">Acquisition d'avis améliorée&nbsp;: </strong>Tirez parti de l'automatisation de Marketo pour planifier et envoyer des demandes d'évaluation personnalisées, améliorer les taux de réponse et recueillir de précieux commentaires des clients.</p><p id=\"\"><strong id=\"\">Campagnes stratégiques pour un meilleur engagement&nbsp;: </strong>Utilisez les capacités de Marketo pour segmenter les audiences et personnaliser les campagnes de demandes d'avis, en garantissant la pertinence et en améliorant l'engagement des clients.</p><p id=\"\"><strong id=\"\">Sensibilisation adaptative des clients&nbsp;: </strong>L'intégration de Marketo et Synup permet d'affiner les stratégies d'évaluation en fonction des interactions avec les clients, de garantir des demandes d'avis engageantes et pertinentes, d'améliorer l'acquisition de commentaires positifs et la réputation en ligne.</p><p id=\"\"><strong id=\"\">Efficacité opérationnelle et réduction des coûts&nbsp;: </strong>L'intégration simplifie le processus de gestion des avis, économise du temps et permet de se concentrer sur les activités stratégiques qui améliorent la satisfaction globale des clients et les performances commerciales.</p><p id=\"\"><strong id=\"\">Analyse intégrée pour des stratégies éclairées&nbsp;: </strong>Exploitez la puissance des analyses combinées pour obtenir des informations sur la satisfaction des clients, afin de prendre des décisions éclairées afin d'optimiser les stratégies d'acquisition d'avis.</p><p id=\"\">Grâce à cette intégration, les entreprises trouvent une solution robuste qui optimise et simplifie le processus d'acquisition des avis, en tirant parti de l'automatisation, de la personnalisation et des analyses intégrées pour améliorer l'engagement des clients et les performances commerciales.</p><h2 id=\"\">Comment intégrer Marketo + Synup&nbsp;?</h2><p id=\"\">L'intégration de Marketo pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Marketo.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Marketo",
+    "description": "Maximisez l'impact des avis grâce à l'intégration de Marketo et Synup. Des évaluations automatisées et personnalisées pour améliorer l'engagement et l'efficacité.",
+    "canonical": "https://www.synup.com/fr/integrations/marketo",
+    "ogImage": null
+  }
+}

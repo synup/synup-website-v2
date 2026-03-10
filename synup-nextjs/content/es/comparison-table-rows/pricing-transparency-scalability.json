@@ -1,0 +1,23 @@
+{
+  "slug": "pricing-transparency-scalability",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Pricing Transparency & Scalability",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68da8f02c466ebf231ac38be",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Sep 29 2025 13:52:02 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 13:53:22 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "seo": {
+    "title": "Pricing Transparency & Scalability",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/pricing-transparency-scalability",
+    "ogImage": null
+  }
+}

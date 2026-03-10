@@ -1,0 +1,31 @@
+{
+  "slug": "foursquare",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Foursquare",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c62aa1391f6210856e4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf37a9b586f59cc42d28_653130d3baed54e0e893f53e_Foursquare.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Foursquare avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; france; germany; netherlands; uae; south-africa; nigeria; ireland; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">FourSquare.com + Synup<br>‍</strong><br></h1><h2 id=\"\"><strong id=\"\">Qu'est-ce que Foursquare.com&nbsp;?</strong></h2><p id=\"\"><strong id=\"\">Foursquare.com </strong>est une plateforme inestimable pour les entreprises qui souhaitent élargir leur empreinte numérique et attirer plus de clients, fonctionnant comme un annuaire sophistiqué et un service de découverte sociale qui soutient les entreprises dans leurs efforts publicitaires. Tout comme Bing Places et YellowPages.com, Foursquare.com est utilisé dans le monde entier, fournissant des informations détaillées sur les services commerciaux, les heures d'ouverture et les emplacements, facilitant ainsi efficacement la connexion entre les entreprises et leurs publics cibles.</p><h2 id=\"\"><strong id=\"\">Pourquoi Foursquare.com et Synup&nbsp;?</strong></h2><p id=\"\">Gestion des annuaires&nbsp;: Lorsque Synup est intégré à Foursquare.com, les entreprises bénéficient d'un contrôle sans précédent sur leurs listes d'annuaires. Ce duo dynamique permet de créer et de gérer des profils commerciaux qui non seulement reflètent fidèlement l'image de marque, mais qui sont également constamment mis à jour et fiables, fournissant aux clients potentiels les informations essentielles qu'ils recherchent. En outre, les entreprises peuvent suivre de près les commentaires des clients, en répondant à toutes les préoccupations de manière proactive.</p><p id=\"\"><strong id=\"\">Visibilité en ligne améliorée&nbsp;:</strong> Bien que des plateformes telles que Google et Bing dominent le marché des moteurs de recherche, Foursquare.com, un important agrégateur de données, constitue une alternative robuste qui promet une large visibilité. L'établissement d'un profil professionnel sur Foursquare.com augmente considérablement la visibilité en ligne. Grâce à l'assistance compétente fournie par Synup, les profils sont méticuleusement optimisés pour permettre aux clients de trouver facilement votre entreprise lorsqu'ils recherchent les produits ou services que vous proposez.</p><p id=\"\"><strong id=\"\">Données commerciales fiables&nbsp;:</strong> Pour gagner la confiance des clients, il faut fournir des informations commerciales précises et vérifiées. La combinaison des fonctionnalités de Foursquare.com et de Synup garantit que les informations accessibles aux clients sont non seulement exactes mais également fiables, faisant de votre entreprise une entité digne de confiance aux yeux des clients potentiels.</p><p id=\"\"><strong id=\"\">Stratégies commerciales basées sur les données&nbsp;:</strong> Tirez parti de la puissante synergie entre Foursquare.com et Synup pour obtenir des informations et des analyses essentielles concernant votre clientèle. Les informations recueillies sont cruciales pour affiner vos initiatives marketing, fournissant une voie claire pour prendre des décisions commerciales éclairées qui sont essentielles à la croissance et au succès de votre entreprise.</p><p id=\"\">Utilisez la puissante combinaison de Foursquare.com et de Synup pour gérer efficacement votre présence en ligne, interagir avec des clients potentiels et améliorer à la fois la visibilité et la crédibilité de votre entreprise dans l'espace numérique. Grâce à des listes précises, à des indicateurs d'engagement améliorés et à des données analytiques inestimables, les entreprises sont parées pour réussir sur le marché en ligne concurrentiel.</p><p id=\"\">‍</p><h2 id=\"\"><strong id=\"\">Comment intégrer Foursquare.com à Synup&nbsp;?<br></strong></h2><p id=\"\">L'intégration FourSquare.com est disponible pour tous les abonnés au plan d'annonces Synup. Pour consulter et gérer l'intégration de FourSquare.com, procédez comme suit&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo FourSquare.com pour gérer l'intégration Synup + Foursquare.com et les paramètres associés.</li></ol>",
+  "integration_types": "data-aggregator",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#4254b7",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2544446bf04208916f_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).webp",
+  "integration_summary": "Faites figurer votre entreprise sur Foursquare.",
+  "seo": {
+    "title": "Foursquare",
+    "description": "Optimisez votre présence sur Foursquare. L'intégration de Synup garantit des données commerciales précises pour une visibilité et un engagement en ligne supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/foursquare",
+    "ogImage": null
+  }
+}

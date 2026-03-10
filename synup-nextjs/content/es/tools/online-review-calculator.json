@@ -1,0 +1,26 @@
+{
+  "slug": "online-review-calculator",
+  "locale": "es",
+  "collectionType": "tools",
+  "name": "Calculadora de reseñas en línea",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75e449a59a93464e828ca",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:58:28 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:58:28 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "image": null,
+  "description": "<p id=\"\">Descubre cuántas reseñas nuevas generar para la reputación deseada</p>",
+  "description_short": "Descubre cuántas reseñas nuevas generar para la reputación deseada",
+  "link": "https://www.synup.com/get-reviews",
+  "order": "6.0",
+  "button_text": "Calcula ahora",
+  "seo": {
+    "title": "Calculadora de reseñas en línea",
+    "description": "<p id=\"\">Descubre cuántas reseñas nuevas generar para la reputación deseada</p>",
+    "canonical": "https://www.synup.com/es/tools/online-review-calculator",
+    "ogImage": null
+  }
+}

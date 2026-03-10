@@ -1,0 +1,26 @@
+{
+  "slug": "erin-s",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Erin S.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cb6252dbf34d357c366",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«¡Esto hace que responder y organizar las reseñas sea mucho más fácil al tener todo en una sola plataforma!»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">¡El hecho de que todo se canalice en una bandeja de entrada! Lo que más me gusta es que podemos configurar respuestas automáticas para una multitud de situaciones diferentes. Incluso podemos configurar la notificación automática para el correo electrónico.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">Será bueno cuando la respuesta automática de Yelp esté integrada. Creo que esto también se extiende a Bing. Actualmente no estoy usando todas las funciones, por lo que hay más disponibles.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">Ya no es necesario que varias personas revisen diferentes plataformas en busca de reseñas, ahora podemos hacer que una persona las revise y hacer que las cosas se reenvíen automáticamente según sea necesario.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Directora de Mercadeo</p><p id=\"\">Mercado medio (51-1000 emp.)</p>",
+  "seo": {
+    "title": "Erin S.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/erin-s",
+    "ogImage": null
+  }
+}

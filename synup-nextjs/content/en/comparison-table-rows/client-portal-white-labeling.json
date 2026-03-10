@@ -1,0 +1,26 @@
+{
+  "slug": "client-portal-white-labeling",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Client Portal White-labeling",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68cd1e9d2d3c5c7d1addc375",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Sep 19 2025 09:13:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Sep 19 2025 09:18:00 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sat Sep 20 2025 07:00:16 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "With Synup, you can customize the theme, domain, notifications, and nav bar in your client portal.",
+  "first_col": "Y",
+  "second_col": "Y (limited)",
+  "select_table_category": "agency-management",
+  "list_order": null,
+  "select_pages": "gohighlevel-alternative",
+  "seo": {
+    "title": "Client Portal White-labeling",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/client-portal-white-labeling",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "weblocal-ca",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "WebLocal.ca",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf3a4e124eeb0d64085a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:22 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:22 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf394e124eeb0d64081a_6531303606cc4557a6ab93af_Weblocal.ca.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf WebLocal.ca mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada",
+  "detailed_paragraph": "<h1 id=\"\">WebLocal.ca + Synchronisierung</h1><p id=\"\"><strong id=\"\">Fügen Sie Brancheneinträge und Bewertungen auf WebLocal.ca hinzu, fordern Sie sie an und bearbeiten Sie sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup.</strong></p><h2 id=\"\">Was ist WebLocal.ca?</h2><p id=\"\">WebLocal.ca ist eine seriöse Online-Ressource, um Unternehmen und Dienstleistungen in Kanada zu entdecken und mit ihnen in Kontakt zu treten. Es bietet umfassende Brancheneinträge und Informationen und erleichtert es Benutzern, lokale Empfehlungen und Dienstleistungen in Kanada zu finden.</p><h2 id=\"\">Warum WebLocal.ca + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote:</strong> Mit der Möglichkeit, Ihre Brancheneinträge auf WebLocal.ca zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite:</strong> Wenn Sie Ihr Unternehmen über Synup zu WebLocal.ca hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\"><strong id=\"\">Genaue Geschäftsinformationen:</strong> Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf WebLocal.ca veröffentlichen.</li><li id=\"\"><strong id=\"\">Kundenbindung:</strong> Sehen Sie sich Bewertungen auf WebLocal.ca an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie deren Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich WebLocal.ca + Synup?</h2><p id=\"\">Die WebLocal.ca-Integration steht allen Abonnenten des Synup-Angebotsplans zur Verfügung. Um die WebLocal.ca-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das WebLocal.ca-Logo, um die Synup + WebLocal.ca-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "auto",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#e16e25",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2544446bf04208916f_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).webp",
+  "integration_summary": "WebLocal.ca ist ein lokaler Suche/Stadtführer für Kanada.",
+  "seo": {
+    "title": "WebLocal.ca",
+    "description": "Erhöhen Sie Ihre Präsenz auf WebLocal.ca. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Sichtbarkeit und Kundenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/weblocalca",
+    "ogImage": null
+  }
+}

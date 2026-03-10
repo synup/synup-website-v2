@@ -1,0 +1,26 @@
+{
+  "slug": "team-collaboration-on-accounts-2",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Team Collaboration on Accounts",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68e770dfd6c29432eac89877",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Oct 09 2025 08:22:55 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 08:23:07 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 08:38:55 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Basic",
+  "select_table_category": "top-category",
+  "list_order": null,
+  "select_pages": "pipedrive-vs-synup",
+  "seo": {
+    "title": "Team Collaboration on Accounts",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/team-collaboration-on-accounts",
+    "ogImage": null
+  }
+}

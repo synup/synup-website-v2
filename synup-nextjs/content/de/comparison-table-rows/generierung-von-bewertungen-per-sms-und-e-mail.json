@@ -1,0 +1,28 @@
+{
+  "slug": "review-generation-via-sms-email-2",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Generierung von Bewertungen per SMS und E-Mail",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c7723db40d65ffc63415",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:26 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:26 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "reviews",
+  "list_order": "19.0",
+  "select_pages": "synup-vs-yext; chatmeter-alternative; local-clarity-alternative; soci-alternative; thryv-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; pinmeto-alternative; singleinterface-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; advicelocal-alternative; synup-vs-digitalmass; synup-vs-localpanda-ai; synup-vs-reviews-on-my-website; synup-vs-gmbapi; zoho-publish-alternative",
+  "tabel_category": "Generierung von Bewertungen per SMS und E-Mail",
+  "alt_select_pages": "best-yext-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Generierung von Bewertungen per SMS und E-Mail",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/generierung-von-bewertungen-per-sms-und-e-mail",
+    "ogImage": null
+  }
+}

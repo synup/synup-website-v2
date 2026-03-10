@@ -1,0 +1,28 @@
+{
+  "slug": "hubspots-sales-hub",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Le centre de vente de HubSpot",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c64311b0af705562faa",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:52 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:52 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf27bbe4a5a5f4d519ce_6548e2c8176639bf5e2a746f_Hubspot.svg",
+  "title_tag": "Intégrez Hubspot à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "argentina; australia; austria; belgium; brazil; canada; chile; china; czech-republic; denmark; ecuador; france; germany; hong-kong; indonesia; ireland; italy; japan; kenya; malaysia; mexico; netherlands; new-zealand; nigeria; norway; india; peru; philippines; poland; popular; portugal; russia; singapore; south-africa; spain-es; sweden; switzerland; taiwan; thailand; uae; uganda; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Centre de vente HubSpot + Synup</h1><p id=\"\">Tirez le meilleur parti de votre processus d'acquisition d'avis, maximisez l'efficacité et favorisez un engagement client enrichi.</p><h2 id=\"\">Qu'est-ce que le centre de vente de HubSpot&nbsp;?</h2><p id=\"\">Outil CRM sophistiqué, le Sales Hub de HubSpot centralise les interactions avec les clients, améliore les flux de vente et fournit des analyses précieuses, favorisant ainsi des stratégies de vente et des prises de décisions efficaces.</p><h2 id=\"\">Pourquoi Sales Hub + Synup&nbsp;?</h2><p id=\"\">‍<strong id=\"\">Évaluations simplifiées&nbsp;:</strong> Automatisez les demandes d'évaluation pour les nouveaux clients, simplifiant et améliorant les flux de travail d'acquisition.</p><p id=\"\">‍<strong id=\"\">Pratiques CRM robustes&nbsp;:</strong> Synchronisez et exploitez les données clients pour affiner les stratégies CRM et les interactions avec les clients.</p><p id=\"\">‍<strong id=\"\">Efficacité stratégique&nbsp;:</strong> Exploitez l'automatisation pour optimiser l'allocation des ressources, améliorer la productivité opérationnelle et réduire les coûts.</p><p id=\"\">‍<strong id=\"\">Intégrations polyvalentes&nbsp;:</strong> Utilisez une gamme d'intégrations puissantes, élargissez les capacités et améliorez l'adaptabilité technologique.</p><p id=\"\">‍<strong id=\"\">Visibilité accrue&nbsp;:</strong> Améliorez votre présence en ligne, en améliorant l'attractivité pour les clients potentiels grâce à une gestion efficace des avis.</p><p id=\"\">Intégrez le centre de vente de HubSpot à Synup pour bénéficier d'une efficacité opérationnelle accrue, d'un engagement client stratégique et d'intégrations technologiques puissantes et flexibles.</p><h2 id=\"\">Comment intégrer le Sales Hub + Synup de HubSpot&nbsp;?</h2><p id=\"\">L'intégration du Sales Hub de HubSpot pour la gestion de la relation client est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Intégration CRM sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le Sales Hub de HubSpot comme logiciel CRM.</li></ul><ul id=\"\"><li id=\"\">Authentifiez le compte Sales Hub de votre compte HubSpot.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Gérez les relations avec les clients à l'aide du Sales Hub de HubSpot.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Le centre de vente de HubSpot",
+    "description": "Le Sales Hub de HubSpot est un puissant outil CRM qui centralise les interactions avec les clients, rationalise les flux de vente et fournit des analyses précieuses pour des stratégies de vente efficaces.",
+    "canonical": "https://www.synup.com/fr/integrations/le-centre-de-vente-de-hubspot",
+    "ogImage": null
+  }
+}

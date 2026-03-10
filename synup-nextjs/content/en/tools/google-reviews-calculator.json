@@ -1,0 +1,26 @@
+{
+  "slug": "online-review-calculator",
+  "locale": "en",
+  "collectionType": "tools",
+  "name": "Google Reviews Calculator",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6877e399fa82cc58ea1c6bc2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Jul 16 2025 17:38:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Jul 16 2025 17:38:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Jul 17 2025 16:53:41 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6877e399fa82cc58ea1c6bad_666feb008127aed43905edfa_Untitled%2520design%2520(1).svg",
+  "description": "<p id=\"\">Learn how many new reviews to generate for desired reputation</p>",
+  "description_short": "Learn how many new reviews to generate for desired reputation",
+  "link": "https://www.synup.com/get-reviews",
+  "order": "6.0",
+  "button_text": "Calculate Now",
+  "seo": {
+    "title": "Google Reviews Calculator",
+    "description": "<p id=\"\">Learn how many new reviews to generate for desired reputation</p>",
+    "canonical": "https://www.synup.com/tools/google-reviews-calculator",
+    "ogImage": null
+  }
+}

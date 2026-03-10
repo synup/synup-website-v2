@@ -1,0 +1,28 @@
+{
+  "slug": "marketo",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Marketo",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76293aaa14a9e5e8cefa3",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:51 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:51 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Marketo con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Suscríbete a Marketo +</h1><p id=\"\">Libere el poder de la gestión de reseñas personalizada con la integración de Marketo + Synup.</p><h2 id=\"\">¿Qué es Marketo?</h2><p id=\"\">Marketo es una potente plataforma de automatización de marketing, experta en agilizar una variedad de tareas de marketing, desde la gestión de clientes potenciales hasta las campañas de correo electrónico. Se especializa en la creación de campañas personalizadas y atractivas que fomentan las oportunidades de venta y fomentan relaciones duraderas con los clientes, lo que impulsa el éxito empresarial. A través de sus herramientas integrales, Marketo mide meticulosamente los esfuerzos de marketing, garantizando que las estrategias se optimicen continuamente para lograr el máximo impacto y generación de ingresos.</p><h2 id=\"\">¿Por qué Marketo + Synup?</h2><p id=\"\"><strong id=\"\">Adquisición de reseñas mejorada: </strong>Aproveche la automatización de Marketo para programar y enviar solicitudes de revisión personalizadas, mejorar las tasas de respuesta y obtener valiosos comentarios de los clientes.</p><p id=\"\"><strong id=\"\">Campañas estratégicas para mejorar la participación: </strong>Utilice las capacidades de Marketo para segmentar las audiencias y personalizar las campañas de solicitud de reseñas, garantizando la relevancia y mejorando la participación de los clientes.</p><p id=\"\"><strong id=\"\">Alcance adaptativo de los clientes: </strong>La integración de Marketo y Synup refina las estrategias de revisión en función de las interacciones con los clientes, lo que garantiza solicitudes de revisión atractivas y resonantes, lo que mejora la adquisición de comentarios positivos y la reputación en línea.</p><p id=\"\"><strong id=\"\">Eficiencia operativa y reducción de costos: </strong>La integración simplifica el proceso de gestión de reseñas, lo que ahorra tiempo y recursos, lo que permite centrarse en las actividades estratégicas que mejoran la satisfacción general del cliente y el rendimiento empresarial.</p><p id=\"\"><strong id=\"\">Análisis integrado para estrategias informadas: </strong>Aproveche el poder de la analítica combinada para obtener información sobre la satisfacción de los clientes, lo que le ayudará a tomar decisiones informadas para optimizar las estrategias de adquisición de reseñas.</p><p id=\"\">Con esta integración, las empresas encuentran una solución sólida que optimiza y simplifica el proceso de adquisición de reseñas, aprovechando la automatización, la personalización y el análisis integrado para mejorar la participación de los clientes y el rendimiento empresarial.</p><h2 id=\"\">¿Cómo integrar Marketo + Synup?</h2><p id=\"\">La integración de Marketo para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o ubicación a la que quieres conectar Marketo.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Marketo",
+    "description": "Maximice el impacto de las reseñas con la integración de Marketo + Synup. Revisiones automatizadas y personalizadas para mejorar la participación y la eficiencia.",
+    "canonical": "https://www.synup.com/es/integrations/marketo",
+    "ogImage": null
+  }
+}

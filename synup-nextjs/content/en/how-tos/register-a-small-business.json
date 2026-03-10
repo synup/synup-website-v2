@@ -1,0 +1,33 @@
+{
+  "slug": "register-small-business",
+  "locale": "en",
+  "collectionType": "how-tos",
+  "name": "Register A Small Business",
+  "collection_id": "6877e268b030afdd44be8c81",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f332bf9ebb5f9caf4bfe3",
+  "archived": true,
+  "draft": true,
+  "created_on": "Sun Aug 03 2025 10:00:11 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 10:57:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "__MISSING__",
+  "description": "Find out how to get your local business registered in the U.S.",
+  "main_title": "How To Register A Small Business",
+  "icon": "__MISSING__",
+  "richtext": "<p id=\"\">Registering your small business in the U.S. requires you to go through certain legal procedures. In this article, we’re going to take a step-by-step look at these procedures, and help you understand the process. Before we proceed, do keep in mind that certain minor requirements and regulations might differ depending on the state that you’re registering in. You can find out more information about registering your business in each state <a href=\"http://cityapplications.com/business-licenses.html\" id=\"\">here</a>.</p><p id=\"\">Step 1: Register Your Business/Company Name</p><p id=\"\">By default, the legal name of a business or a company is the name of the person who owns it. In case your business operates under a partnership, then the name that you have outlined in the partnership agreement (or the last names of all the partners involved) becomes the legal name.</p><p id=\"\">You can, however, choose to have a different name for your business. In that case, you will have to register your business’ name or ‘Doing Business As’ (DBA) name with the state. In the case of Corporations or LLCs (Limited Liability Corporations), registering under a separate DBA name is often the norm.</p><p id=\"\">There are certain legalities and considerations to be taken into account before you register your business’ name. Take a look at this <a href=\"https://www.sba.gov/business-guide/launch-your-business/choose-your-business-name\" id=\"\">business guide</a> from the U.S. Small Business Administration to know more about registering your business’ name.</p><p id=\"\">Step 2: Register Your Business/Company as a Legal Entity</p><p id=\"\">The next step is to determine your business’ legal structure. The most common legal entities include sole proprietorship, partnership, LLC, and corporations. This depends on the type of business you own, and also affects certain factors such as liability and taxes.</p><p id=\"\">However, this process is not required by all businesses. You can read more about various legal business structures <a href=\"https://www.sba.gov/business-guide/launch-your-business/choose-business-structure\" id=\"\">here</a>.</p><p id=\"\">Step 3: IRS and State Revenue Office Registrations</p><p id=\"\">Usually, businesses are required to register with the U.S. Internal Revenue Service (IRS) in order to obtain their Employer Identification Number (EIN). This is mandatory if your business has other employees/partnerships. Even corporations and organizations require an EIN. This is used to identify your business as a separate entity. If your business does not require an EIN (for example, a sole proprietorship), you can use your Social Security Number for your official finances.</p><p id=\"\">Apart from registering with the IRS, you will also need to register with your state revenue office in order to obtain tax IDs and other permits. This is required in order to file your business taxes with the state and avoid any legal revenue problems. Some of the most common types of taxes that businesses will be required to pay are income taxes and employment taxes. If you own a business that sells products and you need to collect sales tax, you will also be required to apply for a sales tax permit.</p><p id=\"\">Step 4: Obtain Business License &amp; Permits</p><p id=\"\">When it comes to small businesses, you’re usually required to obtain either a general business license or an industry-specific business permit, depending on the type of business. For example, a hair stylist might be required to obtain a barber license or a cosmetologist license. This applies to all businesses, regardless of whether you’re operating from an office, home, or online.</p><p id=\"\">Apart from a license, your state might also require you to obtain several other permits, such as health department permits and other environmental permits. These requirements might differ depending on factors such as the industry or locality. For more information on licensing and permits, check out this <a href=\"https://www.sba.gov/blogs/what-know-about-small-business-licenses-and-permits\" id=\"\">guide</a>.</p><p id=\"\">Once you follow through with all these legal procedures and registration requirements, you will be all set to start operating your business without any legal hassles!<br></p>",
+  "company": "__MISSING__",
+  "marketing_guide_companies": "__MISSING__",
+  "scan_your_business_listing": false,
+  "speak_to_a_brand_specialist_today": false,
+  "optimize_for_voice_search": false,
+  "join_title": "Spend More Time Running Your Business",
+  "join_description": "And, less time obsessing about your local presence",
+  "book_a_demo": false,
+  "run_free_scan": false,
+  "seo": {
+    "title": "How To Register A Small Business | Synup",
+    "description": "How do you register a small business in the U.S.? What procedure do you follow? Do you register as a corporation or an LLC? Check out our guide for the answers.",
+    "canonical": "https://www.synup.com/how-tos/register-a-small-business",
+    "ogImage": null
+  }
+}

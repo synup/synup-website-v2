@@ -1,0 +1,27 @@
+{
+  "slug": "ai-content-copy-writer",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Rédacteur de contenu/copie IA",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6155279119f4c1a71babb",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:58 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:58 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "posting",
+  "list_order": "13.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; buffer-alternative; sprout-social-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Rédacteur de contenu/copie IA",
+  "seo": {
+    "title": "Rédacteur de contenu/copie IA",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/ai-content-copy-writer",
+    "ogImage": null
+  }
+}

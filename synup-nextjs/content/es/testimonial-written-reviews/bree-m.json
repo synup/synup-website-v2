@@ -1,0 +1,26 @@
+{
+  "slug": "bree-m",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Bree M.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cb57ef57a348cb9fe56",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:49 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:49 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«Fácil de usar, confiable y excelente servicio de atención al cliente»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">Puedo usar sus servicios como plataforma para asegurarme de que todas las ubicaciones de mi empresa estén actualizadas con toda la información correcta. ¡No tengo que ir a todos estos otros sitios para cambiar de horario cuando tenemos vacaciones!</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">¡Nada! No creo que tenga nada que no me guste en este momento.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">No tengo que ir a todos estos sitios para cambiar de horario cuando tenemos que cerrar temprano o tener vacaciones. También confío en que no tengo un montón de ubicaciones duplicadas en Google, etc.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Director de Mercadeo y Relaciones Comunitarias</p><p id=\"\">Mercado medio (51-1000 emp.)</p>",
+  "seo": {
+    "title": "Bree M.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/bree-m",
+    "ogImage": null
+  }
+}

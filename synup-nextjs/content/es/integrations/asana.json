@@ -1,0 +1,28 @@
+{
+  "slug": "asana",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Asana",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76283900b1d7157a14c0c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integra Asana con Synup para automatizar tu proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Suscríbete a Asana +</strong></h1><p id=\"\">Libera el poder de una gestión de reseñas mejorada integrando sin problemas las sólidas funciones de productividad de Asana con el sofisticado kit de herramientas de gestión y adquisición de reseñas de Synup.</p><h2 id=\"\">¿Qué es Asana?</h2><p id=\"\">Asana es una herramienta integral de productividad y gestión de proyectos que facilita el seguimiento organizado de las tareas, la colaboración en equipo y la gestión del flujo de trabajo. Permite a los equipos navegar por los proyectos de manera eficiente, garantizando que los objetivos se cumplan con precisión y puntualidad.</p><h2 id=\"\">¿Por qué Asana + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión activadas por hitos: </strong>Utiliza el seguimiento detallado de tareas e hitos de Asana para iniciar solicitudes de revisión oportunas y relevantes, y así captar los comentarios de los clientes en los puntos de contacto importantes de su recorrido.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Visión holística de las interacciones con los clientes:</strong> Combina las capacidades organizativas de Asana con las opiniones de Synup para crear una visión integral de las experiencias e interacciones de los clientes, lo que permite mejorar las estrategias de interacción con los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Proceso integrado de adquisición de revisiones:</strong> Incorpora las funcionalidades de solicitud y gestión de reseñas de Synup en los flujos de trabajo de Asana, promoviendo un enfoque uniforme y fluido para captar los comentarios de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Personalización de revisión dinámica:</strong> Adapta las solicitudes de revisión con las actualizaciones de proyectos y tareas en tiempo real de Asana, asegurándote de que las interacciones de revisión sean contextualmente ricas y estén en sintonía con cada fase del recorrido del cliente.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Mejora de la estrategia basada en la información: </strong>Aprovecha los datos integrados de Asana y Synup para extraer información práctica que guíe las mejoras continuas en la satisfacción del cliente y la prestación de servicios.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujo de trabajo de gestión de revisiones simplificado:</strong> Optimiza el proceso de gestión de las revisiones centralizando y sincronizando las tareas y actividades relacionadas con las revisiones dentro del poderoso entorno de productividad de Asana.</li></ul><p id=\"\">La integración de Asana con Synup abre las puertas a un enfoque revolucionario en la gestión de reseñas, en el que cada hito del proyecto y cada tarea completada se convierte en un punto de entrada estratégico para obtener comentarios significativos de los clientes e impulsar mejoras empresariales perspicaces.</p><h2 id=\"\">¿Cómo integrar Asana + Synup?</h2><p id=\"\">La integración de Asana para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o la ubicación a la que quieres conectar Asana.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Asana",
+    "description": "Mejora la gestión de reseñas con la integración de Asana + Synup. Solicitudes impulsadas por hitos, información holística y flujo de trabajo optimizado. ¡Aumente la participación de los clientes!",
+    "canonical": "https://www.synup.com/es/integrations/asana",
+    "ogImage": null
+  }
+}

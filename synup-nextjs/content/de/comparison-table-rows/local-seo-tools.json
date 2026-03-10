@@ -1,0 +1,23 @@
+{
+  "slug": "local-seo-tools",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Local SEO Tools",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68da8d17cf99b2864e0c7857",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Sep 29 2025 13:43:51 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 14:28:11 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "seo": {
+    "title": "Local SEO Tools",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/local-seo-tools",
+    "ogImage": null
+  }
+}

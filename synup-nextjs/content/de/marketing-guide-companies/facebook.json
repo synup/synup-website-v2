@@ -1,0 +1,20 @@
+{
+  "slug": "facebook",
+  "locale": "de",
+  "collectionType": "marketing-guide-companies",
+  "name": "Facebook",
+  "collection_id": "6877e2009abc166483d78d09",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4b67514013a2d564e6a96",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:37:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:37:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Facebook",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/marketing-guide-companies/facebook",
+    "ogImage": null
+  }
+}

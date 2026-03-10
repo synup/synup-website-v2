@@ -1,0 +1,28 @@
+{
+  "slug": "google-sheets",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Hojas de cálculo de Google",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628eda25b3f334482940",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:46 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:46 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Usa la integración de Googlesheets con Synup para automatizar tu proceso de gestión de reseñas.",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Google Sheets + Synup</h1><p id=\"\">Mejora tu proceso de gestión de reseñas aprovechando las sinergias de Google Sheets y Synup para mejorar la productividad y la eficiencia operativa.</p><h2 id=\"\">¿Qué es Google Sheets?</h2><p id=\"\">Google Sheets es una herramienta dinámica de productividad basada en la nube para crear y administrar hojas de cálculo en tiempo real. Destaca por permitir el trabajo colaborativo, ya que permite a varios usuarios editar, comentar y chatear en un documento simultáneamente. Las funciones de automatización integradas y una variedad de integraciones disponibles mejoran la eficiencia del flujo de trabajo. Google Sheets, accesible en varios dispositivos, promueve la flexibilidad, ya que permite a los usuarios interactuar con sus datos en cualquier momento y lugar, lo que aumenta la productividad general.</p><h2 id=\"\">¿Por qué Google Sheets + Synup?</h2><p id=\"\"><strong id=\"\">Gestión de revisiones simplificada: </strong>Une la poderosa organización de Google Sheets y el dominio de las reseñas de Synup. Centraliza y gestiona todas las reseñas sin esfuerzo, asegurándote de que nada pase desapercibido.</p><p id=\"\"><strong id=\"\">Flujos de trabajo automatizados: </strong>Aproveche las capacidades de automatización de ambas plataformas. Habilita el envío automático de solicitudes de revisión y la recopilación de comentarios directamente en Google Sheets, lo que simplifica los procesos.</p><p id=\"\"><strong id=\"\">Ventajas colaborativas:</strong>Facilite la colaboración en tiempo real a través de Google Sheets. Mejora los tiempos de respuesta y los niveles de interacción con los revisores, promoviendo interacciones positivas.</p><p id=\"\"><strong id=\"\">Adquisición de reseñas personalizadas: </strong>Personaliza tu estrategia de adquisición de reseñas utilizando Hojas de cálculo de Google para crear campañas personalizadas, garantizando la relevancia y aumentando la probabilidad de recibir comentarios.</p><p id=\"\"><strong id=\"\">Eficiencia operativa y reducción de costos: </strong>Aumente la productividad y reduzca los costos operativos al eliminar las tareas manuales y optimizar los flujos de trabajo, lo que hace que el proceso de adquisición de reseñas sea más eficiente y rentable.</p><p id=\"\">Integra Google Sheets con Synup para desbloquear un mundo de gestión de reseñas organizada, automatizada y eficiente, maximizando la productividad y optimizando el proceso de adquisición de reseñas.</p><h2 id=\"\">¿Cómo integrar Google Sheets + Synup?</h2><p id=\"\">La integración de Google Sheets para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o la ubicación a la que quieres conectar Google Sheets.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Hojas de cálculo de Google",
+    "description": "Mejora la gestión de reseñas con Google Sheets + Synup: organiza, automatiza y optimiza para aumentar la productividad y la eficiencia.",
+    "canonical": "https://www.synup.com/es/integrations/google-sheets",
+    "ogImage": null
+  }
+}

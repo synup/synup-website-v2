@@ -1,0 +1,27 @@
+{
+  "slug": "posts-impressions-graph-and-trends",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Publicaciones, gráfico de impresiones y tendencias",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da12dada35a644c33417",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "analytics",
+  "list_order": "30.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; socialbee-alternative; reputation-com-alternative; sprout-social-alternative; buffer-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Publicaciones, gráfico de impresiones y tendencias",
+  "seo": {
+    "title": "Publicaciones, gráfico de impresiones y tendencias",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/posts-impressions-graph-and-trends",
+    "ogImage": null
+  }
+}

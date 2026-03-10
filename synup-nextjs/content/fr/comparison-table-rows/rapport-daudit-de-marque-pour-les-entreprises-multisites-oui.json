@@ -1,0 +1,27 @@
+{
+  "slug": "brand-audit-report-for-multi-location-business-yes",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Rapport d'audit de marque pour les entreprises multisites - Oui",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a615518191e6ad61230463",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "listings-management",
+  "list_order": "14.0",
+  "select_pages": "synup-vs-localpanda-ai; synup-vs-yotpo; synup-vs-whitespark; synup-vs-rannko; zceppa-alternative",
+  "tabel_category": "Rapport d'audit de marque pour les entreprises multisites",
+  "seo": {
+    "title": "Rapport d'audit de marque pour les entreprises multisites - Oui",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/rapport-daudit-de-marque-pour-les-entreprises-multisites-oui",
+    "ogImage": null
+  }
+}

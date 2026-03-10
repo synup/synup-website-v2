@@ -1,0 +1,20 @@
+{
+  "slug": "twitter",
+  "locale": "fr",
+  "collectionType": "marketing-guide-companies",
+  "name": "Twitter",
+  "collection_id": "6877e2009abc166483d78d09",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60cc0a842a9eb1144b6c4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:58:24 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:58:24 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Twitter",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/marketing-guide-companies/twitter",
+    "ogImage": null
+  }
+}

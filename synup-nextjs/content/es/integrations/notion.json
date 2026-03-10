@@ -1,0 +1,28 @@
+{
+  "slug": "notion",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Noción",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7629523f253c1c5563119",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:53 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:53 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Notion con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Inscripción a Notion +</strong></h1><p id=\"\">Libere el potencial transformador de la gestión de reseñas de clientes integrando el espacio de trabajo todo en uno de Notion con el marco integral de adquisición y gestión de reseñas de Synup.</p><h2 id=\"\">¿Qué es Notion?</h2><p id=\"\">Notion es un espacio de trabajo colaborativo que consolida notas, tareas, wikis y bases de datos, lo que permite a los equipos navegar por los proyectos y los flujos de trabajo de manera unificada y organizada, lo que promueve una mayor productividad y colaboración.</p><h2 id=\"\">¿Por qué Notion + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Repositorio de revisiones centralizado: </strong>Utilice la destreza organizativa de Notion para centralizar las revisiones y los datos relacionados, lo que permite un fácil acceso, análisis y desarrollo de estrategias dentro de un espacio de trabajo unificado.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Planificación de la revisión estratégica:</strong> Emplee las versátiles herramientas de planificación de Notion para delinear estrategias integrales para una adquisición de reseñas efectiva y una participación impactante de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Perspectivas sobre la revisión colaborativa: </strong>Aproveche la esencia colaborativa de Notion para facilitar la participación de todo el equipo en el análisis, la interpretación y la planificación de las acciones de las opiniones y comentarios de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujos de trabajo de revisión automatizados:</strong> Aproveche las capacidades de integración de Notion para automatizar las partes esenciales del proceso de adquisición de reseñas, fomentando la coherencia y la puntualidad en la interacción con los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión personalizadas:</strong> Aproveche las funciones de personalización de Notion para personalizar las solicitudes de reseñas y garantizar la alineación con las experiencias y expectativas de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Toma de decisiones informada: </strong>Utilice el espacio de trabajo integrado para consolidar los conocimientos y tomar decisiones informadas que mejoren la eficacia de las estrategias de gestión y adquisición de reseñas.</li></ul><p id=\"\">La integración de Notion con Synup presenta un espacio de trabajo armonizado en el que la gestión de reseñas es simplificada, estratégica y sinérgica, lo que facilita un enfoque más organizado, colaborativo y perspicaz para adquirir y optimizar las opiniones y comentarios de los clientes.</p><h2 id=\"\">¿Cómo integrar Notion + Synup?</h2><p id=\"\">La integración de Notion para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Seleccione la carpeta o ubicación a la que desea conectar Notion.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Noción",
+    "description": "Libere el potencial de opiniones de los clientes con Notion + Synup. Centralice, elabore estrategias y colabore para obtener reseñas impactantes. ¡Impulse su negocio ahora!",
+    "canonical": "https://www.synup.com/es/integrations/notion",
+    "ogImage": null
+  }
+}

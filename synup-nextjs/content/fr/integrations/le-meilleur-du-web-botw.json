@@ -1,0 +1,28 @@
+{
+  "slug": "best-of-the-web",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Le meilleur du Web (BOTW)",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c64f20753af3ce9951e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:52 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:52 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf25037abb996e15337c_65312ed49e39e8d9468479b3_Best%2520of%2520the%2520Web%2520(BOTW).svg",
+  "title_tag": "Gérez les informations de votre entreprise sur BestofWeb Local avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<p id=\"\">Best of the Web est l'un des annuaires en ligne les plus visités avec plus de 16 millions d'entreprises américaines déjà répertoriées. Il permet aux clients de trouver des informations commerciales, des horaires, des emplacements, des coupons et des avis.</p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Le meilleur du Web (BOTW)",
+    "description": "Améliorez votre présence numérique. L'intégration de Synup à Best of the Web garantit une visibilité de premier ordre à votre entreprise.",
+    "canonical": "https://www.synup.com/fr/integrations/le-meilleur-du-web-botw",
+    "ogImage": null
+  }
+}

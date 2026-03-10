@@ -1,0 +1,25 @@
+{
+  "slug": "unknown-user1",
+  "locale": "fr",
+  "collectionType": "testimonial-written-reviews",
+  "name": "utilisateur1 inconnu",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60546a1372e933d7e4c5b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:26:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:26:30 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab61fea51edc2c81133_65effa9c4cc2c6080cff5974_g2-5-star.webp",
+  "one_line_review": "« Bilan de l'expérience des produits Synup »",
+  "detailed_review": "<p id=\"\"><strong id=\"\">Qu'est-ce que tu préfères chez Synup&nbsp;?</strong></p><p id=\"\">Tout d'abord, la fonctionnalité de gestion multi-sites d'entreprise a changé la donne pour nous. Avec plusieurs agences réparties dans différentes régions, maintenir l'exactitude et la cohérence de nos informations en ligne était autrefois une tâche ardue. Grâce à Synup, nous pouvons désormais gérer facilement tous nos sites à partir d'une seule plateforme. Le tableau de bord intuitif fournit un aperçu complet de toutes nos annonces, ce qui nous permet de mettre à jour les heures d'ouverture, les coordonnées et même de répondre facilement aux avis des clients. Le temps gagné grâce à la centralisation de ce processus a été inestimable, nous permettant de nous concentrer davantage sur la fourniture d'un excellent service à nos clients.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Qu'est-ce que tu n'aimes pas chez Synup&nbsp;?</strong></p><p id=\"\">Honnêtement, il n'y a pas grand-chose à ne pas aimer chez eux. Nous travaillons avec Synup depuis plus de sept ans et ils vont toujours au-delà des attentes.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Quels sont les problèmes résolus par Synup et en quoi cela vous est-il bénéfique&nbsp;?</strong></p><ul id=\"\"><li id=\"\">Gestion des informations de magasin pour plusieurs points de vente</li><li id=\"\">Suivi et réponse aux avis</li><li id=\"\">Obtenir une vue d'ensemble des analyses, y compris les revenus et le retour sur investissement générés par les annonces</li><li id=\"\">Suivi des progrès réalisés sur les réseaux sociaux</li></ul>",
+  "reviewer_logo": null,
+  "had_reviewer_details": false,
+  "seo": {
+    "title": "utilisateur1 inconnu",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonial-written-reviews/utilisateur1-inconnu",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "monday-com",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Monday.com",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2392848b953ea0869602",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:38 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:38 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2392848b953ea08695fd_6548b313deacb74d23d6b83a_Monday.com.svg",
+  "title_tag": "Integrate Monday with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Monday.com + Synup</strong></h1><p id=\"\">Catalyze your review management by interlinking Monday.com’s project management prowess with Synup’s sophisticated review acquisition and management capabilities.</p><h2 id=\"\">What is Monday.com?</h2><p id=\"\">Monday.com is a versatile work operating system that empowers teams to run projects and workflows with confidence. It facilitates an environment of transparency and collaboration, allowing for streamlined processes and enhanced productivity.</p><h2 id=\"\">Why Monday.com + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Review Planning: </strong>Utilize Monday.com’s organizational tools to create strategic workflows for review solicitations and management, ensuring aligned objectives and tactics.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Triggers:</strong> Leverage Monday.com’s automation features to initiate review requests at significant customer touchpoints, driving timely and relevant feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Unified Review Dashboard: </strong>Integrate Synup’s review functionalities within Monday.com’s interface, promoting a singular dashboard for a consolidated view of customer interactions and feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Adaptive Review Solicitations:</strong> Harness Monday.com’s dynamic workflow customization to tailor review requests, ensuring they resonate with the evolving needs and experiences of customers.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Collaborative Review Analysis: </strong>Foster a collaborative environment where team members can collectively analyze and strategize around customer reviews, promoting a multifaceted approach to review management.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Enhanced Operational Workflow: </strong>Improve efficiency by centralizing review-related tasks and workflows within Monday.com’s intuitive platform, ensuring smooth navigation and task management.</li></ul><p id=\"\">Marrying Monday.com with Synup creates a symbiosis that revolutionizes the approach to customer review management, where strategic planning, automation, and collaboration become the cornerstones of a robust review acquisition and management framework.</p><h2 id=\"\">How to integrate Monday.com + Synup?</h2><p id=\"\">Monday.com integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Monday.com to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Monday.com",
+    "description": "Elevate review management with Monday.com + Synup: Streamline, automate, and collaborate for strategic and efficient customer feedback.",
+    "canonical": "https://www.synup.com/integrations/mondaycom",
+    "ogImage": null
+  }
+}

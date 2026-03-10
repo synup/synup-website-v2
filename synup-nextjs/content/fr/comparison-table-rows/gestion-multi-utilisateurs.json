@@ -1,0 +1,28 @@
+{
+  "slug": "multi-user-management-6",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Gestion multi-utilisateurs",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6154af947338b01bfb1ba",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "ajouter",
+  "select_table_category": "top-category",
+  "list_order": "2.0",
+  "select_pages": "thryv-alternative; singleinterface-alternative",
+  "tabel_category": "Gestion multi-utilisateurs",
+  "alt_select_pages": "best-singleinterface-alternative",
+  "seo": {
+    "title": "Gestion multi-utilisateurs",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/gestion-multi-utilisateurs",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "slack",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Slack",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6c35bf91c4dadd69f1",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:00 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:00 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf34df4c7c0c9d7efabf_6548b4d56448d1ce4f906d53_Slack.svg",
+  "title_tag": "Intégrez Clack à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Synchronisation avec Slack</strong></h1><p id=\"\">Révolutionnez votre approche de la gestion des avis clients en intégrant de manière fluide la puissante plateforme de communication de Slack au système robuste d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que Slack&nbsp;?</h2><p id=\"\">Slack est une plateforme de messagerie basée sur les canaux qui améliore la collaboration en équipe en consolidant les communications, les fichiers et les outils dans un espace de travail unique et facile à naviguer, rationalisant ainsi les flux de travail et améliorant la productivité.</p><h2 id=\"\">Pourquoi choisir Slack + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Notifications de révision instantanées&nbsp;:</strong> Tirez parti de la messagerie en temps réel de Slack pour recevoir des notifications immédiates en cas de nouveaux avis clients, ce qui permet des réponses et un engagement rapides.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Analyse de l'examen collaboratif&nbsp;: </strong>Utilisez les canaux Slack pour favoriser les discussions d'équipe et élaborer des stratégies en fonction des commentaires des clients, en promouvant une approche collective de la gestion des avis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de révision rationalisés&nbsp;: </strong>Intégrez les fonctionnalités de Synup dans Slack pour créer un espace de travail cohérent où les tâches de gestion des avis sont facilement accessibles et exploitables.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Engagements de révision adaptatifs&nbsp;: </strong>Utilisez la messagerie polyvalente de Slack pour personnaliser et adapter les demandes d'avis et les communications, afin de garantir la pertinence et la résonance avec les expériences des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Coordination efficace des tâches&nbsp;: </strong>Optimisez les capacités organisationnelles de Slack pour coordonner et attribuer efficacement les tâches liées à la révision, en garantissant la clarté des rôles et des responsabilités.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Discussions relatives à l'examen stratégique&nbsp;: </strong>Profitez de l'environnement propice de Slack pour des discussions dynamiques et des remue-méninges, en facilitant le développement de stratégies d'acquisition d'avis innovantes et efficaces.</li></ul><p id=\"\">En associant Slack à Synup, vous pouvez accéder à un écosystème dans lequel l'agilité de la communication et de la collaboration en temps réel améliore considérablement la stratégie, la coordination et la réactivité de vos efforts d'acquisition et de gestion des avis.</p><h2 id=\"\">Comment intégrer Slack + Synup&nbsp;?</h2><p id=\"\">L'intégration de Slack pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Slack.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Slack",
+    "description": "Révolutionnez les avis avec Slack + Synup. Notifications instantanées, analyse collaborative et flux de travail rationalisés pour un engagement client percutant.",
+    "canonical": "https://www.synup.com/fr/integrations/slack",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "monday-com",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Monday.com",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76294e57e7a55f1b16a2f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:52 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:52 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf30fa7dddf290f77bde_6548b313deacb74d23d6b83a_Monday.com.svg",
+  "title_tag": "Integre Monday con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Monday.com + Regístrate</strong></h1><p id=\"\">Cataliza tu gestión de reseñas al vincular la destreza de gestión de proyectos de Monday.com con las sofisticadas capacidades de adquisición y gestión de reseñas de Synup.</p><h2 id=\"\">¿Qué es Monday.com?</h2><p id=\"\">Monday.com es un sistema operativo de trabajo versátil que permite a los equipos ejecutar proyectos y flujos de trabajo con confianza. Facilita un entorno de transparencia y colaboración, lo que permite agilizar los procesos y mejorar la productividad.</p><h2 id=\"\">¿Por qué Monday.com + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Planificación de la revisión estratégica: </strong>Utiliza las herramientas organizativas de Monday.com para crear flujos de trabajo estratégicos para las solicitudes de revisión y la gestión, a fin de garantizar la alineación de los objetivos y las tácticas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Activadores de revisión automática:</strong> Aproveche las funciones de automatización de Monday.com para iniciar solicitudes de revisión en puntos de contacto importantes con los clientes, lo que generará comentarios oportunos y relevantes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Panel de revisión unificado: </strong>Integre las funciones de revisión de Synup en la interfaz de Monday.com y promueva un panel único para una visión consolidada de las interacciones y comentarios de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión adaptativa:</strong> Aprovecha la personalización dinámica del flujo de trabajo de Monday.com para personalizar las solicitudes de reseñas y garantizar que respondan a las necesidades y experiencias cambiantes de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Análisis de revisión colaborativo: </strong>Fomente un entorno colaborativo en el que los miembros del equipo puedan analizar colectivamente las opiniones de los clientes y elaborar estrategias en torno a ellas, promoviendo un enfoque multifacético para la gestión de las reseñas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujo de trabajo operativo mejorado: </strong>Mejora la eficiencia centralizando las tareas y los flujos de trabajo relacionados con la revisión en la plataforma intuitiva de Monday.com, lo que garantiza una navegación y una gestión de tareas fluidas.</li></ul><p id=\"\">La unión de Monday.com con Synup crea una simbiosis que revoluciona el enfoque de la gestión de las reseñas de los clientes, en la que la planificación estratégica, la automatización y la colaboración se convierten en las piedras angulares de un marco sólido de adquisición y gestión de reseñas.</p><h2 id=\"\">¿Cómo integrar Monday.com + Synup?</h2><p id=\"\">La integración de Monday.com para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o la ubicación a la que quieres conectar Monday.com.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Monday.com",
+    "description": "Mejora la gestión de reseñas con Monday.com + Synup: optimiza, automatiza y colabora para obtener comentarios estratégicos y eficientes de los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/mondaycom",
+    "ogImage": null
+  }
+}

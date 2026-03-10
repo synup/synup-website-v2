@@ -1,0 +1,26 @@
+{
+  "slug": "centralized-client-management-2",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Centralized Client Management",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68d63c41490a38c9a5415e3f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Sep 26 2025 07:09:53 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 07:40:13 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 08:38:55 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "top-category",
+  "list_order": null,
+  "select_pages": "uberall-alternative; gmb-api-alternative",
+  "seo": {
+    "title": "Centralized Client Management",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/centralized-client-management",
+    "ogImage": null
+  }
+}

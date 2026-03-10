@@ -1,0 +1,27 @@
+{
+  "slug": "users-buffer",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Usuarios - Buffer - Heyorca",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da15da9286144a92273e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:45 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "1.0",
+  "second_col": "Ilimitado",
+  "select_table_category": "top-category",
+  "list_order": "2.0",
+  "select_pages": "heyorca-alternative; buffer-alternative",
+  "tabel_category": "Usuarios",
+  "seo": {
+    "title": "Usuarios - Buffer - Heyorca",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/usuarios-buffer-heyorca",
+    "ogImage": null
+  }
+}

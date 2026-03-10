@@ -1,0 +1,28 @@
+{
+  "slug": "paypal",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "PayPal",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23949dc2bb9ca5cd6e2f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:40 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:40 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23949dc2bb9ca5cd6e2a_6548e12418221043edf3eaa3_Paypal.svg",
+  "title_tag": "Integrate Paypal with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">PayPal + Synup</h1><p id=\"\">Explore a transformative approach to customer review management by synergizing PayPal’s trusted payment processing services with Synup’s cutting-edge review acquisition and management solutions.</p><h2 id=\"\">What is PayPal?</h2><p id=\"\">PayPal is a globally recognized payment processing platform, known for its secure, flexible, and user-friendly transaction services. It offers a diverse range of payment solutions that cater to the needs of consumers and businesses alike, facilitating smooth online transactions.</p><h2 id=\"\">Why PayPal + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Immediate Review Solicitations:</strong> Leverage PayPal’s real-time payment confirmations to solicit immediate customer reviews, ensuring that feedback is both fresh and reflective of the customer’s actual experience.</li></ul><ul id=\"\"><li id=\"\">Comprehensive Customer Understanding: Merge transactional data from PayPal with Synup’s robust review insights to foster a holistic view of customer interactions, satisfaction, and areas for improvement.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Seamless Review Integration: </strong>Embed review requests within the PayPal transaction workflow, enabling an organic and unobtrusive way to gather customer feedback consistently.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Personalized Review Outreach: </strong>Customize review communications based on specific transaction details and customer histories within PayPal, making each review interaction feel more tailored and engaging.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Insights for Improvement: </strong>Harness the combined power of payment data and customer reviews to guide strategic decision-making, enhance customer satisfaction, and refine overall business performance.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Efficiency in Review Management:</strong> Optimize the review management process by integrating it seamlessly into PayPal’s operational workflow, maximizing efficiency and effectiveness in capturing valuable customer insights.</li></ul><p id=\"\">Incorporating PayPal with Synup unveils a remarkable strategy for review management, turning each transaction into a valuable opportunity for obtaining actionable customer feedback, nurturing customer relationships, and driving continuous business enhancement.</p><h2 id=\"\">How to integrate PayPal + Synup?</h2><p id=\"\">PayPal integration for payment processing is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Payment Processing tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Payment Gateway Button.</li></ul><ul id=\"\"><li id=\"\">Select PayPal as your payment processor.</li></ul><ul id=\"\"><li id=\"\">Authenticate your PayPal account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up payment processing.</li></ul><ul id=\"\"><li id=\"\">Accept payments through PayPal.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "PayPal",
+    "description": "Transform your customer review management with PayPal + Synup - Immediate solicitation, holistic insights, seamless integration, and personalized outreach.",
+    "canonical": "https://www.synup.com/integrations/paypal",
+    "ogImage": null
+  }
+}

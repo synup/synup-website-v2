@@ -1,0 +1,28 @@
+{
+  "slug": "woops",
+  "locale": "es",
+  "collectionType": "testimonials",
+  "name": "¡Vaya!",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75d563b84f746fe9b3cee",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:54:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:54:30 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "¡Uy!",
+  "person_name": "Raj Bhatt",
+  "designation": "Cofundador",
+  "partner_description": "__MISSING__",
+  "partner": "__MISSING__",
+  "partner_logo": null,
+  "partner_image": null,
+  "partner_testimonial": "<p id=\"\">Synup nos ha salvado la vida. A medida que los negocios basados en ubicaciones estaban reabriendo, las ventas en las tiendas no crecían. Con Synup Campaigns, hemos registrado algunos de nuestros mejores meses de ventas de comercio electrónico en años. Estamos preparados para enfrentarnos a una competencia que ni siquiera se nos hubiera ocurrido si no fuera por Synup.</p><p id=\"\">‍</p>",
+  "seo": {
+    "title": "¡Vaya!",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonials/vaya",
+    "ogImage": null
+  }
+}

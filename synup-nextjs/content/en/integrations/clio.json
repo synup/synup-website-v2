@@ -1,0 +1,28 @@
+{
+  "slug": "clio",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Clio",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238b4eb848e4a7ee2ebc",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238b4eb848e4a7ee2eb7_654a33e721ba1a1ef61fa239_Clio.svg",
+  "title_tag": "Integrate Clio with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Clio + Synup</h1><p id=\"\">Enhance your legal practice management and review acquisition by integrating Clio with Synup's robust capabilities.</p><h2 id=\"\">What is Clio?</h2><p id=\"\">Clio is a comprehensive legal practice management software that streamlines law firm operations, improving case management, time tracking, billing, and client communication with intuitive tools and functionalities.</p><h2 id=\"\">Why Clio + Synup?</h2><p id=\"\"><strong id=\"\">Streamlined Case Management:</strong> Incorporate review requests seamlessly into case workflows, enhancing client feedback mechanisms without complicating legal processes.</p><p id=\"\"><strong id=\"\">Effective Client Communication: </strong>Improve client interaction by synchronizing reviews and feedback with client communication, adding value to professional exchanges.</p><p id=\"\"><strong id=\"\">Time-Efficient Practices: </strong>Save precious time by automating review requests and client feedback collection, enabling legal professionals to focus more on case strategies.</p><p id=\"\"><strong id=\"\">Integrated Operations:</strong> Benefit from integration that simplifies operational complexities, aligning legal practice management with effective review acquisition strategies.</p><p id=\"\"><strong id=\"\">Cost-Conscious Operations:</strong> Leverage automation and integration to optimize operational procedures, aiding in the reduction of overall costs and improving efficiency.</p><p id=\"\"><strong id=\"\">Enhanced Professional Visibility: </strong>Utilize reviews and feedback to improve online presence and reputation, making the law firm more attractive to potential clients.</p><p id=\"\"><br>Integrating Clio with Synup facilitates a smoother, more effective legal practice management experience, enriched by valuable client insights and streamlined operational processes.</p><h2 id=\"\">How to integrate Clio + Synup?</h2><p id=\"\">Clio integration for legal practice management is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Legal Practice Management tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Legal Software Button.</li></ul><ul id=\"\"><li id=\"\">Select Clio as your legal software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Clio account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up legal practice management.</li></ul><ul id=\"\"><li id=\"\">Manage legal processes using Clio.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Clio",
+    "description": "Elevate Legal Practice: Clio + Synup for Efficiency, Client Communication, & Cost Savings.",
+    "canonical": "https://www.synup.com/integrations/clio",
+    "ogImage": null
+  }
+}

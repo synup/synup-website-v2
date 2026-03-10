@@ -1,0 +1,31 @@
+{
+  "slug": "mapquest",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Kartenquest",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2d3541a9ceeaab84f7",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:09 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:09 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2d3541a9ceeaab84df_6531312ee7c34db4dafba567_mapquest.svg",
+  "title_tag": "Verwalte deine Geschäftsinformationen auf Mapquest mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">MapQuest + Synchronisation</h1><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup können Sie Brancheneinträge und Bewertungen auf MapQuest hinzufügen, beanspruchen und bearbeiten</strong></p><h2 id=\"\">Was ist MapQuest?</h2><p id=\"\">MapQuest, einer der Pioniere von Online-Kartendiensten, war ein unschätzbares Tool für Routenplanung und Echtzeitnavigation, das täglich Millionen von Menschen berührt. Egal, ob Sie sich in der Stadt zurechtfinden oder ein Abenteuer im Ausland planen, MapQuest bietet beispiellose Tools, mit denen Sie genau dorthin gelangen, wo Sie sein müssen.</p><h2 id=\"\">Warum MapQuest + Synup?</h2><ol id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote</strong>: Mit der Möglichkeit, Ihre Brancheneinträge auf MapQuest zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite</strong>: Wenn Sie Ihr Unternehmen über Synup zu MapQuest hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\"><strong id=\"\">Präzise Geschäftsinformationen</strong>: Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf MapQuest veröffentlichen </li><li id=\"\"><strong id=\"\">Kundenbindung</strong>: Sehen Sie sich Bewertungen auf Mapquest an und antworten Sie darauf, um eine positive Beziehung zu Ihren Kunden aufzubauen und zu zeigen, dass Sie deren Feedback schätzen und auf ihre Bedürfnisse achten.</li></ol><h2 id=\"\">Wie integriere ich MapQuest + Synup?</h2><p id=\"\">Die MapQuest-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. Um die MapQuest-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Besuchen Sie die <strong id=\"\">Registerkarte „Angebote“</strong> auf der Konsole von Synup</li><li id=\"\">Navigiere zum <strong id=\"\">Premium-Angebote</strong> Abschnitt</li><li id=\"\">Klicken Sie auf das MapQuest-Logo, um das zu verwalten <strong id=\"\">Anmeldung + MapQuest</strong> Integration und zugehörige Einstellungen.</li></ol><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Verwandte Artikel</strong></p><p id=\"\"><a href=\"https://www.synup.com/how-to/claim-add-mapquest-business-listing\" id=\"\">MapQuest-Leitfaden für Brancheneinträge</a></p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#515352",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2544446bf04208916f_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).webp",
+  "integration_summary": "Füge deine Unternehmensinformationen auf Mapquest hinzu und aktualisiere sie.",
+  "seo": {
+    "title": "Kartenquest",
+    "description": "Optimiere deine Präsenz auf MapQuest. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Sichtbarkeit und Interaktion.",
+    "canonical": "https://www.synup.com/de/integrations/kartenquest",
+    "ogImage": null
+  }
+}

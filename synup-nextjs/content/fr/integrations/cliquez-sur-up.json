@@ -1,0 +1,28 @@
+{
+  "slug": "clickup",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Cliquez sur UP",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c5d596ebc4dc1b1cbc9",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:45 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2722a5f9e9686fc4b4_6548a9590af04ec3a9cf9d94_Clickup.svg",
+  "title_tag": "Intégrez Clickup à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">ClickUp + Synup</strong></h1><p id=\"\">Suivez une trajectoire transformatrice en matière de gestion des avis clients en fusionnant la puissance de productivité de ClickUp avec les stratégies raffinées d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que ClickUp&nbsp;?</h2><p id=\"\">ClickUp est une plateforme de productivité qui fusionne la gestion des tâches, la collaboration sur les projets et le suivi des objectifs. Il favorise un environnement dans lequel les équipes peuvent s'épanouir, en garantissant la clarté, la concentration et la réussite de l'exécution des projets.</p><h2 id=\"\">Pourquoi choisir ClickUp + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Collection de revues orientées vers les tâches&nbsp;: </strong>Exploitez la granularité de la gestion des tâches de ClickUp pour lancer des demandes d'évaluation riches en contexte aux moments essentiels des interactions avec les clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Écosystème de feedback unifié&nbsp;: </strong>Alignez les informations détaillées de ClickUp sur les projets avec les analyses d'avis de Synup, en créant une sphère unifiée pour une meilleure compréhension des expériences et des sentiments des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de travail fluide pour les demandes d'avis&nbsp;: </strong>Intégrez les fonctionnalités d'évaluation de Synup dans l'espace de travail complet de ClickUp, facilitant ainsi une approche fluide et intégrée de la collecte et de la gestion des commentaires des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Expériences de révision personnalisées&nbsp;:</strong> Tirez parti des données nuancées de ClickUp sur les tâches et les projets pour personnaliser les sollicitations d'avis, en créant une stratégie d'engagement pertinente et pertinente pour chaque interaction client.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Raffinement de la stratégie basé sur les données&nbsp;: </strong>Utilisez les informations combinées de ClickUp et de Synup pour dévoiler des stratégies réalisables qui améliorent la satisfaction des clients et affinent les modèles de prestation de services.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Processus de révision optimisés&nbsp;: </strong>Intégrez facilement les fonctionnalités de gestion des avis dans l'environnement de ClickUp, améliorant ainsi l'efficacité et la coordination des efforts d'acquisition d'avis.</li></ul><p id=\"\">En intégrant ClickUp à Synup, explorez des voies innovantes en matière de gestion des avis, où chaque réalisation de tâche et chaque étape du projet deviennent une source d'opportunités pour recueillir de précieux commentaires clients et développer des stratégies d'évaluation améliorées.</p><h2 id=\"\">Comment intégrer ClickUp + Synup&nbsp;?</h2><p id=\"\">L'intégration de ClickUp pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter ClickUp.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Cliquez sur UP",
+    "description": "Transformez votre gestion des avis avec ClickUp + Synup : exploitez la collecte d'avis axée sur les tâches, les commentaires unifiés et les expériences personnalisées pour la satisfaction des clients.",
+    "canonical": "https://www.synup.com/fr/integrations/cliquez-sur-up",
+    "ogImage": null
+  }
+}

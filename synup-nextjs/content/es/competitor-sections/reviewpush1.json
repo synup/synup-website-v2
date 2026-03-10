@@ -1,0 +1,29 @@
+{
+  "slug": "reviewpush1",
+  "locale": "es",
+  "collectionType": "competitor-sections",
+  "name": "Reseña Push",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7dc54ce0681ea304c600c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:56:20 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:56:20 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "Categoría: Software de reputación online y comentarios de clientes",
+  "description": "<p id=\"\">Review Push facilita la supervisión, la respuesta y el seguimiento de las reseñas en un único panel de control y ofrece varias respuestas personalizadas para ayudarte a gestionar tus reseñas a gran escala.<br>‍</p>Fuente: Sitio web<h2 id=\"\">Características</h2><p id=\"\">➡️ Panel de control centralizado para supervisar, responder y realizar un seguimiento de las reseñas</p><p id=\"\">➡️ Ofrece plantillas de respuesta</p><h2 id=\"\">Pros</h2><p id=\"\">✅ Facilita la respuesta a las reseñas</p><p id=\"\">✅ La función «crear respuesta» ayuda a crear respuestas personalizadas</p><h2 id=\"\">Contras</h2><p id=\"\">❌ No hay recomendaciones de IA</p><p id=\"\">❌ Funciones muy limitadas en comparación con otros competidores a la hora de responder a las reseñas</p><h2 id=\"\"><strong id=\"\"><em id=\"\">El precio comienza en 89$ por mes </em></strong></h2>",
+  "what_people_say": "<p id=\"\"><em id=\"\">«Me encanta lo sencillo que es conectar cada una de las cuentas de mis clientes a ReviewPush para que el software pueda empezar a supervisar las reseñas de esas páginas. También me encanta cómo me envían un correo electrónico diario en el que recopilan cada una de las reseñas recibidas por mis clientes y las organizan según la plataforma en la que las recibieron (Google, Yelp, Facebook, etc.).</em></p><p id=\"\">‍</p><p id=\"\"><em id=\"\">Si bien las capacidades de solicitud por correo electrónico de ReviewPush son decentes, me encantaría que pudieran proporcionar más datos para cada correo electrónico enviado. Sería útil ver cuántos de nuestros correos electrónicos se abren, cuántos son rechazados, si reciben clics, etc.»</em></p><p id=\"\"><strong id=\"\"><em id=\"\">*Reseña obtenida y citada por G2*</em></strong></p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Reseña Push",
+    "description": "<p id=\"\">Review Push facilita la supervisión, la respuesta y el seguimiento de las reseñas en un único panel de control y ofrece varias respuestas personalizadas para ayudarte a gestionar tus reseñas a gran escala.<br>‍</p>Fuente: Sitio web<h2 id=\"\">Características</h2><p id=\"\">➡️ Panel de control centralizado para supervisar, responder y realizar un seguimiento de las reseñas</p><p id=\"\">➡️ Ofrece plantillas de respuesta</p><h2 id=\"\">Pros</h2><p id=\"\">✅ Facilita la respuesta a las reseñas</p><p id=\"\">✅ La función «crear respuesta» ayuda a crear respuestas personalizadas</p><h2 id=\"\">Contras</h2><p id=\"\">❌ No hay recomendaciones de IA</p><p id=\"\">❌ Funciones muy limitadas en comparación con otros competidores a la hora de responder a las reseñas</p><h2 id=\"\"><strong id=\"\"><em id=\"\">El precio comienza en 89$ por mes </em></strong></h2>",
+    "canonical": "https://www.synup.com/es/competitor-sections/reviewpush1",
+    "ogImage": null
+  }
+}

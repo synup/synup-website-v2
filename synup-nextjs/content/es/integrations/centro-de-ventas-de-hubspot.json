@@ -1,0 +1,28 @@
+{
+  "slug": "hubspots-sales-hub",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Centro de ventas de HubSpot",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76287d9e4bd68bc9dc50b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Hubspot con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "argentina; australia; austria; belgium; brazil; canada; chile; china; czech-republic; denmark; ecuador; france; germany; hong-kong; indonesia; ireland; italy; japan; kenya; malaysia; mexico; netherlands; new-zealand; nigeria; norway; india; peru; philippines; poland; popular; portugal; russia; singapore; south-africa; spain-es; sweden; switzerland; taiwan; thailand; uae; uganda; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Centro de ventas de HubSpot + Synup</h1><p id=\"\">Aproveche al máximo su proceso de adquisición de reseñas, maximizando la eficiencia y fomentando una mayor participación de los clientes.</p><h2 id=\"\">¿Qué es el centro de ventas de HubSpot?</h2><p id=\"\">El Centro de Ventas de HubSpot, una sofisticada herramienta de CRM, centraliza las interacciones con los clientes, mejora los flujos de trabajo de ventas y proporciona análisis valiosos, lo que impulsa estrategias de ventas y toma de decisiones eficaces.</p><h2 id=\"\">¿Por qué Sales Hub + Synup?</h2><p id=\"\">‍<strong id=\"\">Reseñas simplificadas:</strong> Automatice las solicitudes de revisión para nuevos clientes, simplificando y mejorando los flujos de trabajo de adquisición.</p><p id=\"\">‍<strong id=\"\">Prácticas sólidas de CRM:</strong> Sincronice y aproveche los datos de los clientes para refinar las estrategias de CRM y las interacciones con los clientes.</p><p id=\"\">‍<strong id=\"\">Eficiencia estratégica:</strong> Aproveche la automatización para optimizar la asignación de recursos, mejorar la productividad operativa y reducir los costos.</p><p id=\"\">‍<strong id=\"\">Integraciones versátiles:</strong> Utilice una gama de potentes integraciones para ampliar las capacidades y mejorar la adaptabilidad tecnológica.</p><p id=\"\">‍<strong id=\"\">Visibilidad elevada:</strong> Mejore su presencia en línea, aumentando el atractivo para los clientes potenciales mediante una gestión eficaz de las reseñas.</p><p id=\"\">Integra el centro de ventas de HubSpot con Synup para desbloquear un mundo de mayor eficacia operativa, compromiso estratégico con los clientes e integraciones tecnológicas potentes y flexibles.</p><h2 id=\"\">¿Cómo integrar Sales Hub + Synup de HubSpot?</h2><p id=\"\">La integración de Sales Hub de HubSpot para la gestión de las relaciones con los clientes está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visite la pestaña Integración de CRM en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar CRM.</li></ul><ul id=\"\"><li id=\"\">Selecciona el centro de ventas de HubSpot como tu software de CRM.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Sales Hub de HubSpot.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Gestiona las relaciones con los clientes con el centro de ventas de HubSpot.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Centro de ventas de HubSpot",
+    "description": "El centro de ventas de HubSpot es una potente herramienta de CRM que centraliza las interacciones con los clientes, agiliza los flujos de trabajo de ventas y ofrece análisis valiosos para estrategias de ventas eficaces.",
+    "canonical": "https://www.synup.com/es/integrations/centro-de-ventas-de-hubspot",
+    "ogImage": null
+  }
+}

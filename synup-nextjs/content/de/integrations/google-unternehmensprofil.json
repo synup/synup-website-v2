@@ -1,0 +1,30 @@
+{
+  "slug": "google-business-profile",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Google-Unternehmensprofil",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2b4a32b7e45fd82a7a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:07 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:07 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2b4a32b7e45fd82a6c_653263c1800e73d13027fe71_Google%2520Business%2520Profile.svg",
+  "title_tag": "Verwalte und optimiere dein Google-Unternehmensprofil mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us; canada",
+  "detailed_paragraph": "<h1 id=\"\">Google-Unternehmensprofil + Synup</h1><p id=\"\"><strong id=\"\">Mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup können Sie Brancheneinträge und Bewertungen im Google-Unternehmensprofil hinzufügen, beanspruchen und bearbeiten.</strong></p><h2 id=\"\">Was ist das Google-Unternehmensprofil?</h2><p id=\"\">Das Google-Unternehmensprofil (früher bekannt als Google My Business) ist ein unverzichtbares Tool für Unternehmen, die ihre Online-Sichtbarkeit mithilfe der Google-Dienste wie Google Search und Maps erhöhen möchten. Millionen von Unternehmen weltweit nutzen diese Plattform, um Kunden zu gewinnen und zu binden. Sie bieten detaillierte Informationen zu ihren Diensten, Öffnungszeiten und Standort.</p><h2 id=\"\">Warum Google Business Profil+Synup?</h2><p id=\"\"><strong id=\"\">‍</strong>Vollständige Kontrolle über Inserate: Google Business Profile ermöglicht es Unternehmen, in Kombination mit Synup ihre Angebote sorgfältig zu verwalten. Diese Kombination stellt sicher, dass die Informationen, die potenziellen Kunden präsentiert werden, korrekt und aktuell sind und dem Image und der Marke des Unternehmens entsprechen.</p><p id=\"\"><strong id=\"\">Erweitere deine Reichweite</strong>: Angesichts der immensen Nutzerbasis von Google erhöht ein Unternehmensprofil die Sichtbarkeit Ihres Unternehmens erheblich. Synup verbessert diese Funktion, indem es Ihr Profil optimiert und es potenziellen Kunden erleichtert, Sie zu finden, wenn sie nach Dienstleistungen oder Produkten suchen, die Sie anbieten. Optimieren Sie mit relevanten Bildern, Videos, zusätzlichen Attributen und bis zu 10 Kategorien, um das volle Potenzial der Online-Präsenz Ihres Unternehmens auszuschöpfen.</p><p id=\"\"><strong id=\"\">Präzise Geschäftsinformationen</strong>: Vertrauen ist in der Kunden-Geschäftsbeziehung von grundlegender Bedeutung. Indem Sie über Synup verifizierte und genaue Informationen in Ihrem Google-Unternehmensprofil anzeigen, bauen Sie Vertrauen zu Ihrem Kundenstamm auf und zeigen, dass Ihr Unternehmen zuverlässig und glaubwürdig ist.</p><p id=\"\"><strong id=\"\">Kundenbindung</strong>: Interagieren Sie effektiv mit Ihren Kunden über die Google Business Profile-Plattform. Synup erleichtert dieses Engagement, indem es Ihnen ermöglicht, Bewertungen nahtlos einzusehen, zu beantworten und zu verwalten. Das fördert eine positive Beziehung zu Ihren Kunden und zeigt, dass deren Feedback geschätzt und wichtig für Ihr Unternehmen ist. Beantworten Sie mit unserer Google Business Message-Integration sowohl Fragen von Kunden als auch Live-Nachrichten.</p><p id=\"\"><strong id=\"\">Einblicke und Analysen</strong>: Verstehen Sie Ihre Kunden mithilfe der Erkenntnisse und Analysen von Google Business Profile und Synup besser. Diese Daten helfen Ihnen dabei, Ihre Marketingstrategien zu verfeinern und fundierte Entscheidungen zu treffen, um Ihr Geschäft zu verbessern und weiter auszubauen.</p><p id=\"\">Die Verwendung von Google Business Profile in Verbindung mit Synup bietet eine leistungsstarke und effiziente Möglichkeit, Ihre Online-Präsenz zu verwalten, mit Kunden in Kontakt zu treten und die Sichtbarkeit und Glaubwürdigkeit Ihres Unternehmens zu verbessern. Mit genauen Einträgen, verbesserter Kundenbindung und wertvollen Erkenntnissen, die Ihnen zur Verfügung stehen, ist Ihr Unternehmen auf Erfolgskurs im digitalen Bereich.</p><h2 id=\"\">Wie integriere ich Google Business Profile+Synup?</h2><p id=\"\">Die Google Business Profile-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. Um die Google Business Profile-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das Google Business Profil-Logo, um die Synup + Google Business Profile-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#5c79f2",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2abe431e2855409f32_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).webp",
+  "seo": {
+    "title": "Google-Unternehmensprofil",
+    "description": "Maximieren Sie Ihr Google-Unternehmensprofil. Die Synup-Integration gewährleistet genaue Daten für erstklassige Sichtbarkeit und Kundenbeziehungen.",
+    "canonical": "https://www.synup.com/de/integrations/google-unternehmensprofil",
+    "ogImage": null
+  }
+}

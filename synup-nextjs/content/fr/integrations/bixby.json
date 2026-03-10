@@ -1,0 +1,31 @@
+{
+  "slug": "bixby",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Bixby",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c5bb86cef78a57f6079",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2541071258c62b7999_65312b1f43693107c316406f_Bixby.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Bixby avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Bixby + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Bixby grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que Bixby&nbsp;?</h2><p id=\"\">Bixby est un assistant virtuel et une IA à commande vocale développés par Samsung. Il est conçu pour aider les utilisateurs à interagir avec leurs appareils Samsung et à les contrôler, à effectuer des tâches, à répondre à des questions et à fournir une assistance personnalisée, ce qui en fait un outil précieux pour gérer les maisons intelligentes et les appareils mobiles.</p><h2 id=\"\">Pourquoi Bixby + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: Avec Bixby, gérez efficacement les listes de vos entreprises pour conserver un contrôle total sur votre présence en ligne, garantissant une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: augmentez la visibilité de votre entreprise en l'ajoutant à Bixby via Synup, ce qui vous permet d'élargir votre portée et de permettre aux clients potentiels de vous découvrir facilement.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en fournissant régulièrement des informations précises sur votre entreprise sur Bixby.</li><li id=\"\">Engagement des clients&nbsp;: consultez et répondez activement aux avis des clients sur Bixby, démontrant ainsi que vous accordez de l'importance aux commentaires des clients et que vous vous engagez à répondre à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Bixby + Synup&nbsp;?</h2><p id=\"\">L'intégration Bixby est disponible pour tous les abonnés au plan Synup Listings. Pour afficher et gérer l'intégration Bixby&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Bixby pour gérer l'intégration Synup + Bixby et les paramètres associés.</li></ol>",
+  "integration_types": "voice-assistant",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#5c79f2",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2abe431e2855409f32_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).webp",
+  "integration_summary": "Bixby est l'assistant virtuel natif de Samsung qui prend en charge les commandes vocales.",
+  "seo": {
+    "title": "Bixby",
+    "description": "Améliorez votre visibilité sur Bixby grâce à l'intégration de Synup. Garantissez des informations commerciales précises pour une présence remarquable.",
+    "canonical": "https://www.synup.com/fr/integrations/bixby",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "unknown-user2",
+  "locale": "en",
+  "collectionType": "testimonial-written-reviews",
+  "name": "unknown-user2",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891d1d1740745ee51fce15a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 09:41:37 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 09:41:37 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1ca6a2bf83f02a1d1d0_67612e233371249724ab54a0_20241217T0754-087ca904-2dd0-47a0-9221-5d66189e4025.webp",
+  "one_line_review": "\"SYNUP has gone above and beyond to develop solutions for any custom integrations we've needed.\"",
+  "detailed_review": "<p id=\"\"><strong id=\"\">What do you like best about Synup?</strong></p><p id=\"\">The SYNUP team is extremely helpful. We meet at least once per week to stay on top of our ever-changing needs. My account reps truly go above and beyond to solve any issues that arise.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What do you dislike about Synup?</strong></p><p id=\"\">Honestly, I can't think of anything. I'm very satisfied with this vendor and pleased that after surveying so many in this space I chose to go with SYNUP as our vendor for directory listing and local search presence.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What problems is Synup solving and how is that benefiting you?</strong></p><p id=\"\">We have over 1000 listings with SYNUP, and that # changes on a weekly basis as we onboard and offboard locations. It's a massive undertaking to keep the data consistent and accurate and SYNUP handles that all for us. They've also built a custom integration to allow the reviews to flow through to our website. Additionally, the SYNUP team is always available to answer questions and help with any search-related issues.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": false,
+  "seo": {
+    "title": "unknown-user2",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-written-reviews/unknown-user2",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "capsule-crm",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Cápsula CRM",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628940798635bb3fb315",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre CapsuleCRM con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Capsule CRM + Synup</h1><p id=\"\">Descubra nuevas dimensiones en la gestión de las relaciones con los clientes y la adquisición de reseñas integrando Capsule CRM con Synup.</p><h2 id=\"\">¿Qué es Capsule CRM?</h2><p id=\"\">Capsule CRM, una solución CRM contemporánea, se centra en simplificar los procesos empresariales, lo que permite a las empresas fomentar las relaciones y tomar decisiones basadas en datos con una interfaz fácil de usar y herramientas de administración eficaces.</p><h2 id=\"\">¿Por qué Capsule CRM + Synup?</h2><p id=\"\"><br><strong id=\"\">Gestión de relaciones mejorada: </strong>Facilite y gestione las relaciones con los clientes de forma más eficaz mediante la automatización de las solicitudes de revisión y la utilización de datos enriquecidos de los clientes.</p><p id=\"\"><strong id=\"\">Interacciones unificadas: </strong>Garantice una comunicación fluida y un seguimiento de las interacciones con los clientes al consolidar la información y la actividad en un solo lugar.</p><p id=\"\"><strong id=\"\">Flujo de trabajo optimizado:</strong> Mejore la productividad y gestione las tareas de manera eficiente con una mejor automatización del flujo de trabajo y gestión de procesos.</p><p id=\"\"><strong id=\"\">Integración adaptativa: </strong>Benefíciese de las capacidades de integración fluidas que refuerzan la utilidad y la flexibilidad de los conjuntos tecnológicos existentes.</p><p id=\"\"><strong id=\"\">Impacto visible: </strong>Aumente su presencia en línea y haga que su negocio sea más atractivo para los clientes potenciales mediante el uso de potentes herramientas de gestión de reseñas.<br>‍</p><p id=\"\">Integre Capsule CRM con Synup para navegar por un camino de gestión de relaciones mejorada, flujos de trabajo optimizados y una sólida visibilidad en línea.</p><h2 id=\"\">¿Cómo integrar Capsule CRM + Synup?</h2><p id=\"\">La integración de Capsule CRM para la gestión de las relaciones con los clientes está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visite la pestaña Integración de CRM en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar CRM.</li></ul><ul id=\"\"><li id=\"\">Seleccione Capsule CRM como su software de CRM.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Capsule CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Gestione las relaciones con los clientes con Capsule CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Cápsula CRM",
+    "description": "Descubra Capsule CRM + Synup: mejore las relaciones, el flujo de trabajo y la visibilidad con soluciones integradas",
+    "canonical": "https://www.synup.com/es/integrations/capsule-crm",
+    "ogImage": null
+  }
+}

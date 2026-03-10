@@ -1,0 +1,29 @@
+{
+  "slug": "embedmyreviews",
+  "locale": "fr",
+  "collectionType": "competitor-sections",
+  "name": "Intégrer mes avis",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6170b5aaa2df3fb490690",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:42:19 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:42:19 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "Idéal pour : les petites agences",
+  "description": "<h2 id=\"\">Ce que fait EmbedMyReviews</h2><p id=\"\">Il s'agit d'une plateforme relativement nouvelle dans le domaine qui propose des services de gestion de réputation en marque blanche spécifiques aux agences. Il vise à simplifier la gestion des avis pour les clients de votre marque. </p><p id=\"\">Source&nbsp;: G2</p><h2 id=\"\">Principales caractéristiques</h2><ul id=\"\"><li id=\"\">Regroupe les avis provenant des principaux sites d'avis, les clients ont la possibilité de gérer et de répondre aux avis en un seul endroit</li><li id=\"\">Options de marque personnalisables (logos, favicons et thèmes, par exemple) et utilisation de votre propre domaine de marque</li><li id=\"\">Intégration de scripts tiers. </li><li id=\"\">Ils prennent en charge Stripe pour les paiements, permettent la création de plans d'abonnement personnalisés et proposent des essais gratuits.</li><li id=\"\">Permet d'utiliser votre propre service de courriel/SMS pour les campagnes d'évaluation</li></ul><h2 id=\"\">Tarification</h2><p id=\"\">À partir de 99$ par mois pour les revendeurs et les agences</p><h2 id=\"\">Pros</h2><p id=\"\">✅ L'équipe accorde une importance particulière à une bonne interface utilisateur et à une bonne expérience utilisateur</p><p id=\"\">✅ L'équipe étant plus petite, le support est plus proactif et personnalisé</p><p id=\"\">✅ Très axé sur les agences et offre un soutien supplémentaire, tel que des paiements pour les petites entreprises</p><h2 id=\"\">Les inconvénients</h2><p id=\"\">❌ La plateforme est chère en raison des fonctionnalités limitées proposées. La revente peut être plus difficile pour les clients de ce secteur habitués aux produits riches en fonctionnalités et à l'intégration avec d'autres outils</p><p id=\"\">❌ Les sites d'évaluation sont limités et proposent moins de fonctionnalités supplémentaires pour la gestion des avis</p><p id=\"\">❌ L'adaptation à de nouvelles capacités et à de nouvelles clientèles peut être difficile</p>",
+  "what_people_say": "<p id=\"\"><em id=\"\">«&nbsp;J'aime la facilité d'utilisation et de navigation dans le tableau de bord et la gestion des widgets.&nbsp;»</em></p><p id=\"\"> - Avis collecté et hébergé sur Capterra</p><p id=\"\">‍</p><p id=\"\"><em id=\"\">«&nbsp;D'autres améliorations de fonctionnalités sont en cours.&nbsp;»</em></p><p id=\"\"> - Avis collecté et hébergé sur Capterra</p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Intégrer mes avis",
+    "description": "<h2 id=\"\">Ce que fait EmbedMyReviews</h2><p id=\"\">Il s'agit d'une plateforme relativement nouvelle dans le domaine qui propose des services de gestion de réputation en marque blanche spécifiques aux agences. Il vise à simplifier la gestion des avis pour les clients de votre marque. </p><p id=\"\">Source&nbsp;: G2</p><h2 id=\"\">Principales caractéristiques</h2><ul id=\"\"><li id=\"\">Regroupe les avis provenant des principaux sites d'avis, les clients ont la possibilité de gérer et de répondre aux avis en un seul endroit</li><li id=\"\">Options de marque personnalisables (logos, favicons et thèmes, par exemple) et utilisation de votre propre domaine de marque</li><li id=\"\">Intégration de scripts tiers. </li><li id=\"\">Ils prennent en charge Stripe pour les paiements, permettent la création de plans d'abonnement personnalisés et proposent des essais gratuits.</li><li id=\"\">Permet d'utiliser votre propre service de courriel/SMS pour les campagnes d'évaluation</li></ul><h2 id=\"\">Tarification</h2><p id=\"\">À partir de 99$ par mois pour les revendeurs et les agences</p><h2 id=\"\">Pros</h2><p id=\"\">✅ L'équipe accorde une importance particulière à une bonne interface utilisateur et à une bonne expérience utilisateur</p><p id=\"\">✅ L'équipe étant plus petite, le support est plus proactif et personnalisé</p><p id=\"\">✅ Très axé sur les agences et offre un soutien supplémentaire, tel que des paiements pour les petites entreprises</p><h2 id=\"\">Les inconvénients</h2><p id=\"\">❌ La plateforme est chère en raison des fonctionnalités limitées proposées. La revente peut être plus difficile pour les clients de ce secteur habitués aux produits riches en fonctionnalités et à l'intégration avec d'autres outils</p><p id=\"\">❌ Les sites d'évaluation sont limités et proposent moins de fonctionnalités supplémentaires pour la gestion des avis</p><p id=\"\">❌ L'adaptation à de nouvelles capacités et à de nouvelles clientèles peut être difficile</p>",
+    "canonical": "https://www.synup.com/fr/competitor-sections/embedmyreviews",
+    "ogImage": null
+  }
+}

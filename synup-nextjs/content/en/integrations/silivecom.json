@@ -1,0 +1,31 @@
+{
+  "slug": "silive-com",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Silive.com",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f239686666711215cabbb",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f239586666711215cabb4_65312ca8a709c0bfcaa949f9_Silive.com.svg",
+  "title_tag": "Manage Your Business Information on Silive with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Silive.com + Synup</h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on Silive.com with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\">What is Silive.com?</h2><p id=\"\">Silive.com is a reputable source for news and information serving Staten Island, New York. It provides extensive coverage of local news, events, sports, and community happenings, offering a valuable resource for Staten Island residents and those interested in the area.</p><h2 id=\"\">Why Silive.com + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Complete Control Over Listings:</strong> With the ability to manage your business listings on Silive.com, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\"><strong id=\"\">Broaden Your Reach:</strong> Adding your business to Silive.com through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\"><strong id=\"\">Accurate Business Information:</strong> Enhance trust and credibility by publishing accurate information on Silive.com.</li><li id=\"\"><strong id=\"\">Customer Engagement:</strong> View and respond back to reviews on Silive.com, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ul><h2 id=\"\">How to integrate Silive.com + Synup?</h2><p id=\"\">The Silive.com integration is available to all Synup listings plan subscribers. To view &amp; manage the Silive.com integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Silive.com logo to manage the Synup + Silive.com integration and associated settings.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#515352",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2388cddad88d26433eca_67612540802fb1b6423d94e4_20241217T0716-210d56b3-4e68-4f2a-af19-1f792e39d6fd.webp",
+  "integration_summary": "For businesses, managing location data on Facebook now a breeze with Synup.",
+  "seo": {
+    "title": "Silive.com",
+    "description": "Elevate your presence on SILive.com. Synup integration ensures accurate business data for superior online visibility and customer engagement.",
+    "canonical": "https://www.synup.com/integrations/silivecom",
+    "ogImage": null
+  }
+}

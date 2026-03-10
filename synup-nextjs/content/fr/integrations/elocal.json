@@ -1,0 +1,28 @@
+{
+  "slug": "elocal",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "eLocal",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c715bf76fa9d35f0a94",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:05 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:05 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3b466a6555feaff3f3_65312d2d03ed6ab39af5db69_eLocal.svg",
+  "title_tag": "Ajoutez votre entreprise à eLocal avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">eLocal + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur eLocal grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce qu'eLocal&nbsp;?</h2><p id=\"\">eLocal est une plateforme en ligne qui fournit des listes et des informations sur les entreprises et les services locaux. Il aide les utilisateurs à trouver des entreprises de leur région et à entrer en contact avec elles, ce qui en fait un outil utile pour les consommateurs comme pour les entreprises.</p><h2 id=\"\">Pourquoi eLocal + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: En pouvant gérer les fiches de vos entreprises sur eLocal, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à eLocal via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur eLocal.</li><li id=\"\">Engagement des clients&nbsp;: consultez et répondez aux avis sur eLocal, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer eLocal + Synup&nbsp;?</h2><p id=\"\">L'intégration eLocal est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration eLocal&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo eLocal pour gérer l'intégration Synup + eLocal et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "eLocal",
+    "description": "Améliorez la visibilité de votre entreprise. L'intégration de Synup sur eLocal garantit des informations précises pour un impact en ligne maximal.",
+    "canonical": "https://www.synup.com/fr/integrations/elocal",
+    "ogImage": null
+  }
+}

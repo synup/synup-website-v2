@@ -1,0 +1,31 @@
+{
+  "slug": "opendi-us",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Abrir DI.US",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a762834a0f81419339fe24",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3b44446bf042089966_6531301a8522ec135abb6435_opendi.us.svg",
+  "title_tag": "Gestione la información de su empresa en Opendi con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "france; germany; netherlands; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">OpenDI.US + Regístrate</h1><p id=\"\"><strong id=\"\">Agregue, reclame y edite listados y reseñas de empresas en OpenDI.us con las herramientas de administración de listados y reseñas de Synup.</strong></p><h2 id=\"\">¿Qué es Opendi.us?</h2><p id=\"\">OpenDI.us es una plataforma en línea que ofrece listados de empresas e información para varias empresas y servicios locales. Ayuda a los usuarios a descubrir las empresas cercanas y a conectarse con ellas, proporcionando un recurso práctico para quienes buscan recomendaciones y servicios locales.</p><h2 id=\"\">¿Por qué OpenDI.US + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Control total sobre los listados:</strong> Con la capacidad de administrar sus listados de negocios en OpenDI.us, usted mantiene un control total sobre su presencia en línea, asegurando que su negocio esté representado con precisión.</li><li id=\"\"><strong id=\"\">Amplíe su alcance:</strong> Agregar su negocio a OpenDI.us a través de Synup significa una mayor visibilidad. Ayude a los clientes potenciales a descubrirlo, ampliando su alcance de manera efectiva.</li><li id=\"\"><strong id=\"\">Información empresarial precisa:</strong> Mejore la confianza y la credibilidad publicando información precisa en OpenDI.us.</li><li id=\"\"><strong id=\"\">Compromiso con el cliente:</strong> Consulta y responde a las opiniones en OpenDI.us, fomentando una relación positiva con tus clientes, demostrando que valoras sus comentarios y que estás atento a sus necesidades.</li></ul><h2 id=\"\">¿Cómo integrar OpenDI.US + Synup?</h2><p id=\"\">La integración con OpenDI.US está disponible para todos los suscriptores del plan Synup Listings. Para ver y administrar la integración de OpenDI.US:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haga clic en el logotipo de OpenDI.US para administrar la integración de Synup + OpenDI.US y la configuración asociada.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#0670c6",
+  "integration_bg_image": null,
+  "integration_summary": "Opendi es uno de los principales directorios empresariales del mundo.",
+  "seo": {
+    "title": "Abrir DI.US",
+    "description": "Aumente su presencia en OpenDi US. La integración de Synup garantiza datos empresariales precisos para una visibilidad en línea superior y una mayor interacción con los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/abrir-dius",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "speedy-local",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Speedy Local",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6d445ede75c5e17b3c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf34d859dbf2839dd5ea_65312b7dd43054b2ed31bd44_Speedy%2520Local.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Speedylocal avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; uae; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Local rapide + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Speedy Local grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que Speedy Local&nbsp;?</h2><p id=\"\">Speedy Local est probablement un annuaire ou une plateforme en ligne qui offre un accès efficace et rapide aux listes et services des entreprises locales. Il peut viser à fournir aux utilisateurs des moyens rapides et pratiques de trouver des entreprises et des services à proximité.</p><h2 id=\"\">Pourquoi choisir Speedy Local + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Contrôle total des annonces&nbsp;:</strong> Grâce à la possibilité de gérer les listes de vos entreprises sur Speedy Local, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\"><strong id=\"\">Élargissez votre portée&nbsp;:</strong> L'ajout de votre entreprise à Speedy Local via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\"><strong id=\"\">Informations commerciales précises&nbsp;:</strong> Renforcez la confiance et la crédibilité en publiant des informations précises sur Speedy Local.</li><li id=\"\"><strong id=\"\">Engagement des clients&nbsp;:</strong> Consultez et répondez aux avis sur Speedy Local, afin de favoriser une relation positive avec vos clients, de montrer que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Speedy Local + Synup&nbsp;?</h2><p id=\"\">L'intégration Speedy Local est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration de Speedy Local&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Speedy Local pour gérer l'intégration Synup + Speedy Local et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Speedy Local",
+    "description": "Maximisez votre visibilité sur Speedy Local. L'intégration de Synup garantit des données commerciales précises pour une présence en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/speedy-local",
+    "ogImage": null
+  }
+}

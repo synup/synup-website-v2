@@ -1,0 +1,27 @@
+{
+  "slug": "reviews-featured",
+  "locale": "de",
+  "collectionType": "testimonial-reviews",
+  "name": "Ausgewählte Bewertungen",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bb1b257b8760e16c6bc6",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:57:47 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:57:47 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "0.2",
+  "reviews_summary": "Zoek Marketing bietet maßgeschneiderte Lösungen für Kunden, indem es mit Synup zusammenarbeitet",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb1b257b8760e16c6bc2_663b352186e546fe97b1649e_1C8A1805%2520(1)%2520(1).webp",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": true,
+  "review_link": "https://www.synup.com/case-studies/zoek",
+  "seo": {
+    "title": "Ausgewählte Bewertungen",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/testimonial-reviews/reviews-featured",
+    "ogImage": null
+  }
+}

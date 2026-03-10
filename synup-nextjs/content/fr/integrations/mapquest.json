@@ -1,0 +1,31 @@
+{
+  "slug": "mapquest",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Quête cartographique",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6bede65dc13a221135",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:59 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2d3541a9ceeaab84df_6531312ee7c34db4dafba567_mapquest.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Mapquest avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">MapQuest + Synup</h1><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur MapQuest grâce aux outils de gestion des annonces et des avis de Synup</strong></p><h2 id=\"\">Qu'est-ce que MapQuest&nbsp;?</h2><p id=\"\">MapQuest, l'un des pionniers des services de cartographie en ligne, s'est révélé un outil précieux pour la planification d'itinéraires et la navigation en temps réel, touchant des millions de vies au quotidien. Que vous cherchiez à traverser la ville ou que vous planifiiez une aventure à travers le pays, MapQuest propose des outils inégalés pour vous rendre exactement là où vous devez être.</p><h2 id=\"\">Pourquoi MapQuest + Synup&nbsp;?</h2><ol id=\"\"><li id=\"\"><strong id=\"\">Contrôle total des annonces</strong>: Grâce à la possibilité de gérer vos fiches d'entreprises sur MapQuest, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\"><strong id=\"\">Élargissez votre portée</strong>: L'ajout de votre entreprise à MapQuest via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\"><strong id=\"\">Informations commerciales précises</strong>: Renforcez la confiance et la crédibilité en publiant des informations précises sur MapQuest </li><li id=\"\"><strong id=\"\">Engagement des clients</strong>: Consultez les avis sur Mapquest et répondez-y en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ol><h2 id=\"\">Comment intégrer MapQuest + Synup&nbsp;?</h2><p id=\"\">L'intégration MapQuest est disponible pour tous les abonnés au plan d'annonces Synup. Pour afficher et gérer l'intégration MapQuest&nbsp;:</p><ol id=\"\"><li id=\"\">Visitez le <strong id=\"\">Onglet Annonces</strong> sur la console de Synup</li><li id=\"\">Naviguez jusqu'au <strong id=\"\">Annonces premium</strong> section</li><li id=\"\">Cliquez sur le logo MapQuest pour gérer <strong id=\"\">Synup + MapQuest</strong> intégration et paramètres associés.</li></ol><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Articles connexes</strong></p><p id=\"\"><a href=\"https://www.synup.com/how-to/claim-add-mapquest-business-listing\" id=\"\">Guide de référencement des entreprises MapQuest</a></p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#515352",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2544446bf04208916f_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).webp",
+  "integration_summary": "Ajoutez et mettez à jour les informations relatives à votre entreprise sur Mapquest.",
+  "seo": {
+    "title": "Quête cartographique",
+    "description": "Optimisez votre présence sur MapQuest. L'intégration de Synup garantit des données commerciales précises pour une visibilité et un engagement en ligne supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/mapquest",
+    "ogImage": null
+  }
+}

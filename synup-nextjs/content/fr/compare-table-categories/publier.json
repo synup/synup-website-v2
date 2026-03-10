@@ -1,0 +1,21 @@
+{
+  "slug": "posting",
+  "locale": "fr",
+  "collectionType": "compare-table-categories",
+  "name": "Publier",
+  "collection_id": "6891d90ccbde722a4aadf5d0",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61593f5bd0f72d7517e58",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:36:03 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:36:03 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "category_icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4c810ccd1ef9e755d9acd_64f6d0cc2d68987974e3c5c7_Posting%2520icon%2520(1).svg",
+  "seo": {
+    "title": "Publier",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/compare-table-categories/publier",
+    "ogImage": null
+  }
+}

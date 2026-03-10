@@ -1,0 +1,27 @@
+{
+  "slug": "instagram-boost-posts",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Instagram-Boost-Beiträge",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c772a1f913f389015020",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:26 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:26 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "ads-support",
+  "list_order": "40.0",
+  "select_pages": "sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; hootsuite-alternative",
+  "tabel_category": "Instagram-Boost-Beiträge",
+  "seo": {
+    "title": "Instagram-Boost-Beiträge",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/instagram-boost-posts",
+    "ogImage": null
+  }
+}

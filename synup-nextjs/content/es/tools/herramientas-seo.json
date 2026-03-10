@@ -1,0 +1,26 @@
+{
+  "slug": "seo-tools",
+  "locale": "es",
+  "collectionType": "tools",
+  "name": "Herramientas SEO",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75e45ec10cb50c265d79d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:58:29 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:58:29 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "image": null,
+  "description": "<p id=\"\">50 herramientas para mejorar tu flujo de trabajo y productividad de SEO</p>",
+  "description_short": "50 herramientas para mejorar tu flujo de trabajo y productividad de SEO",
+  "link": "https://tools.localseochecklist.org/",
+  "order": "2.0",
+  "button_text": "Comenzar",
+  "seo": {
+    "title": "Herramientas SEO",
+    "description": "<p id=\"\">50 herramientas para mejorar tu flujo de trabajo y productividad de SEO</p>",
+    "canonical": "https://www.synup.com/es/tools/herramientas-seo",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "square",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Carré",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c5c2ad53b6181c4dec0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf32a0df487bef795623_6548e14e156b740a51f67262_Square.svg",
+  "title_tag": "Intégrez Square POS à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Square + Synup</strong></h1><p id=\"\">Découvrez l'évolution des stratégies d'évaluation des clients en intégrant de manière fluide les puissantes capacités de traitement des paiements de Square aux fonctionnalités sophistiquées d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que Square&nbsp;?</h2><p id=\"\">Square est une plateforme de traitement des paiements remarquable qui simplifie les transactions, facilite les interactions avec les points de vente et améliore l'expérience globale de paiement des clients, ce qui en fait un outil essentiel pour les entreprises qui visent l'excellence transactionnelle.</p><h2 id=\"\">Pourquoi Square + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Invitations de révision instantanée&nbsp;:</strong> Profitez de l'instantanéité des confirmations de paiement de Square pour inviter les clients à laisser des avis instantanément, afin de recueillir des impressions fraîches et précises sur leurs expériences.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Informations unifiées sur les clients&nbsp;: </strong>Combinez les détails des transactions de Square avec les données d'avis de Synup, afin de développer une perspective unifiée des expériences, des préférences et des niveaux de satisfaction des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Mécanismes de révision automatisés&nbsp;: </strong>Intégrez l'acquisition des avis dans le processus de paiement, en automatisant les demandes d'avis pour les aligner parfaitement sur les opérations de paiement des clients, garantissant ainsi un flux de commentaires fluide et intuitif.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Demandes de commentaires personnalisées&nbsp;:</strong> Personnalisez les demandes d'évaluation en fonction de l'historique des paiements individuels et des détails des transactions, afin de créer des interactions d'évaluation plus pertinentes et plus engageantes qui encouragent la participation des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Améliorations commerciales stratégiques&nbsp;: </strong>Utilisez la synthèse des données de paiement et des commentaires des clients pour formuler des stratégies commerciales, des offres et des pratiques de service client améliorées, favorisant ainsi l'amélioration continue et l'innovation.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intégration opérationnelle efficace&nbsp;: </strong>Améliorez vos opérations en intégrant de manière fluide les subtilités de la gestion des avis dans les flux de paiement de Square, afin de promouvoir la cohérence et l'efficacité dans l'acquisition des commentaires des clients.</li></ul><p id=\"\">La fusion de Square avec Synup revitalise les approches d'acquisition et de gestion des avis, transformant chaque interaction de paiement en une opportunité stratégique permettant de recueillir des commentaires judicieux des clients, d'optimiser les stratégies commerciales et de développer de meilleures relations avec les clients.</p><h2 id=\"\">Comment intégrer Square + Synup&nbsp;?</h2><p id=\"\">L'intégration de Square pour le traitement des paiements est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Traitement des paiements sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect Payment Gateway.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez Square comme processeur de paiement.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte Square.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du traitement des paiements.</li></ul><ul id=\"\"><li id=\"\">Acceptez les paiements via Square.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Carré",
+    "description": "Améliorez les commentaires des clients grâce à Square + Synup : transformez les paiements en opportunités d'évaluation stratégique",
+    "canonical": "https://www.synup.com/fr/integrations/square",
+    "ogImage": null
+  }
+}

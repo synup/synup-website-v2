@@ -1,0 +1,28 @@
+{
+  "slug": "trello",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Trello",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6d7801b31b7e9e377e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf35ddae4997d082c509_6548f348e506a85cd679050e_trello.svg",
+  "title_tag": "Intégrez Trello à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Trello + Synup</strong></h1><p id=\"\">Transformez votre approche de la gestion des avis clients en intégrant la plateforme de gestion de projet intuitive de Trello aux solutions avancées d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que Trello&nbsp;?</h2><p id=\"\">Trello est un outil de gestion de projet convivial qui utilise des tableaux, des listes et des cartes pour organiser et hiérarchiser les projets et les tâches, facilitant ainsi un flux de travail visuel et collaboratif qui améliore la productivité et la synergie d'équipe.</p><h2 id=\"\">Pourquoi choisir Trello + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Planification de la révision visuelle&nbsp;: </strong>Utilisez les tableaux visuels et les cartes de Trello pour définir les stratégies d'acquisition des avis et les flux de travail, garantissant ainsi clarté et cohérence dans l'exécution.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Comités de révision dynamiques&nbsp;: </strong>Créez des tableaux Trello dédiés à la gestion et au suivi des avis clients, permettant ainsi une approche structurée et organisée de la gestion des avis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Cartes d'évaluation automatisées&nbsp;:</strong> Tirez parti des capacités d'automatisation de Trello pour générer et gérer efficacement les tâches de révision, en garantissant des sollicitations et des suivis d'avis rapides et systématiques.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Gestion collaborative des révisions&nbsp;: </strong>Favorisez un environnement collaboratif dans lequel les membres de l'équipe peuvent s'engager, discuter et élaborer des stratégies en matière de révision du contenu directement dans les tableaux interactifs de Trello.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Workflows de révision personnalisés&nbsp;: </strong>Personnalisez les cartes et les listes Trello pour les adapter aux nuances spécifiques de chaque évaluation, ce qui permet une gestion des évaluations personnalisée et efficace.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Informations d'évaluation exploitables&nbsp;:</strong> En intégrant Synup, assurez-vous que les informations et les actions relatives aux évaluations sont clairement visualisées et mises en œuvre dans l'espace de travail adaptable de Trello.</li></ul><p id=\"\">Associer Trello à Synup ouvre un espace dynamique et interactif où la visualisation, l'organisation et la collaboration des tâches et des stratégies de gestion des avis sont nettement améliorées, ce qui se traduit par un processus d'acquisition d'avis plus efficace et plus cohérent.</p><h2 id=\"\">Comment intégrer Trello + Synup&nbsp;?</h2><p id=\"\">L'intégration de Trello pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Trello.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Trello",
+    "description": "Améliorez la gestion de vos avis grâce à l'intégration de Trello et Synup. Visualisez, organisez et collaborez pour des évaluations efficaces. Essayez-le dès maintenant !",
+    "canonical": "https://www.synup.com/fr/integrations/trello",
+    "ogImage": null
+  }
+}

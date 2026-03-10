@@ -1,0 +1,28 @@
+{
+  "slug": "goodwill",
+  "locale": "es",
+  "collectionType": "testimonials",
+  "name": "Buena voluntad",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75d555cd72f3ef2c22108",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:54:29 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:54:29 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "Buena voluntad",
+  "person_name": "Matt Flores",
+  "designation": "Marketing digital en Goodwill",
+  "partner_description": "Matt Flores, marketing digital",
+  "partner": "__MISSING__",
+  "partner_logo": null,
+  "partner_image": null,
+  "partner_testimonial": "<h5 id=\"\">Una vez que implementamos Synup, de la noche a la mañana tuvimos una presencia de marketing local mucho mayor.</h5><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Buena voluntad",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonials/buena-voluntad",
+    "ogImage": null
+  }
+}

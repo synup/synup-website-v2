@@ -1,0 +1,28 @@
+{
+  "slug": "google-tag-manager-101",
+  "locale": "fr",
+  "collectionType": "ebooks",
+  "name": "Gestionnaire de balises Google 101",
+  "collection_id": "6891dedfab83e12481b305d9",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61047f1b99f0ca6c5db1d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:13:27 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:13:27 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "ebook_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a61047f1b99f0ca6c5db0a_60236b3620b8e2636c373e92_tag-manager-101-cover.webp",
+  "rich_text_block": "<p id=\"\">Google Tag Manager 101 est un guide complet destiné aux spécialistes du marketing. Ce livre électronique vous aidera à découvrir les avantages du GTM, vous expliquera le processus de configuration de votre site Web et vous expliquera les terminologies utilisées. Vous pouvez également apprendre à créer, prévisualiser, déboguer et publier n'importe quelle balise pour le site Web de votre entreprise via GTM.</p>",
+  "category": "featured",
+  "free_business": true,
+  "learn_more": false,
+  "schedule_a_demo": false,
+  "resource_type": "Ebook",
+  "ebook_link": "https://files.tryflowdrive.com/495/file-7ee73892-20f1-4a3c-a3b7-f3cf8b4b4677_a-complete-guide-to-voice-search-optimization.pdf",
+  "seo": {
+    "title": "Gestionnaire de balises Google 101",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/ebooks/gestionnaire-de-balises-google-101",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "yourtown-vip",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Yourtown VIP",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f239a30da98598b481412",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:46 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:46 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f239930da98598b48140c_65313052155463d9ac6c1623_yourtownvip.svg",
+  "title_tag": "Manage Your Business Information on YourtownVIP with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Yourtown VIP + Synup</h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on Yourtown VIP with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\">What is Yourtown VIP?</h2><p id=\"\">Yourtown VIP is an exclusive membership program catering to residents and visitors of a specific town or city. It provides unique benefits and privileges to enhance your experiences in the local area. Whether you're exploring local attractions or seeking special deals, Yourtown VIP offers an enhanced way to enjoy your community.</p><h2 id=\"\">Why Yourtown VIP + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Complete Control Over Listings:</strong> With the ability to manage your business listings on Yourtown VIP, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\"><strong id=\"\">Broaden Your Reach:</strong> Adding your business to Yourtown VIP through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\"><strong id=\"\">Accurate Business Information:</strong> Enhance trust and credibility by publishing accurate information on Yourtown VIP.</li><li id=\"\"><strong id=\"\">Customer Engagement:</strong> View and respond back to reviews on Yourtown VIP, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ul><h2 id=\"\">How to integrate Yourtown VIP + Synup?</h2><p id=\"\">The Yourtown VIP integration is available to all Synup listings plan subscribers. To view &amp; manage the Yourtown VIP integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Yourtown VIP logo to manage the Synup + Yourtown VIP integration and associated settings.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "For businesses, managing location data on Facebook now a breeze with Synup.",
+  "seo": {
+    "title": "Yourtown VIP",
+    "description": "Maximize visibility on YourTown VIP. Synup integration ensures accurate business data for superior online presence and customer engagement.",
+    "canonical": "https://www.synup.com/integrations/yourtown-vip",
+    "ogImage": null
+  }
+}

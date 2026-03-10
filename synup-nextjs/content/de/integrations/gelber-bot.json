@@ -1,0 +1,31 @@
+{
+  "slug": "yellow-bot",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Gelber Bot",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2a9959b3dc2fcd4502",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:06 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:06 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2a9959b3dc2fcd44fc_653131e190b0c8ed706d6cd0_Yellow%2520Bot.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Yellowbot mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Gelber Bot + Synup</h1><p id=\"\"><strong id=\"\">Fügen Sie Brancheneinträge und Bewertungen auf Yellow Bot hinzu, fordern Sie sie an und bearbeiten Sie sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup.</strong></p><h2 id=\"\">Was ist Yellow Bot?</h2><p id=\"\">Yellow Bot ist ein Online-Verzeichnis und eine Plattform für Brancheneinträge, die Benutzern dabei hilft, Informationen über Unternehmen und Dienstleistungen in ihrer Nähe zu finden. Egal, ob Sie nach Bewertungen, Empfehlungen oder Kontaktdaten suchen, Yellow Bot bietet umfassende Tools, um Sie mit Unternehmen in Ihrer Community zu verbinden.</p><h2 id=\"\">Warum Yellow Bot + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote:</strong> Mit der Möglichkeit, Ihre Brancheneinträge auf Yellow Bot zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite:</strong> Wenn Sie Ihr Unternehmen über Synup zu Yellow Bot hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\"><strong id=\"\">Genaue Geschäftsinformationen:</strong> Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf Yellow Bot veröffentlichen.</li><li id=\"\"><strong id=\"\">Kundenbindung:</strong> Sehen Sie sich Bewertungen auf Yellow Bot an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie ihr Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich Yellow Bot + Synup?</h2><p id=\"\">Die Yellow Bot-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. Um die Yellow Bot-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das Yellow Bot-Logo, um die Synup + Yellow Bot-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Für Unternehmen ist die Verwaltung von Standortdaten auf Facebook mit Synup jetzt ein Kinderspiel.",
+  "seo": {
+    "title": "Gelber Bot",
+    "description": "Maximieren Sie die Sichtbarkeit auf YellowBot. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Präsenz und Kundenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/gelber-bot",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "al-com",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "AL.com",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2342105abf85e3b91a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:14:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:14:59 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2342105abf85e3b909_65312ec09853341cf200b6c4_AL.com.svg",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "__POSSIBLE_UNTRANSLATED__<h1 id=\"\"><strong id=\"\">AL.com + Synup</strong></h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on AL.com with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\"><strong id=\"\">What is AL.com?</strong>‍</h2><p id=\"\">AL.com is a prominent online news and information platform that serves as a reliable source for news, sports, entertainment, and community-related content. As a digital media outlet, AL.com has played a significant role in delivering up-to-date information to a diverse audience, covering local and regional news, politics, culture, and sports. Whether you're seeking the latest headlines or exploring stories that impact your community, AL.com provides a comprehensive range of content to keep you informed and engaged.<br>‍</p><h2 id=\"\"><strong id=\"\">Why AL.com + Synup?</strong></h2><ul id=\"\"><li id=\"\">Complete Control Over Listings: With the ability to manage your business listings on AL.com, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\">Broaden Your Reach: Adding your business to AL.com through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\">Accurate Business Information: Enhance trust and credibility by publishing accurate information on AL.com.</li><li id=\"\">Customer Engagement: View and respond back to reviews on AL.com, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.<br>‍</li></ul><h2 id=\"\"><strong id=\"\">How to integrate AL.com + Synup?</strong></h2><p id=\"\"><strong id=\"\">‍</strong>The AL.com integration is available to all Synup listings plan subscribers. To view &amp; manage the AL.com integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the AL.com logo to manage the Synup + AL.com integration and associated settings.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#05a0d1",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2342105abf85e3b904_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).png",
+  "integration_summary": "Alabama Media Group is one of the country's most innovative media companies.",
+  "seo": {
+    "title": "AL.com",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/integrations/alcom",
+    "ogImage": null
+  }
+}

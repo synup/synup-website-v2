@@ -1,0 +1,28 @@
+{
+  "slug": "freshbooks",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "FreshBooks",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c62f4f3224b282e2314",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2911a87d428ae11fae_6548e192faa79e95a79429eb_Freshbooks.svg",
+  "title_tag": "Intégrez Freshbooks à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">FreshBooks + Synup</strong></h1><p id=\"\">Améliorez vos stratégies d'acquisition et de gestion des avis en intégrant l'excellence comptable de FreshBooks aux fonctionnalités spécialisées de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que FreshBooks&nbsp;?</h2><p id=\"\">FreshBooks est un logiciel de comptabilité dynamique réputé pour sa conception intuitive, sa facturation facile, ses outils de suivi du temps et d'engagement client, conçus pour optimiser le processus de gestion financière des petites entreprises et des indépendants.</p><h2 id=\"\">Pourquoi choisir FreshBooks + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Déclencheurs de l'évaluation de l'engagement des clients&nbsp;:</strong> Utilisez les outils d'engagement client de FreshBooks pour lancer des demandes d'évaluation pertinentes et opportunes, en exploitant chaque interaction financière comme une opportunité de recueillir des commentaires précieux.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intelligence client unifiée&nbsp;: </strong>Fusionnez les données clients complètes de FreshBooks avec les informations d'évaluation de Synup, afin de créer une vue consolidée des expériences et des interactions des clients pour une compréhension plus nuancée.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Sollicitation de révision automatisée&nbsp;: </strong>Optimisez le processus d'acquisition des avis en automatisant les demandes en fonction des reçus de paiement, des interactions avec les factures et d'autres points de contact avec les clients au sein de FreshBooks, afin de garantir un flux de commentaires fluide.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Communication d'évaluation personnalisée&nbsp;:</strong> Personnalisez les demandes d'évaluation en fonction des interactions spécifiques avec les clients et de l'historique des transactions, afin de rendre chaque communication plus personnelle et plus engageante.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Développement commercial stratégique&nbsp;: </strong>Utilisez les informations d'évaluation agrégées ainsi que les données financières détaillées de FreshBooks pour prendre des décisions éclairées qui améliorent la satisfaction des clients et les performances commerciales.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimisation de l'efficacité et des ressources&nbsp;:</strong> Simplifiez et rationalisez le processus de gestion des avis, en l'intégrant naturellement aux flux de travail de FreshBooks, afin de maximiser l'efficacité opérationnelle et l'utilisation des ressources.</li></ul><p id=\"\">L'intégration de FreshBooks à Synup redéfinit l'approche de la gestion des avis, en tirant parti de chaque interaction comptable comme point de contact stratégique pour l'acquisition et l'utilisation des avis clients, renforçant ainsi l'engagement des clients et la réussite commerciale.</p><h2 id=\"\">Comment intégrer FreshBooks + Synup&nbsp;?</h2><p id=\"\">L'intégration de FreshBooks pour la comptabilité est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Comptabilité sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connecter le logiciel de comptabilité.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez FreshBooks comme logiciel de comptabilité.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte FreshBooks.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration de la comptabilité.</li></ul><ul id=\"\"><li id=\"\">Gérez vos finances à l'aide de FreshBooks.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "FreshBooks",
+    "description": "Optimisez l'engagement des clients et les évaluations grâce à l'intégration de FreshBooks et Synup. Simplifiez vos interactions financières.",
+    "canonical": "https://www.synup.com/fr/integrations/freshbooks",
+    "ogImage": null
+  }
+}

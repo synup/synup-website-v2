@@ -1,0 +1,20 @@
+{
+  "slug": "tiktok",
+  "locale": "de",
+  "collectionType": "marketing-guide-companies",
+  "name": "Tiktok",
+  "collection_id": "6877e2009abc166483d78d09",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4b67697f7607c6de902ea",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:37:58 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:37:58 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Tiktok",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/marketing-guide-companies/tiktok",
+    "ogImage": null
+  }
+}

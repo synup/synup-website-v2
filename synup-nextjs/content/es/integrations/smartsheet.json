@@ -1,0 +1,28 @@
+{
+  "slug": "smartsheet",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Smartsheet",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7629a7a13cee7e4fece32",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:58 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:58 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Smartsheet con Synup para automatizar su proceso de administración de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Inscripción a Smartsheet +</strong></h1><p id=\"\">Mejore la administración de reseñas de sus clientes sincronizando la poderosa plataforma de ejecución de trabajos de Smartsheet con la sofisticada experiencia de Synup en la adquisición y administración de reseñas.</p><h2 id=\"\">¿Qué es Smartsheet?</h2><p id=\"\">Smartsheet es una plataforma innovadora que mejora la administración y la automatización del trabajo. Permite a las organizaciones planificar, capturar, administrar, automatizar y analizar el trabajo de manera flexible y colaborativa.</p><h2 id=\"\">¿Por qué Smartsheet + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Adquisición de reseñas planificada estratégicamente:</strong> Utilice las capacidades de planificación de Smartsheet para diseñar estrategias integrales que mejoren la eficacia de la solicitud y la administración de reseñas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Procesos de revisión automatizados: </strong>Aproveche las funciones de automatización de Smartsheet para optimizar el tiempo y la coherencia de las solicitudes de revisión, lo que mejora la confiabilidad y la calidad de los comentarios de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimización de la revisión colaborativa: </strong>Aproveche las herramientas de colaboración de Smartsheet para permitir la participación de todo el equipo en el análisis, la interpretación y la planificación de las acciones de las opiniones de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujos de trabajo de revisión personalizables: </strong>Adapte y personalice los flujos de trabajo de solicitud y administración de reseñas dentro de Smartsheet, garantizando la alineación con los recorridos únicos del cliente y los objetivos comerciales.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Perspectivas de revisión basadas en datos:</strong> Integre la información sobre las reseñas de Synup en Smartsheet, lo que permitirá adoptar un enfoque más analítico y basado en los datos para elaborar estrategias y optimizar los procesos de adquisición de reseñas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Coordinación eficiente de las revisiones: </strong>Utilice las funciones organizativas de Smartsheet para agilizar la coordinación, la asignación y el seguimiento de las tareas y responsabilidades relacionadas con la revisión.</li></ul><p id=\"\">La integración de Smartsheet con Synup revela un paradigma mejorado de administración de reseñas, en el que la planificación estratégica, la automatización, la colaboración y la información basada en datos se armonizan para optimizar los procesos de adquisición y utilización de reseñas de los clientes.</p><h2 id=\"\">¿Cómo integrar Smartsheet + Synup?</h2><p id=\"\">La integración de Smartsheet para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Seleccione la carpeta o ubicación a la que desea conectar Smartsheet.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Smartsheet",
+    "description": "Mejore las opiniones de los clientes con Smartsheet + Synup: planificación estratégica, automatización, colaboración e información basada en datos para la gestión de reseñas.",
+    "canonical": "https://www.synup.com/es/integrations/smartsheet",
+    "ogImage": null
+  }
+}

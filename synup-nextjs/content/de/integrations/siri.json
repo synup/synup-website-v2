@@ -1,0 +1,28 @@
+{
+  "slug": "siri",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Siri",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf34605d9ab12b7d9651",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:16 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:16 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf33605d9ab12b7d963a_6531318ec832c769e3864cb0_siri.svg",
+  "title_tag": "Verwalte deine Unternehmensinformationen auf Siri mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Siri + Synchronisation</h1><p id=\"\"><strong id=\"\">Füge Brancheneinträge und Bewertungen auf Siri hinzu, beantrage sie und bearbeite sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Inseraten und Bewertungen von Synup.</strong></p><h2 id=\"\">Was ist Siri?</h2><p id=\"\">Siri ist ein weithin anerkannter virtueller Assistent und eine sprachaktivierte KI, die von Apple entwickelt wurde. Es unterstützt Benutzer bei Aufgaben, beantwortet Fragen und ermöglicht die sprachgesteuerte Steuerung verschiedener Apple-Geräte und -Dienste. Dies macht es zu einem wertvollen Tool zur Optimierung digitaler Interaktionen.</p><h2 id=\"\">Warum Siri + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote:</strong> Mit der Möglichkeit, Ihre Brancheneinträge auf Siri zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite:</strong> Wenn du dein Unternehmen über Synup zu Siri hinzufügst, erhöht sich die Sichtbarkeit. Hilf potenziellen Kunden, dich zu entdecken, und erweitere so effektiv deine Reichweite.</li><li id=\"\"><strong id=\"\">Genaue Geschäftsinformationen:</strong> Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf Siri veröffentlichen.</li><li id=\"\"><strong id=\"\">Kundenbindung:</strong> Sieh dir Bewertungen auf Siri an und antworte darauf. So baust du eine positive Beziehung zu deinen Kunden auf und zeigst, dass du ihr Feedback wertschätzt und auf ihre Bedürfnisse achtest.</li></ul><h2 id=\"\">Wie integriere ich Siri + Synup?</h2><p id=\"\">Die Siri-Integration steht allen Abonnenten des Synup-Angebotsplans zur Verfügung. So siehst und verwaltest du die Siri-Integration:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das Siri-Logo, um die Synup + Siri-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "voice-assistant",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Siri",
+    "description": "Optimiere dein Geschäft auf Siri. Die Synup-Integration gewährleistet genaue Informationen für reibungslose Interaktionen und eine erhöhte Online-Sichtbarkeit.",
+    "canonical": "https://www.synup.com/de/integrations/siri",
+    "ogImage": null
+  }
+}

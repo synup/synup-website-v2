@@ -1,0 +1,28 @@
+{
+  "slug": "iglobal",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "iGlobal",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c71185a9c1e2c69d2dc",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:05 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:05 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3bdbfc3561cab30e73_65312da631118bb5b487cce9_iglobal.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur iGlobal avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; france; germany; netherlands; uae; south-africa; ireland; australia; new-zealand; canada; united-kingdom-gb; united-states-us; argentina",
+  "detailed_paragraph": "<h1 id=\"\">iGlobal + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur iGlobal grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que iGlobal&nbsp;?</h2><p id=\"\">iGlobal, un annuaire commercial international de confiance, facilite les connexions entre les entreprises et les clients à l'échelle mondiale. Que vous soyez un chef d'entreprise qui souhaite élargir sa portée ou un consommateur à la recherche de produits ou services internationaux, iGlobal propose une plateforme pour des interactions mondiales fluides.</p><h2 id=\"\">Pourquoi iGlobal + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: en gérant les fiches de vos entreprises sur iGlobal, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à iGlobal via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur iGlobal.</li><li id=\"\">Engagement des clients&nbsp;: consultez et répondez aux avis sur iGlobal, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer iGlobal + Synup&nbsp;?</h2><p id=\"\">L'intégration iGlobal est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration d'iGlobal, procédez comme suit&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo iGlobal pour gérer l'intégration Synup + iGlobal et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "iGlobal",
+    "description": "Améliorez votre visibilité sur iGlobal. L'intégration de Synup garantit des données commerciales précises pour une présence en ligne et des connexions clients supérieures.",
+    "canonical": "https://www.synup.com/fr/integrations/iglobal",
+    "ogImage": null
+  }
+}

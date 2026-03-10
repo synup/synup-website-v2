@@ -1,0 +1,24 @@
+{
+  "slug": "socialbu",
+  "locale": "es",
+  "collectionType": "competitor-rating-tables",
+  "name": "Social Bu",
+  "collection_id": "6891dd955b61c147e47d91b7",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7dcecce14a5a15f8e398f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:58:52 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:58:52 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "gbp_posting": "5.0",
+  "gbp_review_reputation_management": "NA",
+  "gbp_listing_management": "NA",
+  "gbp_reporting_analytics": "4.0",
+  "seo": {
+    "title": "Social Bu",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/competitor-rating-tables/social-bu",
+    "ogImage": null
+  }
+}

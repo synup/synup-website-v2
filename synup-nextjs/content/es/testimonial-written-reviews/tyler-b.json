@@ -1,0 +1,26 @@
+{
+  "slug": "tyler-b",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Tyler B.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cb8e6e978822d78374f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:52 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:52 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«Ahorra tiempo y recursos»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">Tengo muchas ganas de usar Synup. He estado buscando un sistema que me ayude a ahorrar tiempo al crear anuncios en varios sitios web. El proceso que te piden que realices es muy sencillo e intuitivo. El servicio de atención al cliente fue muy útil, educativo y estuvo dispuesto a trabajar conmigo. ¡Gracias!</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">Es otro sistema que tengo que gestionar junto con todos los demás sistemas de los que soy responsable. Sin embargo, la ganancia supera al sistema adicional.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">La sindicación de listados de empresas en varios sitios web administrando solo uno.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab95479fe602859083e_65f05964a662582e6ba220e2_G2-reviewer-15.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Agente inmobiliario</p><p id=\"\">Pequeñas empresas (50 o menos EMP.)</p>",
+  "seo": {
+    "title": "Tyler B.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/tyler-b",
+    "ogImage": null
+  }
+}

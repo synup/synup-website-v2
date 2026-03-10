@@ -1,0 +1,28 @@
+{
+  "slug": "prospecting-tool-for-resellers-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Herramienta de prospección para revendedores",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0b2359bf45cc81c78a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "top-category",
+  "list_order": "5.0",
+  "select_pages": "birdeye-alternative; uberall-alternative; chatmeter-alternative; local-clarity-alternative; soci-alternative; thryv-alternative; social-places-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; review-trackers-alternative; surefire-local-alternative; pinmeto-alternative; rio-seo-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; dbaplatform-alternative; advicelocal-alternative; synup-vs-digitalmass; synup-vs-experience-com; synup-vs-location-bank; singleinterface-alternative; synup-vs-localpanda-ai; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-whitespark; synup-vs-get-more-reviews; synup-vs-gmbapi; promanage-alternative; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Herramienta de prospección para revendedores",
+  "alt_select_pages": "best-singleinterface-alternative",
+  "seo": {
+    "title": "Herramienta de prospección para revendedores",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/prospecting-tool-for-resellers-2",
+    "ogImage": null
+  }
+}

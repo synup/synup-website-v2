@@ -1,0 +1,27 @@
+{
+  "slug": "survey-and-analysis-of-local-online-reviews",
+  "locale": "en",
+  "collectionType": "ebooks",
+  "name": "Survey And Analysis of Local Online Reviews",
+  "collection_id": "6891dedfab83e12481b305d9",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891df5145b3470abede742f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:39:13 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Sep 25 2025 10:53:28 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Sep 25 2025 10:53:28 GMT+0000 (Coordinated Universal Time)",
+  "ebook_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891df5045b3470abede742a_676126fd6d5a2b7b04932931_20241217T0723-a688cf20-758b-449d-9ebc-11b7371ebe9e.webp",
+  "rich_text_block": "<p id=\"\">We recently ran a survey where we asked consumers and business owners what they thought about online reviews - whether they found them useful, how impactful they thought online reviews were to their business, the whole nine yards. We also decided to give this another perspective and studied business listings on popular sites like Google, Yelp, and TripAdvisor to determine how the quantity and quality of reviews for businesses on these sites impacted their rankings. The insights and findings from these surveys and studies are documented in this report.</p>",
+  "category": "popular",
+  "free_business": false,
+  "learn_more": false,
+  "schedule_a_demo": true,
+  "resource_type": "Ebook",
+  "seo": {
+    "title": "Survey And Analysis of Local Online Reviews",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/ebooks/survey-and-analysis-of-local-online-reviews",
+    "ogImage": null
+  }
+}

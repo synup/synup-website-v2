@@ -1,0 +1,26 @@
+{
+  "slug": "sarah-m",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Sara M.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cb75d765615e7bf5c89",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:51 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:51 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«Synup es un gran producto con un equipo de soporte maravilloso»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">Synup es una plataforma muy fácil de usar que ha agregado valor al paquete de marketing de nuestra empresa. A nuestra agencia también se le asignó una excelente gerente de cuentas llamada Bridget, que siempre está ahí cuando necesitamos algo.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">¡No hay disgustos para mí! Todas las preguntas que tenía fueron respondidas y también me ofrecieron capacitación para ayudarme a entender las funciones de la plataforma. Son geniales:)</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">Es fácil para nuestros clientes gestionar varios perfiles en un solo lugar. Synup ha facilitado a los clientes la actualización de la información, la recopilación y gestión de reseñas y la creación de publicaciones en múltiples plataformas.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Especialista de soporte II</p><p id=\"\">Pequeñas empresas (50 o menos EMP.)</p><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Sara M.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/sara-m",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "nj-com",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "NJ.com",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c67eb6ce0edf59e3790",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:55 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:55 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf318af635c849d67a12_6531315e0fd8dd9a10cf3aff_Nj.com.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur NJ.com avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">NJ.com + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur NJ.com grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que NJ.com&nbsp;?</h2><p id=\"\">NJ.com est un site Web d'actualités et d'informations de premier plan desservant l'État du New Jersey. Il offre une couverture complète des actualités locales, des événements, des sports, etc., répondant aux besoins d'information des résidents et des personnes intéressées par les développements dans le New Jersey.</p><h2 id=\"\">Pourquoi NJ.com + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Contrôle total des annonces&nbsp;:</strong> Grâce à la possibilité de gérer les listes de vos entreprises sur NJ.com, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\"><strong id=\"\">Élargissez votre portée&nbsp;:</strong> L'ajout de votre entreprise à NJ.com via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\"><strong id=\"\">Informations commerciales précises&nbsp;:</strong> Renforcez la confiance et la crédibilité en publiant des informations précises sur NJ.com.</li><li id=\"\"><strong id=\"\">Engagement des clients&nbsp;:</strong> Consultez les avis sur NJ.com et répondez-y, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer NJ.com + Synup&nbsp;?</h2><p id=\"\">L'intégration NJ.com est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration de NJ.com&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo NJ.com pour gérer l'intégration Synup + NJ.com et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Pour les entreprises, la gestion des données de localisation sur Facebook est désormais un jeu d'enfant avec Synup.",
+  "seo": {
+    "title": "NJ.com",
+    "description": "Renforcez votre présence sur NJ.com. L'intégration de Synup garantit des données commerciales précises pour une visibilité en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/njcom",
+    "ogImage": null
+  }
+}

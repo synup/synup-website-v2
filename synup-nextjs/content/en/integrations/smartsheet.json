@@ -1,0 +1,28 @@
+{
+  "slug": "smartsheet",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Smartsheet",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2397e8da3b98bafa8a75",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2397e8da3b98bafa8a43_6548b5aebba4fa0fbdd49013_Smartsheet.svg",
+  "title_tag": "Integrate Smartsheet with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Smartsheet + Synup</strong></h1><p id=\"\">Elevate your customer review management by synchronizing Smartsheet’s powerful work execution platform with Synup’s sophisticated review acquisition and management expertise.</p><h2 id=\"\">What is Smartsheet?</h2><p id=\"\">Smartsheet is an innovative platform that enhances work management and automation. It enables organizations to plan, capture, manage, automate, and analyze work in a flexible and collaborative manner.</p><h2 id=\"\">Why Smartsheet + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Strategically Planned Review Acquisition:</strong> Utilize Smartsheet’s planning capabilities to architect comprehensive strategies that enhance the effectiveness of review solicitation and management.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Processes: </strong>Harness Smartsheet’s automation features to optimize the timing and consistency of review requests, enhancing the reliability and quality of customer feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Collaborative Review Optimization: </strong>Leverage Smartsheet’s collaboration tools to enable team-wide participation in the analysis, interpretation, and action planning of customer reviews.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Customizable Review Workflows: </strong>Adapt and customize review solicitation and management workflows within Smartsheet, ensuring alignment with unique customer journeys and business objectives.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Data-Driven Review Insights:</strong> Integrate Synup’s review insights into Smartsheet, enabling a more analytical and data-driven approach to strategizing and optimizing review acquisition processes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Efficient Review Coordination: </strong>Utilize Smartsheet’s organizational features to streamline the coordination, assignment, and tracking of review-related tasks and responsibilities.</li></ul><p id=\"\">Integrating Smartsheet with Synup unveils an enhanced paradigm of review management, where strategic planning, automation, collaboration, and data-driven insights are harmonized to optimize customer review acquisition and utilization processes.</p><h2 id=\"\">How to integrate Smartsheet + Synup?</h2><p id=\"\">Smartsheet integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Smartsheet to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Smartsheet",
+    "description": "Elevate customer reviews with Smartsheet + Synup: Strategic planning, automation, collaboration & data-driven insights for review management.",
+    "canonical": "https://www.synup.com/integrations/smartsheet",
+    "ogImage": null
+  }
+}

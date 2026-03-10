@@ -1,0 +1,27 @@
+{
+  "slug": "resources-featured",
+  "locale": "en",
+  "collectionType": "testimonial-reviews",
+  "name": "Resources Featured",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "689107c23fa36d6ef4cfc8a1",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 19:19:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 19:19:30 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 19:22:05 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "0.2",
+  "reviews_summary": "How Woops! Drove 20% More Revenue Through Profile Personalization",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/689107c23fa36d6ef4cfc88c_67612c8a8326c2dbc5020f52_20241217T0746-fa8a53e5-8ad6-452a-9d40-ef9e622f6876.webp",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": false,
+  "review_link": "https://www.synup.com/case-studies/woops-macarons",
+  "seo": {
+    "title": "Resources Featured",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-reviews/resources-featured",
+    "ogImage": null
+  }
+}

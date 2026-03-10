@@ -1,0 +1,27 @@
+{
+  "slug": "ai-posts-suggestions-snapshot",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Instantánea de sugerencias de AI Post",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0c7b9b3de8cf5b92cd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:36 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:36 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "dashboard",
+  "list_order": "37.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; sprout-social-alternative; buffer-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Instantánea de sugerencias de AI Post",
+  "seo": {
+    "title": "Instantánea de sugerencias de AI Post",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/ai-posts-suggestions-snapshot",
+    "ogImage": null
+  }
+}

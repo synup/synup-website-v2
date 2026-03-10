@@ -1,0 +1,5 @@
+# Webflow source exports — large binary files, not needed in repo
+exports/
+
+# OS files
+.DS_Store

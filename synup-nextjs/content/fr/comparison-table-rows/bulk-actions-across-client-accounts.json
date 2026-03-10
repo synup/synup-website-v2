@@ -1,0 +1,24 @@
+{
+  "slug": "ai-powered-client-data-enrichment-copy",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Bulk Actions Across Client Accounts",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68da83836b8d8c2d3c7e8f10",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Sep 29 2025 13:02:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 13:04:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "agency-management",
+  "seo": {
+    "title": "Bulk Actions Across Client Accounts",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/bulk-actions-across-client-accounts",
+    "ogImage": null
+  }
+}

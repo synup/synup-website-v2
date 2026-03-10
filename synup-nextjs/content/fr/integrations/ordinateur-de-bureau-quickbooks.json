@@ -1,0 +1,28 @@
+{
+  "slug": "quickbooks-desktop",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Ordinateur de bureau QuickBooks",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c69d08e5683376aa75f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3237a02f6c61aba180_6548e25d53d64c6397badb08_Quickbooks.svg",
+  "title_tag": "Intégrez Quickbooks Desktop à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Ordinateur de bureau QuickBooks + Synup</h1><p id=\"\">Bénéficiez d'une efficacité inégalée avec QuickBooks Desktop + Synup&nbsp;: votre duo puissant pour une gestion financière sophistiquée et des évaluations clients pertinentes.</p><h2 id=\"\">Qu'est-ce que QuickBooks Desktop&nbsp;?</h2><p id=\"\">QuickBooks Desktop est un logiciel de comptabilité installé localement optimisé pour les moyennes et grandes entreprises, offrant des fonctionnalités avancées et une personnalisation, axées sur des solutions complètes de gestion financière.</p><h2 id=\"\">Pourquoi choisir Quickbooks Desktop + Synup&nbsp;?</h2><p id=\"\"><strong id=\"\">Demandes de révision rationalisées&nbsp;: </strong>Utilisez les nombreuses données de transaction de QuickBooks Desktop (QBD) avec Synup pour des demandes de révision automatisées précises et significatives, augmentant ainsi les chances d'obtenir des commentaires précieux.</p><p id=\"\"><strong id=\"\">Ciblage client amélioré&nbsp;: </strong>Utilisez les données clients détaillées de QBD aux côtés de Synup pour une segmentation sophistiquée et des sollicitations d'avis personnalisées, afin d'obtenir des informations clients riches et variées.</p><p id=\"\"><strong id=\"\">Canaux de communication optimisés&nbsp;:</strong> Fusionnez les capacités de facturation de QBD avec la gestion des avis de Synup, afin de faciliter la transmission et la réception fluides et efficaces des demandes d'avis et des évaluations.</p><p id=\"\"><strong id=\"\">Synergie d'intégration puissante&nbsp;: </strong>Découvrez l'alignement puissant des fonctionnalités complètes de QBD et de la plateforme Synup, favorisant un système de collecte d'avis cohérent et automatisé, amplifiant la satisfaction des utilisateurs.</p><p id=\"\"><strong id=\"\">Efficacité opérationnelle et réduction des coûts&nbsp;: </strong>L'intégration de QBD et Synup affine le flux de travail de gestion des révisions, en améliorant les performances opérationnelles, en diminuant les interventions manuelles et les dépenses opérationnelles associées.</p><p id=\"\"><strong id=\"\">Stratégies d'évaluation basées sur les données&nbsp;: </strong>Exploitez les prouesses analytiques de QBD et de Synup pour élaborer des stratégies éclairantes et centrées sur les données et affiner les efforts de collecte de revues pour obtenir des résultats supérieurs.<br><br>La combinaison de QuickBooks Desktop et de Synup permet de forger une méthodologie intégrée influente pour optimiser l'approvisionnement en avis, tirer parti des interactions cruciales avec les clients et automatiser les flux de travail pour une efficacité et une productivité accrues.</p><h2 id=\"\">Comment intégrer QuickBooks Desktop + Synup&nbsp;?</h2><p id=\"\">L'intégration de QuickBooks Desktop pour la comptabilité est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Comptabilité sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connecter le logiciel de comptabilité.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez QuickBooks Desktop comme logiciel de comptabilité.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte QuickBooks Desktop.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration de la comptabilité.</li></ul><ul id=\"\"><li id=\"\">Gérez vos finances à l'aide de QuickBooks Desktop.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Ordinateur de bureau QuickBooks",
+    "description": "Améliorez l'efficacité : QuickBooks Desktop + Synup - Des finances et des avis puissants pour les entreprises.",
+    "canonical": "https://www.synup.com/fr/integrations/ordinateur-de-bureau-quickbooks",
+    "ogImage": null
+  }
+}

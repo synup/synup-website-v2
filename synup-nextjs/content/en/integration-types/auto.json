@@ -1,0 +1,20 @@
+{
+  "slug": "auto",
+  "locale": "en",
+  "collectionType": "integration-types",
+  "name": "Auto",
+  "collection_id": "688267a897faaa22a42fe6f4",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f228506deff26ba58fd40",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:49:09 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:49:09 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 08:50:18 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Auto",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/integration-types/auto",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "locale": "fr",
+  "mainLinks": [
+    {
+      "label": "Produits",
+      "href": "/fr/products",
+      "hasDropdown": true,
+      "children": []
+    },
+    {
+      "label": "Solutions",
+      "href": "/fr/solutions",
+      "hasDropdown": true,
+      "children": []
+    },
+    {
+      "label": "Intégrations",
+      "href": "/fr/integrations",
+      "hasDropdown": false,
+      "children": []
+    },
+    {
+      "label": "Ressources",
+      "href": "/fr/resources",
+      "hasDropdown": true,
+      "children": []
+    },
+    {
+      "label": "Tarifs",
+      "href": "/fr/pricing",
+      "hasDropdown": false,
+      "children": []
+    }
+  ],
+  "ctaLabel": "Commencer",
+  "ctaHref": "https://app.synup.com/signup",
+  "footerColumns": [
+    {
+      "heading": "Produits",
+      "links": [
+        {
+          "label": "Gestion des fiches",
+          "href": "/fr/products/listings-management"
+        },
+        {
+          "label": "Gestion des avis",
+          "href": "/fr/products/reviews-management"
+        },
+        {
+          "label": "Gestion des réseaux sociaux",
+          "href": "/fr/products/social-media"
+        },
+        {
+          "label": "Analytique",
+          "href": "/fr/products/analytics"
+        }
+      ]
+    },
+    {
+      "heading": "Solutions",
+      "links": [
+        {
+          "label": "Pour les agences",
+          "href": "/fr/solutions/agencies"
+        },
+        {
+          "label": "Pour les entreprises",
+          "href": "/fr/solutions/enterprise"
+        },
+        {
+          "label": "Pour les PME",
+          "href": "/fr/solutions/smb"
+        }
+      ]
+    },
+    {
+      "heading": "Ressources",
+      "links": [
+        {
+          "label": "Blog",
+          "href": "/fr/blog"
+        },
+        {
+          "label": "Études de cas",
+          "href": "/fr/case-studies"
+        },
+        {
+          "label": "Ebooks",
+          "href": "/fr/ebooks"
+        },
+        {
+          "label": "Guides pratiques",
+          "href": "/fr/how-tos"
+        }
+      ]
+    },
+    {
+      "heading": "Entreprise",
+      "links": [
+        {
+          "label": "À propos",
+          "href": "/fr/about"
+        },
+        {
+          "label": "Carrières",
+          "href": "/fr/careers"
+        },
+        {
+          "label": "Presse",
+          "href": "/fr/press"
+        },
+        {
+          "label": "Contact",
+          "href": "/fr/contact"
+        }
+      ]
+    }
+  ],
+  "legalLinks": [
+    {
+      "label": "Politique de confidentialité",
+      "href": "/fr/privacy-policy"
+    },
+    {
+      "label": "Conditions d'utilisation",
+      "href": "/fr/terms-of-service"
+    },
+    {
+      "label": "Politique en matière de cookies",
+      "href": "/fr/cookie-policy"
+    }
+  ],
+  "copyright": "© 2025 Synup. Tous droits réservés."
+}

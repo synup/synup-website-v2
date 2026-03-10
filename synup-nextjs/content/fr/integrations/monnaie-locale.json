@@ -1,0 +1,28 @@
+{
+  "slug": "local-mint",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Monnaie locale",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c677d7aaae259abda28",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:55 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:55 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2e4999e35b904d388f_65312fa09984ad22ccb42e5a_Local%2520Mint.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Localmint avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; france; uae; ireland; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Menthe locale + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Local Mint grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que Local Mint&nbsp;?</h2><p id=\"\">Local Mint, une ressource en ligne en pleine expansion permettant de découvrir les entreprises et les services locaux, aide les utilisateurs à se connecter aux offres de leur communauté. Que vous exploriez de nouveaux endroits ou que vous recherchiez des entreprises de quartier fiables, Local Mint fournit une perspective nouvelle et des informations fiables pour améliorer vos expériences locales.</p><h2 id=\"\">Pourquoi choisir Local Mint + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des inscriptions&nbsp;: Grâce à la possibilité de gérer les inscriptions de vos entreprises sur Local Mint, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à Local Mint via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur Local Mint.</li><li id=\"\">Engagement des clients&nbsp;: consultez et répondez aux avis sur Local Mint, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Local Mint + Synup&nbsp;?</h2><p id=\"\">L'intégration Local Mint est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration Local Mint, procédez comme suit&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Local Mint pour gérer l'intégration Synup + Local Mint et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Monnaie locale",
+    "description": "Augmentez votre visibilité sur Local Mint. L'intégration de Synup garantit des données commerciales précises pour une présence en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/monnaie-locale",
+    "ogImage": null
+  }
+}

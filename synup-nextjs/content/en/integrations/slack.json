@@ -1,0 +1,28 @@
+{
+  "slug": "slack",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Slack",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f239686666711215cac24",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f239686666711215cac1f_6548b4d56448d1ce4f906d53_Slack.svg",
+  "title_tag": "Integrate Clack with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Slack + Synup</strong></h1><p id=\"\">Revolutionize your approach to customer review management by seamlessly integrating Slack’s powerful communication platform with Synup’s robust review acquisition and management system.</p><h2 id=\"\">What is Slack?</h2><p id=\"\">Slack is a channel-based messaging platform that enhances team collaboration by consolidating communications, files, and tools in a single, easy-to-navigate workspace, thus streamlining workflows and improving productivity.</p><h2 id=\"\">Why Slack + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Instant Review Notifications:</strong> Leverage Slack’s real-time messaging to receive immediate notifications of new customer reviews, enabling prompt responses and engagement.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Collaborative Review Analysis: </strong>Utilize Slack channels to foster team discussions and strategizing around customer feedback, promoting a collective approach to review management.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Streamlined Review Workflows: </strong>Integrate Synup’s functionalities into Slack, creating a cohesive workspace where review management tasks are easily accessible and actionable.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Adaptive Review Engagements: </strong>Utilize Slack’s versatile messaging to customize and adapt review solicitations and communications, ensuring relevance and resonance with customers’ experiences.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Efficient Task Coordination: </strong>Maximize Slack’s organizational capabilities to coordinate and assign review-related tasks efficiently, ensuring clarity of roles and responsibilities.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Review Discussions: </strong>Harness Slack’s conducive environment for dynamic discussions and brainstorming, facilitating the development of innovative and effective review acquisition strategies.</li></ul><p id=\"\">By intertwining Slack with Synup, unlock an ecosystem where the agility of real-time communication and collaboration significantly enhances the strategy, coordination, and responsiveness of your review acquisition and management efforts.</p><h2 id=\"\">How to integrate Slack + Synup?</h2><p id=\"\">Slack integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Slack to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Slack",
+    "description": "Revolutionize reviews with Slack + Synup. Instant notifications, collaborative analysis, and streamlined workflows for impactful customer engagement.",
+    "canonical": "https://www.synup.com/integrations/slack",
+    "ogImage": null
+  }
+}

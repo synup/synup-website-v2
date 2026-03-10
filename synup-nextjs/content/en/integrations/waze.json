@@ -1,0 +1,31 @@
+{
+  "slug": "waze",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Waze",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f239850385aae406de241",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f239850385aae406de234_65312b900fd8dd9a10c7ba14_waze.svg",
+  "title_tag": "Manage Your Business Information on Waze with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Waze + Synup?</strong><br></h1><h2 id=\"\"><strong id=\"\">What is Waze?</strong></h2><p id=\"\">Waze is a highly effective navigation app that leverages community-driven input to provide real-time traffic and road information, offering an indispensable platform for businesses aiming to enhance their local and mobile visibility. Similar to other digital business profiles, Waze offers a space for businesses to showcase their services, operational hours, and locations, providing users with vital details as they navigate.</p><h2 id=\"\"><strong id=\"\">Why Waze + Synup?</strong></h2><p id=\"\"><strong id=\"\">Listing Management: </strong>Synup and Waze together offer businesses unparalleled management over their digital listings. When used in tandem, these tools guarantee the accuracy and timeliness of business profiles, effectively reflecting the brand's true identity. This collaboration delivers the necessary information seamlessly to users on the move, making it easier for potential customers to decide on the products or services they require.</p><p id=\"\"><strong id=\"\">Enhance Your Visibility:</strong> Waze boasts a vast and engaged user base comprised of daily commuters and travelers. Having a business profile on Waze, complemented by Synup's optimization, significantly broadens your online presence, ensuring users can effortlessly find your business while they are searching for specific services or products on the road.</p><p id=\"\"><strong id=\"\">Reliable Business Information:</strong> Building and sustaining trust with customers is paramount, and accurate business information is foundational to this trust. With the combined force of Waze and Synup, businesses can present verified and reliable information to users, establishing the business as a dependable and trustworthy service provider in the eyes of the public.</p><p id=\"\"><strong id=\"\">Informed Business Decisions:</strong> The combination of Waze and Synup arms businesses with invaluable data and insights into customer behavior and preferences while they are commuting. This information is crucial for honing marketing strategies and initiatives, thereby guiding businesses in making educated decisions that are vital for their growth and expansion in the competitive marketplace.</p><p id=\"\">Harness the combined power of Waze and Synup to adeptly manage your digital presence, engage effectively with your mobile audience, and amplify your visibility and credibility in the digital and local sphere. With precise listings, increased user engagement, and valuable analytics insights, businesses are empowered to navigate and thrive in today’s dynamic digital landscape.<strong id=\"\">‍</strong>‍</p><h2 id=\"\">‍<strong id=\"\">How to integrate Waze + Synup?<br></strong></h2><p id=\"\">The Waze integration is available to all Synup listings plan subscribers. To view &amp; manage the Waze integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Waze logo to manage the Synup + Waze integration and associated settings.</li></ol>",
+  "integration_types": "auto",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#515352",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2388cddad88d26433eca_67612540802fb1b6423d94e4_20241217T0716-210d56b3-4e68-4f2a-af19-1f792e39d6fd.webp",
+  "integration_summary": "Waze is the community-driven GPS app that will put your businesses on the map.",
+  "seo": {
+    "title": "Waze",
+    "description": "Optimize your business on Waze. Synup integration ensures accurate information for seamless navigation and heightened online visibility.",
+    "canonical": "https://www.synup.com/integrations/waze",
+    "ogImage": null
+  }
+}

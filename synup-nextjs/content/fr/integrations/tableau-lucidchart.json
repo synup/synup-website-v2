@@ -1,0 +1,28 @@
+{
+  "slug": "lucidchart",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Tableau Lucidchart",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6c9ebe6a62cc7a81b8",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:00 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:00 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3c5f9589f7f2cd3592_6548b03c17a47d3f6fe977cf_Lucidchart.svg",
+  "title_tag": "Intégrez Lucidchart à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Lucidchart + Synup</strong></h1><p id=\"\">Améliorez votre approche de la gestion des avis clients en associant les fonctionnalités intuitives de création de diagrammes de Lucidchart aux solutions efficaces d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que Lucidchart&nbsp;?</h2><p id=\"\">Lucidchart est une application de création de diagrammes dynamiques qui permet de créer des diagrammes, des organigrammes et des organigrammes visuellement attrayants, favorisant une communication, une collaboration et une compréhension plus claires au sein des équipes et des entreprises.</p><h2 id=\"\">Pourquoi choisir Lucidchart + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Stratégies de révision améliorées par visualisation&nbsp;:</strong> Tirez parti des diagrammes visuels de Lucidchart pour améliorer la présentation et l'analyse des avis et des commentaires des clients, favorisant ainsi une planification stratégique et une prise de décision plus claires.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Planification des évaluations collaboratives&nbsp;: </strong>Utilisez les fonctionnalités collaboratives de Lucidchart pour faciliter l'engagement de l'équipe dans les stratégies de gestion des avis, en encourageant des idées plus diversifiées et en améliorant l'approche.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intégration fluide pour des informations complètes&nbsp;:</strong> Intégrez les fonctionnalités de gestion des avis de Synup dans les diagrammes interactifs de Lucidchart, garantissant ainsi un moyen cohérent et intuitif d'accéder aux données d'évaluation et de les analyser.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Sollicitations d'avis personnalisables&nbsp;:</strong> Profitez des capacités de personnalisation de Lucidchart pour concevoir des sollicitations d'avis personnalisées, garantissant ainsi pertinence et résonance avec les différentes expériences clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Élaboration de stratégies éclairées&nbsp;:</strong> Exploitez les capacités combinées de Lucidchart et de Synup pour développer des stratégies guidées visuellement qui améliorent l'acquisition et l'utilisation des avis clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de processus de révision amélioré&nbsp;: </strong>Visualisez et optimisez les flux de travail de gestion des avis à l'aide des diagrammes de Lucidchart, afin de garantir la clarté, l'efficience et l'efficacité des opérations d'acquisition et de gestion des avis.</li></ul><p id=\"\">En fusionnant Lucidchart et Synup, ouvrez des voies innovantes en matière de gestion des avis où la puissance des diagrammes visuels et des fonctionnalités collaboratives améliore les stratégies et les flux de travail impliqués dans l'acquisition et la gestion des commentaires des clients.</p><h2 id=\"\">Comment intégrer Lucidchart + Synup&nbsp;?</h2><p id=\"\">L'intégration de Lucidchart pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Lucidchart.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Tableau Lucidchart",
+    "description": "Améliorez la gestion des révisions avec Lucidchart + Synup. Visualisez, collaborez et personnalisez pour obtenir des informations plus claires et des stratégies améliorées.",
+    "canonical": "https://www.synup.com/fr/integrations/tableau-lucidchart",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "schedule-boost",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Boost Plan",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c7707b966ac73d5058c3",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:24 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:24 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "ads-support",
+  "list_order": "41.0",
+  "select_pages": "sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; hootsuite-alternative",
+  "tabel_category": "Boost Plan",
+  "seo": {
+    "title": "Boost Plan",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/boost-plan",
+    "ogImage": null
+  }
+}

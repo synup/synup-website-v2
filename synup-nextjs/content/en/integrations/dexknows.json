@@ -1,0 +1,28 @@
+{
+  "slug": "dexknows",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Dexknows",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238c157b70cefca6c458",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:32 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:32 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238c157b70cefca6c452_65312be532ec4775d1c09265_Dexknows.svg",
+  "title_tag": "Manage Your Business Information on Dexknows with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Dexknows + Synup?</strong></h1><h2 id=\"\"><strong id=\"\"><br>What is Dexknows?<br></strong></h2><p id=\"\"><strong id=\"\">Dexknows</strong> is a prominent online directory service that connects users with local businesses, providing a platform where consumers can find relevant, accurate information about various services and products in their vicinity. The service is not just a listing platform; it also offers user reviews, ratings, and additional information about listed businesses, acting as a comprehensive guide for consumers searching for specific services or products.</p><h2 id=\"\"><strong id=\"\">Why Dexknows + Synup?</strong></h2><p id=\"\"><strong id=\"\">Listing Management: </strong>The partnership between Synup and Dexknows empowers businesses to have absolute control over their online listings. By having a business profile on Dexknows, enhanced with Synup’s advanced capabilities, companies can easily manage and optimize their profiles. This includes updating services, operating hours, and location swiftly and accurately. Synup ensures that businesses can reflect their brand's true identity online, allowing consumers to make informed choices regarding the services and products they require.</p><p id=\"\"><strong id=\"\">Boost Your Visibility:</strong> With a vast user base actively searching for local services and products, a business profile on Dexknows, complemented by Synup’s optimization, significantly broadens your online presence. This collaboration aids users in effortlessly discovering your business when in need, ultimately improving your online visibility and accessibility to potential customers looking for services and products you offer.</p><p id=\"\"><strong id=\"\">Trustworthy Business Information:</strong> Establishing trust with potential customers is crucial, and presenting accurate business information is central to this effort. Through the combined services of Dexknows and Synup, businesses can provide verified and trustworthy information, reinforcing their reputation as reliable service providers in a highly competitive market.</p><p id=\"\"><strong id=\"\">Informed Business Choices:</strong> The alliance between Dexknows and Synup provides businesses with vital data regarding customer behaviors, preferences, and patterns in engaging with local services and products. This information is crucial for devising effective marketing strategies and making insightful business decisions that contribute to growth and expansion in the market.</p><p id=\"\">Leveraging the combined strengths of Dexknows and Synup, businesses can expertly manage their online listings, engage with a wider audience, and enhance both their online and local visibility and credibility. The collaboration delivers accurate listings, improved customer engagement, and actionable insights that equip businesses to thrive in the dynamic digital marketplace.</p><h2 id=\"\"><strong id=\"\">How to integrate Dexknows + Synup?<br></strong></h2><p id=\"\">The Dexknows integration is available to all Synup listings plan subscribers. To view &amp; manage the Dexknows integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Dexknows logo to manage the Synup + Dexknows integration and associated settings.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Dexknows",
+    "description": "Elevate your business on DexKnows. Synup integration guarantees accurate information for superior online visibility and customer reach.",
+    "canonical": "https://www.synup.com/integrations/dexknows",
+    "ogImage": null
+  }
+}

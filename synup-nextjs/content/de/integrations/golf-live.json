@@ -1,0 +1,31 @@
+{
+  "slug": "gulflive",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Golf Live",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2a4e124eeb0d64033a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:06 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:06 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2a4e124eeb0d64032c_65313275e274cd13fe0c3081_GulfLive.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Gulflive mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">GulfLive + Synup</h1><p id=\"\"><strong id=\"\">Fügen Sie Brancheneinträge und Bewertungen auf GulfLIVE hinzu, fordern Sie sie an und bearbeiten Sie sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup.</strong></p><h2 id=\"\">Was ist GulfLive?</h2><p id=\"\">GulfLive, eine bekannte Online-Quelle für Nachrichten und Informationen an der Golfküste, dient als wichtige Ressource für Einwohner und Besucher gleichermaßen. Egal, ob Sie aktuelle Informationen über lokale Ereignisse oder eine ausführliche Berichterstattung über das Leben an der Golfküste suchen, GulfLIVE bietet wertvolle Einblicke und Berichterstattung, die sich auf die Region auswirken.</p><h2 id=\"\">Warum GulfLive + Synup?</h2><ul id=\"\"><li id=\"\">Vollständige Kontrolle über Angebote: Mit der Möglichkeit, Ihre Brancheneinträge auf GulfLive zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\">Erweitern Sie Ihre Reichweite: Wenn Sie Ihr Unternehmen über Synup zu GulfLive hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\">Genaue Geschäftsinformationen: Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf GulfLive veröffentlichen.</li><li id=\"\">Kundenbindung: Sehen Sie sich Bewertungen auf GulfLive an und antworten Sie darauf, um eine positive Beziehung zu Ihren Kunden aufzubauen und zu zeigen, dass Sie deren Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich GulfLive + Synup?</h2><p id=\"\">Die GulfLive-Integration steht allen Abonnenten des Synup Listings Plans zur Verfügung. Um die GulfLive-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das GulfLive-Logo, um die Synup + GulfLive-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#a5c5cd",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2abe431e2855409f32_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).webp",
+  "integration_summary": "Gulf Live ist die führende Nachrichten- und Informationswebsite.",
+  "seo": {
+    "title": "Golf Live",
+    "description": "Erhöhen Sie Ihre Sichtbarkeit auf Gulflive. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Präsenz und Zielgruppenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/golf-live",
+    "ogImage": null
+  }
+}

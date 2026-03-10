@@ -1,0 +1,28 @@
+{
+  "slug": "review-generation-via-sms-email",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Generación de reseñas por SMS y correo electrónico",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0af08b64c247dd76e4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:34 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:34 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "reviews",
+  "list_order": "19.0",
+  "select_pages": "birdeye-alternative; uberall-alternative; brightlocal-alternative; vendasta-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; review-trackers-alternative; surefire-local-alternative; rio-seo-alternative; dbaplatform-alternative; synup-vs-experience-com; synup-vs-location-bank; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-rannko; synup-vs-whitespark; synup-vs-reviewgain; synup-vs-get-more-reviews; promanage-alternative; zceppa-alternative",
+  "tabel_category": "Generación de reseñas por SMS y correo electrónico",
+  "alt_select_pages": "best-vendasta-alternative",
+  "seo": {
+    "title": "Generación de reseñas por SMS y correo electrónico",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/review-generation-via-sms-email",
+    "ogImage": null
+  }
+}

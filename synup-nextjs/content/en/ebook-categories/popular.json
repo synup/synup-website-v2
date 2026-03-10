@@ -1,0 +1,20 @@
+{
+  "slug": "popular",
+  "locale": "en",
+  "collectionType": "ebook-categories",
+  "name": "Popular",
+  "collection_id": "6891de9eb759f4bedd7d4de6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891debeb63cae0b7704d8ff",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:36:46 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:36:46 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Popular",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/ebook-categories/popular",
+    "ogImage": null
+  }
+}

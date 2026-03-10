@@ -1,0 +1,26 @@
+{
+  "slug": "ryan-k",
+  "locale": "en",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Ryan K.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891d1cd796c0366e375c1eb",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 09:41:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 09:41:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1ca6a2bf83f02a1d1d0_67612e233371249724ab54a0_20241217T0754-087ca904-2dd0-47a0-9221-5d66189e4025.webp",
+  "one_line_review": "\"Excellent product, amazing service\"",
+  "detailed_review": "<p id=\"\"><strong id=\"\">What do you like best about Synup?</strong></p><p id=\"\">Synup is a great platform that allows us to improve our marketing efforts as well as the efforts of our clients. They provide excellent service as well, ensuring success for those that use their platform.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What do you dislike about Synup?</strong></p><p id=\"\">There is not much to dislike from a product standpoint. If I had to suggest anything it would potentially be to provide tutorial videos for certain functions. Regardless, their employees are great at showing us new features.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What problems is Synup solving and how is that benefiting you?</strong></p><p id=\"\">They are helping to solve the complexity of SEO and making it accessible and easy to use. That benefits us by reducing some of our time commitments and allowing us to provide our clients with an excellent service.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1cd796c0366e375c1a9_67612e2722690e519f87e2f5_20241217T0754-8beeee65-49b5-4289-a45e-33677c8e9d2c.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Marketing Director</p><p id=\"\">Small-Business (50 or fewer emp.)</p>",
+  "seo": {
+    "title": "Ryan K.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-written-reviews/ryan-k",
+    "ogImage": null
+  }
+}

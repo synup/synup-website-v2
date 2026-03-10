@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-gradeus",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Preisgestaltung - Gradeus",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c77651d9b9073be8ce2a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:30 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "34,99 $/Monat",
+  "second_col": "110 $/Monat",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "synup-vs-grade-us",
+  "tabel_category": "Preisgestaltung",
+  "seo": {
+    "title": "Preisgestaltung - Gradeus",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/preisgestaltung-gradeus",
+    "ogImage": null
+  }
+}

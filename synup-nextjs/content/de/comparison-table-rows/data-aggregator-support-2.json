@@ -1,0 +1,27 @@
+{
+  "slug": "data-aggregator-support-2",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Unterstützung für Datenaggregatoren",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c77bc4174e372861c82d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "listings-management",
+  "list_order": "10.0",
+  "select_pages": "brightlocal-alternative; vendasta-alternative; moz-local-alternative; widewail-alternative; milestone-inc-alternative; review-trackers-alternative; surefire-local-alternative; rio-seo-alternative; seosamba-alternative; advicelocal-alternative; synup-vs-location-bank",
+  "tabel_category": "Unterstützung für Datenaggregatoren",
+  "seo": {
+    "title": "Unterstützung für Datenaggregatoren",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/data-aggregator-support-2",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "snappy-tomato-pizza",
+  "locale": "de",
+  "collectionType": "testimonials",
+  "name": "Bissige Tomatenpizza",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bb7108d8c2bc0bcb9fdd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:59:13 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:59:13 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "Bissige Tomatenpizza",
+  "person_name": "Andy Ritter",
+  "designation": "Marketingdirektor bei Snappy Tomato Pizza Co.",
+  "partner_description": "Andy Ritter, Marketingdirektor bei Snappy Tomato Pizza Co",
+  "partner": "__MISSING__",
+  "partner_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb7108d8c2bc0bcb9fd5_60236b3620b8e2f60c373ead_snappy-pizza-6de96bbee68e191209f1e6ee18dad9e0%2520(1).webp",
+  "partner_image": null,
+  "partner_testimonial": "<h5 id=\"\">Synup hilft uns dabei, unsere Marketingpräsenz, unseren Geschäftsinhalt, unser Reputationsmanagement und unsere Analysen gleichzeitig ständig zu verbessern.</h5>",
+  "seo": {
+    "title": "Bissige Tomatenpizza",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/testimonials/bissige-tomatenpizza",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-birdeye",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Tarification - Birdeye",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61553bf97e58e86ffb52f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:59 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "34,99 $/mois",
+  "second_col": "299$ par mois",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "birdeye-alternative",
+  "tabel_category": "Tarification",
+  "seo": {
+    "title": "Tarification - Birdeye",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/tarification-birdeye",
+    "ogImage": null
+  }
+}

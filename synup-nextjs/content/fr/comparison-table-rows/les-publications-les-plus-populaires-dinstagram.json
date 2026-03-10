@@ -1,0 +1,27 @@
+{
+  "slug": "top-posts-from-instagram",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Les publications les plus populaires d'Instagram",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6154cc396f63dcb9a8b75",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:52 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:52 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "ai-posts-ideas",
+  "list_order": "20.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; sprout-social-alternative; buffer-alternative; hootsuite-alternative",
+  "tabel_category": "Les publications les plus populaires d'Instagram",
+  "seo": {
+    "title": "Les publications les plus populaires d'Instagram",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/les-publications-les-plus-populaires-dinstagram",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "email-campaigns-2",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Email Campaigns",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68d3ee3fe19431fda6eef3da",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Sep 24 2025 13:12:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Sep 24 2025 13:15:08 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Sep 24 2025 14:57:26 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "seo": {
+    "title": "Email Campaigns",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/email-campaigns",
+    "ogImage": null
+  }
+}

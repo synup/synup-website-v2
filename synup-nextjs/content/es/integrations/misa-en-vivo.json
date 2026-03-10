@@ -1,0 +1,31 @@
+{
+  "slug": "masslive",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Misa en vivo",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76293919a568621793d0f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:51 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:51 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Gestione la información de su empresa en Masslive con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Suscribirse a MassLive +</h1><p id=\"\"><strong id=\"\">Agregue, reclame y edite listados y reseñas de empresas en MassLive con las herramientas de administración de listados y reseñas de Synup.</strong></p><h2 id=\"\">¿Qué es MassLive?</h2><p id=\"\">MassLive, una fuente respetada de noticias e información en Massachusetts, ofrece una cobertura completa de los eventos locales, la política, los deportes y más. Tanto si eres un residente que busca actualizaciones sobre tu comunidad como si eres un visitante interesado en los últimos acontecimientos, MassLive ofrece una plataforma fiable para mantenerte informado.</p><h2 id=\"\">¿Por qué MassLive + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Control total sobre los listados:</strong> Con la capacidad de administrar sus listados de negocios en MassLive, usted mantiene un control total sobre su presencia en línea, asegurándose de que su negocio esté representado de manera precisa.</li><li id=\"\"><strong id=\"\">Amplíe su alcance:</strong> Agregar su empresa a MassLive a través de Synup significa una mayor visibilidad. Ayude a los clientes potenciales a descubrirlo, ampliando su alcance de manera efectiva.</li><li id=\"\"><strong id=\"\">Información empresarial precisa:</strong> Mejore la confianza y la credibilidad publicando información precisa en MassLive.</li><li id=\"\"><strong id=\"\">Compromiso con el cliente:</strong> Consulta y responde a las opiniones en MassLive para fomentar una relación positiva con tus clientes y demostrar que valoras sus comentarios y que estás atento a sus necesidades.</li></ul><h2 id=\"\">¿Cómo integrar MassLive + Synup?</h2><p id=\"\">La integración con MassLive está disponible para todos los suscriptores del plan Synup Listings. Para ver y administrar la integración con MassLive:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haga clic en el logotipo de MassLive para gestionar la integración de Synup + MassLive y la configuración asociada.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#9a2fad",
+  "integration_bg_image": null,
+  "integration_summary": "MassLive Media es una empresa líder en medios y marketing en Nueva Inglaterra.",
+  "seo": {
+    "title": "Misa en vivo",
+    "description": "Mejore su presencia en MassLive. La integración de Synup garantiza datos empresariales precisos para una visibilidad en línea superior y una mayor participación de los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/misa-en-vivo",
+    "ogImage": null
+  }
+}

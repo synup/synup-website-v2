@@ -1,0 +1,28 @@
+{
+  "slug": "zoho",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Zoho",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f239aed5de26a2b457cc2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:46 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:46 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f239aed5de26a2b457cbc_6548e2bcd207440810b3412d_zoho.svg",
+  "title_tag": "Integrate Zoho CRM with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us; canada; brazil; belgium; hong-kong; india; indonesia; malaysia; singapore; taiwan",
+  "detailed_paragraph": "<h1 id=\"\">Zoho + Synup</h1><p id=\"\">Empower your customer relationships with Zoho CRM + Synup: Streamline processes, enhance engagements, and turbocharge your review management.</p><h2 id=\"\">What is Zoho CRM?</h2><p id=\"\">Zoho CRM optimizes customer relationship management by streamlining lead and contact processes, enhancing sales automation, and improving customer support. Its multifunctionality includes insightful analytics, extensive integration, and customizable features, catering to unique business needs and driving growth through focused customer engagements.</p><h2 id=\"\"><strong id=\"\">Why Zoho CRM + Synup?</strong></h2><p id=\"\"><strong id=\"\">Seamless Review Acquisition: </strong>Integrating Zoho CRM with Synup automates the review request process. When a customer interaction is logged in Zoho, Synup automatically sends out a review request, making the process instantaneous and efficient.</p><p id=\"\"><strong id=\"\">Optimized Customer Interactions: </strong>Utilize Zoho CRM’s rich customer interaction data. Synup leverages this data to tailor review requests, making them more personalized and likely to receive a response.</p><p id=\"\"><strong id=\"\">Enhanced Automation: </strong>The Zoho CRM and Synup integration minimizes manual intervention in sending review requests, enhancing operational efficiency, and ensuring no opportunity is missed.</p><p id=\"\"><strong id=\"\">Strategic Use of Customer Data: </strong>Customer data housed in Zoho CRM is strategically used by Synup to understand customer interactions better, aiding in sending out well-timed review requests.</p><p id=\"\"><strong id=\"\">Unified Dashboard: </strong>Manage and monitor customer reviews effortlessly through a unified dashboard, simplifying review management and allowing for quick responses.</p><p id=\"\">‍</p><p id=\"\">This powerful integration simplifies and amplifies the review management process, ensuring your business maximizes the utility of every customer interaction captured in Zoho CRM.</p><h2 id=\"\">How to integrate Zoho + Synup?</h2><p id=\"\">Zoho integration for customer relationship management is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the CRM Integration tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM Button.</li></ul><ul id=\"\"><li id=\"\">Select Zoho as your CRM software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Zoho account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Manage customer relationships using Zoho.</li></ul><p id=\"\">‍</p><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Zoho",
+    "description": "Maximize customer engagement and streamline review management with the integrated power of Zoho CRM and Synup, designed for business growth.",
+    "canonical": "https://www.synup.com/integrations/zoho",
+    "ogImage": null
+  }
+}

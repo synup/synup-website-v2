@@ -1,0 +1,28 @@
+{
+  "slug": "pipedrive",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Pipedrive",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2394cafb9a935e69eb2b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:40 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:40 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2394cafb9a935e69eb1f_6548e2aea387ad070c2b502d_Pipedrive.svg",
+  "title_tag": "Integrate Pipedrive with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "united-states-us; canada",
+  "detailed_paragraph": "<h1 id=\"\">Pipedrive + Synup</h1><p id=\"\">Elevate Sales Success with Pipedrive + Synup: Seamlessly integrate lead and review management, enhance automation, and unlock data-driven insights for streamlined customer relationships and optimized workflows.</p><h2 id=\"\">What Is Pipedrive?</h2><p id=\"\">Pipedrive is a CRM software tailored for enhancing the sales processes of small and medium-sized businesses. It facilitates efficient lead management, sales automation, and integrates seamlessly with various third-party applications. Pipedrive’s customizable and user-friendly interface ensures improved sales workflows and greater productivity, positioning businesses for significant growth and effective sales outcomes.</p><h2 id=\"\">Why Pipedrive + Synup</h2><p id=\"\"><strong id=\"\">Streamlined Lead and Review Management: </strong>The union allows businesses to seamlessly manage leads and customer interactions, ensuring that customer reviews and feedback are effectively handled within the sales pipeline.</p><p id=\"\"><strong id=\"\">Enhanced Automation: </strong>Synup’s capabilities, when integrated with Pipedrive through API, facilitate automation in managing customer reviews and feedback, reducing manual efforts and increasing efficiency.</p><p id=\"\"><strong id=\"\">Focused Customer Relationship Efforts: </strong>The integration centralizes customer data and reviews, enabling businesses to create focused and personalized customer relationship strategies, improving customer satisfaction and loyalty.</p><p id=\"\"><strong id=\"\">Improved Analysis and Reporting: </strong>Utilizing Pipedrive's analytics with Synup’s review data allows businesses to gain richer insights into customer satisfaction, making data-driven decisions for improving products and services.</p><p id=\"\"><strong id=\"\">Optimized Workflow:</strong> By aligning review acquisition and management processes with sales activities, businesses can optimize workflows, enabling sales and customer service teams to work more cohesively and effectively.<br>‍</p><p id=\"\">This collaboration ensures a more unified, automated, and efficient approach to managing leads, customer relationships, and reviews, ultimately driving business improvement and customer satisfaction.</p><h2 id=\"\">How to integrate Pipedrive + Synup?</h2><p id=\"\">Pipedrive integration for customer relationship management is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the CRM Integration tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM Button.</li></ul><ul id=\"\"><li id=\"\">Select Pipedrive as your CRM software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Pipedrive account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Manage customer relationships using Pipedrive.</li></ul><p id=\"\">‍</p><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Pipedrive",
+    "description": "Elevate sales with Pipedrive's CRM – streamline processes, automate sales, and drive growth with ease.",
+    "canonical": "https://www.synup.com/integrations/pipedrive",
+    "ogImage": null
+  }
+}

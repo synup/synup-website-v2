@@ -1,0 +1,28 @@
+{
+  "slug": "sendgrid",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Enviar cuadrícula",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628c8ccc7c748b130ff0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2bf43a3211b2b79047_6548c3469bca07c8ff72f16d_Sendgrid.svg",
+  "title_tag": "Integre Sendgrid con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Suscribirse a SendGrid +</strong></h1><p id=\"\">Mejore sus esfuerzos de adquisición y gestión de reseñas al combinar la apreciada escalabilidad y entrega de correos electrónicos de SendGrid con las capacidades especializadas de mejora de reseñas de Synup.</p><h2 id=\"\">¿Qué es SendGrid?</h2><p id=\"\">SendGrid es un servicio de correo electrónico basado en la nube reconocido por su entrega confiable de correo electrónico, escalabilidad y análisis en tiempo real. Está diseñado para gestionar y optimizar el envío de correos electrónicos transaccionales y de marketing, garantizando que los mensajes lleguen a las bandejas de entrada de los destinatarios de forma eficaz.</p><h2 id=\"\">¿Por qué SendGrid + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión confiables: </strong>Utilice los confiables servicios de entrega de correo electrónico de SendGrid para garantizar que sus solicitudes de revisión lleguen rápidamente a las bandejas de entrada de los clientes, lo que aumenta la probabilidad de obtener comentarios valiosos.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Campañas de revisión escalables: </strong>Aproveche la escalabilidad de SendGrid para gestionar eficazmente las campañas de solicitud de reseñas de diferentes tamaños, garantizando la coherencia y la adaptabilidad de las estrategias de divulgación.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Perspectivas sobre la revisión transaccional: </strong>Utilice los correos electrónicos transaccionales para solicitar revisiones oportunas, aprovechando la relevancia inmediata de las interacciones con los clientes para obtener comentarios perspicaces e impactantes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión personalizadas: </strong>Utilice las funciones de personalización de SendGrid para personalizar los correos electrónicos de solicitud de reseñas, asegurándose de que cada mensaje se alinee con las experiencias y expectativas únicas de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Integración de análisis de reseñas: </strong>Incorpore las capacidades analíticas de Synup para recopilar información completa sobre el rendimiento y el impacto de sus correos electrónicos de solicitud de reseñas, lo que permite un refinamiento continuo.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Operaciones de revisión simplificadas: </strong>Combine la experiencia en correo electrónico de SendGrid con las herramientas de gestión de reseñas de Synup para agilizar los flujos de trabajo, mejorar la eficiencia y optimizar las estrategias de adquisición de reseñas.</li></ul><p id=\"\">Al combinar SendGrid con Synup, obtenga acceso a una combinación formidable de entrega de correo electrónico confiable, campañas escalables y herramientas de administración de reseñas mejoradas, diseñadas para optimizar sus procesos y resultados de adquisición de reseñas.</p><h2 id=\"\">¿Cómo integrar SendGrid + Synup?</h2><p id=\"\">La integración de SendGrid para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Seleccione la carpeta o ubicación a la que desea conectar SendGrid.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Enviar cuadrícula",
+    "description": "Mejore su adquisición de reseñas con SendGrid + Synup: entrega de correo electrónico confiable, escalabilidad y campañas de revisión personalizadas para obtener comentarios impactantes.",
+    "canonical": "https://www.synup.com/es/integrations/sendgrid",
+    "ogImage": null
+  }
+}

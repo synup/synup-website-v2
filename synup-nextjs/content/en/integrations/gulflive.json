@@ -1,0 +1,31 @@
+{
+  "slug": "gulflive",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "GulfLive",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238f5c42389784e72d69",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238e5c42389784e72d53_65313275e274cd13fe0c3081_GulfLive.svg",
+  "title_tag": "Manage Your Business Information on Gulflive with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">GulfLive + Synup</h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on GulfLive with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\">What is GulfLive?</h2><p id=\"\">GulfLive, a prominent online source for Gulf Coast news and information, serves as an essential resource for residents and visitors alike. Whether you're seeking updates on local events or in-depth coverage of Gulf Coast life, GulfLive provides valuable insights and news coverage that impacts the region.</p><h2 id=\"\">Why GulfLive + Synup?</h2><ul id=\"\"><li id=\"\">Complete Control Over Listings: With the ability to manage your business listings on GulfLive, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\">Broaden Your Reach: Adding your business to GulfLive through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\">Accurate Business Information: Enhance trust and credibility by publishing accurate information on GulfLive.</li><li id=\"\">Customer Engagement: View and respond back to reviews on GulfLive, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ul><h2 id=\"\">How to integrate GulfLive + Synup?</h2><p id=\"\">The GulfLive integration is available to all Synup listings plan subscribers. To view &amp; manage the GulfLive integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the GulfLive logo to manage the Synup + GulfLive integration and associated settings.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#a5c5cd",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23883e0f3cbdd7931de0_6761253f37ef61f13f82fa75_20241217T0716-3c6a0216-75de-4766-9726-5a78339a7d79.webp",
+  "integration_summary": "Gulf Live is the premier news and information website.",
+  "seo": {
+    "title": "GulfLive",
+    "description": "Elevate your visibility on Gulflive. Synup integration ensures accurate business data for superior online presence and audience engagement.",
+    "canonical": "https://www.synup.com/integrations/gulflive",
+    "ogImage": null
+  }
+}

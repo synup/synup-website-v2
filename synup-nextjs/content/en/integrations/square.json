@@ -1,0 +1,28 @@
+{
+  "slug": "square",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Square",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2396cfa0300d0cfcffef",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2396cfa0300d0cfcffea_6548e14e156b740a51f67262_Square.svg",
+  "title_tag": "Integrate Square POS with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Square + Synup</strong></h1><p id=\"\">Experience the evolution of customer review strategies by seamlessly integrating Square’s powerful payment processing capabilities with Synup’s sophisticated review acquisition and management features.</p><h2 id=\"\">What is Square?</h2><p id=\"\">Square is a remarkable payment processing platform that simplifies transactions, facilitates effortless point-of-sale interactions, and enhances overall customer payment experiences, making it an essential tool for businesses aiming for transactional excellence.</p><h2 id=\"\">Why Square + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Instant Review Prompts:</strong> Utilize the immediacy of Square’s payment confirmations to prompt customers for reviews instantly, capturing fresh and accurate impressions of their experiences.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Unified Customer Insights: </strong>Combine Square’s transactional details with Synup’s review data, cultivating a unified perspective of customer experiences, preferences, and satisfaction levels.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Mechanisms: </strong>Integrate review acquisition into the payment process, automating review requests to align seamlessly with customer payment completions, ensuring a smooth and intuitive feedback flow.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Personalized Feedback Requests:</strong> Customize review requests based on individual payment histories and transaction details, creating more relevant and engaging review interactions that encourage customer participation.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Business Enhancements: </strong>Utilize the synthesis of payment data and customer feedback to formulate improved business strategies, offerings, and customer service practices, driving continuous improvement and innovation.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Efficient Operational Integration: </strong>Achieve operational brilliance by embedding review management intricacies seamlessly within Square’s payment workflows, promoting consistency and efficiency in customer feedback acquisition.</li></ul><p id=\"\">Fusing Square with Synup revitalizes review acquisition and management approaches, transforming each payment interaction into a strategic opportunity to garner insightful customer feedback, optimize business strategies, and cultivate enhanced customer relationships.</p><h2 id=\"\">How to integrate Square + Synup?</h2><p id=\"\">Square integration for payment processing is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Payment Processing tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Payment Gateway Button.</li></ul><ul id=\"\"><li id=\"\">Select Square as your payment processor.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Square account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up payment processing.</li></ul><ul id=\"\"><li id=\"\">Accept payments through Square.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Square",
+    "description": "Enhance Customer Feedback with Square + Synup: Transform Payments into Strategic Review Opportunities",
+    "canonical": "https://www.synup.com/integrations/square",
+    "ogImage": null
+  }
+}

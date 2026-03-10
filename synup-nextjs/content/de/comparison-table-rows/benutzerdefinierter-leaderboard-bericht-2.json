@@ -1,0 +1,27 @@
+{
+  "slug": "custom-leaderboard-report-2",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Benutzerdefinierter Leaderboard-Bericht 2",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c7702fdeb433d817a1c8",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:24 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:24 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "reviews",
+  "list_order": "20.0",
+  "select_pages": "sproutloud-alternative; turbify-alternative; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-whitespark; synup-vs-get-more-reviews; promanage-alternative; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Benutzerdefinierter Leaderboard-Bericht",
+  "seo": {
+    "title": "Benutzerdefinierter Leaderboard-Bericht 2",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/benutzerdefinierter-leaderboard-bericht-2",
+    "ogImage": null
+  }
+}

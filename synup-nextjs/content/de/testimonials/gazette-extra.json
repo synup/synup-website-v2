@@ -1,0 +1,28 @@
+{
+  "slug": "gazettextra",
+  "locale": "de",
+  "collectionType": "testimonials",
+  "name": "Gazette Extra",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bb715767576c863590cd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:59:13 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:59:13 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "Gazette Extra",
+  "person_name": "Laura Feit",
+  "designation": "Digitaler Vertriebsleiter bei GazettExtra",
+  "partner_description": "Laura Feit, digitale Vertriebsleiterin",
+  "partner": "__MISSING__",
+  "partner_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb715767576c863590c2_60236b3620b8e2eb10373eaa_gazette.webp",
+  "partner_image": null,
+  "partner_testimonial": "<h5 id=\"\">„Die Plattform von Synup ist sehr benutzerfreundlich und erleichtert die Profilverwaltung.“</h5><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Gazette Extra",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/testimonials/gazette-extra",
+    "ogImage": null
+  }
+}

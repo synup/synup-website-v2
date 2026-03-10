@@ -1,0 +1,28 @@
+{
+  "slug": "marketo",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Marketo",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2391c76067d79da74cab",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:37 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:37 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2391c76067d79da74ca6_6548dd6ce4b4f981b2c44115_Marketo.svg",
+  "title_tag": "Integrate Marketo with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Marketo + Synup</h1><p id=\"\">Unleash the power of personalized review management with Marketo + Synup integration.</p><h2 id=\"\">What is Marketo?</h2><p id=\"\">Marketo is a powerful marketing automation platform, adept at streamlining an array of marketing tasks from lead management to email campaigns. It specializes in curating personalized, engaging campaigns that nurture leads and foster enduring customer relationships, driving business success. Through its comprehensive tools, Marketo meticulously measures marketing efforts, ensuring strategies are continually optimized for maximum impact and revenue generation.</p><h2 id=\"\">Why Marketo + Synup?</h2><p id=\"\"><strong id=\"\">Enhanced Review Acquisition: </strong>Leverage Marketo’s automation to schedule and send personalized review requests, improving response rates and acquiring valuable customer feedback.</p><p id=\"\"><strong id=\"\">Strategic Campaigns for Improved Engagement: </strong>Utilize Marketo’s capabilities to segment audiences and tailor review request campaigns, ensuring relevancy and improving customer engagement.</p><p id=\"\"><strong id=\"\">Adaptive Customer Outreach: </strong>Marketo and Synup integration refines review strategies based on customer interactions, ensuring engaging and resonant review requests, enhancing positive feedback acquisition and online reputation.</p><p id=\"\"><strong id=\"\">Operational Efficiency and Cost Reduction: </strong>The integration simplifies the review management process, saving time and resources, allowing for a focus on strategic activities that enhance overall customer satisfaction and business performance.</p><p id=\"\"><strong id=\"\">Integrated Analysis for Informed Strategies: </strong>Harness the power of combined analytics to gain insights into customer satisfaction, helping in making informed decisions to optimize review acquisition strategies.</p><p id=\"\">With this integration, businesses find a robust solution that optimizes and simplifies the review acquisition process, leveraging automation, personalization, and integrated analytics to enhance customer engagement and business performance.</p><h2 id=\"\">How to integrate Marketo + Synup?</h2><p id=\"\">Marketo integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Marketo to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Marketo",
+    "description": "Maximize review impact with Marketo + Synup integration. Automated, personalized reviews for improved engagement and efficiency.",
+    "canonical": "https://www.synup.com/integrations/marketo",
+    "ogImage": null
+  }
+}

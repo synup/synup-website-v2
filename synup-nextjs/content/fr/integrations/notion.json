@@ -1,0 +1,28 @@
+{
+  "slug": "notion",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Notion",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6835bf91c4dadd6924",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:56 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:56 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf24f3d747314c41acc3_6548e103527c57f8f0aacb1c_Notion.svg",
+  "title_tag": "Intégrez Notion à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Notion + Synchronisation</strong></h1><p id=\"\">Libérez le potentiel de transformation de la gestion des avis clients en intégrant l'espace de travail tout-en-un de Notion au cadre complet d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que Notion&nbsp;?</h2><p id=\"\">Notion est un espace de travail collaboratif qui consolide les notes, les tâches, les wikis et les bases de données, permettant aux équipes de naviguer dans les projets et les flux de travail de manière unifiée et organisée, favorisant ainsi une productivité et une collaboration accrues.</p><h2 id=\"\">Pourquoi Notion + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Référentiel d'évaluations centralisé&nbsp;: </strong>Utilisez les prouesses organisationnelles de Notion pour centraliser les évaluations et les données associées, facilitant ainsi l'accès, l'analyse et le développement de stratégies au sein d'un espace de travail unifié.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Planification de l'examen stratégique&nbsp;:</strong> Utilisez les outils de planification polyvalents de Notion pour définir des stratégies complètes pour une acquisition efficace des avis et un engagement client percutant.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Informations sur les évaluations collaboratives&nbsp;: </strong>Exploitez l'essence collaborative de Notion pour faciliter la participation de l'ensemble de l'équipe à l'analyse, à l'interprétation et à la planification des actions des avis et des commentaires des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de révision automatisés&nbsp;:</strong> Tirez parti des capacités d'intégration de Notion pour automatiser les parties essentielles du processus d'acquisition des avis, en favorisant la cohérence et la rapidité de l'engagement client.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Sollicitations d'évaluation personnalisées&nbsp;:</strong> Tirez parti des fonctionnalités de personnalisation de Notion pour personnaliser les sollicitations d'avis, en veillant à les aligner sur les expériences et les attentes des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Prise de décisions éclairées&nbsp;: </strong>Utilisez l'espace de travail intégré pour consolider les informations et prendre des décisions éclairées qui améliorent l'efficacité des stratégies d'acquisition et de gestion des avis.</li></ul><p id=\"\">L'intégration de Notion à Synup dévoile un espace de travail harmonisé où la gestion des avis est rationalisée, stratégique et synergique, facilitant ainsi une approche plus organisée, collaborative et perspicace de l'acquisition et de l'optimisation des avis et des commentaires des clients.</p><h2 id=\"\">Comment intégrer Notion + Synup&nbsp;?</h2><p id=\"\">L'intégration de notions pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Notion.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Notion",
+    "description": "Libérez le potentiel d'évaluation des clients avec Notion + Synup. Centralisez, élaborez des stratégies et collaborez pour des évaluations percutantes. Boostez votre activité dès maintenant !",
+    "canonical": "https://www.synup.com/fr/integrations/notion",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "trending-hashtags",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Hashtags populares",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0ba7994e93f1b03d51",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "ai-posts-ideas",
+  "list_order": "24.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; socialbee-alternative; socialpilot-alternative; planable-alternative; reputation-com-alternative; sprout-social-alternative; buffer-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Hashtags populares",
+  "seo": {
+    "title": "Hashtags populares",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/hashtags-populares",
+    "ogImage": null
+  }
+}

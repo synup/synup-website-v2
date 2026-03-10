@@ -1,0 +1,26 @@
+{
+  "slug": "local-seo-checklist",
+  "locale": "en",
+  "collectionType": "tools",
+  "name": "Local SEO Checklist",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6877e3993b57aa1d536ebab9",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Jul 16 2025 17:38:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Jul 16 2025 17:38:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Jul 17 2025 16:53:41 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6877e3993b57aa1d536ebab1_676124fbc5e21898b96b2d0b_20241217T0715-0f8ad5b2-0478-44ab-9796-eb193b29c25d.webp",
+  "description": "<p id=\"\">Keep track of your Local SEO progress with our handy checklist.</p>",
+  "description_short": "Keep track of your Local SEO progress with our handy checklist.",
+  "link": "https://www.localseochecklist.org/",
+  "order": "1.0",
+  "button_text": "Unlock Your SEO Potential",
+  "seo": {
+    "title": "Local SEO Checklist",
+    "description": "<p id=\"\">Keep track of your Local SEO progress with our handy checklist.</p>",
+    "canonical": "https://www.synup.com/tools/local-seo-checklist",
+    "ogImage": null
+  }
+}

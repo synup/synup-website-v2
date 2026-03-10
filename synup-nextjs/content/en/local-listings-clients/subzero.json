@@ -1,0 +1,22 @@
+{
+  "slug": "subzero",
+  "locale": "en",
+  "collectionType": "local-listings-clients",
+  "name": "Subzero",
+  "collection_id": "6891dfa5ae2c74373e72307c",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891dfd597eb86ddcdd7d236",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:41:25 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:41:25 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "clients_logos": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891dfd497eb86ddcdd7d1f0_67601aca5cc197c48c4c6c55_20241216T1219-7c217f69-1d27-4215-8a89-a4b3618e0150.webp",
+  "list_of_number": "3.0",
+  "seo": {
+    "title": "Subzero",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/local-listings-clients/subzero",
+    "ogImage": null
+  }
+}

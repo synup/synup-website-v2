@@ -1,0 +1,27 @@
+{
+  "slug": "calendar-feed-lists-view-of-posts-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Visualización de publicaciones en Calendario/Feed/Listas",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da15dfccd81574f07465",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:45 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Solo calendario",
+  "select_table_category": "posting",
+  "list_order": "15.0",
+  "select_pages": "sendible-alternative",
+  "tabel_category": "Visualización de publicaciones en Calendario/Feed/Listas",
+  "seo": {
+    "title": "Visualización de publicaciones en Calendario/Feed/Listas",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/calendar-feed-lists-view-of-posts-2",
+    "ogImage": null
+  }
+}

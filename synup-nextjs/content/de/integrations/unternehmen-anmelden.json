@@ -1,0 +1,28 @@
+{
+  "slug": "enroll-business",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Unternehmen anmelden",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf3776bd02b97b4616b0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:19 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:19 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3776bd02b97b461647_65312f1a9463af36ff412451_Enroll%2520Business.svg",
+  "title_tag": "Fügen Sie Ihr Unternehmen zu EnrollBusiness mit Synup hinzu",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; france; germany; uae; south-africa; ireland; australia; new-zealand; canada; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Business einschreiben + Synup</h1><p id=\"\"><strong id=\"\">Mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup können Sie Brancheneinträge und Bewertungen auf Enroll Business hinzufügen, beantragen und bearbeiten.</strong></p><h2 id=\"\">Was ist Enroll Business?</h2><p id=\"\">Enroll Business kann eine Plattform oder ein Dienst sein, der es Unternehmen ermöglicht, Angebote oder Profile zu erstellen, möglicherweise zu Marketing- und Sichtbarkeitszwecken. Es könnte Unternehmen dabei helfen, ein breiteres Publikum zu erreichen.</p><h2 id=\"\">Warum Enroll Business + Synup?</h2><ul id=\"\"><li id=\"\">Vollständige Kontrolle über Angebote: Mit der Möglichkeit, Ihre Brancheneinträge auf Enroll Business zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\">Erhöhen Sie Ihre Reichweite: Wenn Sie Ihr Unternehmen über Synup zu Enroll Business hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\">Präzise Geschäftsinformationen: Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf Enroll Business veröffentlichen.</li><li id=\"\">Kundenbindung: Sehen Sie sich Bewertungen auf Enroll Business an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie deren Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich Enroll Business + Synup?</h2><p id=\"\">Die Enroll Business-Integration steht allen Abonnenten des Synup Listings Plans zur Verfügung. Um die Enroll Business-Integration einzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das Enroll Business-Logo, um die Synup + Enroll Business-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol><p id=\"\">‍</p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Unternehmen anmelden",
+    "description": "Nahtlose Integration für die Registrierung von Unternehmen. Synup sorgt für genaue Informationen und verbessert so die Sichtbarkeit und die Kundenbeziehungen.",
+    "canonical": "https://www.synup.com/de/integrations/unternehmen-anmelden",
+    "ogImage": null
+  }
+}

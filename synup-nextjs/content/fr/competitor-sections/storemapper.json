@@ -1,0 +1,29 @@
+{
+  "slug": "storemapper",
+  "locale": "fr",
+  "collectionType": "competitor-sections",
+  "name": "Storemapper",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6171a6ffa381f1d112f3c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:42:34 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:42:34 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "Idéal pour : les indépendants, les grandes entreprises, les moyennes entreprises, les petites entreprises",
+  "description": "<h2 id=\"\">Que fait Storemapper&nbsp;?</h2><p id=\"\">Storemapper propose des widgets de localisation de magasins personnalisables pour les marques de commerce électronique, les produits financés par Kickstarter et les grands détaillants. Ces widgets s'intègrent parfaitement aux sites Web et proposent des thèmes cartographiques personnalisés, une intégration à Facebook et des outils d'analyse. <br></p><a href=\"https://storemapper.com/\" id=\"\"><strong id=\"\"><em id=\"\">Une source&nbsp;: https://storemapper.com</em></strong></a><h2 id=\"\">Principales caractéristiques</h2><p id=\"\">➡️ Intégrations en un clic</p><p id=\"\">➡️ Application mobile</p><p id=\"\">➡️ Téléchargeur en masse</p><p id=\"\">➡️ Géo-codage automatique</p><p id=\"\">➡️ Fonctionnalités de déduplication</p><p id=\"\">➡️ Entièrement personnalisable avec CSS</p><p id=\"\">➡️ Analyse de la localisation des magasins</p><h2 id=\"\">Pros</h2><p id=\"\"><br>✅ Simplicité et facilité de conception dans le processus de création<br>✅ La facilité d'utilisation pour ajouter des emplacements supplémentaires, des possibilités de recherche et des filtres clients</p><p id=\"\">✅ Disponible à la fois sur ordinateur de bureau et sur téléphone</p><p id=\"\">✅ Service client rapide</p><h2 id=\"\"><br>Les inconvénients</h2><p id=\"\">❌ Limitation du nombre d'images et de liens vers des sites Web<br>❌ Aucune option pour se connecter à une base de données SQL</p><p id=\"\">❌ La cartographie Google ne fonctionne pas très bien avec les adresses internationales</p><p id=\"\">❌ Personnalisations minimales disponibles<br><br></p><h3 id=\"\"><strong id=\"\"><em id=\"\">Le «&nbsp;Micro&nbsp;», c'est-à-dire la variante de base, est au prix de 24,99$ par mois</em></strong></h3>",
+  "what_people_say": "<p id=\"\">‍</p><h3 id=\"\">Ce que les clients disent de Storemapper</h3><p id=\"\"><strong id=\"\">J'aime</strong>: <em id=\"\">«&nbsp;L'intégration facile, l'interface utilisateur personnalisable et la modification peuvent être effectuées facilement à l'aide d'une simple feuille Excel et d'un service client rapide&nbsp;»</em></p><p id=\"\"><strong id=\"\">N'aime pas&nbsp;: </strong><em id=\"\">«&nbsp;Limitation du nombre d'images et de liens vers des sites Web, Aucune option pour se connecter à une base de données SQL, Un tableau de bord Analytics plus détaillé est souhaité&nbsp;» </em></p><p id=\"\"><strong id=\"\"><em id=\"\">*Critique extraite et citée via G2*</em></strong></p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Storemapper",
+    "description": "<h2 id=\"\">Que fait Storemapper&nbsp;?</h2><p id=\"\">Storemapper propose des widgets de localisation de magasins personnalisables pour les marques de commerce électronique, les produits financés par Kickstarter et les grands détaillants. Ces widgets s'intègrent parfaitement aux sites Web et proposent des thèmes cartographiques personnalisés, une intégration à Facebook et des outils d'analyse. <br></p><a href=\"https://storemapper.com/\" id=\"\"><strong id=\"\"><em id=\"\">Une source&nbsp;: https://storemapper.com</em></strong></a><h2 id=\"\">Principales caractéristiques</h2><p id=\"\">➡️ Intégrations en un clic</p><p id=\"\">➡️ Application mobile</p><p id=\"\">➡️ Téléchargeur en masse</p><p id=\"\">➡️ Géo-codage automatique</p><p id=\"\">➡️ Fonctionnalités de déduplication</p><p id=\"\">➡️ Entièrement personnalisable avec CSS</p><p id=\"\">➡️ Analyse de la localisation des magasins</p><h2 id=\"\">Pros</h2><p id=\"\"><br>✅ Simplicité et facilité de conception dans le processus de création<br>✅ La facilité d'utilisation pour ajouter des emplacements supplémentaires, des possibilités de recherche et des filtres clients</p><p id=\"\">✅ Disponible à la fois sur ordinateur de bureau et sur téléphone</p><p id=\"\">✅ Service client rapide</p><h2 id=\"\"><br>Les inconvénients</h2><p id=\"\">❌ Limitation du nombre d'images et de liens vers des sites Web<br>❌ Aucune option pour se connecter à une base de données SQL</p><p id=\"\">❌ La cartographie Google ne fonctionne pas très bien avec les adresses internationales</p><p id=\"\">❌ Personnalisations minimales disponibles<br><br></p><h3 id=\"\"><strong id=\"\"><em id=\"\">Le «&nbsp;Micro&nbsp;», c'est-à-dire la variante de base, est au prix de 24,99$ par mois</em></strong></h3>",
+    "canonical": "https://www.synup.com/fr/competitor-sections/storemapper",
+    "ogImage": null
+  }
+}

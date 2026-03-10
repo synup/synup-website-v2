@@ -1,0 +1,26 @@
+{
+  "slug": "ahmad-a",
+  "locale": "fr",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Ahmed A.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60540013660be4e64d58a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:26:24 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:26:24 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab61fea51edc2c81133_65effa9c4cc2c6080cff5974_g2-5-star.webp",
+  "one_line_review": "« C'est très pratique de tout gérer sur un seul tableau de bord ! De plus, le service client est excellent ! »",
+  "detailed_review": "<p id=\"\"><strong id=\"\">Qu'est-ce que tu préfères chez Synup&nbsp;?</strong></p><p id=\"\">Tableau de bord facile à naviguer, intégration facile avec tous les sites Web. Le service client est là quand vous en avez besoin et répond à toutes vos questions.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Qu'est-ce que tu n'aimes pas chez Synup&nbsp;?</strong></p><p id=\"\">Tous les sites Web ne sont pas disponibles pour être intégrés à Synup, mais les principaux le sont.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Quels sont les problèmes résolus par Synup et en quoi cela vous est-il bénéfique&nbsp;?</strong></p><p id=\"\">Nous sommes en mesure de répondre et de gérer tous les avis sans en oublier aucun.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab743d7c281774d0f88_65f138c8248f0423a4b6a7dc_G2-reviewer-19.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">PDG</p><p id=\"\">Marché intermédiaire (51 à 1 000 temp.)</p>",
+  "seo": {
+    "title": "Ahmed A.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonial-written-reviews/ahmed-a",
+    "ogImage": null
+  }
+}

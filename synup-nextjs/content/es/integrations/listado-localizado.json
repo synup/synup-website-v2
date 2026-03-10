@@ -1,0 +1,28 @@
+{
+  "slug": "localizedlisting",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Listado localizado",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76290da25b3f334482a30",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:48 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:48 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Listado localizado + Registro</h1><p id=\"\"><strong id=\"\">Agregue, reclame y edite listados y reseñas de empresas en LocalizedListing con las herramientas de administración de listados y reseñas de Synup.</strong></p><h2 id=\"\">¿Qué es LocalizedListing?</h2><p id=\"\">LocalizedListing, una plataforma líder para listados e información de negocios localizados, sirve como un recurso valioso para los usuarios que buscan negocios y servicios en sus regiones específicas. Tanto si buscas recomendaciones locales como si quieres aumentar la visibilidad de tu empresa, LocalizedListing ofrece herramientas completas que te ayudarán a tener éxito.</p><h2 id=\"\">¿Por qué LocalizedListing + Synup?</h2><ul id=\"\"><li id=\"\">Control total sobre los listados: con la capacidad de administrar los listados de su empresa en LocalizedListing, usted mantiene un control total sobre su presencia en línea, lo que garantiza que su empresa esté representada de manera precisa.</li><li id=\"\">Amplíe su alcance: agregar su empresa a LocalizedListing a través de Synup significa una mayor visibilidad. Ayude a los clientes potenciales a descubrirlo, ampliando su alcance de manera efectiva.</li><li id=\"\">Información empresarial precisa: aumente la confianza y la credibilidad publicando información precisa en LocalizedListing.</li><li id=\"\">Interacción con los clientes: consulta las opiniones en LocalizedListing y responde a ellas para fomentar una relación positiva con tus clientes y demostrar que valoras sus comentarios y que estás atento a sus necesidades.</li></ul><h2 id=\"\">¿Cómo integrar LocalizedListing + Synup?</h2><p id=\"\">La integración de LocalizedListing está disponible para todos los suscriptores del plan Synup Listings. Para ver y administrar la integración de LocalizedListing:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haga clic en el logotipo de LocalizedListing para administrar la integración de Synup + LocalizedListing y la configuración asociada.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Listado localizado",
+    "description": "Directorio general",
+    "canonical": "https://www.synup.com/es/integrations/listado-localizado",
+    "ogImage": null
+  }
+}

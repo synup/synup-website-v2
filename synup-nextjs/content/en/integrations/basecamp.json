@@ -1,0 +1,28 @@
+{
+  "slug": "basecamp",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Basecamp",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23899052b142b78a54bf",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:29 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:29 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23899052b142b78a54ba_6548a84429d7c8ad6c725d0f_Basecamp.svg",
+  "title_tag": "Integrate Basecamp with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Basecamp + Synup</strong></h1><p id=\"\">Embark on a transformative journey in customer review management by intertwining Basecamp’s unparalleled project management capabilities with Synup’s robust review acquisition and management expertise.</p><h2 id=\"\">What is Basecamp?</h2><p id=\"\">Basecamp is a holistic project management and team collaboration tool that streamlines projects, tasks, and communications, ensuring that teams can work efficiently and effectively toward achieving their objectives.</p><h2 id=\"\">Why Basecamp + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Project-Linked Review Solicitations:</strong> Utilize Basecamp’s project milestones to activate relevant review requests, ensuring that feedback is gathered at key stages of the customer’s experience.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Integrated Customer Feedback Hub: </strong>Connect Basecamp’s task management prowess with Synup’s review analytics, creating a cohesive platform for capturing and analyzing a spectrum of customer feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Enhanced Review Workflow:</strong> Incorporate Synup’s review management functionalities seamlessly into Basecamp’s workspace, facilitating a natural and effective flow of review acquisition and analysis activities.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Customized Review Engagements: </strong>Utilize the diverse and dynamic project data in Basecamp to tailor review solicitations, fostering engagements that resonate with the specifics of each customer interaction.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategically-Informed Customer Interactions: </strong>Leverage the integrated insights from Basecamp and Synup to fine-tune customer engagement strategies, elevating the quality of customer experiences and interactions.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Efficiency in Review Operations: </strong>Centralize and synchronize the various aspects of review management within Basecamp’s organized and intuitive interface, bolstering operational productivity and efficiency.</li></ul><p id=\"\">By melding Basecamp with Synup, unveil an innovative dimension in review management, where each project advancement and team collaboration becomes a conduit for acquiring valuable customer insights and enhancing review management strategies.</p><h2 id=\"\">How to integrate Basecamp + Synup?</h2><p id=\"\">Basecamp integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Basecamp to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Basecamp",
+    "description": "Transform your review management with Basecamp + Synup. Streamline project milestones for strategic review acquisition and analysis. Elevate customer interactions.",
+    "canonical": "https://www.synup.com/integrations/basecamp",
+    "ogImage": null
+  }
+}

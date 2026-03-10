@@ -1,0 +1,26 @@
+{
+  "slug": "marlena-s",
+  "locale": "en",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Marlena S.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891d1cc082d2b609f1bc0bd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 09:41:32 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 09:41:32 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1ccd4c22141378b0f06_67612e278b516d7ce2d99cd9_20241217T0754-82c22709-8880-4d77-91e5-162764b0cf96.webp",
+  "one_line_review": "\"Easy way to update NPO on local directories\"",
+  "detailed_review": "<p id=\"\"><strong id=\"\">What do you like best about Synup?</strong></p><p id=\"\">Synup has a very easy user interface. We have a company with many different locations and it is very easy to update individual information for locations. Synup makes the updates very quickly. Using Synup is much better than individually updating Google My Business, Facebook, Yelp, and other local listings. The ability to update using an excel of all of our locations is very helpful.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What do you dislike about Synup?</strong></p><p id=\"\">We have found we need to do quality checks on the updates. It would be better if we were alerted if there are duplicate listings. Synup also does not connect to all of Facebook's fields and we would like to be able to update those at the same time as well.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Recommendations to others considering Synup:</strong></p><p id=\"\">Synup has a very easy user interface. We are also able to upload an excel so we can upload all locations at once and that is very helpful.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What problems is Synup solving and how is that benefiting you?</strong></p><p id=\"\">We have locations that update hours frequently. Synup allows us to update all local directories at once and that is a huge help. We have also solved the problem of time dedicated to updating Name, Phone Number, and Address across all of our locations. Before Synup it was very hard to update all the locations and it was very time consuming.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1cc082d2b609f1bc0b3_676023d7d786d2fdfd27129e_20241216T1257-59fa47f7-1876-4da1-a8a4-5f25e1f7b4ce.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Head of Digital Marketing</p><p id=\"\">Mid-Market (51-1000 emp.)</p>",
+  "seo": {
+    "title": "Marlena S.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-written-reviews/marlena-s",
+    "ogImage": null
+  }
+}

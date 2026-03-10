@@ -1,0 +1,20 @@
+{
+  "slug": "reseller",
+  "locale": "de",
+  "collectionType": "use-case-categories",
+  "name": "Wiederverkäufer",
+  "collection_id": "6890f993e6fd82fb4c3cb59b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bd92110dc06684fe0317",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:08:18 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:08:18 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Wiederverkäufer",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/use-case-categories/reseller",
+    "ogImage": null
+  }
+}

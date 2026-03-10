@@ -1,0 +1,28 @@
+{
+  "slug": "prospecting-tool-for-resellers",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Herramienta de prospección para revendedores",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0bae0c44800b62cc98",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "top-category",
+  "list_order": "5.0",
+  "select_pages": "synup-vs-yext; vendasta-alternative; brightlocal-alternative; moz-local-alternative; advicelocal-alternative; synup-vs-grade-us; synup-vs-reviewgain",
+  "tabel_category": "Herramienta de prospección para revendedores",
+  "alt_select_pages": "best-vendasta-alternative",
+  "seo": {
+    "title": "Herramienta de prospección para revendedores",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/prospecting-tool-for-resellers",
+    "ogImage": null
+  }
+}

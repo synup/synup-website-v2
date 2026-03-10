@@ -1,0 +1,26 @@
+{
+  "slug": "listing-scan-tool",
+  "locale": "es",
+  "collectionType": "tools",
+  "name": "Herramienta de escaneo de listados",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75e44e6e978822d78be25",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:58:28 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:58:28 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "image": null,
+  "description": "<p id=\"\">Obtenga una vista panorámica de las fichas de su empresa<br></p>",
+  "description_short": "Obtenga una vista panorámica de las fichas de su empresa",
+  "link": "https://scan.synup.com/",
+  "order": "3.0",
+  "button_text": "Escanea mis anuncios",
+  "seo": {
+    "title": "Herramienta de escaneo de listados",
+    "description": "<p id=\"\">Obtenga una vista panorámica de las fichas de su empresa<br></p>",
+    "canonical": "https://www.synup.com/es/tools/herramienta-de-escaneo-de-listados",
+    "ogImage": null
+  }
+}

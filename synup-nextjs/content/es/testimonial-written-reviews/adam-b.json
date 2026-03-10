@@ -1,0 +1,26 @@
+{
+  "slug": "adam-b",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Adán B.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cb55cd72f3ef2c1e97c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:49 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:49 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«¡Gran producto! ¡Esencial para mi negocio!»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">Personal muy servicial. Es fácil trabajar con el producto. Siguen añadiendo cosas al servicio que hacen que el producto sea aún mejor.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">No hay nada que no me guste, resuelven los problemas rápidamente. Han seguido añadiendo productos, por lo que es difícil que no les guste el producto cuando sigue mejorando.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Recomendaciones para otras personas que estén considerando la posibilidad de usar Synup:</strong></p><p id=\"\">Simplemente pruébalo.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">La plataforma Review Generation es excelente. He aumentado mi clasificación de SEO y me encanta tener todas mis reseñas en un solo lugar para poder responderlas rápidamente.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Gerente</p><p id=\"\">Pequeñas empresas (50 o menos EMP.)</p><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Adán B.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/adam-b",
+    "ogImage": null
+  }
+}

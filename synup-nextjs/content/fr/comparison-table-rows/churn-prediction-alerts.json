@@ -1,0 +1,20 @@
+{
+  "slug": "bulk-actions-across-client-accounts-copy-3",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Churn Prediction & Alerts",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68d63c66567aeee60cb50023",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Sep 26 2025 07:10:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 13:07:52 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Churn Prediction & Alerts",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/churn-prediction-alerts",
+    "ogImage": null
+  }
+}

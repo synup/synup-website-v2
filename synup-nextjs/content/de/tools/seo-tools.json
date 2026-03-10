@@ -1,0 +1,26 @@
+{
+  "slug": "seo-tools",
+  "locale": "de",
+  "collectionType": "tools",
+  "name": "SEO-Tools",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4b7e1fdb97594ca35c339",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:44:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:44:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4b7e1fdb97594ca35c30e_650aa0930fb71367bfe30d86_SEO%2520Tools.webp",
+  "description": "<p id=\"\">50 Tools zur Verbesserung Ihres SEO-Workflows und Ihrer Produktivität</p>",
+  "description_short": "50 Tools zur Verbesserung Ihres SEO-Workflows und Ihrer Produktivität",
+  "link": "https://tools.localseochecklist.org/",
+  "order": "2.0",
+  "button_text": "Fangen Sie an",
+  "seo": {
+    "title": "SEO-Tools",
+    "description": "<p id=\"\">50 Tools zur Verbesserung Ihres SEO-Workflows und Ihrer Produktivität</p>",
+    "canonical": "https://www.synup.com/de/tools/seo-tools",
+    "ogImage": null
+  }
+}

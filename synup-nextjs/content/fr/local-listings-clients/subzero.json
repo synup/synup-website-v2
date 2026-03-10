@@ -1,0 +1,22 @@
+{
+  "slug": "subzero",
+  "locale": "fr",
+  "collectionType": "local-listings-clients",
+  "name": "Sous zéro",
+  "collection_id": "6891dfa5ae2c74373e72307c",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60629ad9464c2912bc38b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:30:17 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:30:17 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "clients_logos": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a60629ad9464c2912bc35c_63f46ea57df68f6fa8360154_Subzero.webp",
+  "list_of_number": "3.0",
+  "seo": {
+    "title": "Sous zéro",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/local-listings-clients/subzero",
+    "ogImage": null
+  }
+}

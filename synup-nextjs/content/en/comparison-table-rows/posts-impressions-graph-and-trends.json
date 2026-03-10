@@ -1,0 +1,27 @@
+{
+  "slug": "posts-impressions-graph-and-trends-2",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Posts Impressions graph and trends",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db6dd37fa6a5f529ea26",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:37 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:37 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "analytics",
+  "list_order": "30.0",
+  "select_pages": "planable-alternative; socialpilot-alternative",
+  "tabel_category": "Posts Impressions graph and trends",
+  "seo": {
+    "title": "Posts Impressions graph and trends",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/posts-impressions-graph-and-trends",
+    "ogImage": null
+  }
+}

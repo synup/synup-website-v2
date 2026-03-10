@@ -1,0 +1,20 @@
+{
+  "slug": "payment-processor",
+  "locale": "es",
+  "collectionType": "integration-types",
+  "name": "Payments processor",
+  "collection_id": "688267a897faaa22a42fe6f4",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7623b7ca5d8ed73ee7848",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:15:23 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:15:23 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Payments processor",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/integration-types/payments-processor",
+    "ogImage": null
+  }
+}

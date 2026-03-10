@@ -1,0 +1,20 @@
+{
+  "slug": "featured",
+  "locale": "es",
+  "collectionType": "ebook-categories",
+  "name": "Destacado",
+  "collection_id": "6891de9eb759f4bedd7d4de6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7d5d7558b35904f7c68b3",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:28:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:28:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Destacado",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/ebook-categories/destacado",
+    "ogImage": null
+  }
+}

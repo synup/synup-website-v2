@@ -1,0 +1,27 @@
+{
+  "slug": "multi-brand-management-socialpilot",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Multi-brand management SocialPilot",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db6c29f1da9e4e449e5e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:36 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:36 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "top-category",
+  "list_order": "4.0",
+  "select_pages": "socialpilot-alternative; reputation-com-alternative",
+  "tabel_category": "Multi-brand management",
+  "seo": {
+    "title": "Multi-brand management SocialPilot",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/multi-brand-management-socialpilot",
+    "ogImage": null
+  }
+}

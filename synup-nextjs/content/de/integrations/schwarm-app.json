@@ -1,0 +1,28 @@
+{
+  "slug": "swarmapp",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Schwarm-App",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf331fea51edc2c9b949",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:15 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:15 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf331fea51edc2c9b917_65312cba165c787e349518b9_SwarmApp.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Swarmapp mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">SwarmApp + Synup</h1><p id=\"\"><strong id=\"\">Mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup können Sie Brancheneinträge und Bewertungen auf SwarmApp hinzufügen, beanspruchen und bearbeiten.</strong></p><h2 id=\"\">Was ist SwarmApp?</h2><p id=\"\">SwarmApp, eine beliebte mobile Anwendung, verbessert soziale Interaktionen und hilft Benutzern, ihre Standorte und Erfahrungen mit Freunden und Followern zu teilen. Egal, ob Sie neue Orte erkunden oder einfach nur mit Ihrem sozialen Netzwerk in Verbindung bleiben, SwarmApp bietet eine Plattform zum Teilen und Entdecken.</p><h2 id=\"\">Warum SwarmApp + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote:</strong> Mit der Möglichkeit, Ihre Brancheneinträge auf SwarmApp zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite:</strong> Wenn Sie Ihr Unternehmen über Synup zu SwarmApp hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\"><strong id=\"\">Genaue Geschäftsinformationen:</strong> Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf SwarmApp veröffentlichen.</li><li id=\"\"><strong id=\"\">Kundenbindung:</strong> Sehen Sie sich Bewertungen auf SwarmApp an und antworten Sie darauf, um eine positive Beziehung zu Ihren Kunden aufzubauen und zu zeigen, dass Sie ihr Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich SwarmApp + Synup?</h2><p id=\"\">Die SwarmApp-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. Um die SwarmApp-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das SwarmApp-Logo, um die Synup + SwarmApp-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Schwarm-App",
+    "description": "Optimiere deine Präsenz auf Swarm. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Sichtbarkeit und Kundenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/schwarm-app",
+    "ogImage": null
+  }
+}

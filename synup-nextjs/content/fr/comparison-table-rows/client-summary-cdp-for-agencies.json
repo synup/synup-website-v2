@@ -1,0 +1,26 @@
+{
+  "slug": "client-summary-cdp-for-agencies",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Client Summary / CDP for Agencies",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68cd17a27c80eb7099b1f88a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Sep 19 2025 08:43:14 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Sep 19 2025 08:50:00 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sat Sep 20 2025 07:00:16 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "A centralized client record that consolidates performance signals, activities, proposals, payments, and AI insights",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "agency-management",
+  "list_order": null,
+  "select_pages": "gohighlevel-alternative",
+  "seo": {
+    "title": "Client Summary / CDP for Agencies",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/client-summary-cdp-for-agencies",
+    "ogImage": null
+  }
+}

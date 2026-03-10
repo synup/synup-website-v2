@@ -1,0 +1,26 @@
+{
+  "slug": "crm",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "CRM",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68cd1415b30885119da94256",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Sep 19 2025 08:28:05 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Sep 19 2025 08:35:53 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sat Sep 20 2025 07:00:16 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "agency-management",
+  "list_order": null,
+  "select_pages": "gohighlevel-alternative",
+  "seo": {
+    "title": "CRM",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/crm",
+    "ogImage": null
+  }
+}

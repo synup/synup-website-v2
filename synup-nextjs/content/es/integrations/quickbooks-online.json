@@ -1,0 +1,28 @@
+{
+  "slug": "quickbooks-online",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "QuickBooks en línea",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a762982c4de7eb78493408",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:56 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:56 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Quickbooks Online con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Registro de QuickBooks Online +</h1><p id=\"\">Maximice el poder de revisión con QuickBooks Online + Synup: desbloquee las solicitudes de revisión simplificadas, la segmentación mejorada de los clientes y la eficiencia operativa para el éxito de su empresa.‍</p><h2 id=\"\">¿Qué es QuickBooks Online?</h2><p id=\"\">QuickBooks Online es un software de contabilidad basado en la nube optimizado para pequeñas y medianas empresas, que simplifica tareas como la facturación y el seguimiento de gastos, y permite la accesibilidad a la gestión financiera independientemente del dispositivo.</p><h2 id=\"\">¿Por qué Quickbooks Online + Synup?</h2><p id=\"\"><strong id=\"\">Solicitudes de revisión simplificadas:</strong>Utilice los sólidos datos de transacciones de QuickBooks Online (QBO) con Synup para solicitar revisiones automatizadas oportunas y relevantes, lo que aumenta las posibilidades de recibir comentarios.</p><p id=\"\"><strong id=\"\">Segmentación mejorada de los clientes: </strong>Utilice la información sobre los clientes de QBO junto con Synup para la segmentación estratégica y las solicitudes de reseñas personalizadas, capturando comentarios valiosos y diversos de los clientes.</p><p id=\"\"><strong id=\"\">Canales de comunicación optimizados: </strong>Combine la facturación de QBO y la gestión de reseñas de Synup, lo que permite la entrega y la recepción eficientes y sin problemas de las solicitudes de revisión y los comentarios.</p><p id=\"\"><strong id=\"\">Poderosa sinergia de integración: </strong>Benefíciese de la sólida integración de la API de QBO y la plataforma de Synup, creando un sistema de adquisición de reseñas unificado y automatizado que mejora la experiencia del usuario.</p><p id=\"\"><strong id=\"\">Eficiencia operativa y reducción de costos: </strong>La integración de QBO y Synup agiliza el proceso de gestión de revisiones, lo que mejora la eficiencia operativa y reduce el esfuerzo manual y los costos operativos asociados.</p><p id=\"\"><strong id=\"\">Estrategias de revisión basadas en datos: </strong>Utilice las capacidades analíticas de QBO y Synup para obtener estrategias perspicaces y basadas en datos, optimizando los esfuerzos de adquisición de reseñas para obtener mejores resultados.</p><p id=\"\"><br>La combinación de QuickBooks Online con Synup crea un enfoque potente e integrado para optimizar la adquisición de reseñas, aprovechar los puntos de contacto esenciales con los clientes y automatizar los procesos para mejorar la eficacia y la eficiencia.</p><h2 id=\"\">¿Cómo integrar QuickBooks Online + Synup?</h2><p id=\"\">La integración de QuickBooks Online para la contabilidad está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Contabilidad en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar software de contabilidad.</li></ul><ul id=\"\"><li id=\"\">Seleccione QuickBooks Online como su software de contabilidad.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de QuickBooks Online.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar la contabilidad.</li></ul><ul id=\"\"><li id=\"\">Administre sus finanzas con QuickBooks Online.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "QuickBooks en línea",
+    "description": "Descubra QuickBooks Online: ¡Optimice la contabilidad para las pymes con facilidad basada en la nube!",
+    "canonical": "https://www.synup.com/es/integrations/quickbooks-online",
+    "ogImage": null
+  }
+}

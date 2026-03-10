@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-sendible",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Preisgestaltung - Sendible",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c7771c427ba86608bb75",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "99 $/Monat",
+  "second_col": "29 $/Monat",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "sendible-alternative",
+  "tabel_category": "Preisgestaltung",
+  "seo": {
+    "title": "Preisgestaltung - Sendible",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/preisgestaltung-sendible",
+    "ogImage": null
+  }
+}

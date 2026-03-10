@@ -1,0 +1,26 @@
+{
+  "slug": "listing-scan-tool",
+  "locale": "en",
+  "collectionType": "tools",
+  "name": "Listing Scan Tool",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6877e399d68b59588d89c20d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Jul 16 2025 17:38:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Jul 16 2025 17:38:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Jul 17 2025 16:53:41 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6877e399d68b59588d89c203_676124fb352bda8e01147602_20241217T0715-0d380780-682d-4bb2-8614-143f3c380cc7.webp",
+  "description": "<p id=\"\">Get a bird's eye view of your business listings<br></p>",
+  "description_short": "Get a bird's eye view of your business listings",
+  "link": "https://scan.synup.com/",
+  "order": "3.0",
+  "button_text": "Scan my Listings",
+  "seo": {
+    "title": "Listing Scan Tool",
+    "description": "<p id=\"\">Get a bird's eye view of your business listings<br></p>",
+    "canonical": "https://www.synup.com/tools/listing-scan-tool",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "russia",
+  "locale": "es",
+  "collectionType": "integration-tags",
+  "name": "Rusia",
+  "collection_id": "68826a55dc0ff405c5839a04",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a761fc267315df8b4ae61c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:14:20 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:14:20 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Rusia",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/integration-tags/rusia",
+    "ogImage": null
+  }
+}

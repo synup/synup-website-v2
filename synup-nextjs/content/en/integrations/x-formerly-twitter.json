@@ -1,0 +1,31 @@
+{
+  "slug": "x",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "X (formerly Twitter)",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23997ca186742019a296",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:45 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23997ca186742019a26d_6761253e581fe4d5a2de70ab_20241217T0715-dc427603-e27a-4ab3-9584-75e650981728.webp",
+  "title_tag": "Manage Your Twitter Page and Listing with Synup",
+  "link_to_cta": "https://www.synup.com/book-a-demo",
+  "tags": "india; france; germany; netherlands; uae; south-africa; nigeria; ireland; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">X + Synup?</strong></h1><h2 id=\"\"><strong id=\"\">What is X (formerly Twitter)?</strong></h2><p id=\"\">X is a powerful social media platform known for real-time communication, where businesses can connect with audiences through short, impactful messages. With millions of active users daily, X serves as an essential tool for brands looking to stay relevant, engage in conversations, and react to trending topics.</p><h2 id=\"\"><strong id=\"\">Why Manage X Presence with Synup?</strong></h2><p id=\"\"><strong id=\"\">Real-Time Engagement:</strong> X is all about speed and relevance. Synup helps you stay on top of real-time trends by optimizing your tweets for maximum engagement. With Synup, you can ensure that your brand’s voice is consistent and timely, allowing you to join conversations that matter most to your audience.</p><p id=\"\"><strong id=\"\">AI-Powered Content Creation:</strong> Crafting concise and impactful messages on X requires creativity and precision. Synup’s AI-driven content creation tools make it easier by generating on-brand tweets tailored to your business goals. Whether you're sharing updates, engaging with followers, or reviewing trending topics, Synup’s AI capabilities ensure your content stands out.</p><p id=\"\"><strong id=\"\">Boost Your Visibility:</strong> With the fast-paced nature of X, visibility is key. Synup optimizes your X presence to ensure that your tweets reach the right audience at the right time. By leveraging Synup’s tools, you can increase your brand’s visibility, ensuring that your messages are seen by more users, driving higher engagement.</p><p id=\"\"><strong id=\"\">Strengthen Your Credibility:</strong> Consistency is crucial for maintaining credibility on X. Synup helps manage your brand’s messaging by ensuring all your tweets and interactions align with your brand’s identity. This consistency builds trust with your followers and positions your brand as a reliable source of information and insights.</p><p id=\"\"><strong id=\"\">Data-Driven Insights:</strong> Understanding what resonates with your audience on X is crucial for success. Synup’s integration provides in-depth analytics, giving you insights into tweet performance, follower demographics, and engagement trends. This data empowers you to make informed decisions, adjust your content strategy, and optimize your campaigns for better results.</p><p id=\"\">Integrating X with Synup offers a comprehensive solution for managing your brand’s real-time presence, enhancing visibility, and engaging with your audience. Through AI-powered content creation, increased visibility, and actionable insights, your business can thrive in the fast-paced world of X.</p><h2 id=\"\"><strong id=\"\">How to Integrate X with Synup?</strong></h2><p id=\"\">The X platform integration is available to all Synup Social users. To set up and manage your X account:</p><ol id=\"\"><li id=\"\">Log in to your Synup Social account.</li><li id=\"\">Go to Settings &gt; Connected Channels.</li></ol><ol start=\"3\" id=\"\"><li id=\"\">Click the ‘Connect New Channel’ button.</li><li id=\"\">Select X and follow the prompts to connect your profile.</li></ol>",
+  "integration_types": "social-app",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#ea0b8c",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2390c13160717161200d_676017eb02a9cc61b8af7175_20241216T1207-ce77bd85-d62d-4707-8be9-74731a2b3ea7.webp",
+  "integration_summary": "Add your business, publish content on Twitter.",
+  "seo": {
+    "title": "X (formerly Twitter)",
+    "description": "Optimize your presence on Twitter. Synup integration ensures accurate business data for superior online visibility and engagement.",
+    "canonical": "https://www.synup.com/integrations/x-formerly-twitter",
+    "ogImage": null
+  }
+}

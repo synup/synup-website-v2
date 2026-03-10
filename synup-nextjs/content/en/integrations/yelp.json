@@ -1,0 +1,31 @@
+{
+  "slug": "yelp",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Yelp",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2399b9efd80f808ac2fc",
+  "archived": true,
+  "draft": true,
+  "created_on": "Sun Aug 03 2025 08:53:45 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 07 2025 07:46:21 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "__MISSING__",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2399b9efd80f808ac2f1_6531323dcdb94f4b94694237_yext.svg",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "france; germany; netherlands; ireland; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<p id=\"\">Yelp connects people with local businesses with trusted local business information, photos and review content. It's a one-stop local platform for consumers to discover, connect and transact with local businesses of all sizes by making it easy to request a quote, join a waitlist or make a reservation, and make an appointment or purchase. Yelp has 76.7 million unique visitors via its mobile website monthly.</p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "For businesses, managing location data on Facebook now a breeze with Synup.",
+  "seo": {
+    "title": "Yelp",
+    "description": "General directory",
+    "canonical": "https://www.synup.com/integrations/yelp",
+    "ogImage": null
+  }
+}

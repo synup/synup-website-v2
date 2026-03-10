@@ -1,0 +1,28 @@
+{
+  "slug": "sendgrid",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Envoyer Grid",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c61ffa9bc0346c56048",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:49 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:49 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2bf43a3211b2b79047_6548c3469bca07c8ff72f16d_Sendgrid.svg",
+  "title_tag": "Intégrez Sendgrid à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">SendGrid + Synup</strong></h1><p id=\"\">Améliorez vos efforts d'acquisition et de gestion des avis en associant la diffusion d'e-mails et l'évolutivité réputées de SendGrid aux capacités spécialisées d'amélioration des évaluations de Synup.</p><h2 id=\"\">Qu'est-ce que SendGrid&nbsp;?</h2><p id=\"\">SendGrid est un service de messagerie basé sur le cloud réputé pour la fiabilité de sa livraison d'e-mails, son évolutivité et ses analyses en temps réel. Il est conçu pour gérer et optimiser l'envoi d'e-mails transactionnels et marketing, en veillant à ce que les messages atteignent efficacement les boîtes de réception des destinataires.</p><h2 id=\"\">Pourquoi SendGrid + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Sollicitations d'évaluation fiables&nbsp;: </strong>Utilisez les services de livraison d'e-mails fiables de SendGrid pour vous assurer que vos demandes d'avis parviennent rapidement aux boîtes de réception des clients, améliorant ainsi la probabilité d'obtenir des commentaires précieux.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Campagnes d'évaluation évolutives&nbsp;: </strong>Tirez parti de l'évolutivité de SendGrid pour gérer efficacement les campagnes de sollicitation d'avis de différentes tailles, en garantissant la cohérence et l'adaptabilité des stratégies de sensibilisation.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Informations sur les évaluations transactionnelles&nbsp;: </strong>Utilisez les e-mails transactionnels pour solliciter des avis en temps opportun, en tirant parti de la pertinence immédiate des interactions avec les clients pour recueillir des commentaires pertinents et percutants.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Demandes de révision personnalisées&nbsp;: </strong>Utilisez les fonctionnalités de personnalisation de SendGrid pour personnaliser les e-mails de sollicitation d'avis, en veillant à ce que chaque message corresponde aux expériences et aux attentes uniques des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intégration des analyses de révision&nbsp;: </strong>Intégrez les capacités analytiques de Synup pour recueillir des informations complètes sur les performances et l'impact de vos e-mails de sollicitation d'avis, afin de les affiner en permanence.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Opérations de révision rationalisées&nbsp;: </strong>Fusionnez l'expertise de SendGrid en matière de messagerie avec les outils de gestion des avis de Synup pour rationaliser les flux de travail, améliorer l'efficacité et optimiser les stratégies d'acquisition d'avis.</li></ul><p id=\"\">En associant SendGrid à Synup, accédez à une formidable combinaison de diffusion d'e-mails fiable, de campagnes évolutives et d'outils de gestion des avis améliorés, conçus pour optimiser vos processus et résultats d'acquisition d'avis.</p><h2 id=\"\">Comment intégrer SendGrid + Synup&nbsp;?</h2><p id=\"\">L'intégration de SendGrid pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter SendGrid.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Envoyer Grid",
+    "description": "Améliorez l'acquisition de vos avis grâce à SendGrid + Synup : diffusion fiable des e-mails, évolutivité et campagnes d'évaluation personnalisées pour des commentaires percutants.",
+    "canonical": "https://www.synup.com/fr/integrations/envoyer-grid",
+    "ogImage": null
+  }
+}

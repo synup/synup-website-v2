@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-moz",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Precios - Moz Local",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0fd37d3f4e278e2206",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "34,99$ al mes",
+  "second_col": "14.0",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "moz-local-alternative",
+  "tabel_category": "Fijación",
+  "seo": {
+    "title": "Precios - Moz Local",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/precios-moz-local",
+    "ogImage": null
+  }
+}

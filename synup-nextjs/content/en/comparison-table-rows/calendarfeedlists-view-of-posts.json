@@ -1,0 +1,27 @@
+{
+  "slug": "calendar-feed-lists-view-of-posts2",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Calendar/Feed/Lists view of posts",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db68b0c58e0924d355ed",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:32 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:32 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "posting",
+  "list_order": "15.0",
+  "select_pages": "socialbee-alternative",
+  "tabel_category": "Calendar/Feed/Lists view of posts",
+  "seo": {
+    "title": "Calendar/Feed/Lists view of posts",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/calendarfeedlists-view-of-posts",
+    "ogImage": null
+  }
+}

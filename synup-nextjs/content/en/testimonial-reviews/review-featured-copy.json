@@ -1,0 +1,27 @@
+{
+  "slug": "review-featured-copy",
+  "locale": "en",
+  "collectionType": "testimonial-reviews",
+  "name": "Review Featured Copy",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "689107c271cb8544e1ef450b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 19:19:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 19:19:30 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 19:22:05 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "0.45",
+  "reviews_summary": "How Goodwill Industries generated 1000's of five star reviews and increased donation volume by 45%.",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/689107c271cb8544e1ef44cb_67612c78b89bc155d02a5efa_20241217T0746-f6d5b004-8d51-4f59-abed-f8eb65ee05e6.webp",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": false,
+  "review_link": "https://www.synup.com/case-studies/goodwill-case-study",
+  "seo": {
+    "title": "Review Featured Copy",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-reviews/review-featured-copy",
+    "ogImage": null
+  }
+}

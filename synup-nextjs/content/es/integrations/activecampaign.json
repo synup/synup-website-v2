@@ -1,0 +1,28 @@
+{
+  "slug": "activecampaign",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Campaña activa",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a762860db9c48c96734460",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:38 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:38 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">ActiveCampaign + Suscribirse</strong></h1><p id=\"\">Impulse la adquisición y la gestión de reseñas combinando la sofisticada automatización del marketing por correo electrónico de ActiveCampaign con el sólido dominio de las reseñas de Synup.</p><h2 id=\"\">¿Qué es ActiveCampaign?</h2><p id=\"\">ActiveCampaign se especializa en la automatización de la experiencia del cliente y combina el marketing por correo electrónico, la automatización y el CRM para fomentar las relaciones con los clientes y mejorar las comunicaciones y los flujos de trabajo empresariales.</p><h2 id=\"\">¿Por qué ActiveCampaign + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Invitaciones de revisión personalizadas:</strong> Utiliza las herramientas de personalización de ActiveCampaign para crear correos electrónicos de solicitud de reseñas a medida que reflejen las experiencias e interacciones únicas de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Divulgación de revisiones automatizadas: </strong>Aproveche el poder de la automatización de ActiveCampaign para optimizar la entrega de las solicitudes de revisión y garantizar la puntualidad y la relevancia de la comunicación.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Segmentación inteligente de reseñas:</strong> Aproveche las funciones de segmentación de ActiveCampaign para dirigirse a grupos de clientes específicos y obtener reseñas más relevantes e impactantes en función de las diversas interacciones con los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Gestión de reseñas responsiva:</strong> Sincronice las herramientas de gestión de reseñas adaptables de Synup con la plataforma de ActiveCampaign, garantizando agilidad y precisión en la gestión de los comentarios de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Análisis de reseñas mejorado: </strong>Integre la destreza analítica de Synup para obtener información más profunda sobre la eficacia de las estrategias de adquisición de reseñas en el ecosistema de ActiveCampaign.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Interacciones estratégicas con los clientes:</strong> Usa las herramientas de comunicación multifacéticas de ActiveCampaign para fomentar las relaciones continuas con los revisores, fomentar la lealtad y fomentar un flujo constante de reseñas genuinas.</li></ul><p id=\"\">Al unir fuerzas con ActiveCampaign y Synup, se presenta una poderosa fuente de gestión estratégica de reseñas, en la que el alcance personalizado, los procesos automatizados y los análisis detallados se unen para impulsar su ecosistema de adquisición y gestión de reseñas.</p><h2 id=\"\">¿Cómo integrar ActiveCampaign + Synup?</h2><p id=\"\">La integración de ActiveCampaign para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o ubicación a la que quieres conectar ActiveCampaign.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM. </li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Campaña activa",
+    "description": "Mejora tu gestión de reseñas con ActiveCampaign + Synup: difusión personalizada, automatización y análisis detallados para obtener reseñas impactantes.",
+    "canonical": "https://www.synup.com/es/integrations/activecampaign",
+    "ogImage": null
+  }
+}

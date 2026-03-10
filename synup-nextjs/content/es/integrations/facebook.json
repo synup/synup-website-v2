@@ -1,0 +1,31 @@
+{
+  "slug": "facebook",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Facebook",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628c65a22e1e6b9dda2e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Optimiza y administra tu página de Facebook con Synup",
+  "link_to_cta": "https://www.synup.com/book-a-demo",
+  "tags": "india; france; germany; netherlands; uae; south-africa; nigeria; ireland; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">¿Suscribirse a Facebook +?</strong></h1><h2 id=\"\"><strong id=\"\"><br>¿Qué es Facebook Business Suite?</strong></h2><p id=\"\">Facebook Business Suite es una plataforma indispensable para las empresas que desean reforzar su presencia en línea a través de la amplia red de Facebook, que incluye Instagram y Messenger. Esta suite es una de las favoritas entre las empresas globales que buscan atraer clientes e interactuar con ellos proporcionándoles detalles detallados sobre sus servicios, horarios de atención y ubicaciones.</p><h2 id=\"\"><strong id=\"\">¿Por qué Facebook Business Suite + Synup?</strong></h2><p id=\"\"><strong id=\"\">Control sobre las páginas de negocios/ubicación de Facebook:</strong> Cuando Facebook Business Suite se integra con Synup, las empresas obtienen un control inigualable sobre sus páginas. Esta combinación garantiza que los detalles que se comparten con los clientes potenciales no solo sean precisos y actuales, sino que también reflejen la marca y la imagen de la empresa.</p><p id=\"\"><strong id=\"\">Amplíe su visibilidad:</strong> Facebook tiene miles de millones de usuarios activos, y tener una página de negocios en esta plataforma amplía significativamente la exposición de su empresa. Synup maximiza esta visibilidad al optimizar tu página, lo que facilita el proceso para que los posibles clientes te descubran cuando buscan los servicios o productos que ofreces. Implemente fotos, vídeos y funciones adicionales relevantes para aprovechar todo el potencial de su presencia en línea.</p><p id=\"\"><strong id=\"\">Detalles comerciales confiables:</strong> Establecer y mantener la confianza es crucial en la dinámica entre el cliente y la empresa. La presentación de información verificada y precisa a través de Facebook Business Suite, con la ayuda de Synup, refuerza esta confianza y proyecta tu empresa como una entidad fiable y acreditada.</p><p id=\"\"><strong id=\"\">Involucre a su base de clientes:</strong> Facebook Business Suite es una plataforma excelente para una interacción efectiva con los clientes. Synup simplifica esta interacción al ofrecer un enfoque simplificado para ver, responder, gestionar las reseñas y promocionar las publicaciones de Facebook. Esto fomenta una relación sana con su clientela, lo que significa que sus comentarios son invaluables y cruciales para su negocio. Responda a las consultas de los clientes y a los mensajes instantáneos de manera eficiente a través de las funciones de mensajería integradas.</p><p id=\"\"><strong id=\"\">Perspectivas y métricas:</strong> Obtén información más profunda sobre el comportamiento y las preferencias de tus clientes con el análisis de datos que proporcionan Facebook Business Suite y Synup. Esta información inestimable te permite perfeccionar tus iniciativas de marketing, lo que te permite tomar decisiones basadas en datos para mejorar y expandir aún más tu negocio.</p><p id=\"\">El uso de Facebook Business Suite con Synup crea una potente combinación para gestionar tu presencia digital, interactuar con los clientes y mejorar la visibilidad y la fiabilidad de tu empresa. Gracias a la precisión de las listas de páginas, a la mejora de la interacción con los clientes y a la disponibilidad de análisis detallados, tu empresa está bien posicionada para prosperar en el dominio online.</p><h2 id=\"\"><strong id=\"\">¿Cómo integrar Facebook + Synup?<br></strong></h2><p id=\"\">La integración con Facebook está disponible para todos los suscriptores del plan Synup Listings. Para ver y gestionar la integración con Facebook:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haz clic en el logotipo de Facebook para gestionar la integración de Synup + con Facebook y la configuración asociada.</li></ol>",
+  "integration_types": "social-app",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#1877f2",
+  "integration_bg_image": null,
+  "integration_summary": "Actualiza fácilmente tu perfil de Facebook y las páginas de tu tienda.",
+  "seo": {
+    "title": "Facebook",
+    "description": "Aumenta tu visibilidad en Facebook. La integración con Synup garantiza datos empresariales precisos para crear un perfil en línea atractivo.",
+    "canonical": "https://www.synup.com/es/integrations/facebook",
+    "ogImage": null
+  }
+}

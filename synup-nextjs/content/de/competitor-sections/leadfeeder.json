@@ -1,0 +1,29 @@
+{
+  "slug": "leadfeeder11",
+  "locale": "de",
+  "collectionType": "competitor-sections",
+  "name": "Leadfeeder",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "696e2801a525daf8d013b4ff",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Jan 19 2026 12:48:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Jan 19 2026 12:53:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Feb 02 2026 10:47:42 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "Category: Website Visitor Intelligence",
+  "description": "__POSSIBLE_UNTRANSLATED__<h2><strong>What Leadfeeder Does</strong></h2><p>Leadfeeder identifies companies visiting your website (even without form fills) and enriches visits with company data and behavior signals. It’s focused on turning anonymous traffic into warm leads.</p><p>Leadfeeder is best for agencies that run lead magnets, SEO/ads, and want to capture mid-funnel intent signals.</p><p>However, Leadfeeder only helps if you have meaningful website traffic. If you’re primarily doing outbound prospecting with no inbound strategy, this tool won’t surface any leads.</p>Source: Leadfeeder<h2><strong>Key Features</strong></h2><ul><li>Company visitor identification from web traffic.</li><li>Daily lead feeds and visit detail pages.</li><li>Integration with CRMs and marketing workflows (Salesforce, HubSpot, Pipedrive, Slack, Google Ads).</li><li>Firmographic enrichment for identified companies</li><li>Alerts for target account activity</li><li>Filtering to remove bots, ISPs, and low-quality traffic</li></ul><h2><strong>Benefits of Leadfeeder</strong></h2><ul><li>Capture mid-funnel intent (visitors who researched but didn’t convert).</li><li>Prioritize warm leads who already visited your site.</li><li>Marketing attribution clarity on which campaigns, content, and channels drive high-value visitor traffic</li><li>Enable faster follow-up on high-intent accounts</li></ul><h2><strong>Pricing</strong></h2><p>Leadfeeder offers a free forever plan and usage-based paid plans: Paid plans start at €141/month. A discount is available when choosing to bill annually.</p><h2><strong>Pros</strong></h2><p>✅Great for surfacing warm prospects and campaign attribution.</p><p>✅Easy setup with Google Analytics</p><p>✅Strong visibility into buyer behavior and content engagement</p><h2><strong>Cons</strong></h2><p>🚫Not a cold prospect database; must have decent inbound traffic to be useful.</p><p>🚫Company-level identification only (no guaranteed individual contacts)</p><p>🚫Identification rates vary significantly</p><p>‍</p>",
+  "what_people_say": "__POSSIBLE_UNTRANSLATED__<h2><strong>What Customers Say</strong></h2><p><em>“I can view website visits and see exactly what they were looking at on website.</em></p><p><em>The only thing I wish was different is that it only says a person viewed your website from xyz company, not actually who it was.”</em></p><p>- Review collected by and hosted on G2.com.</p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Leadfeeder",
+    "description": "__POSSIBLE_UNTRANSLATED__<h2><strong>What Leadfeeder Does</strong></h2><p>Leadfeeder identifies companies visiting your website (even without form fills) and enriches visits with company data and behavior signals. It’s focused on turning anonymous traffic into warm leads.</p><p>Leadfeeder is best for agencies that run lead magnets, SEO/ads, and want to capture mid-funnel intent signals.</p><p>However, Leadfeeder only helps if you have meaningful website traffic. If you’re primarily doing outbound prospecting with no inbound strategy, this tool won’t surface any leads.</p>Source: Leadfeeder<h2><strong>Key Features</strong></h2><ul><li>Company visitor identification from web traffic.</li><li>Daily lead feeds and visit detail pages.</li><li>Integration with CRMs and marketing workflows (Salesforce, HubSpot, Pipedrive, Slack, Google Ads).</li><li>Firmographic enrichment for identified companies</li><li>Alerts for target account activity</li><li>Filtering to remove bots, ISPs, and low-quality traffic</li></ul><h2><strong>Benefits of Leadfeeder</strong></h2><ul><li>Capture mid-funnel intent (visitors who researched but didn’t convert).</li><li>Prioritize warm leads who already visited your site.</li><li>Marketing attribution clarity on which campaigns, content, and channels drive high-value visitor traffic</li><li>Enable faster follow-up on high-intent accounts</li></ul><h2><strong>Pricing</strong></h2><p>Leadfeeder offers a free forever plan and usage-based paid plans: Paid plans start at €141/month. A discount is available when choosing to bill annually.</p><h2><strong>Pros</strong></h2><p>✅Great for surfacing warm prospects and campaign attribution.</p><p>✅Easy setup with Google Analytics</p><p>✅Strong visibility into buyer behavior and content engagement</p><h2><strong>Cons</strong></h2><p>🚫Not a cold prospect database; must have decent inbound traffic to be useful.</p><p>🚫Company-level identification only (no guaranteed individual contacts)</p><p>🚫Identification rates vary significantly</p><p>‍</p>",
+    "canonical": "https://www.synup.com/de/competitor-sections/leadfeeder",
+    "ogImage": null
+  }
+}

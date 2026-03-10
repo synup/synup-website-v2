@@ -1,0 +1,28 @@
+{
+  "slug": "gmb-local-justifications",
+  "locale": "fr",
+  "collectionType": "ebooks",
+  "name": "Livre électronique sur les justifications locales de Google My Business",
+  "collection_id": "6891dedfab83e12481b305d9",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6104939a872ddc8e6f83c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:13:29 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:13:29 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "ebook_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4c1acea69b7e704212d27_6182ed6583bb73d1e36c1e9f_Screen%2520Shot%25202021-11-01%2520at%25201.04.04%2520PM.avif",
+  "rich_text_block": "<p id=\"\">Avec ce livre électronique, vous découvrirez comment optimiser le référencement local et la vérité sur la façon dont les justifications locales influencent le CTR. Nous vous apprendrons exactement comment Google utilise les justifications locales pour dynamiser votre activité, augmenter le trafic de votre site Web, etc.</p>",
+  "category": "featured",
+  "free_business": false,
+  "learn_more": true,
+  "schedule_a_demo": false,
+  "resource_type": "Ebook",
+  "ebook_link": "https://files.tryflowdrive.com/495/file-bc0432d2-cdb6-4621-804b-a3108c93dc49_Google-My-Business-Local-Justifications-E-book.pdf",
+  "seo": {
+    "title": "Livre électronique sur les justifications locales de Google My Business",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/ebooks/gmb-local-justifications",
+    "ogImage": null
+  }
+}

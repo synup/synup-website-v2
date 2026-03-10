@@ -1,0 +1,33 @@
+{
+  "slug": "optimize-title-tags-business-website",
+  "locale": "en",
+  "collectionType": "how-tos",
+  "name": "Optimize Title Tags For Your Business’ Website",
+  "collection_id": "6877e268b030afdd44be8c81",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f332a0a3bb7c0db87f12e",
+  "archived": true,
+  "draft": true,
+  "created_on": "Sun Aug 03 2025 10:00:10 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 11:11:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "__MISSING__",
+  "description": "A simple guide that can help your website rank significantly higher",
+  "main_title": "How To Optimize Title Tags For Your Business’ Website",
+  "icon": "__MISSING__",
+  "richtext": "<p id=\"\">Title tags are one of the most important ranking signals that search engines use to determine the relevance of a webpage in the SERPs. They help both the users and the search engine understand the content of the page.</p><p id=\"\">So, what exactly are title tags, and why should they be optimized?</p><p id=\"\">A title tag is exactly what it sounds like. It is the headline of a webpage, and is displayed to users as a clickable link in the SERPs. Title tags are extremely important for organic ranking and SEO, and hence should be optimized to help search engines rank the page better.</p><p id=\"\">Here’s a quick five-step guide that you can follow in order to optimize your business website’s title tags.</p><h4 id=\"\">Step 1: Use A Primary And A Secondary Keyword</h4><p id=\"\">Including keywords that you’re trying to rank for is standard practice when it comes to title tag SEO. however, this should be done in a way that works best for both the user and the search engine.</p><p id=\"\">With this in mind, it’s best to determine a primary and a secondary keyword for your webpage, in order to increase its ranking for possible variations of the same search. Use your primary keyword within the first three words of your title tag, and your secondary keyword as part of the following three. Make sure that the title is also readable for the user.</p><p id=\"\">In this example, secondary keywords such as ‘Fashion’, ‘Trends’, and ‘Jackets’ have been used for the keywords ‘Fall Dress’.</p><h4 id=\"\">Step 2: Keep It Short And Relevant</h4><p id=\"\">While it’s not wrong to have a lengthy title tag, Google has a limit on the number of characters it can display in the results page, so it’s best to stick to that. The usual limit is about 65 – 70 characters, depending on the font, capitalization, and any symbols that are used. Anything more than this, Google cuts off and replaces it with ‘…’, denoting that there’s more to the title than displayed. A good practice is not to exceed 50 characters on your title tag, since CMS apps like WordPress often add your website’s name to the end of the title.</p><p id=\"\">If your title tags contain keywords after the character limit, they can go unnoticed by the user, and can affect your <a href=\"https://willmarlow.com/click-through-rate-ctr/\" id=\"\">Click-Through Rate</a> (CTR).</p><h4 id=\"\">Step 3: Include Your Brand Name</h4><p id=\"\">Including your brand or business name at the end of your title tag not only promotes brand awareness, but also helps increase your business’ authority in your field.</p><p id=\"\">You can use the pipe symbol (|) to separate your brand or business name from the rest of your title.</p><h4 id=\"\">Step 4: Use Unique Title Tags</h4><p id=\"\">This is a key practice when it comes to title tag SEO. Having duplicate title tags can hurt the rankings of your web pages in SERPs, as they will be competing for a spot in the same search results.</p><p id=\"\">On the other hand, having unique title tags for all your web pages will help search engines understand your content better, and serve them for the most relevant searches. Moreover, unique title tags might also help increase your website’s <a href=\"https://codeboxr.com/why-domain-authority-is-most-important-for-seo-3/\" id=\"\">domain authority</a>, since search engines will start showing your web pages for different searches related to your industry.</p><p id=\"\">There you have it. Following these simple guidelines can result in highly optimized title tags that your website and business can benefit from.<br></p>",
+  "company": "__MISSING__",
+  "marketing_guide_companies": "__MISSING__",
+  "scan_your_business_listing": false,
+  "speak_to_a_brand_specialist_today": false,
+  "optimize_for_voice_search": false,
+  "join_title": "Spend More Time Running Your Business",
+  "join_description": "And, less time obsessing about your local presence",
+  "book_a_demo": false,
+  "run_free_scan": false,
+  "seo": {
+    "title": "How To Optimize Title Tags For Your Business’ Website",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/how-tos/optimize-title-tags-for-your-business-website",
+    "ogImage": null
+  }
+}

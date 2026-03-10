@@ -1,0 +1,31 @@
+{
+  "slug": "atlas-obscura",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Atlas Obscura",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c5a3ab8c14452e7e6d7",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf24bbe4a5a5f4d51911_65312b09cd2ea44ff5c1178e_Atlas%2520Obscura.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Atlas Obscura avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; uae; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Atlas Obscura + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Atlas Obscura grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce qu'Atlas Obscura&nbsp;?</h2><p id=\"\">Atlas Obscura est une plateforme en ligne et une base de données communautaire qui se concentre sur la découverte et la documentation de lieux, d'événements et de phénomènes uniques et inhabituels du monde entier. Il est connu pour célébrer les merveilles cachées et les attractions moins connues qui passent souvent inaperçues auprès des guides de voyage traditionnels. Atlas Obscura propose une collection d'articles, de photographies et de contenus générés par les utilisateurs, permettant aux utilisateurs d'explorer des destinations excentriques et décalées, des curiosités historiques et des expériences culturelles fascinantes. Il s'adresse aux personnes curieuses de l'extraordinaire et désireuses d'explorer les trésors cachés du monde.</p><h2 id=\"\">Pourquoi choisir Atlas Obscura + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: En pouvant gérer les fiches de vos entreprises sur Atlas Obscura, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à Atlas Obscura via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur Atlas Obscura.</li><li id=\"\">Engagement des clients&nbsp;: consultez et répondez aux avis sur Atlas Obscura, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Atlas Obscura + Synup&nbsp;?</h2><p id=\"\">L'intégration Atlas Obscura est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration d'Atlas Obscura&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Atlas Obscura pour gérer l'intégration Synup + Atlas Obscura et les paramètres associés.</li></ol>",
+  "integration_types": "travel",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Atlas Obscura est un site de voyage mondial primé spécialisé dans les voyages exploratoires et les expériences uniques.",
+  "seo": {
+    "title": "Atlas Obscura",
+    "description": "Élargissez votre portée et captivez les clients curieux. Intégrez Synup pour une exposition fluide sur la plateforme unique d'Atlas Obscura.",
+    "canonical": "https://www.synup.com/fr/integrations/atlas-obscura",
+    "ogImage": null
+  }
+}

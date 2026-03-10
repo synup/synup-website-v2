@@ -1,0 +1,29 @@
+{
+  "slug": "beauty-salon-and-spa-business",
+  "locale": "es",
+  "collectionType": "marketing-guides",
+  "name": "Mi negocio de salón de belleza y spa",
+  "collection_id": "6877ea49dfe48027e6aa91ca",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68aa938aea8e96c73c265c6c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 24 2025 04:22:34 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 24 2025 04:22:34 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 24 2025 04:34:46 GMT+0000 (Coordinated Universal Time)",
+  "description": "Haga crecer su salón de belleza y spa con estrategias comprobadas como el SEO local, la participación en las redes sociales y los programas de recomendación para atraer y retener clientes.",
+  "detail_page_heading": "Cómo promocionar mi negocio de salón de belleza y spa",
+  "main_rich_content": "__MISSING__",
+  "summary_thumbnail_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68aa938aea8e96c73c265c61_6772d0439392a3ec8200dc06_image6.avif",
+  "icon": "__MISSING__",
+  "cta_heading": "__MISSING__",
+  "cta_description": "__MISSING__",
+  "run_a_free_scan_button": false,
+  "get_started_button": false,
+  "seo": {
+    "title": "Mi negocio de salón de belleza y spa",
+    "description": "¿Quiere hacer crecer su negocio de salón de belleza y spa? Estas son algunas estrategias de marketing probadas, como el SEO local, la participación en las redes sociales, los programas de recomendación y más, para atraer nuevos clientes y hacer que vuelvan por un servicio excepcional.",
+    "canonical": "https://www.synup.com/es/marketing-guides/beauty-salon-and-spa-business",
+    "ogImage": null
+  }
+}

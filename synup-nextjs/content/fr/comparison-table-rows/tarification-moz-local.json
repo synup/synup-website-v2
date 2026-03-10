@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-moz",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Tarification - Moz Local",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a615556043d8e5dcb15339",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:35:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:35:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "34,99 $/mois",
+  "second_col": "14.0",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "moz-local-alternative",
+  "tabel_category": "Tarification",
+  "seo": {
+    "title": "Tarification - Moz Local",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/tarification-moz-local",
+    "ogImage": null
+  }
+}

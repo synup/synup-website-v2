@@ -1,0 +1,28 @@
+{
+  "slug": "marinara-pizza",
+  "locale": "en",
+  "collectionType": "testimonials",
+  "name": "Marinara Pizza",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891098c866efdab43785b8e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 19:27:08 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 19:27:08 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 19:33:51 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "Marinara Pizza",
+  "person_name": "Gabi Weiser",
+  "designation": "CEO of Marinara Pizza",
+  "partner_description": "Gabi Weiser, CEO",
+  "partner": "__MISSING__",
+  "partner_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891098c866efdab43785b44_676124f0cf6aea833e46532a_20241217T0714-7fad3603-5a82-4e8b-bb2e-a477f7b55cf0.webp",
+  "partner_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891098c866efdab43785b47_676125a7c5e21898b96bf0cb_20241217T0717-1faa5286-3b8a-4955-82dc-41a1d75e3b0b.webp",
+  "partner_testimonial": "<h5 id=\"\">“We deliver the pizza and Synup delivers the customers.” </h5><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Marinara Pizza",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonials/marinara-pizza",
+    "ogImage": null
+  }
+}

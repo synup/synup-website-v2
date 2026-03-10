@@ -1,0 +1,28 @@
+{
+  "slug": "stripe",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Rayas",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76299be00a0e5f6cb9683",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integra Stripe con Synup para automatizar tu proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Stripe + Synup</h1><p id=\"\">Revoluciona las opiniones con Stripe + Synup: recopila y mejora sin problemas los comentarios de los clientes mediante indicaciones automatizadas, experiencias personalizadas y seguimientos detallados en perfecta armonía con tus transacciones de pago.</p><h2 id=\"\">¿Qué es Stripe?</h2><p id=\"\">Stripe es un procesador de pagos online líder que permite a las empresas aceptar y gestionar de forma segura las transacciones a través de Internet con una sólida infraestructura técnica y de prevención del fraude. Su diseño fácil de usar permite gestionar sin problemas los pagos y las suscripciones en línea, lo que lo convierte en la opción preferida de las empresas.<br>‍</p><h2 id=\"\">¿Por qué Stripe + Synup?<strong id=\"\">‍</strong></h2><p id=\"\"><strong id=\"\">Indicaciones de revisión sencillas:</strong>Aproveche los momentos posteriores a la transacción para automatizar y optimizar el envío de las solicitudes de revisión, captar las nuevas impresiones de los clientes y mejorar las tasas de respuesta.</p><p id=\"\"><strong id=\"\">Experiencias de revisión personalizadas: </strong>Aprovecha la flexible API de Stripe con Synup para crear puntos de contacto de adquisición de reseñas personalizados e integrados dentro del proceso de pago, lo que simplifica el proceso de revisión para los clientes y aumenta la participación.</p><p id=\"\"><strong id=\"\">Utilización estratégica de datos: </strong>Utilice estratégicamente los datos transaccionales para elaborar solicitudes de revisión personalizadas y significativas, generando comentarios de mayor calidad y fomentando mejores relaciones con los clientes.</p><p id=\"\"><strong id=\"\">Capacidades de integración perfectas: </strong>Las amplias capacidades de integración de Stripe, combinadas con la experiencia de Synup, facilitan una convergencia potente y fluida de las plataformas de pago y revisión, lo que promueve un enfoque de gestión de reseñas unificado y eficiente.</p><p id=\"\"><strong id=\"\">Seguimientos detallados y automatizados: </strong>Implemente seguimientos automatizados basados en los datos de las transacciones para garantizar una participación sostenida y perspicaz de los clientes y facilitar un flujo constante de reseñas valiosas.</p><p id=\"\"><br>La combinación de Stripe con Synup permite a las empresas reimaginar y perfeccionar el proceso de adquisición de reseñas, alinearlo meticulosamente con las transacciones e interacciones de los clientes e impulsar la participación, los conocimientos y la eficiencia.</p><h2 id=\"\">¿Cómo integrar Stripe + Synup?</h2><p id=\"\">La integración de Stripe para el procesamiento de pagos está disponible para todos los suscriptores de Synup. Para ver y gestionar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Procesamiento de pagos en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar pasarela de pago.</li></ul><ul id=\"\"><li id=\"\">Selecciona Stripe como procesador de pagos.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Stripe.</li></ul><ul id=\"\"><li id=\"\">Termina de configurar el procesamiento de pagos.</li></ul><ul id=\"\"><li id=\"\">Acepta pagos a través de Stripe.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Rayas",
+    "description": "Mejora las reseñas con Stripe + Synup: integración perfecta, experiencias personalizadas y seguimientos automatizados.",
+    "canonical": "https://www.synup.com/es/integrations/rayas",
+    "ogImage": null
+  }
+}

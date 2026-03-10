@@ -1,0 +1,31 @@
+{
+  "slug": "ez-local",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "EZ Lokal",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf29bb9cf463fb39d6e9",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:05 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:05 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf29bb9cf463fb39d6cc_65312d3edf56818cdc3087fa_EZ%2520Local.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Ezlocal mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">EZ Local + Synchronisierung</h1><p id=\"\"><strong id=\"\">Fügen Sie Brancheneinträge und Bewertungen auf EZ Local hinzu, fordern Sie sie an und bearbeiten Sie sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup.</strong></p><h2 id=\"\">Was ist EZ Local?</h2><p id=\"\">EZ Local ist wahrscheinlich ein Online-Verzeichnis oder ein Marketingdienst, mit dem Unternehmen ihre Online-Präsenz und Sichtbarkeit verbessern können. Es kann Dienste wie Brancheneinträge, Bewertungsmanagement und lokale Suchoptimierung anbieten.</p><h2 id=\"\">Warum EZ Local + Synup?</h2><ul id=\"\"><li id=\"\">Vollständige Kontrolle über Angebote: Mit der Möglichkeit, Ihre Brancheneinträge auf EZ Local zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\">Erweitern Sie Ihre Reichweite: Wenn Sie Ihr Unternehmen über Synup zu EZ Local hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\">Präzise Geschäftsinformationen: Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf EZ Local veröffentlichen.</li><li id=\"\">Kundenbindung: Sehen Sie sich Bewertungen auf EZ Local an und antworten Sie darauf, um eine positive Beziehung zu Ihren Kunden aufzubauen und zu zeigen, dass Sie ihr Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich EZ Local + Synup?</h2><p id=\"\">Die EZ Local-Integration steht allen Abonnenten des Synup-Angebotsplans zur Verfügung. Um die EZ Local-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das EZ Local-Logo, um die Synup + EZ Local-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Aktualisieren Sie ganz einfach Ihr Facebook-Profil und Ihre Shop-Seiten.",
+  "seo": {
+    "title": "EZ Lokal",
+    "description": "Maximieren Sie die Sichtbarkeit auf EZ Local. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine herausragende Online-Präsenz.",
+    "canonical": "https://www.synup.com/de/integrations/ez-lokal",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "linkedin",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "LinkedIn",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2e3074eeb6fd91e4d9",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:10 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:10 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2e3074eeb6fd91e4b7_66b9b78bdbc84d396c50ba27_linkedin_social_icon.png",
+  "title_tag": "Optimieren und verwalten Sie Ihr LinkedIn mit Synup",
+  "link_to_cta": "https://www.synup.com/book-a-demo",
+  "tags": "india; france; germany; netherlands; uae; south-africa; nigeria; ireland; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">LinkedIn + Synchronisation?</strong></h1><h2 id=\"\"><strong id=\"\">Was ist LinkedIn?</strong></h2><p id=\"\">LinkedIn ist die führende professionelle Netzwerkplattform, die Unternehmen und Fachkräfte auf der ganzen Welt miteinander verbindet. Es ist ein wichtiges Instrument für Unternehmen, die eine solide Online-Präsenz aufbauen, Top-Talente gewinnen und mit Branchenkollegen und potenziellen Kunden in Kontakt treten möchten. Mit über 900 Millionen Mitgliedern ist LinkedIn eine leistungsstarke Plattform für den Aufbau und die Pflege beruflicher Beziehungen.</p><h2 id=\"\"><strong id=\"\">Warum LinkedIn-Präsenz mit Synup verwalten?</strong></h2><p id=\"\"><strong id=\"\">Erhöhen Sie die Sichtbarkeit unter Fachleuten:</strong> Mit LinkedIn kann Ihr Unternehmen ein breites Publikum von Fachleuten, Entscheidungsträgern und Branchenführern erreichen. Synup optimiert Ihr LinkedIn-Profil, um dessen Sichtbarkeit zu erhöhen und es Fachleuten zu erleichtern, Ihr Unternehmen zu finden und mit ihm in Kontakt zu treten. Mithilfe der Tools von Synup können Sie relevante Inhalte präsentieren, Erfolge hervorheben und Updates veröffentlichen, die bei Ihrer Zielgruppe Anklang finden.</p><p id=\"\"><strong id=\"\">Bauen Sie Glaubwürdigkeit und Vertrauen auf:</strong> Ein gut verwaltetes LinkedIn-Profil fördert Vertrauen und Glaubwürdigkeit. Durch die Bereitstellung konsistenter und verifizierter Informationen über Ihr Unternehmen trägt Synup dazu bei, den Ruf Ihres Unternehmens als zuverlässige und maßgebliche Einheit in Ihrer Branche zu stärken. Diese Glaubwürdigkeit ist entscheidend für den Aufbau starker beruflicher Beziehungen und die Gewinnung potenzieller Kunden und Partner.</p><p id=\"\"><strong id=\"\">Datengestützte Einblicke:</strong> Mit der LinkedIn-Analytics-Integration von Synup können Sie wertvolle Einblicke in das Verhalten, die Präferenzen und das Engagement Ihrer Zielgruppe gewinnen. Diese Daten ermöglichen es Ihnen, fundierte Entscheidungen zu treffen, Ihre Inhaltsstrategie anzupassen und Ihre Marketingbemühungen zu verbessern. Die Analysetools von Synup bieten einen umfassenden Überblick über Ihre LinkedIn-Aktivitäten und ermöglichen es Ihnen, Ihren Ansatz kontinuierlich zu optimieren.</p><p id=\"\">Die Kombination von LinkedIn mit Synup bietet eine leistungsstarke Lösung für die Verwaltung Ihrer professionellen Online-Präsenz, die Verbesserung der Sichtbarkeit und die Förderung einer sinnvollen Interaktion mit Ihrem Publikum. Durch eine genaue Profilverwaltung, erhöhte berufliche Sichtbarkeit und umsetzbare Erkenntnisse kann sich Ihr Unternehmen als führendes Unternehmen in Ihrer Branche etablieren.</p><h2 id=\"\"><strong id=\"\">Wie integriere ich LinkedIn mit Synup?</strong></h2><p id=\"\">Die LinkedIn-Plattformintegration steht allen Nutzern von Synup Social zur Verfügung. So richten Sie Ihr LinkedIn ein und verwalten es:</p><ol id=\"\"><li id=\"\">Loggen Sie sich in Ihr Synup Social Konto ein</li><li id=\"\">Gehe zu Einstellungen &gt; Verbundene Kanäle</li><li id=\"\">Klicken Sie auf die Schaltfläche „Neuen Kanal verbinden“</li></ol><ol start=\"4\" id=\"\"><li id=\"\">Klicken Sie auf LinkedIn und wählen Sie ein Profil aus, mit dem Sie sich verbinden möchten</li></ol>",
+  "integration_types": "social-app",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#1877f2",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2544446bf04208916f_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).webp",
+  "integration_summary": "Aktualisieren Sie ganz einfach Ihr LinkedIn-Profil und Ihre Shop-Seiten.",
+  "seo": {
+    "title": "LinkedIn",
+    "description": "Erhöhen Sie Ihre LinkedIn-Präsenz. Die Synup-Integration gewährleistet genaue Geschäftsdaten für ein überzeugendes Online-Profil.",
+    "canonical": "https://www.synup.com/de/integrations/linkedin",
+    "ogImage": null
+  }
+}

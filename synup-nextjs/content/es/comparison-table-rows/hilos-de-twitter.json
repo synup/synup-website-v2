@@ -1,0 +1,27 @@
+{
+  "slug": "twitter-threads-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Hilos de Twitter",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0b56839aabf3067497",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "posting",
+  "list_order": "12.0",
+  "select_pages": "later-alternative; heyorca-alternative; socialbee-alternative; reputation-com-alternative; sprout-social-alternative",
+  "tabel_category": "Hilos de Twitter",
+  "seo": {
+    "title": "Hilos de Twitter",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/hilos-de-twitter",
+    "ogImage": null
+  }
+}

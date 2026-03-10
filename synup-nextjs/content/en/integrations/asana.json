@@ -1,0 +1,28 @@
+{
+  "slug": "asana",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Asana",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23882ee6b3760ab24b8a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:28 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:28 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23882ee6b3760ab24b85_6548a7b88575f462b8f72c48_Asana.svg",
+  "title_tag": "Integrate Asana with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Asana + Synup</strong></h1><p id=\"\">Unleash the power of enhanced review management by seamlessly integrating Asana’s robust productivity features with Synup’s sophisticated review acquisition and management toolkit.</p><h2 id=\"\">What is Asana?</h2><p id=\"\">Asana is a comprehensive productivity and project management tool that facilitates organized task tracking, team collaboration, and workflow management. It enables teams to navigate through projects efficiently, ensuring that objectives are met with precision and timeliness.</p><h2 id=\"\">Why Asana + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Milestone-Triggered Review Requests: </strong>Utilize Asana’s detailed task and milestone tracking to initiate timely and relevant review requests, capturing customer feedback at significant touchpoints of their journey.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Holistic View of Customer Interactions:</strong> Marry Asana’s organizational capabilities with Synup’s review insights to create a 360-degree view of customer experiences and interactions, enabling refined customer engagement strategies.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Integrated Review Acquisition Process:</strong> Embed Synup’s review solicitation and management functionalities within Asana’s workflows, promoting a smooth and unified approach to capturing customer feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Dynamic Review Customization:</strong> Adapt review solicitations using Asana’s real-time task and project updates, ensuring that review interactions are contextually rich and attuned to each phase of the customer journey.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Insight-Driven Strategy Enhancement: </strong>Leverage the integrated data from Asana and Synup to extract actionable insights, guiding continuous improvements in customer satisfaction and service delivery.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Streamlined Review Management Workflow:</strong> Optimize the process of managing reviews by centralizing and synchronizing review-related tasks and activities within Asana’s powerful productivity environment.</li></ul><p id=\"\">Integrating Asana with Synup opens doors to a revolutionary approach in review management, where each project milestone and completed task becomes a strategic entry-point for acquiring meaningful customer feedback and driving insightful business improvements.</p><h2 id=\"\">How to integrate Asana + Synup?</h2><p id=\"\">Asana integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Asana to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Asana",
+    "description": "Enhance review management with Asana + Synup integration. Milestone-triggered requests, holistic insights, and streamlined workflow. Elevate customer engagement!",
+    "canonical": "https://www.synup.com/integrations/asana",
+    "ogImage": null
+  }
+}

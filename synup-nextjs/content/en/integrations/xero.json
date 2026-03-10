@@ -1,0 +1,28 @@
+{
+  "slug": "xero",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Xero",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23992dc3f0cdb301d26f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:45 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23992dc3f0cdb301d26a_6761254075ecf4e6b94bec63_20241217T0715-a3ed4b40-d070-45e5-8508-f067fd25b61b.webp",
+  "title_tag": "Integrate Xero with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Xero + Synup</strong></h1><p id=\"\">Maximize the utility of your accounting interactions by synergizing Xero’s robust financial management capabilities with Synup’s sophisticated review acquisition and management strategies.</p><h2 id=\"\">What is Xero?</h2><p id=\"\">Xero is a powerful cloud-based accounting software that transforms financial management with its intuitive design, real-time updates, and extensive third-party integrations, making business accounting efficient and insightful.</p><h2 id=\"\">Why Xero + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Transactional Review Triggers:</strong> Deploy review requests strategically by leveraging Xero’s detailed transaction records, ensuring timely and relevant feedback from clients and customers.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Dynamic Customer Profiling:</strong> Enhance Xero’s rich customer profiles with insightful reviews and feedback, paving the way for a more personalized and thoughtful client engagement strategy.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Integrated Review Insights: </strong>Seamlessly blend Synup’s review data into Xero’s accounting dashboard, allowing for a unified view of customer financial interactions and their feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Workflows:</strong> Enhance operational productivity by automating review acquisition and management processes, allowing for a smoother, more consistent feedback collection process.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Business Adaptability: </strong>Utilize the combined insights of financial data and customer reviews to adapt business strategies, services, and client interactions to meet and exceed expectations.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Cost-Effective Review Management:</strong> Optimize the review management process to be more cost-effective and resource-efficient, ensuring a higher return on investment in reputation management efforts.</li></ul><p id=\"\">Pairing Xero with Synup creates a transformative approach to review acquisition and management. This integration allows for the optimization of accounting interactions, ensuring a well-rounded, strategic, and effective method of harnessing customer feedback and insights.</p><h2 id=\"\">How to integrate Xero + Synup?</h2><p id=\"\">Xero integration for accounting is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Accounting tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Accounting Software Button.</li></ul><ul id=\"\"><li id=\"\">Select Xero as your accounting software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Xero account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up accounting.</li></ul><ul id=\"\"><li id=\"\">Manage your finances using Xero.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Xero",
+    "description": "Unlock powerful review management with Xero + Synup integration: Transform financial insights with strategic customer feedback.",
+    "canonical": "https://www.synup.com/integrations/xero",
+    "ogImage": null
+  }
+}

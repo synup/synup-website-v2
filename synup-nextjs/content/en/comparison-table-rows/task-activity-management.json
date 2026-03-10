@@ -1,0 +1,26 @@
+{
+  "slug": "task-activity-management",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Task & Activity Management",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68e7682b565f28b9357b0e8d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Oct 09 2025 07:45:47 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 07:46:11 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 08:38:55 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Limited",
+  "select_table_category": "__MISSING__",
+  "list_order": null,
+  "select_pages": "pipedrive-vs-synup",
+  "seo": {
+    "title": "Task & Activity Management",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/task-activity-management",
+    "ogImage": null
+  }
+}

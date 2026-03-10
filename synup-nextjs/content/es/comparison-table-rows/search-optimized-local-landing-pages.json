@@ -1,0 +1,28 @@
+{
+  "slug": "search-optimized-local-landing-pages",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Páginas de destino locales optimizadas para búsquedas",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da1287975250f7518837",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "locator-pages",
+  "list_order": "23.0",
+  "select_pages": "synup-vs-yext; birdeye-alternative; uberall-alternative; chatmeter-alternative; soci-alternative; social-places-alternative; milestone-inc-alternative; partoo-alternative; pinmeto-alternative; rio-seo-alternative; singleinterface-alternative; sproutloud-alternative; advicelocal-alternative; synup-vs-location-bank; synup-vs-yotpo",
+  "tabel_category": "Páginas de destino locales optimizadas para búsquedas",
+  "alt_select_pages": "best-yext-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Páginas de destino locales optimizadas para búsquedas",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/search-optimized-local-landing-pages",
+    "ogImage": null
+  }
+}

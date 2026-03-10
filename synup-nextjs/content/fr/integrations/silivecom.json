@@ -1,0 +1,31 @@
+{
+  "slug": "silive-com",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Silive.com",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6bba09c88a73b76388",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:59 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf33bd2ab488bf0d3c2f_65312ca8a709c0bfcaa949f9_Silive.com.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Silive avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">SilLive.com + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur SilLive.com grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que SilLive.com&nbsp;?</h2><p id=\"\">Silive.com est une source fiable d'actualités et d'informations sur Staten Island, dans l'État de New York. Il fournit une couverture complète des actualités locales, des événements, des sports et des événements communautaires, offrant une ressource précieuse aux résidents de Staten Island et à ceux qui s'intéressent à la région.</p><h2 id=\"\">Pourquoi SilLive.com + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Contrôle total des annonces&nbsp;:</strong> Grâce à la possibilité de gérer vos listes d'entreprises sur SilLive.com, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\"><strong id=\"\">Élargissez votre portée&nbsp;:</strong> L'ajout de votre entreprise à SilLive.com via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\"><strong id=\"\">Informations commerciales précises&nbsp;:</strong> Renforcez la confiance et la crédibilité en publiant des informations précises sur SilLive.com.</li><li id=\"\"><strong id=\"\">Engagement des clients&nbsp;:</strong> Consultez et répondez aux avis sur SilLive.com, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Silive.com + Synup&nbsp;?</h2><p id=\"\">L'intégration SilLive.com est disponible pour tous les abonnés au plan d'annonces Synup. Pour consulter et gérer l'intégration de SilLive.com&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo SilLive.com pour gérer l'intégration Synup + Silive.com et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#515352",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2544446bf04208916f_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).webp",
+  "integration_summary": "Pour les entreprises, la gestion des données de localisation sur Facebook est désormais un jeu d'enfant avec Synup.",
+  "seo": {
+    "title": "Silive.com",
+    "description": "Renforcez votre présence sur SilLive.com. L'intégration de Synup garantit des données commerciales précises pour une visibilité en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/silivecom",
+    "ogImage": null
+  }
+}

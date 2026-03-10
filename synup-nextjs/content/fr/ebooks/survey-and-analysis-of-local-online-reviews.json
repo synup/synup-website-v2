@@ -1,0 +1,27 @@
+{
+  "slug": "survey-and-analysis-of-local-online-reviews",
+  "locale": "fr",
+  "collectionType": "ebooks",
+  "name": "Enquête et analyse des avis locaux en ligne",
+  "collection_id": "6891dedfab83e12481b305d9",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61047a406c045dad5155c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:13:27 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:13:27 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "ebook_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4c1ae33b9c804674da00c_60236b3620b8e2b286373d63_eb8.webp",
+  "rich_text_block": "<p id=\"\">Nous avons récemment mené une enquête dans le cadre de laquelle nous avons demandé aux consommateurs et aux propriétaires d'entreprises ce qu'ils pensaient des avis en ligne, à savoir s'ils les trouvaient utiles, quel impact ils pensaient que les avis en ligne pouvaient avoir sur leur activité, au total. Nous avons également décidé de donner une autre perspective et avons étudié les listes d'entreprises sur des sites populaires tels que Google, Yelp et TripAdvisor afin de déterminer comment la quantité et la qualité des avis des entreprises sur ces sites influaient sur leur classement. Les informations et les résultats de ces enquêtes et études sont documentés dans ce rapport.</p>",
+  "category": "popular",
+  "free_business": false,
+  "learn_more": false,
+  "schedule_a_demo": true,
+  "resource_type": "Ebook",
+  "seo": {
+    "title": "Enquête et analyse des avis locaux en ligne",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/ebooks/survey-and-analysis-of-local-online-reviews",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "white-labeling-reports",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "White-Labeling & Reports",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68da8de0f0446a26a9e1822f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Sep 29 2025 13:47:12 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 13:47:29 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "top-category",
+  "list_order": null,
+  "select_pages": "promanage-alternative",
+  "seo": {
+    "title": "White-Labeling & Reports",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/white-labeling-reports",
+    "ogImage": null
+  }
+}

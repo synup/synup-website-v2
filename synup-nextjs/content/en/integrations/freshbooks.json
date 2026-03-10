@@ -1,0 +1,28 @@
+{
+  "slug": "freshbooks",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "FreshBooks",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238d961d84e3589a713f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238d961d84e3589a7139_6548e192faa79e95a79429eb_Freshbooks.svg",
+  "title_tag": "Integrate Freshbooks with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">FreshBooks + Synup</strong></h1><p id=\"\">Elevate your review acquisition and management strategies by integrating FreshBooks’ accounting excellence with Synup’s specialized review management features.</p><h2 id=\"\">What is FreshBooks?</h2><p id=\"\">FreshBooks is a dynamic accounting software renowned for its intuitive design, effortless invoicing, time tracking, and client engagement tools, designed to optimize the financial management process for small businesses and freelancers.</p><h2 id=\"\">Why FreshBooks + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Client-Engagement Review Triggers:</strong> Utilize FreshBooks’ client engagement tools to initiate timely and relevant review requests, harnessing each financial interaction as an opportunity to gather valuable feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Unified Customer Intelligence: </strong>Merge FreshBooks’ comprehensive client data with Synup’s review insights, creating a consolidated view of client experiences and interactions for a more nuanced understanding.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Solicitation: </strong>Optimize the review acquisition process by automating requests based on payment receipts, invoice interactions, and other client touch points within FreshBooks, ensuring a seamless flow of feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Customized Review Communication:</strong> Tailor review requests based on specific client interactions and transaction histories, making each communication more personal and engaging.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Business Development: </strong>Utilize aggregated review insights alongside FreshBooks’ detailed financial data to make informed decisions that enhance client satisfaction and business performance.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Efficiency and Resource Optimization:</strong> Simplify and streamline the review management process, integrating it naturally within FreshBooks’ workflows, to maximize operational efficiency and resource utilization.</li></ul><p id=\"\">Integrating FreshBooks with Synup redefines the approach to review management, leveraging each accounting interaction as a strategic touchpoint for acquiring and utilizing customer reviews, driving enhanced client engagement and business success.</p><h2 id=\"\">How to integrate FreshBooks + Synup?</h2><p id=\"\">FreshBooks integration for accounting is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Accounting tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Accounting Software Button.</li></ul><ul id=\"\"><li id=\"\">Select FreshBooks as your accounting software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your FreshBooks account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up accounting.</li></ul><ul id=\"\"><li id=\"\">Manage your finances using FreshBooks.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "FreshBooks",
+    "description": "Optimize client engagement and reviews with FreshBooks + Synup integration. Streamline your financial interactions.",
+    "canonical": "https://www.synup.com/integrations/freshbooks",
+    "ogImage": null
+  }
+}

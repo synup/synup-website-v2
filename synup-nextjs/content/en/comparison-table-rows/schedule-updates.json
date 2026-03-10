@@ -1,0 +1,28 @@
+{
+  "slug": "schedule-updates",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Schedule Updates",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db722dc5cf8034e73c8b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 07:19:06 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Aug 21 2025 07:23:07 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "listings-management",
+  "list_order": "11.0",
+  "select_pages": "synup-vs-yext; birdeye-alternative; chatmeter-alternative; soci-alternative; uberall-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; review-trackers-alternative; surefire-local-alternative; pinmeto-alternative; rio-seo-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; dbaplatform-alternative; synup-vs-experience-com; synup-vs-location-bank; synup-vs-localpanda-ai; synup-vs-whitespark; promanage-alternative; zceppa-alternative",
+  "tabel_category": "Schedule Updates",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative",
+  "seo": {
+    "title": "Schedule Updates",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/schedule-updates",
+    "ogImage": null
+  }
+}

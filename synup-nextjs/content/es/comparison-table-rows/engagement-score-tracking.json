@@ -1,0 +1,27 @@
+{
+  "slug": "engagement-score-tracking",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Seguimiento de la puntuación de participación",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da131e8c07b8741f2c30",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "dashboard",
+  "list_order": "36.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; sprout-social-alternative; buffer-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Seguimiento de la puntuación de participación",
+  "seo": {
+    "title": "Seguimiento de la puntuación de participación",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/engagement-score-tracking",
+    "ogImage": null
+  }
+}

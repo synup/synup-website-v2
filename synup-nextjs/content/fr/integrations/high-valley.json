@@ -1,0 +1,31 @@
+{
+  "slug": "high-valley",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Haute Vallée",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c63afa0731dffaa0a3d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:51 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:51 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Haute Vallée + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur High Valley grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que High Valley&nbsp;?</h2><p id=\"\">High Valley, un duo musical renommé, a conquis le cœur des amateurs de musique country grâce à son talent exceptionnel et à ses performances captivantes. Que vous soyez fan de musique country ou que vous soyez novice en la matière, la musique de High Valley offre un mélange unique d'harmonies et de mélodies qui résonnent auprès du public du monde entier.</p><h2 id=\"\">Pourquoi High Valley + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: En pouvant gérer les fiches de vos entreprises sur High Valley, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à High Valley via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur High Valley.</li><li id=\"\">Engagement des clients&nbsp;: consultez et répondez aux avis sur High Valley, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer High Valley + Synup&nbsp;?</h2><p id=\"\">L'intégration de High Valley est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration de High Valley, procédez comme suit&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo High Valley pour gérer l'intégration Synup + High Valley et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#0670c6",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2abe431e2855409f32_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).webp",
+  "integration_summary": "High Valley est bien plus qu'un fournisseur de premier plan d'actualités et d'informations locales et nationales dans la région métropolitaine de Lehigh Valley.",
+  "seo": {
+    "title": "Haute Vallée",
+    "description": "Répertoire général",
+    "canonical": "https://www.synup.com/fr/integrations/high-valley",
+    "ogImage": null
+  }
+}

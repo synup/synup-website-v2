@@ -1,0 +1,20 @@
+{
+  "slug": "thailand",
+  "locale": "es",
+  "collectionType": "integration-tags",
+  "name": "Tailandia",
+  "collection_id": "68826a55dc0ff405c5839a04",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a761fdd9e4bd68bc9d86b6",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:14:21 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:14:21 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Tailandia",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/integration-tags/tailandia",
+    "ogImage": null
+  }
+}

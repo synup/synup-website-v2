@@ -1,0 +1,31 @@
+{
+  "slug": "yelp",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Jaulen",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2d6efd8ae35fff33a2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:09 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:09 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2d6efd8ae35fff338c_6531323dcdb94f4b94694237_yext.svg",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "france; germany; netherlands; ireland; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<p id=\"\">Yelp verbindet Menschen mit lokalen Unternehmen mit vertrauenswürdigen lokalen Geschäftsinformationen, Fotos und Bewertungsinhalten. Es ist eine zentrale lokale Plattform, auf der Verbraucher lokale Unternehmen aller Größen entdecken, Kontakte knüpfen und mit ihnen Geschäfte tätigen können. So ist es ganz einfach, ein Angebot anzufordern, sich auf eine Warteliste zu setzen oder eine Reservierung vorzunehmen und einen Termin oder Kauf zu vereinbaren. Yelp hat über seine mobile Website monatlich 76,7 Millionen Einzelbesucher.</p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Für Unternehmen ist die Verwaltung von Standortdaten auf Facebook mit Synup jetzt ein Kinderspiel.",
+  "seo": {
+    "title": "Jaulen",
+    "description": "Allgemeines Verzeichnis",
+    "canonical": "https://www.synup.com/de/integrations/jaulen",
+    "ogImage": null
+  }
+}

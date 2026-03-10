@@ -1,0 +1,22 @@
+{
+  "slug": "vistaprint",
+  "locale": "de",
+  "collectionType": "local-listings-clients",
+  "name": "Vistaprint",
+  "collection_id": "6891dfa5ae2c74373e72307c",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bc0323f015729e9aac10",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:01:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:01:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "clients_logos": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bc0323f015729e9aac0b_63f46ed77b5b9e47681c0068_Vistaprint.webp",
+  "list_of_number": "5.0",
+  "seo": {
+    "title": "Vistaprint",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/local-listings-clients/vistaprint",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "microsoft-teams",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Equipos de Microsoft",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628b1a8f9bc97efa87f7",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Microsoft Teams con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Suscribirse a Microsoft Teams +</strong></h1><p id=\"\">Revitalice su enfoque de administración de reseñas al combinar sin problemas la potencia de colaboración de Microsoft Teams con las soluciones expertas de administración y adquisición de reseñas de Synup.</p><h2 id=\"\">¿Qué es Microsoft Teams?</h2><p id=\"\">Microsoft Teams es una plataforma de colaboración expansiva que facilita capacidades enriquecidas de comunicación, reuniones e intercambio de archivos, y promueve la productividad y las interacciones cohesivas del equipo en un espacio de trabajo unificado.</p><h2 id=\"\">¿Por qué Microsoft Teams + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Estrategias de revisión colaborativa:</strong> Libere el potencial colaborativo de Teams, posibilitando discusiones y estrategias interfuncionales para mejorar los enfoques de adquisición de reseñas y participación de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Notificaciones de revisión dinámica: </strong>Utilice los canales de comunicación de Teams para difundir las notificaciones de revisión y las opiniones con prontitud, garantizando la conciencia y la capacidad de respuesta de todo el equipo.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Gestión integrada de revisiones: </strong>Alinee las funcionalidades de revisión de Synup con el entorno multifacético de Teams, fomentando un enfoque integrado para gestionar y analizar los comentarios de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Compromisos de revisión personalizables:</strong> Aproveche las herramientas de comunicación adaptativas de Teams para personalizar las solicitudes de reseñas y las interacciones, garantizando una experiencia de cliente más atractiva y atractiva.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujo de trabajo optimizado:</strong> Aumente la eficiencia operativa al consolidar las tareas de administración de revisiones y las comunicaciones dentro del conocido y poderoso espacio de trabajo de Teams.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Ajustes de estrategia en tiempo real: </strong>Aproveche las capacidades de comunicación en tiempo real de Teams para facilitar los ajustes rápidos de la estrategia y la toma de decisiones en respuesta a las tendencias emergentes de comentarios de los clientes.</li></ul><p id=\"\">La integración de Microsoft Teams con Synup revela un mundo dinámico de posibilidades, en el que la convergencia de la colaboración y las comunicaciones en tiempo real enriquece profundamente el enfoque de adquisición, gestión y elaboración de estrategias en torno a las opiniones y comentarios de los clientes.</p><h2 id=\"\">¿Cómo integrar Microsoft Teams + Synup?</h2><p id=\"\">La integración de Microsoft Teams para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li><li id=\"\">Haga clic en el botón Connect CRM o App.</li><li id=\"\">Selecciona la carpeta o ubicación a la que quieres conectar Microsoft Teams.</li><li id=\"\">Autentica tu CRM.</li><li id=\"\">Termine de configurar el CRM.</li><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Equipos de Microsoft",
+    "description": "Transforma tu gestión de reseñas con Microsoft Teams + Synup: agiliza la colaboración, las notificaciones y el análisis para lograr una estrategia dinámica de comentarios de los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/equipos-de-microsoft",
+    "ogImage": null
+  }
+}

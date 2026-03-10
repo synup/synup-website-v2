@@ -1,0 +1,28 @@
+{
+  "slug": "snappy-tomato-pizza",
+  "locale": "es",
+  "collectionType": "testimonials",
+  "name": "Pizza rápida de tomate",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75d57aaa14a9e5e8b2446",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:54:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:54:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "Pizza rápida de tomate",
+  "person_name": "Andy Ritter",
+  "designation": "Director de marketing de Snappy Tomato Pizza Co.",
+  "partner_description": "Andy Ritter, director de marketing de Snappy Tomato Pizza Co",
+  "partner": "__MISSING__",
+  "partner_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb7108d8c2bc0bcb9fd5_60236b3620b8e2f60c373ead_snappy-pizza-6de96bbee68e191209f1e6ee18dad9e0%2520(1).webp",
+  "partner_image": null,
+  "partner_testimonial": "<h5 id=\"\">Synup nos ayuda a mejorar constantemente nuestra presencia de marketing, el contenido empresarial, la gestión de la reputación y los análisis de forma simultánea.</h5>",
+  "seo": {
+    "title": "Pizza rápida de tomate",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonials/snappy-tomato-pizza",
+    "ogImage": null
+  }
+}

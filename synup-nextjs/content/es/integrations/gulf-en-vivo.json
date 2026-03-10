@@ -1,0 +1,31 @@
+{
+  "slug": "gulflive",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Gulf en vivo",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628ee6e978822d7a4964",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:46 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:46 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Administre la información de su empresa en Gulflive con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Suscríbase a GulfLive +</h1><p id=\"\"><strong id=\"\">Agregue, reclame y edite listados y reseñas de empresas en GulfLive con las herramientas de administración de listados y reseñas de Synup.</strong></p><h2 id=\"\">¿Qué es GulfLive?</h2><p id=\"\">GulfLive, una importante fuente en línea de noticias e información sobre la Costa del Golfo, sirve como un recurso esencial tanto para los residentes como para los visitantes. Ya sea que busque actualizaciones sobre eventos locales o una cobertura exhaustiva de la vida en la Costa del Golfo, GulfLive brinda información valiosa y cobertura de noticias que impactan a la región.</p><h2 id=\"\">¿Por qué GulfLive + Synup?</h2><ul id=\"\"><li id=\"\">Control total sobre los listados: Con la capacidad de administrar los listados de su empresa en GulfLive, usted mantiene un control total sobre su presencia en línea, lo que garantiza que su empresa esté representada de manera precisa.</li><li id=\"\">Amplíe su alcance: agregar su empresa a GulfLive a través de Synup significa una mayor visibilidad. Ayude a los clientes potenciales a descubrirlo, ampliando su alcance de manera efectiva.</li><li id=\"\">Información empresarial precisa: aumente la confianza y la credibilidad publicando información precisa en GulfLive.</li><li id=\"\">Interacción con los clientes: vea y responda a las opiniones en GulfLive para fomentar una relación positiva con sus clientes y demostrar que valora sus comentarios y que presta atención a sus necesidades.</li></ul><h2 id=\"\">¿Cómo integrar GulfLive + Synup?</h2><p id=\"\">La integración con GulfLive está disponible para todos los suscriptores del plan Synup Listings. Para ver y administrar la integración de GulfLive:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haga clic en el logotipo de GulfLive para administrar la integración de Synup + GulfLive y los ajustes asociados.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#a5c5cd",
+  "integration_bg_image": null,
+  "integration_summary": "Gulf Live es el principal sitio web de noticias e información.",
+  "seo": {
+    "title": "Gulf en vivo",
+    "description": "Aumente su visibilidad en Gulflive. La integración de Synup garantiza datos empresariales precisos para una presencia en línea y una participación de la audiencia superiores.",
+    "canonical": "https://www.synup.com/es/integrations/gulf-en-vivo",
+    "ogImage": null
+  }
+}

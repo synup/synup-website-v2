@@ -1,0 +1,31 @@
+{
+  "slug": "linkedin",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "LinkedIn",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2390c131607171612014",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:36 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:36 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2390c13160717161200a_676125400e2cb3ddb0d5d2ed_20241217T0715-629c9e4a-e912-4c0d-8a64-25488800cbb3.webp",
+  "title_tag": "Optimize & Manage Your LinkedIn with Synup",
+  "link_to_cta": "https://www.synup.com/book-a-demo",
+  "tags": "india; france; germany; netherlands; uae; south-africa; nigeria; ireland; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">LinkedIn + Synup?</strong></h1><h2 id=\"\"><strong id=\"\">What is LinkedIn?</strong></h2><p id=\"\">LinkedIn is the premier professional networking platform, connecting businesses and professionals across the globe. It serves as a vital tool for companies looking to establish a robust online presence, attract top talent, and engage with industry peers and potential customers. With over 900 million members, LinkedIn is a powerful platform for building and nurturing professional relationships.</p><h2 id=\"\"><strong id=\"\">Why Manage LinkedIn Presence with Synup?</strong></h2><p id=\"\"><strong id=\"\">Increase Visibility Among Professionals:</strong> With LinkedIn, your business can reach a vast audience of professionals, decision-makers, and industry leaders. Synup optimizes your LinkedIn profile to enhance its visibility, making it easier for professionals to find and engage with your company. By using Synup’s tools, you can showcase relevant content, highlight achievements, and post updates that resonate with your target audience.</p><p id=\"\"><strong id=\"\">Build Credibility and Trust:</strong> A well-managed LinkedIn profile fosters trust and credibility. By providing consistent and verified information about your business, Synup helps reinforce your company’s reputation as a reliable and authoritative entity in your industry. This credibility is crucial in building strong professional relationships and attracting potential clients and partners.</p><p id=\"\"><strong id=\"\">Data-Driven Insights:</strong> With&nbsp; Synup’s LinkedIn analytics integration, you can gain valuable insights into your audience’s behavior, preferences, and engagement levels. This data allows you to make informed decisions, tailor your content strategy, and enhance your marketing efforts. Synup’s analytics tools provide a comprehensive view of your LinkedIn activity, empowering you to optimize your approach continuously.</p><p id=\"\">Combining LinkedIn with Synup provides a powerful solution for managing your professional online presence, enhancing visibility, and fostering meaningful engagement with your audience. Through accurate profile management, increased professional visibility, and actionable insights, your business can establish itself as a leader in your industry.</p><h2 id=\"\"><strong id=\"\">How to Integrate LinkedIn with Synup?</strong></h2><p id=\"\">The LinkedIn platform integration is available to all Synup Social users. To set up and manage your LinkedIn:</p><ol id=\"\"><li id=\"\">Log in to your Synup Social account</li><li id=\"\">Go to settings &gt; Connected Channels</li><li id=\"\">Click ‘Connect New Channel’ button</li></ol><ol start=\"4\" id=\"\"><li id=\"\">Click LinkedIn and choose a profile to connect with</li></ol>",
+  "integration_types": "social-app",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#1877f2",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2390c13160717161200d_676017eb02a9cc61b8af7175_20241216T1207-ce77bd85-d62d-4707-8be9-74731a2b3ea7.webp",
+  "integration_summary": "Easily update your LinkedIn profile & store pages.",
+  "seo": {
+    "title": "LinkedIn",
+    "description": "Elevate your LinkedIn visibility. Synup integration ensures accurate business data for a compelling online profile.",
+    "canonical": "https://www.synup.com/integrations/linkedin",
+    "ogImage": null
+  }
+}

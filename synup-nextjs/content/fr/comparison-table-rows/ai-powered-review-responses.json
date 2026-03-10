@@ -1,0 +1,23 @@
+{
+  "slug": "ai-powered-review-responses",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "AI-Powered Review Responses",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68da9747508b0acfe3e427f8",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Sep 29 2025 14:27:19 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 14:27:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "seo": {
+    "title": "AI-Powered Review Responses",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/ai-powered-review-responses",
+    "ogImage": null
+  }
+}

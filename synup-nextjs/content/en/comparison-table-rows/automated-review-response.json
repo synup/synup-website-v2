@@ -1,0 +1,27 @@
+{
+  "slug": "automated-review-response-2",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Automated Review Response",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db6729f1da9e4e449cf0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "reviews",
+  "list_order": "18.0",
+  "select_pages": "birdeye-alternative; uberall-alternative; soci-alternative; review-trackers-alternative; dbaplatform-alternative; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-whitespark; synup-vs-reviewgain; synup-vs-get-more-reviews; gmb-api-alternative; zoho-publish-alternative",
+  "tabel_category": "Automated Review Response",
+  "seo": {
+    "title": "Automated Review Response",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/automated-review-response",
+    "ogImage": null
+  }
+}

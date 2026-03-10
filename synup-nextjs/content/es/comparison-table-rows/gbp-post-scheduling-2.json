@@ -1,0 +1,28 @@
+{
+  "slug": "gbp-post-scheduling-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Programación de GBP Post",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da1189c6e9070eff1a47",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "12.0",
+  "select_pages": "brightlocal-alternative; local-clarity-alternative; vendasta-alternative; woobound-alternative; advicelocal-alternative; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews",
+  "tabel_category": "Programación de GBP Post",
+  "alt_select_pages": "best-vendasta-alternative",
+  "seo": {
+    "title": "Programación de GBP Post",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/gbp-post-scheduling-2",
+    "ogImage": null
+  }
+}

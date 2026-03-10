@@ -1,0 +1,31 @@
+{
+  "slug": "masslive",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Mass en direct",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c66a0df3318542eab50",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:54 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:54 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2f1c74b21a1350f8a6_6531314881554b6fe7b6fe76_MassLive.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Masslive avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">MassLive + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur MassLive grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que MassLive&nbsp;?</h2><p id=\"\">MassLive, une source respectée d'actualités et d'informations dans le Massachusetts, offre une couverture complète des événements locaux, de la politique, des sports, etc. Que vous soyez un résident à la recherche de mises à jour sur votre communauté ou un visiteur intéressé par les derniers événements, MassLive propose une plateforme fiable pour rester informé.</p><h2 id=\"\">Pourquoi MassLive + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Contrôle total des annonces&nbsp;:</strong> Grâce à la possibilité de gérer les listes de vos entreprises sur MassLive, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\"><strong id=\"\">Élargissez votre portée&nbsp;:</strong> L'ajout de votre entreprise à MassLive via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\"><strong id=\"\">Informations commerciales précises&nbsp;:</strong> Renforcez la confiance et la crédibilité en publiant des informations précises sur MassLive.</li><li id=\"\"><strong id=\"\">Engagement des clients&nbsp;:</strong> Consultez et répondez aux avis sur MassLive, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer MassLive + Synup&nbsp;?</h2><p id=\"\">L'intégration MassLive est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration de MassLive, procédez comme suit&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo MassLive pour gérer l'intégration Synup + MassLive et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#9a2fad",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2544446bf04208916f_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).webp",
+  "integration_summary": "MassLive Media est une société de médias et de marketing de premier plan en Nouvelle-Angleterre.",
+  "seo": {
+    "title": "Mass en direct",
+    "description": "Renforcez votre présence sur MassLive. L'intégration de Synup garantit des données commerciales précises pour une visibilité en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/mass-en-direct",
+    "ogImage": null
+  }
+}

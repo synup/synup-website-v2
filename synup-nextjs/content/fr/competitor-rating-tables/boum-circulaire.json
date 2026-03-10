@@ -1,0 +1,24 @@
+{
+  "slug": "circleboom",
+  "locale": "fr",
+  "collectionType": "competitor-rating-tables",
+  "name": "Boum circulaire",
+  "collection_id": "6891dd955b61c147e47d91b7",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6184b3f3026716bb685e9",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:47:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:47:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "gbp_posting": "5.0",
+  "gbp_review_reputation_management": "NA",
+  "gbp_listing_management": "3.0",
+  "gbp_reporting_analytics": "4.0",
+  "seo": {
+    "title": "Boum circulaire",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/competitor-rating-tables/boum-circulaire",
+    "ogImage": null
+  }
+}

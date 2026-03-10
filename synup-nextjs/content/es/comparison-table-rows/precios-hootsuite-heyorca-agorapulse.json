@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-hootsuite",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Precios - Hootsuite - Heyorca - Agorapulse",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0f78fb134097ede7a9",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "99$ al mes",
+  "second_col": "99$ al mes",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "heyorca-alternative; agorapulse-alternative; hootsuite-alternative",
+  "tabel_category": "Fijación",
+  "seo": {
+    "title": "Precios - Hootsuite - Heyorca - Agorapulse",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/precios-hootsuite-heyorca-agorapulse",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "local-business-schema-generator",
+  "locale": "de",
+  "collectionType": "tools",
+  "name": "Lokaler Geschäftsschema-Generator",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4b7e14c41aefe1cf33c96",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:44:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:44:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4b7e14c41aefe1cf33c82_653a49c5084dbed7d7c51e98_business%2520generator%2520logo.svg",
+  "description": "<p id=\"\">Verbessern Sie Ihre Online-Präsenz mit unserem Schema-Generator.</p>",
+  "description_short": "Verbessern Sie Ihre Online-Präsenz mit unserem Schema-Generator.",
+  "link": "http://schema-generator.synup.com",
+  "order": "5.0",
+  "button_text": "Schema jetzt generieren",
+  "seo": {
+    "title": "Lokaler Geschäftsschema-Generator",
+    "description": "<p id=\"\">Verbessern Sie Ihre Online-Präsenz mit unserem Schema-Generator.</p>",
+    "canonical": "https://www.synup.com/de/tools/local-business-schema-generator",
+    "ogImage": null
+  }
+}

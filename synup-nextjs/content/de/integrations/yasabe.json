@@ -1,0 +1,28 @@
+{
+  "slug": "yasabe",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Yasabe",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf3ac9e090b19e346f16",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:22 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:22 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3ac9e090b19e346efe_65312ea8df56818cdc325db0_Yasabe.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Yasabe mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-states-us",
+  "detailed_paragraph": "<p id=\"\">Yasabe ist Amerikas größtes und am schnellsten wachsendes lokales Suchziel, das sich an hispanische Verbraucher richtet. Es verbindet Millionen von Nutzern mit Online-Angeboten, kulturellen Inhalten und Informationen aus der Community. Auf YasAbe greifen 53 Millionen spanischsprachige US-Amerikaner zu, die Englisch und Spanisch sprechen.</p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Yasabe",
+    "description": "Erhöhen Sie Ihre Präsenz auf Yasabe. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Sichtbarkeit und Kundenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/yasabe",
+    "ogImage": null
+  }
+}

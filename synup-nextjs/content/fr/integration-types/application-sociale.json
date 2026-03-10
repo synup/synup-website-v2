@@ -1,0 +1,20 @@
+{
+  "slug": "social-app",
+  "locale": "fr",
+  "collectionType": "integration-types",
+  "name": "Application sociale",
+  "collection_id": "688267a897faaa22a42fe6f4",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60bdbb2c6662345d3e00a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:54:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:54:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Application sociale",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/integration-types/application-sociale",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-sprout-social",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Tarification - Sprout Social",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a615559250fbe68546fcb5",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:35:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:35:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "99$ par mois",
+  "second_col": "249$ par mois",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "sprout-social-alternative",
+  "tabel_category": "Tarification",
+  "seo": {
+    "title": "Tarification - Sprout Social",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/tarification-sprout-social",
+    "ogImage": null
+  }
+}

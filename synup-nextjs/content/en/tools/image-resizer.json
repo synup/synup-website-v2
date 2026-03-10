@@ -1,0 +1,26 @@
+{
+  "slug": "image-resizer",
+  "locale": "en",
+  "collectionType": "tools",
+  "name": "Image Resizer",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6877e39909d578ece8bedb45",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Jul 16 2025 17:38:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Jul 16 2025 17:38:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Jul 17 2025 16:53:41 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6877e39909d578ece8bedb32_676124faaf341ab6d9b86062_20241217T0715-3ba49c09-34a3-4d85-985c-74201451fcdb.webp",
+  "description": "<p id=\"\">Resize your images for Instagram, Twitter, Facebook, LinkedIn and Pinterest</p>",
+  "description_short": "Resize your images for Instagram, Twitter, Facebook, LinkedIn and Pinterest",
+  "link": "https://resizer.synup.com/",
+  "order": "4.0",
+  "button_text": "Resize Now",
+  "seo": {
+    "title": "Image Resizer",
+    "description": "<p id=\"\">Resize your images for Instagram, Twitter, Facebook, LinkedIn and Pinterest</p>",
+    "canonical": "https://www.synup.com/tools/image-resizer",
+    "ogImage": null
+  }
+}

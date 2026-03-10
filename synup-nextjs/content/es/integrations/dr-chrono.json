@@ -1,0 +1,28 @@
+{
+  "slug": "drchrono",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Dr. Chrono",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628bf5814ae5878bdb18",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Gestione la información de su empresa en DrChrono con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Registro de DrChrono +</strong></h1><p id=\"\">Maximice la gestión de revisiones y la adquisición de su consultorio sanitario integrando a la perfección DrChrono con la innovadora plataforma de Synup.</p><h2 id=\"\">¿Qué es DrChrono?</h2><p id=\"\">DrChrono es una solución especializada de gestión de consultorios y EHR (registros médicos electrónicos) de atención médica. Revoluciona la atención de los pacientes y la gestión de los consultorios al ofrecer plantillas médicas personalizables, software de facturación y programación de pacientes en una plataforma integrada basada en la nube.</p><h2 id=\"\">¿Por qué DrChrono + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Revisiones centradas en el paciente:</strong> Simplifique el proceso de obtención de opiniones por parte de los pacientes, integrando sin problemas los comentarios en la historia clínica del paciente para obtener una visión más completa de la satisfacción de los pacientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Operaciones simplificadas:</strong> Mejore la eficiencia operativa automatizando la recopilación de reseñas y comentarios de los pacientes, reduciendo las cargas administrativas y mejorando el enfoque en la atención de los pacientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Interacción informada con el paciente:</strong> Utilice las opiniones y comentarios de los pacientes para fomentar interacciones enriquecedoras con los pacientes y mejorar la calidad de la atención y los servicios ofrecidos.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Integración personalizable:</strong> Adapte la integración para satisfacer las necesidades únicas de su consultorio de atención médica, asegurándose de que la gestión de las revisiones se alinee perfectamente con los flujos de trabajo existentes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Presencia en línea mejorada: </strong>Mejore la visibilidad y la reputación en línea de su consultorio mediante una gestión eficiente y eficaz de las revisiones y comentarios de los pacientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Toma de decisiones estratégicas:</strong> Aproveche los datos combinados de DrChrono y Synup para realizar mejoras estratégicas en su oferta de servicios de atención médica, las estrategias de interacción con los pacientes y la experiencia general del paciente.</li></ul><p id=\"\">Al integrar DrChrono con Synup, los consultorios de atención médica pueden abrir mejores vías para gestionar y obtener las opiniones de los pacientes, lo que permite enriquecer las interacciones con los pacientes, mejorar la presencia en línea y mejorar la eficiencia operativa.</p><h2 id=\"\">¿Cómo integrar DrChrono + Synup?</h2><p id=\"\">La integración de DrChrono para la gestión de la atención médica está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visite la pestaña Administración de la atención médica en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect Healthcare Software.</li></ul><ul id=\"\"><li id=\"\">Seleccione DrChrono como su software para el cuidado de la salud.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de DrChrono.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar la administración de la atención médica.</li></ul><ul id=\"\"><li id=\"\">Gestione los procesos de atención médica con DrChrono.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Dr. Chrono",
+    "description": "Mejore la atención a los pacientes con la integración de DrChrono + Synup: agilice las operaciones, aumente la presencia en línea y tome decisiones informadas.",
+    "canonical": "https://www.synup.com/es/integrations/dr-chrono",
+    "ogImage": null
+  }
+}

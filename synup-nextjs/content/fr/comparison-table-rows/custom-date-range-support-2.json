@@ -1,0 +1,27 @@
+{
+  "slug": "custom-date-range-support-2",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Prise en charge de plages de dates personnalisées",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6154f0766c0c78762e37b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:55 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:55 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "analytics",
+  "list_order": "28.0",
+  "select_pages": "planable-alternative; socialpilot-alternative",
+  "tabel_category": "Prise en charge de plages de dates personnalisées",
+  "seo": {
+    "title": "Prise en charge de plages de dates personnalisées",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/custom-date-range-support-2",
+    "ogImage": null
+  }
+}

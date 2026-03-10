@@ -1,0 +1,28 @@
+{
+  "slug": "uber",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Uber",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7629b9b74ab3f2a52a1c8",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:59 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Gestiona la información de tu empresa en Uber con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h2 id=\"\"><strong id=\"\">¿Suscribirse a Uber +?<br>‍</strong><br><strong id=\"\">¿Qué es Uber?</strong></h2><p id=\"\">Uber es una reconocida aplicación de viajes compartidos que ofrece soluciones de transporte cómodas, rápidas y seguras para personas de todo el mundo. No solo ofrece servicios de transporte compartido, sino que también presenta una plataforma para la entrega de alimentos, el transporte y más, lo que facilita una gran cantidad de servicios tanto para particulares como para empresas. A través de su aplicación intuitiva, Uber permite a los usuarios reservar viajes, hacer un seguimiento de su viaje en tiempo real y realizar pagos seguros, lo que los convierte en un socio fiable para sus viajes diarios o ocasionales.</p><h2 id=\"\"><strong id=\"\">¿Por qué usar Uber + Synup?</strong></h2><p id=\"\"><strong id=\"\">Administración de listados: </strong>La alianza entre Synup y Uber brinda a las empresas un mejor manejo de sus listados en línea. Como empresa que usa la plataforma de Uber (ya sea que ofrezca viajes o participe en Uber Eats), puedes gestionar fácilmente tu perfil y mostrar tus servicios, horarios de atención y ubicación de forma rápida y precisa con la ayuda de Synup. Esta colaboración garantiza que tu perfil digital refleje tu marca de manera eficaz, lo que permite a los usuarios tomar decisiones informadas con respecto a los servicios que necesitan.</p><p id=\"\"><strong id=\"\">Aumente su visibilidad: </strong>Uber cuenta con una base de usuarios masiva y activa que consiste en pasajeros diarios, viajeros y entusiastas de la comida. Un perfil empresarial en Uber, optimizado con las funciones de Synup, amplía tu presencia digital y ayuda a los usuarios a descubrir fácilmente tus servicios cuando buscan opciones de transporte o entrega de comida a domicilio, lo que mejora tu visibilidad y accesibilidad en Internet.</p><p id=\"\"><strong id=\"\">Información empresarial fiable:</strong> La confianza es fundamental para las relaciones con los clientes, y mostrar información empresarial precisa es fundamental para generar y mantener esta confianza. A través de las ofertas combinadas de Uber y Synup, las empresas pueden proyectar información verificada y confiable a sus usuarios, lo cual es esencial para establecerse como proveedores de servicios confiables en un mercado competitivo.</p><p id=\"\"><strong id=\"\">Elecciones empresariales informadas:</strong> Al aprovechar la asociación de Uber y Synup, las empresas obtienen acceso a datos invaluables sobre el comportamiento, las preferencias y los patrones de viaje de los clientes. Esta gran cantidad de información es indispensable para elaborar estrategias de marketing eficaces y tomar decisiones empresariales inteligentes que impulsen el crecimiento y la expansión del mercado.</p><p id=\"\">Al integrar los poderes de Uber y Synup, las empresas pueden administrar con destreza sus perfiles en línea, interactuar con un público más amplio y aumentar su visibilidad y credibilidad tanto en el ámbito digital como local. Con anuncios precisos, una mayor participación de los usuarios y una información práctica proporcionada por la colaboración de Uber y Synup, las empresas están bien equipadas para prosperar en un mercado digital en constante evolución.</p><h2 id=\"\"><strong id=\"\">¿Cómo integrar Uber + Synup?<br></strong></h2><p id=\"\">La integración con Uber está disponible para todos los suscriptores del plan Synup Listings. Para ver y administrar la integración de Uber:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haz clic en el logotipo de Uber para gestionar la integración de Synup + Uber y los ajustes asociados.</li></ol>",
+  "integration_types": "auto",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Uber",
+    "description": "Integración perfecta en Uber. Synup garantiza datos empresariales precisos para una presencia online y un alcance de clientes óptimos.",
+    "canonical": "https://www.synup.com/es/integrations/uber",
+    "ogImage": null
+  }
+}

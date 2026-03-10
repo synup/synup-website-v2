@@ -1,0 +1,27 @@
+{
+  "slug": "custom-date-range-support-2",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Unterstützung für benutzerdefinierte Datumsbereiche",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c77b6049225072dca419",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "analytics",
+  "list_order": "28.0",
+  "select_pages": "planable-alternative; socialpilot-alternative",
+  "tabel_category": "Unterstützung für benutzerdefinierte Datumsbereiche",
+  "seo": {
+    "title": "Unterstützung für benutzerdefinierte Datumsbereiche",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/custom-date-range-support-2",
+    "ogImage": null
+  }
+}

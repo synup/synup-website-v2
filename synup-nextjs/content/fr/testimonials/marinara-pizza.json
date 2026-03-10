@@ -1,0 +1,28 @@
+{
+  "slug": "marinara-pizza",
+  "locale": "fr",
+  "collectionType": "testimonials",
+  "name": "Pizza à la marinara",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a605dea406c045dad1369c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:29:02 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:29:02 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "Pizza à la marinara",
+  "person_name": "Gabi Weiser",
+  "designation": "PDG de Marinara Pizza",
+  "partner_description": "Gabi Weiser, PDG",
+  "partner": "__MISSING__",
+  "partner_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb726c461088979e85f4_60236b3620b8e21cb1373c9b_Marinara%2520(1).webp",
+  "partner_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb726c461088979e85f1_60236b3620b8e2a5e9373eb5_fill-6_2x.webp",
+  "partner_testimonial": "<h5 id=\"\">«&nbsp;Nous livrons la pizza et Synup livre les clients.&nbsp;» </h5><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Pizza à la marinara",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonials/marinara-pizza",
+    "ogImage": null
+  }
+}

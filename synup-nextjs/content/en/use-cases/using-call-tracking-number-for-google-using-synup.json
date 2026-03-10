@@ -1,0 +1,25 @@
+{
+  "slug": "call-tracking-number-for-google",
+  "locale": "en",
+  "collectionType": "use-cases",
+  "name": "Using call tracking number for Google Using Synup",
+  "collection_id": "6890f98653f98c63533646f5",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6890ff1c4240ae00c0855398",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 18:42:36 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 18:42:36 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 18:42:57 GMT+0000 (Coordinated Universal Time)",
+  "thumbnail_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6890ff1c4240ae00c0855302_67b48e39ce4f1f3c30540343_20250218T0140-a546cb08-e65d-4451-970b-0c2bd77a3030.webp",
+  "body_para": "<p id=\"\">Call tracking makes it easier for businesses to see which marketing efforts drive phone inquiries. When connected with Google Ads or Google Business Profiles (GBP), it shows exactly which ads, listings, or keywords bring in the most calls. Plus, with the publisher override feature, the original phone number on Google listings stays the same, so NAP (Name, Address, Phone) consistency isn’t affected. This way, businesses get accurate lead tracking without disrupting their listings, helping them fine-tune their campaigns.</p><p id=\"\">‍</p><h2 id=\"\">Steps for how to use the call tracking number for Google On Synup</h2><h3 id=\"\">Step 1:&nbsp;</h3><p id=\"\">Log in to your Synup account and navigate to Location Content. In the drop-down menu, you can either select how to view/edit locations or access it from the quick actions section by clicking on Edit Location Info.&nbsp;</p><p id=\"\">‍</p><h3 id=\"\">Step 2:&nbsp;</h3><p id=\"\">Once you click on Edit Locations, you will be redirected to a page where all your basic business information is listed, such as your name, address, phone number, business category, any additional business information, more business categories, etc.</p><p id=\"\">‍</p><h3 id=\"\">Step 3:&nbsp;</h3><p id=\"\">Scroll down further, and you’ll see all the additional information such as address, address 2, City, Country, State, etc.&nbsp;</p><h3 id=\"\">Step 4:&nbsp;</h3><p id=\"\">You can add the call tracking number in the primary ‘Phone’ field and move the actual business number to the first ‘Additional phones’ field. This keeps your business listings linked to your GMB profile while avoiding citation consistency issues.</p><p id=\"\">‍</p><h3 id=\"\">Step 5:&nbsp;</h3><p id=\"\">To enable this, scroll down even further to the ‘Publisher Override’ section.&nbsp;</p><p id=\"\">‍</p><h3 id=\"\">Step 6:&nbsp;</h3><p id=\"\">Click on it and you will then be redirected to the following page, where you will be able to select the publisher and choose an attribute. In this case, you can set the Publisher to ‘Google’ and the attribute to ‘Phone’, since that is where you added the call tracking number.&nbsp;</p><p id=\"\">‍</p><p id=\"\">In my opinion, this is a solid tactic any business can try to keep citations in order and maybe even gain a bit of prominence. But what’s even more valuable is using this concept to add a call tracking number to your GMB listing.&nbsp;</p><p id=\"\">‍</p><p id=\"\">With Synup’s comprehensive local data, you’ll have all the insights you need to understand exactly how your business performs across local searches. These insights go beyond surface-level metrics, helping you continuously fine-tune your local SEO strategy to drive the visibility that matters most, right where your customers are searching.</p><p id=\"\">Stop wasting time manually tracking local rankings or worrying about missed opportunities. Synup’s powerful rank-tracking tools give you real-time updates, so you can stay ahead of the competition and focus on what drives results. Whether it's tracking keywords, monitoring listings, or identifying areas to improve, Synup equips you with the data to dominate local search.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">New to Synup? </strong><a href=\"https://www.synup.com/en/book-a-demo\" id=\"\"><strong id=\"\">Book a demo today and see it in action</strong></a><strong id=\"\">.</strong></p>",
+  "use_case_show_on_product_menu": false,
+  "use_case_summary": "Synup's call tracking feature enables businesses to identify which marketing efforts lead to phone inquiries by linking call tracking numbers with Google Ads and Google Business Profiles (GBP). This integration helps businesses determine which ads, listings, or keywords generate the most calls while maintaining NAP (Name, Address, Phone) consistency through the publisher override feature.",
+  "use_case_categories": "analytics",
+  "seo": {
+    "title": "Using call tracking number for Google Using Synup",
+    "description": "Confused about how to add a call tracking number for Google? Here’s a step-by-step guide on how you can achieve it using Synup",
+    "canonical": "https://www.synup.com/use-cases/using-call-tracking-number-for-google-using-synup",
+    "ogImage": null
+  }
+}

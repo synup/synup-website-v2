@@ -1,0 +1,27 @@
+{
+  "slug": "google-business-messaging-2",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Messagerie Google Business",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6154d5cef31d1421be024",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:53 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:53 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "listings-management",
+  "list_order": "16.0",
+  "select_pages": "birdeye-alternative; uberall-alternative; chatmeter-alternative; soci-alternative; synup-vs-digitalmass; synup-vs-yotpo; synup-vs-rannko; synup-vs-whitespark; promanage-alternative; zceppa-alternative",
+  "tabel_category": "Messagerie Google Business",
+  "seo": {
+    "title": "Messagerie Google Business",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/messagerie-google-business",
+    "ogImage": null
+  }
+}

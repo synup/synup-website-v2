@@ -1,0 +1,31 @@
+{
+  "slug": "alexa",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Alexa",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf240dde612d07a09326",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:00 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:00 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf240dde612d07a09316_65312cdc73f7c86a4f82c393_alexa.svg",
+  "title_tag": "__POSSIBLE_UNTRANSLATED__Manage Your Business Information on Alexa with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "__POSSIBLE_UNTRANSLATED__<h1 id=\"\">Alexa + Synup</h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on Alexa with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\">What is Alexa?</h2><p id=\"\">Alexa is a voice-controlled virtual assistant developed by Amazon. It is integrated into various Amazon devices, such as the Amazon Echo smart speakers and other third-party devices, as well as smartphone apps. Alexa uses natural language processing and artificial intelligence to respond to voice commands and perform tasks for users. It can answer questions, set alarms, provide weather forecasts, control smart home devices, play music, and more, making it a versatile and convenient tool for various everyday tasks and functions.</p><h2 id=\"\">Why Alexa + Synup?</h2><ul id=\"\"><li id=\"\">Complete Control Over Listings: With the ability to manage your business listings on Alexa, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\">Broaden Your Reach: Adding your business to Alexa through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\">Accurate Business Information: Enhance trust and credibility by publishing accurate information on Alexa.</li><li id=\"\">Customer Engagement: View and respond back to reviews on Alexa, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ul><h2 id=\"\">How to integrate Alexa + Synup?</h2><p id=\"\">The Alexa integration is available to all Synup listings plan subscribers. To view &amp; manage the Alexa integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Alexa logo to manage the Synup + Alexa integration and associated settings.</li></ol>",
+  "integration_types": "voice-assistant",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#05a0d1",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf240dde612d07a0931a_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).png",
+  "integration_summary": "Amazon Alexa has a 25% overall market share for voice search.",
+  "seo": {
+    "title": "Alexa",
+    "description": "__POSSIBLE_UNTRANSLATED__Explore the power of Synup's seamless integration with Alexa to boost your online visibility and connect with more customers effortlessly.",
+    "canonical": "https://www.synup.com/de/integrations/alexa",
+    "ogImage": null
+  }
+}

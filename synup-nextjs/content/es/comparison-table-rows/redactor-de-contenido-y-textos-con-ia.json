@@ -1,0 +1,27 @@
+{
+  "slug": "ai-content-copy-writer",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Redactor de contenido y textos con IA",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da13ecb66b4631f24a34",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "posting",
+  "list_order": "13.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; buffer-alternative; sprout-social-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Redactor de contenido y textos con IA",
+  "seo": {
+    "title": "Redactor de contenido y textos con IA",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/redactor-de-contenido-y-textos-con-ia",
+    "ogImage": null
+  }
+}

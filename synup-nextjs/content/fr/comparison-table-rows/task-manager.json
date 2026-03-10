@@ -1,0 +1,27 @@
+{
+  "slug": "task-manager",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Gestionnaire de tâches",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6154b9250fbe68546f8cf",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:51 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:51 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "dashboard",
+  "list_order": "35.0",
+  "select_pages": "later-alternative; sendible-alternative; sprout-social-alternative; buffer-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Gestionnaire de tâches",
+  "seo": {
+    "title": "Gestionnaire de tâches",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/task-manager",
+    "ogImage": null
+  }
+}

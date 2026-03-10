@@ -1,0 +1,28 @@
+{
+  "slug": "calendly",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "calendaire",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c714c5e8f3ccce0db22",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:05 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:05 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2667bb8abcbfc81fb3_6548f5979f937eb7f90ad0b9_Calendly.svg",
+  "title_tag": "Intégrez Asana à Calendly pour automatiser votre flux de travail",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Calendly + Synup</h1><p id=\"\">Révolutionnez votre processus de planification et d'acquisition de révisions en associant Calendly aux puissantes fonctionnalités de Synup.</p><h2 id=\"\">Qu'est-ce que Calendly&nbsp;?</h2><p id=\"\">Calendly se distingue comme un outil de planification de premier plan qui simplifie la prise de rendez-vous, améliore la flexibilité et automatise les confirmations et les rappels, permettant ainsi aux entreprises de se concentrer davantage sur des interactions significatives avec les clients.</p><h2 id=\"\">Pourquoi Calendly + Synup&nbsp;?<strong id=\"\">‍</strong></h2><p id=\"\"><strong id=\"\">Planification automatique&nbsp;:</strong> Intégrez facilement les demandes de révision dans le processus de planification automatisé, en veillant à ce que les commentaires soient capturés efficacement sans intervention manuelle.</p><p id=\"\"><strong id=\"\">Expériences client améliorées&nbsp;:</strong> Améliorez l'expérience client en synchronisant les détails des rendez-vous et les commentaires des clients, afin de rendre les interactions plus pertinentes et personnalisées.</p><p id=\"\"><strong id=\"\">Optimisation du temps&nbsp;: </strong>Optimisez l'utilisation du temps en automatisant les tâches administratives telles que la planification et les demandes de révision, afin de vous concentrer davantage sur l'engagement stratégique des clients.</p><p id=\"\"><strong id=\"\">Intégrations fluides&nbsp;:</strong> Profitez de la facilité avec des intégrations fluides qui renforcent les capacités combinées de Calendly et Synup, améliorant ainsi l'efficacité opérationnelle globale.</p><p id=\"\"><strong id=\"\">Rentabilité&nbsp;:</strong> Réduisez considérablement les coûts opérationnels en automatisant et en rationalisant les processus, améliorant ainsi l'efficacité et la rentabilité globales de l'entreprise.</p><p id=\"\"><strong id=\"\">Informations basées sur les évaluations&nbsp;: </strong>Utilisez les avis et les commentaires des clients pour obtenir des informations précieuses susceptibles d'améliorer le processus de planification et la satisfaction des clients.<br>‍</p><p id=\"\">Intégrez Calendly à Synup pour explorer une voie harmonisée de planification automatisée, d'expériences client enrichies et de stratégies pertinentes basées sur les évaluations.</p><h2 id=\"\">Comment intégrer Calendly + Synup&nbsp;?</h2><p id=\"\">L'intégration de Calendly pour la prise de rendez-vous est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Planification des rendez-vous sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect Scheduling Software.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez Calendly comme logiciel de planification.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte Calendly.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration de la prise de rendez-vous.</li></ul><ul id=\"\"><li id=\"\">Planifiez des rendez-vous à l'aide de Calendly.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "calendaire",
+    "description": "Maximisez l'efficacité avec Calendly + Synup : planification automatisée, expériences améliorées et économies de coûts",
+    "canonical": "https://www.synup.com/fr/integrations/calendaire",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "clio",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Clio",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c5d5b09ae78c9aecf55",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:45 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf27d3960d1191315f39_654a33e721ba1a1ef61fa239_Clio.svg",
+  "title_tag": "Intégrez Clio à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Clio + Synup</h1><p id=\"\">Améliorez la gestion de votre cabinet juridique et l'acquisition d'avis en intégrant Clio aux fonctionnalités robustes de Synup.</p><h2 id=\"\">Qu'est-ce que Clio&nbsp;?</h2><p id=\"\">Clio est un logiciel complet de gestion de cabinet juridique qui rationalise les opérations des cabinets d'avocats, améliore la gestion des dossiers, le suivi du temps, la facturation et la communication avec les clients grâce à des outils et fonctionnalités intuitifs.</p><h2 id=\"\">Pourquoi choisir Clio + Synup&nbsp;?</h2><p id=\"\"><strong id=\"\">Gestion des dossiers rationalisée&nbsp;:</strong> Intégrez les demandes de révision de manière fluide dans les flux de travail des dossiers, en améliorant les mécanismes de feedback des clients sans compliquer les processus juridiques.</p><p id=\"\"><strong id=\"\">Communication efficace avec les clients&nbsp;: </strong>Améliorez l'interaction avec les clients en synchronisant les avis et les commentaires avec la communication avec les clients, ce qui ajoute de la valeur aux échanges professionnels.</p><p id=\"\"><strong id=\"\">Pratiques permettant de gagner du temps&nbsp;: </strong>Gagnez un temps précieux en automatisant les demandes de révision et la collecte des commentaires des clients, ce qui permet aux professionnels du droit de se concentrer davantage sur les stratégies relatives aux affaires.</p><p id=\"\"><strong id=\"\">Opérations intégrées&nbsp;:</strong> Bénéficiez d'une intégration qui simplifie les complexités opérationnelles, en alignant la gestion des pratiques juridiques sur des stratégies efficaces d'acquisition d'avis.</p><p id=\"\"><strong id=\"\">Opérations soucieuses des coûts&nbsp;:</strong> Tirez parti de l'automatisation et de l'intégration pour optimiser les procédures opérationnelles, contribuer à la réduction des coûts globaux et à l'amélioration de l'efficacité.</p><p id=\"\"><strong id=\"\">Visibilité professionnelle améliorée&nbsp;: </strong>Utilisez les avis et les commentaires pour améliorer votre présence et votre réputation en ligne, rendant ainsi le cabinet d'avocats plus attrayant pour les clients potentiels.</p><p id=\"\"><br>L'intégration de Clio à Synup permet une expérience de gestion du cabinet juridique plus fluide et plus efficace, enrichie par des informations précieuses sur les clients et des processus opérationnels rationalisés.</p><h2 id=\"\">Comment intégrer Clio + Synup&nbsp;?</h2><p id=\"\">L'intégration de Clio pour la gestion des cabinets juridiques est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Legal Practice Management sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect Legal Software.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez Clio comme logiciel juridique.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte Clio.</li></ul><ul id=\"\"><li id=\"\">Terminez la mise en place de la gestion du cabinet juridique.</li></ul><ul id=\"\"><li id=\"\">Gérez les processus juridiques à l'aide de Clio.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Clio",
+    "description": "Améliorez votre pratique juridique : Clio + Synup pour l'efficacité, la communication avec les clients et les économies de coûts.",
+    "canonical": "https://www.synup.com/fr/integrations/clio",
+    "ogImage": null
+  }
+}

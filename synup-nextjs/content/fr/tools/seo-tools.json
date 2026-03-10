@@ -1,0 +1,26 @@
+{
+  "slug": "seo-tools",
+  "locale": "fr",
+  "collectionType": "tools",
+  "name": "Outils de référencement",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6066e6223a054c071fc5a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:31:26 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:31:26 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4b7e1fdb97594ca35c30e_650aa0930fb71367bfe30d86_SEO%2520Tools.webp",
+  "description": "<p id=\"\">50 outils pour améliorer votre flux de travail et votre productivité en matière de référencement</p>",
+  "description_short": "50 outils pour améliorer votre flux de travail et votre productivité en matière de référencement",
+  "link": "https://tools.localseochecklist.org/",
+  "order": "2.0",
+  "button_text": "Commencez",
+  "seo": {
+    "title": "Outils de référencement",
+    "description": "<p id=\"\">50 outils pour améliorer votre flux de travail et votre productivité en matière de référencement</p>",
+    "canonical": "https://www.synup.com/fr/tools/seo-tools",
+    "ogImage": null
+  }
+}

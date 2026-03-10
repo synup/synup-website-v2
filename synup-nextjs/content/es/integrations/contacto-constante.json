@@ -1,0 +1,28 @@
+{
+  "slug": "constant-contact",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Contacto constante",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628a1acda042c3b8c370",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf342335183b059e97bc_6548bde20b71f98915a6c739_Constant%2520Contact.svg",
+  "title_tag": "Integre Constrant Contact con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Constant Contact + Inscripción</strong></h1><p id=\"\">Potencie su estrategia de adquisición y gestión de reseñas integrando las influyentes soluciones de marketing por correo electrónico de Constant Contact con la experiencia avanzada en optimización de reseñas de Synup.</p><h2 id=\"\">¿Qué es Constant Contact?</h2><p id=\"\">Constant Contact es una formidable plataforma de marketing por correo electrónico que ofrece a las empresas una variedad de herramientas para crear campañas de correo electrónico eficaces, gestionar contactos y analizar los resultados, lo que promueve una mayor participación y tasas de conversión.</p><h2 id=\"\">¿Por qué Constant Contact + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Invitaciones de revisión atractivas: </strong>Utilice las completas herramientas de diseño de Constant Contact para crear correos electrónicos de solicitud de reseñas atractivos y visualmente atractivos que capten la atención de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Campañas de revisión estratégica: </strong>Benefíciese de las funcionalidades de segmentación y segmentación de Constant Contact para lanzar campañas de reseñas que reflejen las diversas experiencias y preferencias de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión automatizadas: </strong>Aproveche las funciones de automatización de Constant Contact para entregar solicitudes de revisión oportunas y relevantes, mejorando las tasas de respuesta y la calidad de los comentarios recibidos.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Revise los análisis y las perspectivas: </strong>Integre las capacidades analíticas de Synup para recopilar información detallada sobre el rendimiento de las campañas de solicitud de reseñas, lo que permite mejorar las estrategias basadas en datos.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Fomento de la revisión continua:</strong> Emplee las herramientas de seguimiento de Constant Contact para fomentar las relaciones continuas con los revisores, fomentando un entorno propicio para recibir comentarios valiosos y continuos.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Gestión holística de revisiones: </strong>Al combinar las herramientas de Synup con Constant Contact, logre una visión y una gestión holísticas de las revisiones, lo que permite optimizar las operaciones y perfeccionar la estrategia.</li></ul><p id=\"\">La fusión de Constant Contact con Synup crea un entorno transformador para la gestión de reseñas, lo que mejora la visibilidad, el compromiso y la alineación estratégica de sus esfuerzos de adquisición de reseñas, lo que genera mejores resultados e interacciones con los clientes.</p><h2 id=\"\">¿Cómo integrar Constant Contact + Synup?</h2><p id=\"\">La integración de Constant Contact para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Seleccione la carpeta o ubicación a la que desea conectar Constant Contact.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Contacto constante",
+    "description": "Mejore la gestión de reseñas con Constant Contact + Synup. Crea atractivas invitaciones para opinar, lanza campañas estratégicas y obtén información valiosa.",
+    "canonical": "https://www.synup.com/es/integrations/contacto-constante",
+    "ogImage": null
+  }
+}

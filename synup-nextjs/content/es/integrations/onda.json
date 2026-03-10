@@ -1,0 +1,28 @@
+{
+  "slug": "wave",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Onda",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76296fa1771a95e535140",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:54 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:54 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Suscribirse a Wave +</strong></h1><p id=\"\">Libere el potencial de la gestión de reseñas de clientes integrando la destreza contable de Wave con las funcionalidades especializadas de adquisición de reseñas de Synup.</p><h2 id=\"\">¿Qué es Wave?</h2><p id=\"\">Wave es un software de contabilidad innovador que facilita la facturación, el procesamiento de pagos y el seguimiento financiero sin problemas, proporcionando a las pequeñas empresas las herramientas esenciales para gestionar sus transacciones financieras y las interacciones con los clientes de manera eficiente.</p><h2 id=\"\">¿Por qué Wave + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión activadas: </strong>Utilice los datos transaccionales y las interacciones con los clientes dentro de Wave para activar automáticamente solicitudes de revisión personalizadas, haciendo que el proceso de adquisición sea oportuno y relevante.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Interacciones simplificadas con los clientes:</strong> Integre el historial de transacciones de los clientes de Wave con las opiniones de Synup para ofrecer una experiencia de cliente más refinada y reflexiva, mejorando así la satisfacción general.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Gestión inteligente de revisiones: </strong>Aproveche los datos de los clientes de Wave para clasificar y gestionar las reseñas de forma inteligente, lo que permite adoptar un enfoque más organizado y estratégico para revisar las respuestas y la gestión de la reputación.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Comunicación personalizada:</strong> Personalice las solicitudes de revisión y las comunicaciones en función del historial de transacciones y los detalles de los clientes en Wave, haciendo que las solicitudes de comentarios sean más atractivas y fáciles de identificar.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Toma de decisiones mejorada:</strong> Combine la información financiera de Wave con las opiniones de los clientes seleccionadas por Synup, lo que facilita la toma de decisiones empresariales más informadas y estratégicas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujo operativo eficiente:</strong> Integre sin problemas el proceso de gestión de reseñas en los flujos de trabajo de contabilidad de Wave, garantizando que la adquisición de reseñas sea una extensión natural de las transacciones de los clientes.</li></ul><p id=\"\">La integración de Wave con Synup permite a las empresas aprovechar las interacciones contables para mejorar la adquisición y la gestión de las reseñas, lo que ofrece un enfoque más estratégico y centrado en el cliente para la reputación en línea y la utilización de los comentarios.</p><h2 id=\"\">¿Cómo integrar Wave + Synup?</h2><p id=\"\">La integración de Wave para la gestión financiera está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visite la pestaña Gestión financiera en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar software financiero.</li></ul><ul id=\"\"><li id=\"\">Seleccione Wave como su software financiero.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Wave.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar la administración financiera.</li></ul><ul id=\"\"><li id=\"\">Gestiona tus finanzas con Wave.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Onda",
+    "description": "Mejore las reseñas con Wave + Synup: agilice las interacciones con los clientes y la gestión inteligente de las reseñas para tomar mejores decisiones empresariales.",
+    "canonical": "https://www.synup.com/es/integrations/onda",
+    "ogImage": null
+  }
+}

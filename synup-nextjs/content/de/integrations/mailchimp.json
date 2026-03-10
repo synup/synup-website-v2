@@ -1,0 +1,28 @@
+{
+  "slug": "mailchimp",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Mailchimp",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2f493f2083a8b0b0c0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:11 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:11 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2f493f2083a8b0b0ad_6548bce295a2936ccdd5b3ac_Mailchimp.svg",
+  "title_tag": "Integrieren Sie Mailchimp mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Mailchimp + Synchronisierung</strong></h1><p id=\"\">Maximieren Sie mühelos Bewertungen mit Mailchimp + Synup: Eine leistungsstarke Synergie für die automatisierte, personalisierte Bewertungserfassung!</p><h2 id=\"\">Was ist Mailchimp?</h2><p id=\"\">Mailchimp ist eine führende E-Mail-Marketingplattform, die sich auf die Erstellung gezielter E-Mail-Kampagnen, die Automatisierung wichtiger Marketingfunktionen und die Analyse von Leistungskennzahlen spezialisiert hat, um das Engagement und die Konversionsraten zu verbessern.</p><h2 id=\"\">Warum Mailchimp + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Gezielte Bewertungskampagnen: </strong>Nutzen Sie die Segmentierungsfunktionen von Mailchimp, um gezielte E-Mail-Kampagnen zu erstellen und bestimmte Kundensegmente zu ermutigen, aussagekräftige Bewertungen auf der Grundlage ihrer Erfahrungen abzugeben.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatisierte Bewertungsanfragen: </strong>Nutzen Sie die Automatisierungstools von Mailchimp, um personalisierte E-Mails mit Aufforderungen zur Bewertung zu planen und zu den optimalen Zeiten zu versenden, wodurch die Wahrscheinlichkeit einer Kundenbindung und Reaktion erhöht wird.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Personalisierte Bewertungsanfragen: </strong>Nutzen Sie die Personalisierungsfunktionen von Mailchimp, um E-Mails mit Bewertungsanfragen maßzuschneidern, damit sie bei Kunden besser ankommen und ihre Relevanz und Attraktivität erhöhen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Aufschlussreiche Bewertungsanalysen: </strong>Integrieren Sie die Bewertungsanalysen von Synup in Mailchimp, um ein besseres Verständnis der Kundenfeedbackmuster zu erhalten und die Verfeinerung von E-Mail-Strategien für die Erfassung von Bewertungen zu ermöglichen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Ansprechender Bewertungsinhalt: </strong>Nutzen Sie die Designfunktionen von Mailchimp, um visuell ansprechende und ansprechende E-Mail-Inhalte zu erstellen, die Kunden fesseln und sie dazu ermutigen, Bewertungen abzugeben.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Folgemaßnahmen zur strategischen Überprüfung:</strong> Setzen Sie die Tools von Mailchimp ein, um strategische Follow-up-E-Mails zu planen und auszuführen, die Beziehungen zu Kunden zu pflegen und ein kontinuierliches Engagement durch Bewertungen zu fördern.</li></ul><p id=\"\">Die Integration von Mailchimp mit Synup verbessert Ihre Bewertungsmanagement-Strategie und kombiniert leistungsstarke E-Mail-Marketingtechniken mit aufschlussreichen Bewertungsanalysen und -management, um die Kundenbindung und das Feedback zu verbessern.</p><h2 id=\"\">Wie integriere ich Mailchimp + Synup?</h2><p id=\"\">Die Mailchimp-Integration zur Erfassung von Bewertungen steht allen Synup-Abonnenten zur Verfügung. Um die Integration anzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Rufe auf der Synup-Konsole den Tab „Akquisition überprüfen“ auf.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf Connect CRM oder App Button.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie den Ordner oder Speicherort aus, mit dem Sie Mailchimp verbinden möchten.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr CRM.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung von CRM.</li></ul><ul id=\"\"><li id=\"\">Erstellen Sie Review-Akquisitionen mithilfe von Kontakten aus CRM.</li></ul>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Mailchimp",
+    "description": "Optimieren Sie das Bewertungsmanagement mit Mailchimp + Synup: Gezielte Kampagnen, automatisierte Aufforderungen und aufschlussreiche Analysen für eine verbesserte Kundenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/mailchimp",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "payment-processor",
+  "locale": "de",
+  "collectionType": "integration-types",
+  "name": "Payment abwickler",
+  "collection_id": "688267a897faaa22a42fe6f4",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bec01dd68abb4e69cf53",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:13:20 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:13:20 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Payment abwickler",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/integration-types/payment-abwickler",
+    "ogImage": null
+  }
+}

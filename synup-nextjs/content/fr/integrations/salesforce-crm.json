@@ -1,0 +1,28 @@
+{
+  "slug": "salesforce-crm",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Salesforce CRM",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6baf20c8147a89d38d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:59 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3323f015729e9bdfbf_6548e1d6b56fe856d1bb920c_Salesforce.svg",
+  "title_tag": "Intégrez Salesforce CRM à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Salesforce CRM et Synup</strong></h1><p id=\"\">Améliorez l'acquisition et la gestion de vos avis en intégrant Salesforce CRM aux fonctionnalités spécialisées de Synup.</p><h2 id=\"\">Qu'est-ce que Salesforce CRM&nbsp;?</h2><p id=\"\">Salesforce CRM est une solution dynamique de gestion de la relation client pionnière dans l'amélioration de l'expérience client, la rationalisation des processus métier et l'augmentation de la productivité des ventes grâce à son large éventail de fonctionnalités et d'options de personnalisation.</p><h2 id=\"\">Pourquoi choisir Salesforce CRM + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Acquisition d'avis optimisée&nbsp;: </strong>Utilisez l'expertise de Synup pour automatiser et optimiser le processus d'acquisition des avis directement dans Salesforce, en garantissant une collecte cohérente et efficace des précieux commentaires des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Données clients enrichies&nbsp;:</strong> Améliorez les riches données clients de Salesforce grâce à des avis et des commentaires pertinents, permettant ainsi de mettre en place des stratégies de vente plus personnalisées et centrées sur le client.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intégration automatique des commentaires&nbsp;: </strong>Automatisez l'intégration des commentaires des clients dans les dossiers Salesforce, en veillant à ce que les informations sur les clients soient toujours à jour et facilement accessibles.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Prise de décisions stratégiques&nbsp;: </strong>Tirez parti des informations combinées de Synup et de Salesforce pour prendre des décisions plus stratégiques et plus éclairées, améliorant ainsi l'efficacité des efforts de vente et de marketing.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Vision holistique des interactions&nbsp;:</strong> Obtenez une vision plus complète des interactions avec les clients en synchronisant les données des avis avec d'autres informations sur les clients, ce qui permet une compréhension nuancée des besoins et des préférences des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Productivité et rentabilité accrues&nbsp;: </strong>Rationalisez et automatisez les différents processus liés à l'acquisition et à la gestion des avis, afin d'améliorer la productivité et de réduire les coûts opérationnels.</li></ul><p id=\"\">L'intégration de Salesforce CRM à Synup constitue une solution formidable qui améliore considérablement le processus d'acquisition et de gestion des avis, garantissant une approche plus raffinée, stratégique et centrée sur le client des efforts de vente et de marketing.</p><h2 id=\"\">Comment intégrer Salesforce CRM + Synup&nbsp;?</h2><p id=\"\">L'intégration Salesforce CRM pour la gestion de la relation client est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Intégration CRM sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez Salesforce CRM comme logiciel CRM.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte Salesforce CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Gérez les relations avec les clients à l'aide de Salesforce CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Salesforce CRM",
+    "description": "Dynamisez Salesforce CRM avec Synup : automatisez les évaluations, enrichissez les données et prenez des décisions plus intelligentes pour une réussite centrée sur le client.",
+    "canonical": "https://www.synup.com/fr/integrations/salesforce-crm",
+    "ogImage": null
+  }
+}

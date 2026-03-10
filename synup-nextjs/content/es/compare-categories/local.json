@@ -1,0 +1,20 @@
+{
+  "slug": "local",
+  "locale": "es",
+  "collectionType": "compare-categories",
+  "name": "Local",
+  "collection_id": "6891d89c3d61c8517ad88cb0",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7dd26806ea21ccbd8eb1d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:59:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:59:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Local",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/compare-categories/local",
+    "ogImage": null
+  }
+}

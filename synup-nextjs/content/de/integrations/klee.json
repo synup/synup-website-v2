@@ -1,0 +1,28 @@
+{
+  "slug": "clover",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Klee",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2d45d55f8067afd7cd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:09 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:09 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2d45d55f8067afd7c8_6548f36f082f4f52ad99a70e_Clover.svg",
+  "title_tag": "Integrieren Sie Clover mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Klee + Syrup</strong></h1><p id=\"\">Revolutionieren Sie Ihr Kundenrezensionsmanagement, indem Sie die außergewöhnlichen Fähigkeiten von Clover bei der Zahlungsabwicklung mit den fortschrittlichen Funktionen von Synup zur Erfassung und Verwaltung von Bewertungen kombinieren.</p><h2 id=\"\">Was ist Klee?</h2><p id=\"\">Clover ist eine umfassende Zahlungsabwicklungslösung, die sich durch anpassbare Hardware- und Softwarekonfigurationen für Zahlungen, optimierte Transaktionen und eine Vielzahl von Tools auszeichnet, die das Zahlungserlebnis sowohl für Unternehmen als auch für ihre Kunden vereinfachen und verbessern.</p><h2 id=\"\">Warum Clover + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Interaktion mit Bewertungen in Echtzeit:</strong> Nutzen Sie die Leistungsfähigkeit der schnellen Zahlungsabwicklung von Clover, um Kunden mit sofortigen Bewertungsanfragen anzusprechen und ihre Erfahrungen frisch und genau festzuhalten.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Integrierte Kundeneinblicke: </strong>Kombinieren Sie die detaillierten Zahlungsdaten von Clover nahtlos mit den Bewertungsinformationen von Synup, um ein einheitliches, tiefes Verständnis der Kundenzufriedenheit und der Interaktionsnuancen zu erhalten.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatisierte Erfassung von Bewertungen:</strong> Integrieren Sie automatisierte Überprüfungsanfragen in die Zahlungsabläufe von Clover und ermöglichen Sie so eine konsistente und mühelose Erfassung wertvoller Kundenfeedbacks.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Interaktionen mit kundenspezifischen Bewertungen: </strong>Passen Sie Bewertungsanfragen und Mitteilungen an die Zahlungshistorien und Interaktionen der einzelnen Kunden an und sorgen Sie so für ein persönlicheres und ansprechenderes Bewertungserlebnis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategische Geschäftsfortschritte:</strong> Nutzen Sie kombinierte Erkenntnisse aus Zahlungsdaten und Kundenrezensionen, um das Geschäftsangebot, den Kundenservice und die allgemeine Kundenzufriedenheit strategisch zu verbessern.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimierter betrieblicher Arbeitsablauf: </strong>Synchronisieren Sie die Bewertungsmanagementprozesse reibungslos innerhalb der bestehenden Zahlungsinfrastruktur von Clover und fördern Sie so einen effizienten und kohärenten Ansatz zur Erfassung und Verwaltung von Kundenfeedback.</li></ul><p id=\"\">Durch die Integration von Clover in Synup entsteht ein bahnbrechender Ansatz für das Bewertungsmanagement, bei dem jede Zahlungsinteraktion als zentraler Kontaktpunkt genutzt wird, um Kundenrezensionen zu sammeln, zu analysieren und zu nutzen, um strategische Geschäftsverbesserungen und eine höhere Kundenzufriedenheit zu erzielen.</p><h2 id=\"\">Wie integriere ich Clover + Synup?</h2><p id=\"\">Die Clover-Integration für die Zahlungsabwicklung steht allen Synup-Abonnenten zur Verfügung. Um die Integration anzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Gehen Sie auf der Synup-Konsole auf die Registerkarte Zahlungsabwicklung.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf die Schaltfläche Payment Gateway verbinden.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie Clover als Ihren Zahlungsabwickler aus.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr Clover-Konto.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung der Zahlungsabwicklung.</li></ul><ul id=\"\"><li id=\"\">Akzeptieren Sie Zahlungen über Clover.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Klee",
+    "description": "Revolutionieren Sie das Bewertungsmanagement mit Clover + Synup: Interaktion, Einblicke, Automatisierung und personalisierte Interaktionen in Echtzeit für mehr Geschäftserfolg.",
+    "canonical": "https://www.synup.com/de/integrations/klee",
+    "ogImage": null
+  }
+}

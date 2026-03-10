@@ -1,0 +1,27 @@
+{
+  "slug": "profile-completeness-tracker-2",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Suivi de l'exhaustivité des profils",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a615536a10b89fe4c2e367",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:59 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "dashboard",
+  "list_order": "34.0",
+  "select_pages": "planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative",
+  "tabel_category": "Suivi de l'exhaustivité des profils",
+  "seo": {
+    "title": "Suivi de l'exhaustivité des profils",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/profile-completeness-tracker-2",
+    "ogImage": null
+  }
+}

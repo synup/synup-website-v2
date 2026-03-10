@@ -1,0 +1,23 @@
+{
+  "slug": "custom-product-activation-per-client",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Custom Product Activation per Client",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68d63c5fb05ba33a32027da0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Sep 26 2025 07:10:23 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 13:06:49 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "seo": {
+    "title": "Custom Product Activation per Client",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/custom-product-activation-per-client",
+    "ogImage": null
+  }
+}

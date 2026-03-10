@@ -1,0 +1,28 @@
+{
+  "slug": "mollie",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Mollie",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76293c74ef86d050c6c98",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:51 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:51 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Mollie con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Desarrollado - <strong id=\"\">Mollie + Synup</strong></h1><p id=\"\">Embárcate en un revolucionario proceso de valoración de clientes integrando las eficientes soluciones de procesamiento de pagos de Mollie con el innovador sistema de adquisición y gestión de reseñas de Synup.</p><h2 id=\"\">¿Qué es Mollie?</h2><p id=\"\">Mollie es una floreciente plataforma de procesamiento de pagos que hace hincapié en la simplicidad, la flexibilidad y la funcionalidad. Es compatible con una amplia gama de métodos de pago, lo que garantiza que las empresas puedan adaptarse a las diversas preferencias de los clientes y agilizar el proceso de transacción.</p><h2 id=\"\">¿Por qué Mollie + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Invitaciones de revisión inmediata: </strong>Utilice las rápidas finalizaciones de transacciones de Mollie para invitar inmediatamente a los clientes a compartir sus experiencias y comentarios, capturando así información y opiniones en tiempo real.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Retratos unificados de clientes: </strong>Combine los abundantes datos transaccionales de Mollie con las opiniones de Synup para crear una imagen completa de las interacciones con los clientes y los niveles de satisfacción.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión integrada: </strong>Incluya sin problemas las solicitudes de revisión en los eficientes flujos de trabajo de pago de Mollie, simplificando la recopilación de valiosos comentarios de los clientes sin interrumpir la experiencia de las transacciones.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Compromisos de revisión específicos: </strong>Personalice las interacciones de revisión aprovechando los historiales de transacciones individuales y los detalles de los clientes de Mollie, lo que permite interacciones de revisión más relevantes y personalizadas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Evolución estratégica basada en conocimientos: </strong>Utilice la inteligencia combinada de las interacciones de pago y las opiniones de los clientes para informar y mejorar las decisiones empresariales estratégicas, las mejoras del servicio y la gestión de las relaciones con los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujo operativo simplificado:</strong> Integre sin problemas el proceso de gestión de reseñas en el ecosistema de pagos de Mollie, garantizando una estrategia coherente y eficiente para recopilar y gestionar las opiniones de los clientes.</li></ul><p id=\"\">Al combinar Mollie con Synup, se abre un camino transformador en la gestión de reseñas, en el que cada interacción de pago se convierte en una vía estratégica para recopilar comentarios esenciales de los clientes, promover relaciones enriquecedoras con los clientes y guiar las mejoras empresariales.</p><h2 id=\"\">¿Cómo integrar Mollie + Synup?</h2><p id=\"\">La integración de Mollie para el procesamiento de pagos está disponible para todos los suscriptores de Synup. Para ver y gestionar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Procesamiento de pagos en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar pasarela de pago.</li></ul><ul id=\"\"><li id=\"\">Selecciona Mollie como tu procesador de pagos.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Mollie.</li></ul><ul id=\"\"><li id=\"\">Termina de configurar el procesamiento de pagos.</li></ul><ul id=\"\"><li id=\"\">Acepta pagos a través de Mollie.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Mollie",
+    "description": "Revolucione las opiniones de los clientes con la integración de Mollie + Synup. Capture información en tiempo real, personalice las interacciones y optimice las operaciones para mejorar las relaciones con los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/mollie",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "quickbooks-online",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "QuickBooks Online",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23959052b142b78a5595",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23959052b142b78a5590_6548e25d53d64c6397badb08_Quickbooks.svg",
+  "title_tag": "Integrate Quickbooks Online with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">QuickBooks Online + Synup</h1><p id=\"\">Maximize Review Power with QuickBooks Online + Synup: Unlock streamlined review requests, enhanced customer targeting, and operational efficiency for your business success.‍</p><h2 id=\"\">What Is QuickBooks Online?</h2><p id=\"\">QuickBooks Online is a cloud-based accounting software optimized for small to medium-sized businesses, simplifying tasks like invoicing and expense tracking, and enabling device-agnostic accessibility to financial management.</p><h2 id=\"\">Why Quickbooks Online + Synup?</h2><p id=\"\"><strong id=\"\">Streamlined Review Requests:</strong>Utilize QuickBooks Online’s (QBO) robust transaction data with Synup for timely and relevant automated review requests, increasing the chance of receiving feedback.</p><p id=\"\"><strong id=\"\">Enhanced Customer Targeting: </strong>Employ QBO's customer insights alongside Synup for strategic segmentation and personalized review solicitations, capturing valuable, diverse customer feedback.</p><p id=\"\"><strong id=\"\">Optimized Communication Channels: </strong>Combine QBO’s invoicing and Synup’s review management, enabling seamless, efficient delivery and receipt of review requests and feedback.</p><p id=\"\"><strong id=\"\">Powerful Integration Synergy: </strong>Benefit from the robust integration of QBO's API and Synup’s platform, creating a unified, automated review acquisition system, elevating the user experience.</p><p id=\"\"><strong id=\"\">Operational Efficiency and Cost Reduction: </strong>The QBO and Synup integration streamlines the review management process, improving operational efficiency, reducing manual effort and associated operational costs.</p><p id=\"\"><strong id=\"\">Data-Driven Review Strategies: </strong>Utilize the analytical capabilities of both QBO and Synup for insightful, data-driven strategies, optimizing review acquisition efforts for better outcomes.</p><p id=\"\"><br>Combining QuickBooks Online with Synup creates a powerful, integrated approach to optimizing review acquisition, leveraging essential customer touchpoints, and automating processes for enhanced effectiveness and efficiency.</p><h2 id=\"\">How to integrate QuickBooks Online + Synup?</h2><p id=\"\">QuickBooks Online integration for accounting is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Accounting tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Accounting Software Button.</li></ul><ul id=\"\"><li id=\"\">Select QuickBooks Online as your accounting software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your QuickBooks Online account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up accounting.</li></ul><ul id=\"\"><li id=\"\">Manage your finances using QuickBooks Online.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "QuickBooks Online",
+    "description": "Discover QuickBooks Online: Streamline accounting for SMBs with cloud-based ease!",
+    "canonical": "https://www.synup.com/integrations/quickbooks-online",
+    "ogImage": null
+  }
+}

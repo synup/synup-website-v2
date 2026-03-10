@@ -1,0 +1,31 @@
+{
+  "slug": "yellowpages",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "YellowPages",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2399629a2784c113f5be",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:45 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2399629a2784c113f5b2_6761254eab46b4a927393df8_20241217T0715-5a29fab2-4913-41f3-8357-1af6bdeed3bd.webp",
+  "title_tag": "Manage Your Business Information on Yellowpages with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Yellowpages.com + Synup</strong><br></h1><h2 id=\"\"><strong id=\"\"><br>What is Yellowpages.com?</strong></h2><p id=\"\">Yellowpages.com is an indispensable service for businesses looking to enhance their visibility in the virtual domain, serving as a comprehensive directory that supports businesses in advertising to and attracting potential customers. Comparable to services like Bing Places, Yellowpages.com is a tool embraced by businesses worldwide, offering extensive information on services, operational hours, and locations to efficiently connect with a vast audience.</p><h2 id=\"\"><strong id=\"\">Why Yellowpages.com + Synup?</strong></h2><p id=\"\"><strong id=\"\">Directory Management</strong>: Integrating Synup with Yellowpages.com offers businesses supreme command over their listings. This powerful combination allows for the creation and management of profiles that are accurate, updated, and resonant with the businesses’ brand image, thereby supplying prospective customers with necessary and reliable information. Keep a track of customer reviews and take corrective action where necessary.</p><p id=\"\"><strong id=\"\">Boosted Online Exposure</strong>: Though Google and Bing are prominent, Yellowpages.com offers a valuable platform with extensive reach. By creating a profile on Yellowpages.com, businesses can significantly expand their visibility online. With Synup’s expert assistance, profiles are optimized for visibility, helping customers effortlessly locate your business when searching for services or products you provide.</p><p id=\"\"><strong id=\"\">Reliable Business Information</strong>: The foundation of customer trust is accurate and verified business information. Employing Yellowpages.com alongside Synup ensures the information available to customers is both precise and dependable, positioning your business as a reliable and trustworthy establishment.</p><p id=\"\"><strong id=\"\">Informed Business Decisions</strong>: Utilize the robust pairing of Yellowpages.com and Synup to access in-depth insights and analytics about your clientele. This data is instrumental for refining your marketing strategies, offering a roadmap for informed decision-making processes that are integral for your business's development and success.</p><p id=\"\">Leverage the combination of Yellowpages.com and Synup to proficiently manage your online presence, engage with potential customers, and amplify the visibility and authenticity of your business on the internet. With accurate listings, enhanced engagement, and insightful analytics, businesses are well-equipped to navigate and succeed in the digital marketplace.</p><h2 id=\"\"><strong id=\"\">How to integrate Yellowpages.com + Synup?<br></strong></h2><p id=\"\">The Yellowpages.com integration is available to all Synup listings plan subscribers. To view &amp; manage the Yellowpages.com integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Yellowpages.com logo to manage the Synup + Yellowpages.com integration and associated settings.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#9a2fad",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238f21c7c8dbdee4b700_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).avif",
+  "integration_summary": "Get found on Yellow pages.",
+  "seo": {
+    "title": "YellowPages",
+    "description": "Elevate your presence on Yellow Pages. Synup integration ensures accurate business data for superior online visibility and customer engagement.",
+    "canonical": "https://www.synup.com/integrations/yellowpages",
+    "ogImage": null
+  }
+}

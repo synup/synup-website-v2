@@ -1,0 +1,28 @@
+{
+  "slug": "mylocal-services",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Mes services locaux",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c66ce2dd10a54b645ff",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:54 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:54 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3070ae98b39a2267e4_65312c456becc8be99a150fa_MyLocal%2520Services.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Mylocalservices avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">MyLocal Services + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur MyLocal Services grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que MyLocal Services&nbsp;?</h2><p id=\"\">MyLocal Services, une plateforme conviviale dédiée à la mise en relation des consommateurs avec des entreprises et des fournisseurs de services locaux, simplifie le processus de recherche d'options fiables dans votre région. Que vous ayez besoin de services à domicile, de soins de santé ou d'autres offres locales, MyLocal Services propose une ressource pratique et fiable pour répondre à vos besoins.</p><h2 id=\"\">Pourquoi MyLocal Services + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Contrôle total des annonces&nbsp;:</strong> Grâce à la possibilité de gérer les listes de vos entreprises sur MyLocal Services, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\"><strong id=\"\">Élargissez votre portée&nbsp;:</strong> L'ajout de votre entreprise à MyLocal Services via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\"><strong id=\"\">Informations commerciales précises&nbsp;:</strong> Renforcez la confiance et la crédibilité en publiant des informations précises sur MyLocal Services.</li><li id=\"\"><strong id=\"\">Engagement des clients&nbsp;:</strong> Consultez et répondez aux avis sur MyLocal Services, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer MyLocal Services + Synup&nbsp;?</h2><p id=\"\">L'intégration de MyLocal Services est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration de MyLocal Services, procédez comme suit&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo MyLocal Services pour gérer l'intégration Synup + MyLocal Services et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Mes services locaux",
+    "description": "Maximisez la visibilité sur MyLocal Services. L'intégration de Synup garantit des données commerciales précises pour une présence en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/mes-services-locaux",
+    "ogImage": null
+  }
+}

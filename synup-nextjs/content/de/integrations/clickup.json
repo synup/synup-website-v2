@@ -1,0 +1,28 @@
+{
+  "slug": "clickup",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "ClickUp",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2722a5f9e9686fc5fc",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:03 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:03 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2722a5f9e9686fc4b4_6548a9590af04ec3a9cf9d94_Clickup.svg",
+  "title_tag": "Integrate Clickup with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "__POSSIBLE_UNTRANSLATED__<h1 id=\"\"><strong id=\"\">ClickUp + Synup</strong></h1><p id=\"\">Navigate a transformative trajectory in customer review management by merging ClickUp’s productivity powerhouse with Synup’s refined review acquisition and management strategies.</p><h2 id=\"\">What is ClickUp?</h2><p id=\"\">ClickUp is a productivity platform that amalgamates task management, project collaboration, and goal tracking. It fosters an environment where teams can thrive, ensuring clarity, focus, and successful project execution.</p><h2 id=\"\">Why ClickUp + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Task-Oriented Review Collection: </strong>Harness the granularity of ClickUp’s task management to prompt contextually rich review requests at essential junctures of customer interactions.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Unified Feedback Ecosystem: </strong>Align ClickUp’s detailed project insights with Synup’s review analytics, crafting a unified sphere for a deeper understanding of customer experiences and sentiments.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Seamless Review Solicitation Workflow: </strong>Embed Synup’s review capabilities within ClickUp’s comprehensive workspace, facilitating a fluid and integrated approach to capturing and managing customer feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Customized Review Experiences:</strong> Leverage ClickUp’s nuanced task and project data to tailor review solicitations, creating a resonant and meaningful engagement strategy for each customer interaction.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Data-Driven Strategy Refinement: </strong>Utilize the combined insights of ClickUp and Synup to unveil actionable strategies that amplify customer satisfaction and fine-tune service delivery models.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimized Review Processes: </strong>Integrate review management functionalities seamlessly within ClickUp’s environment, enhancing the efficacy and coordination of review acquisition efforts.</li></ul><p id=\"\">By integrating ClickUp with Synup, explore innovative pathways in review management, where every task completion and project milestone becomes a well-spring of opportunity for cultivating valuable customer feedback and nurturing enhanced review strategies.</p><h2 id=\"\">How to integrate ClickUp + Synup?</h2><p id=\"\">ClickUp integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect ClickUp to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "ClickUp",
+    "description": "__POSSIBLE_UNTRANSLATED__Transform your review management with ClickUp + Synup: Harness task-oriented review collection, unified feedback, and customized experiences for customer satisfaction.",
+    "canonical": "https://www.synup.com/de/integrations/clickup",
+    "ogImage": null
+  }
+}

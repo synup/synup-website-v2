@@ -1,0 +1,28 @@
+{
+  "slug": "local-listings-management",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Local Listings Management",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db6b796c0366e37a5ee2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 12:05:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 12:15:00 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "listings-management",
+  "list_order": "8.0",
+  "select_pages": "synup-vs-yext; birdeye-alternative; uberall-alternative; brightlocal-alternative; chatmeter-alternative; local-clarity-alternative; soci-alternative; vendasta-alternative; thryv-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; review-trackers-alternative; surefire-local-alternative; pinmeto-alternative; rio-seo-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; dbaplatform-alternative; synup-vs-digitalmass; synup-vs-experience-com; synup-vs-location-bank; synup-vs-localpanda-ai; synup-vs-yotpo; synup-vs-rannko; synup-vs-whitespark; gmb-api-alternative; promanage-alternative; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Local Listings Management",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Local Listings Management",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/local-listings-management",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "churn-prediction-upsell-triggers",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Churn Prediction & Upsell Triggers",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68e7700dc700a5bd13ea2f96",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Oct 09 2025 08:19:25 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 08:20:17 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 08:38:55 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "__MISSING__",
+  "list_order": null,
+  "select_pages": "pipedrive-vs-synup",
+  "seo": {
+    "title": "Churn Prediction & Upsell Triggers",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/churn-prediction-upsell-triggers",
+    "ogImage": null
+  }
+}

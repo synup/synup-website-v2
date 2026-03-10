@@ -1,0 +1,27 @@
+{
+  "slug": "webinar-featured",
+  "locale": "de",
+  "collectionType": "testimonial-reviews",
+  "name": "Webinar im Fokus",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bb1b491faae9521f1314",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:57:47 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:57:47 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "Lead Gen 101",
+  "reviews_summary": "Besuchen Sie uns am Donnerstag, den 28. September um 14 Uhr",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb1b491faae9521f12f4_64f97226221ce9ae205b58c3_Webinar%25201080x1080.webp",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": false,
+  "review_link": "https://www.synup.com/webinar-lead-gen",
+  "seo": {
+    "title": "Webinar im Fokus",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/testimonial-reviews/webinar-im-fokus",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "review-featured-homepage",
+  "locale": "fr",
+  "collectionType": "testimonial-reviews",
+  "name": "Avis en vedette - Page d'accueil",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6058e7f4cc38e8abdd8c0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:27:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:27:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "30 %",
+  "reviews_summary": "Comment GobeRewarded a réduit le temps d'intégration de ses clients de 30 % et amélioré leur fidélisation.",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb1bcf104be457ca7589_658d12ec97589af28fc14c07_image%2520(3).webp",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": true,
+  "review_link": "https://www.synup.com/case-studies/goberewarded",
+  "seo": {
+    "title": "Avis en vedette - Page d'accueil",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonial-reviews/avis-en-vedette-page-daccueil",
+    "ogImage": null
+  }
+}

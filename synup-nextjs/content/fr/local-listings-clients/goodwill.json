@@ -1,0 +1,22 @@
+{
+  "slug": "goodwill",
+  "locale": "fr",
+  "collectionType": "local-listings-clients",
+  "name": "Bonne volonté",
+  "collection_id": "6891dfa5ae2c74373e72307c",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6062a9f8212cf6fd61d04",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:30:18 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:30:18 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "clients_logos": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bc049b8109063fec4128_63f46e5af8f1ed6f26814208_Goodwill.webp",
+  "list_of_number": "1.0",
+  "seo": {
+    "title": "Bonne volonté",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/local-listings-clients/goodwill",
+    "ogImage": null
+  }
+}

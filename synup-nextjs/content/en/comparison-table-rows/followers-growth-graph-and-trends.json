@@ -1,0 +1,27 @@
+{
+  "slug": "followers-growth-graph-and-trends-2",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Followers growth graph and trends",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db6a29a42084d4606c34",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:34 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:34 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "analytics",
+  "list_order": "31.0",
+  "select_pages": "planable-alternative; socialpilot-alternative",
+  "tabel_category": "Followers growth graph and trends",
+  "seo": {
+    "title": "Followers growth graph and trends",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/followers-growth-graph-and-trends",
+    "ogImage": null
+  }
+}

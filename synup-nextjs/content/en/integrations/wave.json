@@ -1,0 +1,28 @@
+{
+  "slug": "wave",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Wave",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23985b562db6bb4aa0a8",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23985b562db6bb4aa0a2_6548e1a745e2e36608d135b2_Wave.svg",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Wave + Synup</strong></h1><p id=\"\">Unlock the potential of customer review management by integrating Wave’s accounting prowess with Synup’s specialized review acquisition functionalities.</p><h2 id=\"\">What is Wave?</h2><p id=\"\">Wave is an innovative accounting software that facilitates seamless invoicing, payment processing, and financial tracking, providing small businesses with the essential tools to manage their financial transactions and customer interactions efficiently.</p><h2 id=\"\">Why Wave + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Triggered Review Requests: </strong>Utilize transactional data and customer interactions within Wave to automatically trigger tailored review requests, making the acquisition process timely and relevant.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Streamlined Customer Interactions:</strong> Infuse Wave’s customer transaction history with Synup’s review insights to offer a more refined and thoughtful customer experience, enhancing overall satisfaction.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intelligent Review Management: </strong>Leverage Wave’s customer data to categorize and manage reviews intelligently, allowing for a more organized and strategic approach to review responses and reputation management.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Customized Communication:</strong> Personalize review requests and communications based on transaction history and customer details within Wave, making feedback requests more engaging and relatable.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Enhanced Decision-Making:</strong> Combine financial insights from Wave with customer reviews curated by Synup, facilitating more informed and strategic business decisions.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Efficient Operational Flow:</strong> Integrate the review management process seamlessly within Wave’s accounting workflows, ensuring that review acquisition is a natural extension of customer transactions.</li></ul><p id=\"\">Integrating Wave with Synup allows businesses to exploit accounting interactions for enhanced review acquisition and management, delivering a more strategic, customer-centric approach to online reputation and feedback utilization.</p><h2 id=\"\">How to integrate Wave + Synup?</h2><p id=\"\">Wave integration for financial management is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Financial Management tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Financial Software Button.</li></ul><ul id=\"\"><li id=\"\">Select Wave as your financial software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Wave account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up financial management.</li></ul><ul id=\"\"><li id=\"\">Manage your finances using Wave.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Wave",
+    "description": "Enhance Reviews with Wave + Synup: Streamline customer interactions and intelligent review management for better business decisions.",
+    "canonical": "https://www.synup.com/integrations/wave",
+    "ogImage": null
+  }
+}

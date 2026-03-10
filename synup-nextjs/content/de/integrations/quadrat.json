@@ -1,0 +1,28 @@
+{
+  "slug": "square",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Quadrat",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf32a0df487bef795654",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:14 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:14 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf32a0df487bef795623_6548e14e156b740a51f67262_Square.svg",
+  "title_tag": "Integrieren Sie Square POS mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Quadrat + Synup</strong></h1><p id=\"\">Erleben Sie die Entwicklung der Strategien zur Kundenbewertung, indem Sie die leistungsstarken Zahlungsabwicklungsfunktionen von Square nahtlos in die ausgeklügelten Funktionen zur Erfassung und Verwaltung von Bewertungen von Synup integrieren.</p><h2 id=\"\">Was ist Square?</h2><p id=\"\">Square ist eine bemerkenswerte Zahlungsabwicklungsplattform, die Transaktionen vereinfacht, mühelose Interaktionen an den Verkaufsstellen ermöglicht und das allgemeine Zahlungserlebnis der Kunden verbessert. Dies macht sie zu einem unverzichtbaren Instrument für Unternehmen, die nach exzellenten Transaktionen streben.</p><h2 id=\"\">Warum Square + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Sofortige Aufforderungen zur Überprüfung:</strong> Nutzen Sie die Unmittelbarkeit der Zahlungsbestätigungen von Square, um Kunden sofort zur Eingabe von Bewertungen aufzufordern und frische und genaue Eindrücke von ihren Erfahrungen festzuhalten.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Einheitliche Kundeneinblicke: </strong>Kombinieren Sie die Transaktionsdetails von Square mit den Bewertungsdaten von Synup und erhalten Sie so eine einheitliche Perspektive auf Kundenerlebnisse, Präferenzen und Zufriedenheitsgrade.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatisierte Überprüfungsmechanismen: </strong>Integrieren Sie die Erfassung von Bewertungen in den Zahlungsprozess und automatisieren Sie Bewertungsanfragen, um sie nahtlos an die Zahlungsabschlüsse der Kunden anzupassen und so einen reibungslosen und intuitiven Feedback-Fluss zu gewährleisten.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Personalisierte Feedback-Anfragen:</strong> Passen Sie Bewertungsanfragen auf der Grundlage individueller Zahlungsverläufe und Transaktionsdetails an und sorgen Sie so für relevantere und ansprechendere Bewertungsinteraktionen, die die Teilnahme der Kunden fördern.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategische Geschäftsverbesserungen: </strong>Nutzen Sie die Synthese von Zahlungsdaten und Kundenfeedback, um verbesserte Geschäftsstrategien, Angebote und Kundenservice-Praktiken zu formulieren und so kontinuierliche Verbesserungen und Innovationen voranzutreiben.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Effiziente Betriebsintegration: </strong>Erzielen Sie betriebliche Brillanz, indem Sie die Feinheiten des Bewertungsmanagements nahtlos in die Zahlungsabläufe von Square integrieren und so die Konsistenz und Effizienz bei der Erfassung von Kundenfeedback fördern.</li></ul><p id=\"\">Die Fusion von Square mit Synup belebt Ansätze zur Erfassung und Verwaltung von Bewertungen und verwandelt jede Zahlungsinteraktion in eine strategische Gelegenheit, aufschlussreiches Kundenfeedback zu erhalten, Geschäftsstrategien zu optimieren und verbesserte Kundenbeziehungen zu pflegen.</p><h2 id=\"\">Wie integriere ich Square + Synup?</h2><p id=\"\">Die Square-Integration für die Zahlungsabwicklung steht allen Synup-Abonnenten zur Verfügung. Um die Integration einzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Gehen Sie auf der Synup-Konsole auf die Registerkarte Zahlungsabwicklung.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf die Schaltfläche Payment Gateway verbinden.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie Square als Ihren Zahlungsabwickler aus.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr Square-Konto.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung der Zahlungsabwicklung.</li></ul><ul id=\"\"><li id=\"\">Akzeptieren Sie Zahlungen über Square.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Quadrat",
+    "description": "Verbessern Sie das Kundenfeedback mit Square + Synup: Verwandeln Sie Zahlungen in strategische Überprüfungsmöglichkeiten",
+    "canonical": "https://www.synup.com/de/integrations/quadrat",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "monday-com",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Montag.com",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf30fa7dddf290f77c16",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:12 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:12 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf30fa7dddf290f77bde_6548b313deacb74d23d6b83a_Monday.com.svg",
+  "title_tag": "Integrieren Sie Monday mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Monday.com + Anmeldung</strong></h1><p id=\"\">Bringen Sie Ihr Bewertungsmanagement voran, indem Sie die Projektmanagementfähigkeiten von Monday.com mit den ausgeklügelten Funktionen zur Erfassung und Verwaltung von Bewertungen von Synup verbinden.</p><h2 id=\"\">Was ist Monday.com?</h2><p id=\"\">Monday.com ist ein vielseitiges Arbeitsbetriebssystem, das es Teams ermöglicht, Projekte und Arbeitsabläufe mit Zuversicht durchzuführen. Es ermöglicht ein Umfeld der Transparenz und Zusammenarbeit, das optimierte Prozesse und eine höhere Produktivität ermöglicht.</p><h2 id=\"\">Warum Monday.com + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Strategische Überprüfungsplanung: </strong>Nutze die Organisationstools von Monday.com, um strategische Workflows für Bewertungsanfragen und das Management zu erstellen und sicherzustellen, dass Ziele und Taktiken aufeinander abgestimmt sind.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatisierte Überprüfungsauslöser:</strong> Nutze die Automatisierungsfunktionen von Monday.com, um Bewertungsanfragen an wichtigen Kundenkontaktpunkten zu initiieren und zeitnahes und relevantes Feedback zu erhalten.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Einheitliches Bewertungs-Dashboard: </strong>Integrieren Sie die Bewertungsfunktionen von Synup in die Benutzeroberfläche von Monday.com und fördern Sie so ein einziges Dashboard für eine konsolidierte Ansicht der Kundeninteraktionen und des Feedbacks.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Anfragen zur adaptiven Überprüfung:</strong> Nutze die dynamische Workflow-Anpassung von Monday.com, um Bewertungsanfragen maßzuschneidern und sicherzustellen, dass sie den sich ändernden Bedürfnissen und Erfahrungen der Kunden entsprechen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Kollaborative Überprüfungsanalyse: </strong>Fördern Sie ein kollaboratives Umfeld, in dem Teammitglieder gemeinsam Kundenrezensionen analysieren und Strategien entwickeln können, und fördern Sie so einen vielseitigen Ansatz für das Bewertungsmanagement.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Verbesserter operativer Arbeitsablauf: </strong>Verbessern Sie die Effizienz, indem Sie prüfungsbezogene Aufgaben und Workflows auf der intuitiven Plattform von Monday.com zentralisieren und so eine reibungslose Navigation und Aufgabenverwaltung gewährleisten.</li></ul><p id=\"\">Durch die Verbindung von Monday.com mit Synup entsteht eine Symbiose, die den Ansatz für das Management von Kundenrezensionen revolutioniert, bei dem strategische Planung, Automatisierung und Zusammenarbeit zu den Eckpfeilern eines soliden Frameworks für die Erfassung und Verwaltung von Bewertungen werden.</p><h2 id=\"\">Wie integriere ich Monday.com + Synup?</h2><p id=\"\">Die Monday.com-Integration zur Erfassung von Bewertungen steht allen Synup-Abonnenten zur Verfügung. Um die Integration anzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Rufe auf der Synup-Konsole den Tab „Akquisition überprüfen“ auf.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf Connect CRM oder App Button.</li></ul><ul id=\"\"><li id=\"\">Wähle den Ordner oder Ort aus, mit dem du Monday.com verbinden möchtest.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr CRM.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung von CRM.</li></ul><ul id=\"\"><li id=\"\">Erstellen Sie Review-Akquisitionen mithilfe von Kontakten aus CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Montag.com",
+    "description": "Verbessern Sie das Bewertungsmanagement mit Monday.com + Synup: Optimieren, automatisieren Sie und arbeiten Sie zusammen, um strategisches und effizientes Kundenfeedback zu erhalten.",
+    "canonical": "https://www.synup.com/de/integrations/montagcom",
+    "ogImage": null
+  }
+}

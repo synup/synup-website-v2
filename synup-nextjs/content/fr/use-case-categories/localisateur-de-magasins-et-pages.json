@@ -1,0 +1,20 @@
+{
+  "slug": "store-locator-and-pages",
+  "locale": "fr",
+  "collectionType": "use-case-categories",
+  "name": "Localisateur de magasins et pages",
+  "collection_id": "6890f993e6fd82fb4c3cb59b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6075d9197a7169093415c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:35:25 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:35:25 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Localisateur de magasins et pages",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/use-case-categories/localisateur-de-magasins-et-pages",
+    "ogImage": null
+  }
+}

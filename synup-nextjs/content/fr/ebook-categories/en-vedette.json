@@ -1,0 +1,20 @@
+{
+  "slug": "featured",
+  "locale": "fr",
+  "collectionType": "ebook-categories",
+  "name": "En vedette",
+  "collection_id": "6891de9eb759f4bedd7d4de6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61004e09818e2455b7598",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:12:20 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:12:20 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "En vedette",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/ebook-categories/en-vedette",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "review-featured-copy",
+  "locale": "fr",
+  "collectionType": "testimonial-reviews",
+  "name": "Réviser la copie en vedette",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6058f4fe58a85f16ff9f9",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:27:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:27:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "45 %",
+  "reviews_summary": "Comment Goodwill Industries a généré des milliers de critiques cinq étoiles et a augmenté le volume des dons de 45 %.",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb1b9192cdcde2a45a54_642bf3088ae70fa614e1b2c6_6401cf3f2ecfa9eb0993a02a_Rectangle%2520(8).png",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": false,
+  "review_link": "https://www.synup.com/case-studies/goodwill-case-study",
+  "seo": {
+    "title": "Réviser la copie en vedette",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonial-reviews/review-featured-copy",
+    "ogImage": null
+  }
+}

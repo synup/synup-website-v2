@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-experience-com-location-bank",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Preise — Experience.com, Location Bank, PowerReviews, Promanage, Zceppa, Zoho publish",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c778a62692803d7464d1",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:32 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:32 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "34,99 $/Monat",
+  "second_col": "Nicht transparent",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "synup-vs-experience-com; synup-vs-location-bank; synup-vs-powerreviews; promanage-alternative; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Preisgestaltung",
+  "seo": {
+    "title": "Preise — Experience.com, Location Bank, PowerReviews, Promanage, Zceppa, Zoho publish",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/preise-experiencecom-location-bank-powerreviews-promanage-zceppa-zoho-publish",
+    "ogImage": null
+  }
+}

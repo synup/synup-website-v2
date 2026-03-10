@@ -1,0 +1,27 @@
+{
+  "slug": "post-scheduling",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Planification des publications",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6154f3485704a0a466fb7",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:55 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:55 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "posting",
+  "list_order": "8.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; sprout-social-alternative; buffer-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Planification des publications",
+  "seo": {
+    "title": "Planification des publications",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/planification-des-publications",
+    "ogImage": null
+  }
+}

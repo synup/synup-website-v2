@@ -1,0 +1,20 @@
+{
+  "slug": "travel",
+  "locale": "en",
+  "collectionType": "integration-types",
+  "name": "Travel",
+  "collection_id": "688267a897faaa22a42fe6f4",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2286bb449e828f55009d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:49:10 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:49:10 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 08:50:18 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Travel",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/integration-types/travel",
+    "ogImage": null
+  }
+}

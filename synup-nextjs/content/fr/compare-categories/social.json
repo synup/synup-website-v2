@@ -1,0 +1,20 @@
+{
+  "slug": "social",
+  "locale": "fr",
+  "collectionType": "compare-categories",
+  "name": "Social",
+  "collection_id": "6891d89c3d61c8517ad88cb0",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a618d3013a7d2644e246fd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:49:55 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:49:55 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Social",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/compare-categories/social",
+    "ogImage": null
+  }
+}

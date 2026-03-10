@@ -1,0 +1,26 @@
+{
+  "slug": "keith-b",
+  "locale": "de",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Keith B.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bab8b2f96c7ed384b0fb",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:56:08 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:56:08 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab61fea51edc2c81133_65effa9c4cc2c6080cff5974_g2-5-star.webp",
+  "one_line_review": "„Einfach und effektiv“",
+  "detailed_review": "<p id=\"\"><strong id=\"\">Was gefällt dir am besten an Synup?</strong></p><p id=\"\">Die Oberfläche ist leicht zu verstehen und zu navigieren.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Was magst du an Synup nicht?</strong></p><p id=\"\">Es gibt nichts an Synup, das ich nicht mag.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Empfehlungen an andere, die Synup in Betracht ziehen:</strong></p><p id=\"\">Synup ist nicht kompliziert, macht aber genau das, was es tun soll.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Welche Probleme löst Synup und wie profitieren Sie davon?</strong></p><p id=\"\">Ich hatte einen Kunden mit Verzeichnisauflistungen mit einer Genauigkeit von unter 20%. Nach nur einem Monat als Synup-Standort registrierte sich dieser Kunde mit einer Genauigkeit von über 50%.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab8b2f96c7ed384b0ef_65f13d8f2c3af8facce5cff5_G2-reviewer-22.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Technischer Leiter</p><p id=\"\">Kleinunternehmen (50 oder weniger Mitarbeiter)</p>",
+  "seo": {
+    "title": "Keith B.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/testimonial-written-reviews/keith-b",
+    "ogImage": null
+  }
+}

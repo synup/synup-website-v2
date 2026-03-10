@@ -1,0 +1,28 @@
+{
+  "slug": "clover",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Clover",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238bfe3196fa99fe9cad",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238bfe3196fa99fe9c8a_6548f36f082f4f52ad99a70e_Clover.svg",
+  "title_tag": "Integrate Clover with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Clover + Synup</strong></h1><p id=\"\">Revolutionize your customer review management by amalgamating Clover’s exceptional payment processing prowess with Synup’s advanced review acquisition and management functionalities.</p><h2 id=\"\">What is Clover?</h2><p id=\"\">Clover is a comprehensive payment processing solution that stands out for its customizable payment hardware and software configurations, streamlined transactions, and a vast array of tools that simplify and enhance the payment experience for both businesses and their customers.</p><h2 id=\"\">Why Clover + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Real-Time Review Engagement:</strong> Harness the power of Clover’s swift payment processing to engage customers with immediate review requests, capturing their experience freshly and accurately.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Integrated Customer Insights: </strong>Seamlessly merge Clover’s detailed payment data with Synup’s review insights to create a unified, in-depth understanding of customer satisfaction and interaction nuances.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Acquisition:</strong> Incorporate automated review solicitations within Clover’s payment workflows, enabling a consistent and effortless capture of valuable customer feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Custom-Focused Review Interactions: </strong>Tailor review requests and communications to align with individual customer payment histories and interactions, fostering a more personalized and resonant review experience.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Business Advancements:</strong> Utilize combined insights from payment data and customer reviews to strategically enhance business offerings, customer service, and overall customer satisfaction.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimized Operational Workflow: </strong>Synchronize review management processes smoothly within Clover’s existing payment infrastructure, promoting an efficient and cohesive approach to acquiring and managing customer feedback.</li></ul><p id=\"\">By integrating Clover with Synup, a groundbreaking approach to review management unfolds, utilizing each payment interaction as a pivotal touchpoint to gather, analyze, and leverage customer reviews for strategic business improvement and enhanced customer satisfaction.</p><h2 id=\"\">How to integrate Clover + Synup?</h2><p id=\"\">Clover integration for payment processing is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Payment Processing tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Payment Gateway Button.</li></ul><ul id=\"\"><li id=\"\">Select Clover as your payment processor.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Clover account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up payment processing.</li></ul><ul id=\"\"><li id=\"\">Accept payments through Clover.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Clover",
+    "description": "Revolutionize review management with Clover + Synup: Real-time engagement, insights, automation, and personalized interactions for enhanced business success.",
+    "canonical": "https://www.synup.com/integrations/clover",
+    "ogImage": null
+  }
+}

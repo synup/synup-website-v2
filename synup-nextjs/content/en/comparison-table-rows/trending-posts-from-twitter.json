@@ -1,0 +1,27 @@
+{
+  "slug": "trending-posts-from-twitter",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Trending posts from Twitter",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db746e965d2e8a4b7eb8",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "ai-posts-ideas",
+  "list_order": "21.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; sprout-social-alternative; buffer-alternative; hootsuite-alternative",
+  "tabel_category": "Trending posts from Twitter",
+  "seo": {
+    "title": "Trending posts from Twitter",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/trending-posts-from-twitter",
+    "ogImage": null
+  }
+}

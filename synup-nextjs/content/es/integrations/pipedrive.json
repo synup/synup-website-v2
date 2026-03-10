@@ -1,0 +1,28 @@
+{
+  "slug": "pipedrive",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Tubería",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7629dd5025644d69d0968",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:17:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:17:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3242105abf85e3be9a_6548e2aea387ad070c2b502d_Pipedrive.svg",
+  "title_tag": "Integra Pipedrive con Synup para automatizar tu proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "united-states-us; canada",
+  "detailed_paragraph": "<h1 id=\"\">Suscríbete a Pipedrive +</h1><p id=\"\">Aumenta el éxito de las ventas con Pipedrive + Synup: integra sin problemas la gestión de clientes potenciales y reseñas, mejora la automatización y desbloquea información basada en datos para agilizar las relaciones con los clientes y optimizar los flujos de trabajo.</p><h2 id=\"\">¿Qué es Pipedrive?</h2><p id=\"\">Pipedrive es un software de CRM diseñado para mejorar los procesos de ventas de las pequeñas y medianas empresas. Facilita la gestión eficiente de clientes potenciales, la automatización de ventas y se integra perfectamente con varias aplicaciones de terceros. La interfaz personalizable y fácil de usar de Pipedrive garantiza mejores flujos de trabajo de ventas y una mayor productividad, lo que posiciona a las empresas para lograr un crecimiento significativo y unos resultados de ventas efectivos.</p><h2 id=\"\">Por qué Pipedrive + Synup</h2><p id=\"\"><strong id=\"\">Gestión simplificada de clientes potenciales y revisiones: </strong>La unión permite a las empresas gestionar sin problemas los clientes potenciales y las interacciones con los clientes, garantizando que las opiniones y comentarios de los clientes se gestionen de forma eficaz dentro del proceso de ventas.</p><p id=\"\"><strong id=\"\">Automatización mejorada: </strong>Las capacidades de Synup, cuando se integran con Pipedrive a través de la API, facilitan la automatización en la gestión de las opiniones y comentarios de los clientes, lo que reduce los esfuerzos manuales y aumenta la eficiencia.</p><p id=\"\"><strong id=\"\">Esfuerzos centrados en la relación con el cliente: </strong>La integración centraliza los datos y las reseñas de los clientes, lo que permite a las empresas crear estrategias de relación con los clientes centradas y personalizadas, lo que mejora la satisfacción y la lealtad de los clientes.</p><p id=\"\"><strong id=\"\">Análisis e informes mejorados: </strong>La utilización de los análisis de Pipedrive con los datos de reseñas de Synup permite a las empresas obtener información más detallada sobre la satisfacción de los clientes y tomar decisiones basadas en datos para mejorar los productos y servicios.</p><p id=\"\"><strong id=\"\">Flujo de trabajo optimizado:</strong> Al alinear los procesos de revisión, adquisición y gestión con las actividades de ventas, las empresas pueden optimizar los flujos de trabajo, lo que permite a los equipos de ventas y servicio al cliente trabajar de forma más coherente y eficaz.<br>‍</p><p id=\"\">Esta colaboración garantiza un enfoque más unificado, automatizado y eficiente para gestionar los clientes potenciales, las relaciones con los clientes y las revisiones, lo que, en última instancia, impulsa la mejora empresarial y la satisfacción del cliente.</p><h2 id=\"\">¿Cómo integrar Pipedrive + Synup?</h2><p id=\"\">La integración de Pipedrive para la gestión de las relaciones con los clientes está disponible para todos los suscriptores de Synup. Para ver y gestionar la integración:</p><ul id=\"\"><li id=\"\">Visite la pestaña Integración de CRM en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar CRM.</li></ul><ul id=\"\"><li id=\"\">Selecciona Pipedrive como tu software de CRM.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Pipedrive.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Gestiona las relaciones con los clientes con Pipedrive.</li></ul><p id=\"\">‍</p><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Tubería",
+    "description": "Aumenta las ventas con el CRM de Pipedrive: agiliza los procesos, automatiza las ventas e impulsa el crecimiento con facilidad.",
+    "canonical": "https://www.synup.com/es/integrations/pipedrive",
+    "ogImage": null
+  }
+}

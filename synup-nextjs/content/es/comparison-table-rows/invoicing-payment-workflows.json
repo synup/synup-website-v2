@@ -1,0 +1,26 @@
+{
+  "slug": "invoicing-payment-workflows",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Invoicing & Payment Workflows",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68e76fc8eafd54b49004b5f8",
+  "archived": false,
+  "draft": true,
+  "created_on": "Thu Oct 09 2025 08:18:16 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 08:18:20 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "__MISSING__",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Limited",
+  "select_table_category": "__MISSING__",
+  "list_order": null,
+  "select_pages": "pipedrive-vs-synup",
+  "seo": {
+    "title": "Invoicing & Payment Workflows",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/invoicing-payment-workflows",
+    "ogImage": null
+  }
+}

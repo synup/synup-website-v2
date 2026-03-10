@@ -1,0 +1,28 @@
+{
+  "slug": "clio",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Clio",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a762880c4280f459a3d028",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:40 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:40 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf27d3960d1191315f39_654a33e721ba1a1ef61fa239_Clio.svg",
+  "title_tag": "Integre Clio con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Suscríbete a Clio +</h1><p id=\"\">Mejore la gestión de su práctica legal y la adquisición de reseñas integrando Clio con las sólidas capacidades de Synup.</p><h2 id=\"\">¿Qué es Clio?</h2><p id=\"\">Clio es un software integral de gestión de prácticas legales que agiliza las operaciones de los bufetes de abogados, mejorando la gestión de casos, el seguimiento del tiempo, la facturación y la comunicación con los clientes con herramientas y funcionalidades intuitivas.</p><h2 id=\"\">¿Por qué Clio + Synup?</h2><p id=\"\"><strong id=\"\">Administración de casos simplificada:</strong> Incorpore las solicitudes de revisión sin problemas en los flujos de trabajo de los casos, mejorando los mecanismos de comentarios de los clientes sin complicar los procesos legales.</p><p id=\"\"><strong id=\"\">Comunicación eficaz con el cliente: </strong>Mejore la interacción con los clientes sincronizando las reseñas y los comentarios con la comunicación con los clientes, lo que añade valor a los intercambios profesionales.</p><p id=\"\"><strong id=\"\">Prácticas que ahorran tiempo: </strong>Ahorre un tiempo precioso automatizando las solicitudes de revisión y la recopilación de comentarios de los clientes, lo que permite a los profesionales del derecho centrarse más en las estrategias de los casos.</p><p id=\"\"><strong id=\"\">Operaciones integradas:</strong> Benefíciese de la integración que simplifica las complejidades operativas, alineando la gestión de la práctica legal con estrategias eficaces de adquisición de reseñas.</p><p id=\"\"><strong id=\"\">Operaciones conscientes de los costos:</strong> Aproveche la automatización y la integración para optimizar los procedimientos operativos, lo que contribuye a reducir los costos generales y a mejorar la eficiencia.</p><p id=\"\"><strong id=\"\">Visibilidad profesional mejorada: </strong>Utilice reseñas y comentarios para mejorar la presencia y la reputación en línea, haciendo que el bufete de abogados sea más atractivo para los clientes potenciales.</p><p id=\"\"><br>La integración de Clio con Synup facilita una experiencia de gestión de prácticas legales más fluida y eficaz, enriquecida con información valiosa sobre los clientes y procesos operativos simplificados.</p><h2 id=\"\">¿Cómo integrar Clio + Synup?</h2><p id=\"\">La integración de Clio para la gestión de la práctica legal está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visite la pestaña Administración de prácticas legales en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar software legal.</li></ul><ul id=\"\"><li id=\"\">Selecciona Clio como tu software legal.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Clio.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar la gestión de la práctica legal.</li></ul><ul id=\"\"><li id=\"\">Gestione los procesos legales con Clio.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Clio",
+    "description": "Mejore la práctica legal: regístrese con Clio + para lograr eficiencia, comunicación con los clientes y ahorrar costos.",
+    "canonical": "https://www.synup.com/es/integrations/clio",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "notion",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Notion",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2395326913cc0a20ab64",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2394326913cc0a20ab43_6548e103527c57f8f0aacb1c_Notion.svg",
+  "title_tag": "Integrate Notion with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Notion + Synup</strong></h1><p id=\"\">Unleash transformative potentials in customer review management by integrating Notion’s all-in-one workspace with Synup’s comprehensive review acquisition and management framework.</p><h2 id=\"\">What is Notion?</h2><p id=\"\">Notion is a collaborative workspace that consolidates notes, tasks, wikis, and databases, enabling teams to navigate projects and workflows in a unified, organized manner, promoting enhanced productivity and collaboration.</p><h2 id=\"\">Why Notion + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Centralized Review Repository: </strong>Utilize Notion’s organizational prowess to centralize reviews and related data, allowing for easy access, analysis, and strategy development within a unified workspace.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Review Planning:</strong> Employ Notion’s versatile planning tools to delineate comprehensive strategies for effective review acquisition and impactful customer engagement.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Collaborative Review Insights: </strong>Harness the collaborative essence of Notion to facilitate team-wide involvement in the analysis, interpretation, and action planning of customer reviews and feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Workflows:</strong> Leverage Notion’s integration capabilities to automate essential parts of the review acquisition process, fostering consistency and timeliness in customer engagement.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Custom-Tailored Review Solicitations:</strong> Take advantage of Notion’s customization features to tailor review solicitations, ensuring alignment with customer experiences and expectations.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Informed Decision-Making: </strong>Utilize the integrated workspace to consolidate insights and make informed decisions that enhance the effectiveness of review acquisition and management strategies.</li></ul><p id=\"\">Integrating Notion with Synup unveils a harmonized workspace where review management is streamlined, strategic, and synergized, facilitating a more organized, collaborative, and insightful approach to acquiring and optimizing customer reviews and feedback.</p><h2 id=\"\">How to integrate Notion + Synup?</h2><p id=\"\">Notion integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Notion to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Notion",
+    "description": "Unlock customer review potential with Notion + Synup. Centralize, strategize, and collaborate for impactful reviews. Boost your business now!",
+    "canonical": "https://www.synup.com/integrations/notion",
+    "ogImage": null
+  }
+}

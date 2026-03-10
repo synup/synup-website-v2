@@ -1,0 +1,26 @@
+{
+  "slug": "keith-b",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Keith B.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cb671f0ccbc78d876d8",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«Sencillo y eficaz»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">La interfaz es fácil de entender y navegar.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">No hay nada de Synup que no me guste.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Recomendaciones para otras personas que estén considerando la posibilidad de usar Synup:</strong></p><p id=\"\">Synup no es complicado, pero hace exactamente lo que se supone que debe hacer.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">Tenía un cliente con listados de directorios con una precisión inferior al 20%. Después de solo un mes como ubicación de Synup, ese cliente se estaba registrando con una precisión superior al 50%.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Director de Tecnología</p><p id=\"\">Pequeñas empresas (50 o menos EMP.)</p>",
+  "seo": {
+    "title": "Keith B.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/keith-b",
+    "ogImage": null
+  }
+}

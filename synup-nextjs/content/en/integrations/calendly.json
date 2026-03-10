@@ -1,0 +1,28 @@
+{
+  "slug": "calendly",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Calendly",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238a06deff26ba5914fd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:30 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238a06deff26ba5914f8_6548f5979f937eb7f90ad0b9_Calendly.svg",
+  "title_tag": "Integrate Asana with Calendly to Automate Your Workflow",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Calendly + Synup</h1><p id=\"\">Revolutionize your scheduling and review acquisition process by synergizing Calendly with Synup's powerful capabilities.</p><h2 id=\"\">What is Calendly?</h2><p id=\"\">Calendly stands out as a premier scheduling tool that simplifies appointment setting, enhancing flexibility and automating confirmations and reminders, allowing businesses to focus more on meaningful customer interactions.</p><h2 id=\"\">Why Calendly + Synup?<strong id=\"\">‍</strong></h2><p id=\"\"><strong id=\"\">Automated Scheduling:</strong> Seamlessly integrate review requests within the automated scheduling process, ensuring that feedback is captured efficiently without manual intervention.</p><p id=\"\"><strong id=\"\">Enhanced Customer Experiences:</strong> Elevate the customer experience by synchronizing appointment details and customer reviews, making interactions more insightful and personalized.</p><p id=\"\"><strong id=\"\">Time Optimization: </strong>Maximize the use of time by automating administrative tasks like scheduling and review requests, allowing more focus on strategic customer engagement.</p><p id=\"\"><strong id=\"\">Fluid Integrations:</strong> Experience ease with fluid integrations that bolster the combined capabilities of Calendly and Synup, improving overall operational efficiency.</p><p id=\"\"><strong id=\"\">Cost Efficiency:</strong> Significantly reduce operational costs by automating and streamlining processes, thus improving overall business efficiency and profitability.</p><p id=\"\"><strong id=\"\">Review-Driven Insights: </strong>Utilize customer reviews and feedback to derive valuable insights that can enhance the scheduling process and customer satisfaction.<br>‍</p><p id=\"\">Integrate Calendly with Synup to explore a harmonized pathway of automated scheduling, enriched customer experiences, and insightful review-driven strategies.</p><h2 id=\"\">How to integrate Calendly + Synup?</h2><p id=\"\">Calendly integration for appointment scheduling is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Appointment Scheduling tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Scheduling Software Button.</li></ul><ul id=\"\"><li id=\"\">Select Calendly as your scheduling software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Calendly account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up appointment scheduling.</li></ul><ul id=\"\"><li id=\"\">Schedule appointments using Calendly.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Calendly",
+    "description": "Maximize Efficiency with Calendly + Synup: Automated Scheduling, Enhanced Experiences, & Cost Savings",
+    "canonical": "https://www.synup.com/integrations/calendly",
+    "ogImage": null
+  }
+}

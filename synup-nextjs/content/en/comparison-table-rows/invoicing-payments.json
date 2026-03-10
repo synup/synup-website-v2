@@ -1,0 +1,26 @@
+{
+  "slug": "invoicing-payments",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Invoicing & Payments",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68d3ee67c4c4daedd1335e1f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Sep 24 2025 13:13:11 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Sep 24 2025 13:14:24 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Sep 24 2025 14:57:26 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "top-category",
+  "list_order": null,
+  "select_pages": "synup-vs-yext",
+  "seo": {
+    "title": "Invoicing & Payments",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/invoicing-payments",
+    "ogImage": null
+  }
+}

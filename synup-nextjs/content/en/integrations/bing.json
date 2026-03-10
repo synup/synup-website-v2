@@ -1,0 +1,31 @@
+{
+  "slug": "bing",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Bing",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23893f6719c6c88f2420",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:29 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:29 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23893f6719c6c88f2400_65312cffaefe89ecb3ed2ade_Bing.svg",
+  "title_tag": "Manage Your Business Information on Bing Places with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; germany; spain-es; australia; canada; united-kingdom-gb; united-states-us; brazil; austria; switzerland; hong-kong; italy; mexico; taiwan; china",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Bing Places + Synup<br>‍<br>What is Bing Places?</strong></h1><p id=\"\"><strong id=\"\">Bing Places</strong> is a crucial service for businesses aiming to boost their online presence via Microsoft's Bing search engine. Like its counterpart, Google Business Profile, Bing Places is utilized by countless businesses across the globe to draw in and connect with customers by providing comprehensive details regarding their services, hours, and locations.</p><h2 id=\"\"><strong id=\"\">Why Bing Places + Synup?</strong></h2><p id=\"\"><strong id=\"\">Listing Management:</strong> Combining Bing Places with Synup gives businesses unparalleled control over their listings. With this dynamic duo, businesses can ensure their profiles are precise, current, and reflect their brand identity effectively, providing potential customers with the information they need.</p><p id=\"\"><strong id=\"\">Expand Your Visibility:</strong> Bing, though not as large as Google, still boasts a substantial user base. Having a Bing Places profile broadens your business's online visibility. Synup plays a pivotal role by optimizing your profile for the Bing search engine, aiding customers in finding your business when they search for your offered services or products.</p><p id=\"\"><strong id=\"\">Trustworthy Business Data:</strong> Building and sustaining trust with customers is paramount, and it begins with displaying verified business information. Using Bing Places in tandem with Synup guarantees that the information visible to the public is not only accurate but also reliable, establishing your business as a trustworthy entity.</p><p id=\"\"><strong id=\"\">Data-Driven Decisions:</strong> Leverage the potent combination of Bing Places and Synup to gain deep insights and analytics about your customer base. This invaluable data aids in fine-tuning your marketing initiatives, providing a clearer path to making knowledgeable decisions that contribute to the growth and improvement of your business.</p><p id=\"\">Harness the power of Bing Places and Synup to effectively manage your digital footprint, engage with your audience, and increase the visibility and credibility of your business online. With precise listings, enhanced customer interaction, and insightful analytics, you’re well-positioned to thrive in the online business landscape.</p><h2 id=\"\"><strong id=\"\">How to integrate Bing Places + Synup?<br></strong></h2><p id=\"\">The Bing Places integration is available to all Synup listings plan subscribers. To view &amp; manage the Bing Places integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Bing Places logo to manage the Synup + Bing Places integration and associated settings.</li></ol>",
+  "integration_types": "maps",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#00809d",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23893f6719c6c88f23f3_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).avif",
+  "integration_summary": "Bing Places for Business is Microsoft's directory.",
+  "seo": {
+    "title": "Bing",
+    "description": "Amplify your reach on Bing search. Synup's seamless integration ensures accurate business information for better visibility",
+    "canonical": "https://www.synup.com/integrations/bing",
+    "ogImage": null
+  }
+}

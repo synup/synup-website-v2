@@ -1,0 +1,31 @@
+{
+  "slug": "apple-maps",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Apple Maps",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf24835dc22d690014cd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:00 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:00 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf24835dc22d690014ba_65312ced24692debda8d6a5c_apple-maps.svg",
+  "title_tag": "__POSSIBLE_UNTRANSLATED__Manage & Optimize Your Business Information on Apple Maps with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "__POSSIBLE_UNTRANSLATED__<h1 id=\"\"><strong id=\"\">Apple Maps + Synup?</strong></h1><p id=\"\">‍</p><h2 id=\"\"><strong id=\"\">What is Apple Maps?</strong></h2><p id=\"\">Apple Maps is an essential service for businesses looking to enhance their visibility on Apple devices, which are extensively used worldwide. Similar to Google Business Profile and Bing Places, Apple Maps is a tool employed by numerous businesses to attract and engage with customers. It provides users with valuable information about businesses including their services, operating hours, and locations.</p><h2 id=\"\"><strong id=\"\">Why Apple Maps + Synup?</strong></h2><p id=\"\"><strong id=\"\">Listing Management: </strong>Pairing Apple Maps with Synup allows businesses to exert unrivalled control over their listings. This combination ensures that business profiles are not only accurate but are also up to date and effectively mirror the brand’s identity. This furnishes potential customers with the necessary information, creating a seamless experience for users looking for products or services.</p><p id=\"\"><strong id=\"\">Enhance Your Visibility: </strong>Apple has a massive and dedicated user base, and having a business profile on Apple Maps significantly expands your online visibility. Synup enhances this visibility by optimizing your profile for Apple's platform, helping users easily locate your business when searching for the services or products you offer.</p><p id=\"\"><strong id=\"\">Reliable Business Information:</strong> Establishing and maintaining trust with customers is fundamental for any business, and this trust begins with presenting verified business information. With Apple Maps and Synup, businesses can ensure the information available to users is both accurate and reliable, positioning your business as a trustworthy and dependable entity in the public eye.</p><p id=\"\"><strong id=\"\">Informed Business Decisions:</strong> Utilizing Apple Maps and Synup provides businesses with invaluable insights and data about their customer base and their behavior. This data is instrumental in refining your marketing strategies and initiatives, offering a roadmap for making informed decisions that are crucial for the growth and development of your business.</p><p id=\"\">Leverage the combined power of Apple Maps and Synup to efficiently manage your digital presence, engage effectively with your target audience, and bolster the visibility and credibility of your business on the web. With accurate listings, improved customer engagement, and strategic insights from analytics, businesses are better equipped to navigate and succeed in the digital marketplace.<strong id=\"\">‍</strong></p><h2 id=\"\"><strong id=\"\">How to integrate Apple Maps + Synup?<br></strong></h2><p id=\"\">The Apple Maps integration is available to all Synup listings plan subscribers. To view &amp; manage the Apple Maps integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Apple Maps logo to manage the Synup + Apple Maps integration and associated settings.</li></ol>",
+  "integration_types": "maps",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#e16e25",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf240dde612d07a0931a_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).png",
+  "integration_summary": "__POSSIBLE_UNTRANSLATED__Update and Optmize your business data on Apple maps.",
+  "seo": {
+    "title": "Apple Maps",
+    "description": "__POSSIBLE_UNTRANSLATED__Maximize your business visibility on Apple Maps. Discover the benefits of Synup's integration for accurate and consistent location data.",
+    "canonical": "https://www.synup.com/de/integrations/apple-maps",
+    "ogImage": null
+  }
+}

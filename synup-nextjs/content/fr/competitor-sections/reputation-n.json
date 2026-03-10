@@ -1,0 +1,29 @@
+{
+  "slug": "reputation-n",
+  "locale": "fr",
+  "collectionType": "competitor-sections",
+  "name": "Réputation",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6170e67351035278bfc45",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:42:22 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:42:22 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "Idéal pour : les grandes entreprises, les moyennes entreprises, les petites entreprises",
+  "description": "<h2 id=\"\">Ce que fait la réputation</h2><p id=\"\">Comme son nom l'indique, il s'agit d'une plateforme de gestion de la réputation des marques dont les critiques sont l'une des fonctionnalités disponibles. Il permet d'améliorer la mesure de l'expérience client grâce à des enquêtes, à des critiques et à la gestion du service d'assistance.</p>Source&nbsp;: G2<h2 id=\"\">Principales caractéristiques</h2><ul id=\"\"><li id=\"\">Surveille de manière centralisée tous les avis et aide à mesurer la perception de la marque</li><li id=\"\">Aide à recueillir de nouveaux avis par SMS, e-mail et enquêtes</li><li id=\"\">Analyse les tendances et la perception des sentiments au fil du temps pour recueillir des informations sur l'expérience client</li><li id=\"\">Transforme les réponses aux enquêtes en avis pour des sites du secteur tels que Google, Tripadvisor, etc.</li></ul><h2 id=\"\">Tarification</h2><p id=\"\">Offre une tarification personnalisée après demande de devis</p><h2 id=\"\">Pros</h2><p id=\"\">✅ Les clients apprécient les rapports et les tableaux de bord personnalisables qui offrent de bonnes informations sur l'expérience client</p><p id=\"\">✅ Il est facile de passer à l'outil et de naviguer une fois configuré</p><h2 id=\"\">Les inconvénients</h2><p id=\"\">❌ Pour certains sites, les clients ne peuvent pas répondre aux avis sur la plateforme, ce qui entraîne leur mécontentement</p><p id=\"\">❌ La plateforme n'intègre pas l'IA pour rédiger les réponses aux avis</p><p id=\"\">❌ Ne s'intègre pas à certains sites d'évaluation majeurs comme Yelp</p><p id=\"\">❌ La plateforme n'offre pas d'option permettant de filtrer les avis en fonction des évaluations individuelles (1,2,3,4,5), mais propose plutôt des catégories (négatif, neutre, positif).</p>",
+  "what_people_say": "<p id=\"\">‍</p><h2 id=\"\">Ce que disent les clients</h2><p id=\"\"><em id=\"\">«&nbsp;C'est très facile à utiliser et j'adore les notifications par e-mail lorsque vous recevez un avis... surtout s'il s'agit d'un avis négatif.&nbsp;»</em></p><p id=\"\">- Avis collecté et hébergé sur Capterra</p><p id=\"\">‍</p><p id=\"\"><em id=\"\">«&nbsp;Il serait utile que vous puissiez collecter et répondre à tous les avis provenant de différentes sources directement sur la plateforme. Certaines plateformes peuvent être filtrées mais ne pas recevoir de réponse (par exemple PissedConsumer).</em></p><p id=\"\"><em id=\"\">De plus, je n'aime pas le fait que la plupart des fonctionnalités soient des modules complémentaires pour une portée supplémentaire. Je préfèrerais que tout soit disponible dès le départ sur la plateforme.&nbsp;»</em></p><p id=\"\">- Avis collecté et hébergé sur G2.com.</p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Réputation",
+    "description": "<h2 id=\"\">Ce que fait la réputation</h2><p id=\"\">Comme son nom l'indique, il s'agit d'une plateforme de gestion de la réputation des marques dont les critiques sont l'une des fonctionnalités disponibles. Il permet d'améliorer la mesure de l'expérience client grâce à des enquêtes, à des critiques et à la gestion du service d'assistance.</p>Source&nbsp;: G2<h2 id=\"\">Principales caractéristiques</h2><ul id=\"\"><li id=\"\">Surveille de manière centralisée tous les avis et aide à mesurer la perception de la marque</li><li id=\"\">Aide à recueillir de nouveaux avis par SMS, e-mail et enquêtes</li><li id=\"\">Analyse les tendances et la perception des sentiments au fil du temps pour recueillir des informations sur l'expérience client</li><li id=\"\">Transforme les réponses aux enquêtes en avis pour des sites du secteur tels que Google, Tripadvisor, etc.</li></ul><h2 id=\"\">Tarification</h2><p id=\"\">Offre une tarification personnalisée après demande de devis</p><h2 id=\"\">Pros</h2><p id=\"\">✅ Les clients apprécient les rapports et les tableaux de bord personnalisables qui offrent de bonnes informations sur l'expérience client</p><p id=\"\">✅ Il est facile de passer à l'outil et de naviguer une fois configuré</p><h2 id=\"\">Les inconvénients</h2><p id=\"\">❌ Pour certains sites, les clients ne peuvent pas répondre aux avis sur la plateforme, ce qui entraîne leur mécontentement</p><p id=\"\">❌ La plateforme n'intègre pas l'IA pour rédiger les réponses aux avis</p><p id=\"\">❌ Ne s'intègre pas à certains sites d'évaluation majeurs comme Yelp</p><p id=\"\">❌ La plateforme n'offre pas d'option permettant de filtrer les avis en fonction des évaluations individuelles (1,2,3,4,5), mais propose plutôt des catégories (négatif, neutre, positif).</p>",
+    "canonical": "https://www.synup.com/fr/competitor-sections/reputation-n",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "wrike",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Wrike",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6fcb79e53f230e17e5",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:03 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:03 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf393bb9c113410eb583_6548b75f90e4378988a33d5f_Wrikle.svg",
+  "title_tag": "Intégrez Wrike à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Wrike + Synup</strong></h1><p id=\"\">Renforcez votre stratégie de gestion des avis en associant les fonctionnalités complètes de gestion de projet de Wrike aux fonctionnalités spécialisées d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Wrike, c'est quoi&nbsp;?</h2><p id=\"\">Wrike est un outil de gestion de projet polyvalent qui améliore la collaboration, la transparence et l'efficacité des flux de travail. Il fournit un espace centralisé pour le travail, les discussions et le partage de documents, rationalisant l'exécution des projets et améliorant la productivité des équipes.</p><h2 id=\"\">Pourquoi Wrike et Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Coordonnée assessment strategy&nbsp;:</strong> Utilisez les outils de planification de projet de Wrike pour développer et gérer une stratégie cohérente qui renforce l'efficacité de votre processus d'acquisition d'avis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatic review tasks&nbsp;: </strong>Tirez parti des fonctionnalités d'automatisation de Wrike pour planifier et gérer les demandes d'avis de manière systématique, améliorant ainsi les temps de réponse et l'engagement global.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Analysis of the Collaborative Examination&nbsp;:</strong> Exploitez les outils de collaboration de Wrike pour encourager la participation de l'équipe à l'analyse, à l'interprétation et à l'élaboration de stratégies relatives aux avis clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de travail de révision personnalisables&nbsp;: </strong>Adaptez les fonctionnalités flexibles de gestion du travail de Wrike pour créer des flux de travail personnalisés adaptés à chaque phase du processus d'acquisition des avis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Tableau de bord de révision centralisé&nbsp;:</strong> Intégrez les fonctionnalités de Synup dans Wrike, en établissant un tableau de bord unifié pour une vue complète des évaluations et des stratégies et actions correspondantes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Effectif Execution of Revisions&nbsp;: </strong>Utilisez les fonctionnalités de gestion et de suivi des tâches de Wrike pour vous assurer que les activités liées aux révisions sont exécutées rapidement et efficacement, en optimisant les ressources et les résultats.</li></ul><p id=\"\">L'intégration de Wrike à Synup crée un écosystème robuste qui optimise de manière significative les aspects liés à la stratégie, à l'exécution et à l'analyse de l'acquisition et de la gestion de vos avis, améliorant ainsi la collaboration, la personnalisation et l'efficacité globale.</p><h2 id=\"\">Comment intégrer Wrike + Synup&nbsp;?</h2><p id=\"\">L'intégration de Wrike pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Wrike.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Finn the CRM setup.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Wrike",
+    "description": "Améliorez votre stratégie d'évaluation avec Wrike + Synup : rationalisez l'acquisition des avis, automatisez les tâches et améliorez la collaboration pour de meilleurs résultats.",
+    "canonical": "https://www.synup.com/fr/integrations/wrike",
+    "ogImage": null
+  }
+}

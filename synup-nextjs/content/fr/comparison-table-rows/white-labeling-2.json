@@ -1,0 +1,28 @@
+{
+  "slug": "white-labeling-2",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Étiquetage blanc",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a615585cef31d1421be490",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:35:04 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:35:04 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "top-category",
+  "list_order": "4.0",
+  "select_pages": "birdeye-alternative; soci-alternative; thryv-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; surefire-local-alternative; partoo-alternative; pinmeto-alternative; rio-seo-alternative; sproutloud-alternative; turbify-alternative; dbaplatform-alternative; synup-vs-digitalmass; synup-vs-experience-com; synup-vs-location-bank; singleinterface-alternative; synup-vs-localpanda-ai; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-whitespark; promanage-alternative; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Étiquetage blanc",
+  "alt_select_pages": "best-singleinterface-alternative",
+  "seo": {
+    "title": "Étiquetage blanc",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/white-labeling-2",
+    "ogImage": null
+  }
+}

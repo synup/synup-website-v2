@@ -1,0 +1,27 @@
+{
+  "slug": "resources-featured",
+  "locale": "fr",
+  "collectionType": "testimonial-reviews",
+  "name": "Ressources en vedette",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6058e2097a9eff0130c2b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:27:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:27:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "20 %",
+  "reviews_summary": "Waouh ! Génération de 20 % de revenus supplémentaires grâce à la personnalisation des profils",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb1b0addf0c3edea5fe4_642bf35fe90ab5285e96faeb_6401d1e783a3425f41659194_podcastimage%25201%2520(1).webp",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": false,
+  "review_link": "https://www.synup.com/case-studies/woops-macarons",
+  "seo": {
+    "title": "Ressources en vedette",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonial-reviews/ressources-en-vedette",
+    "ogImage": null
+  }
+}

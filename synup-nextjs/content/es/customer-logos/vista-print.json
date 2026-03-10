@@ -1,0 +1,22 @@
+{
+  "slug": "vista-print",
+  "locale": "es",
+  "collectionType": "customer-logos",
+  "name": "Impresión Vista",
+  "collection_id": "6891de2480f47d59c875ffe0",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7de3abfb5d7c764d8d17d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 03:04:26 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 03:04:26 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4cd85dccbf1d3ce0d1b60_60e8a0731ad9474f2d7dbd2e_VistaPrint.webp",
+  "list_of_number": "5.0",
+  "seo": {
+    "title": "Impresión Vista",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/customer-logos/vista-print",
+    "ogImage": null
+  }
+}

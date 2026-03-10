@@ -1,0 +1,27 @@
+{
+  "slug": "survey-and-analysis-of-local-online-reviews",
+  "locale": "es",
+  "collectionType": "ebooks",
+  "name": "Encuesta y análisis de reseñas locales en línea",
+  "collection_id": "6891dedfab83e12481b305d9",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7d61879ad0c8a3f41564c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:29:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:29:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "ebook_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4c1ae33b9c804674da00c_60236b3620b8e2b286373d63_eb8.webp",
+  "rich_text_block": "<p id=\"\">Hace poco realizamos una encuesta en la que preguntamos a los consumidores y propietarios de empresas qué pensaban de las reseñas en línea: si las consideraban útiles, qué tan impactantes pensaban que las reseñas en línea tenían para sus negocios, en total nueve metros. También decidimos darle otra perspectiva y estudiamos las fichas de empresas en sitios populares como Google, Yelp y TripAdvisor para determinar cómo la cantidad y la calidad de las opiniones de las empresas en esos sitios influían en su clasificación. Las ideas y los resultados de estas encuestas y estudios se documentan en este informe.</p>",
+  "category": "popular",
+  "free_business": false,
+  "learn_more": false,
+  "schedule_a_demo": true,
+  "resource_type": "Ebook",
+  "seo": {
+    "title": "Encuesta y análisis de reseñas locales en línea",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/ebooks/survey-and-analysis-of-local-online-reviews",
+    "ogImage": null
+  }
+}

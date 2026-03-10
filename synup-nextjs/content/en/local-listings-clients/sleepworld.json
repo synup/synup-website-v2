@@ -1,0 +1,22 @@
+{
+  "slug": "sleepworld",
+  "locale": "en",
+  "collectionType": "local-listings-clients",
+  "name": "Sleepworld",
+  "collection_id": "6891dfa5ae2c74373e72307c",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891dfd5b3deebf7c4bff94d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:41:25 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:41:25 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "clients_logos": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891dfd4b3deebf7c4bff92b_67601acaeeba2db37cf0ac50_20241216T1219-2e24fed9-89c6-4115-b6e5-605a66dc678c.webp",
+  "list_of_number": "2.0",
+  "seo": {
+    "title": "Sleepworld",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/local-listings-clients/sleepworld",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "users-sprout-social",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Benutzer - Sprout Social - Hootsuite - Falcon - Agorapulse",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c76f0384257f63ec378d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:23 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:23 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "1.0",
+  "second_col": "1.0",
+  "select_table_category": "top-category",
+  "list_order": "2.0",
+  "select_pages": "falcon-alternative; agorapulse-alternative; hootsuite-alternative; sprout-social-alternative",
+  "tabel_category": "Nutzer",
+  "seo": {
+    "title": "Benutzer - Sprout Social - Hootsuite - Falcon - Agorapulse",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/benutzer-sprout-social-hootsuite-falcon-agorapulse",
+    "ogImage": null
+  }
+}

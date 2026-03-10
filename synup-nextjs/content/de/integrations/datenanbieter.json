@@ -1,0 +1,31 @@
+{
+  "slug": "dataprovider",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Datenanbieter",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf289b8109063fed9528",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:04 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:04 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf289b8109063fed951b_653130b490f98fc5f7b99edc_DataProvider.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf DataProvider mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">DataProvider + Synup</h1><p id=\"\"><strong id=\"\">Fügen Sie Brancheneinträge und Bewertungen auf DataProvider hinzu, fordern Sie sie an und bearbeiten Sie sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup.</strong></p><h2 id=\"\">Was ist DataProvider?</h2><p id=\"\">DataProvider ist wahrscheinlich ein Verweis auf ein Unternehmen oder eine Dienstleistung, die datenbezogene Lösungen anbietet. Datenanbieter sammeln und bieten verschiedene Arten von Daten an, z. B. Brancheneinträge, Kontaktinformationen und mehr, die für Marketing-, Forschungs- und andere Zwecke verwendet werden können.</p><h2 id=\"\">Warum DataProvider + Synup?</h2><ul id=\"\"><li id=\"\">Vollständige Kontrolle über Angebote: Mit der Möglichkeit, Ihre Brancheneinträge auf DataProvider zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\">Erweitern Sie Ihre Reichweite: Wenn Sie Ihr Unternehmen über Synup zu DataProvider hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\">Präzise Geschäftsinformationen: Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf DataProvider veröffentlichen.</li><li id=\"\">Kundenbindung: Sehen Sie sich Bewertungen auf DataProvider an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie ihr Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich DataProvider + Synup?</h2><p id=\"\">Die DataProvider-Integration steht allen Abonnenten des Synup Listings Plans zur Verfügung. Um die DataProvider-Integration einzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das DataProvider-Logo, um die Synup + DataProvider-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol><p id=\"\">‍</p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Für Unternehmen ist die Verwaltung von Standortdaten auf Facebook mit Synup jetzt ein Kinderspiel.",
+  "seo": {
+    "title": "Datenanbieter",
+    "description": "Optimieren Sie die Datenbeschaffung auf DataProvider. Die Synup-Integration gewährleistet genaue Geschäftsinformationen für eine erhöhte Online-Wirkung.",
+    "canonical": "https://www.synup.com/de/integrations/datenanbieter",
+    "ogImage": null
+  }
+}

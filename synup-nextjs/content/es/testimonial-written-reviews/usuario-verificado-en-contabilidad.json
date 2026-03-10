@@ -1,0 +1,26 @@
+{
+  "slug": "verified-user-in-accounting",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Usuario verificado en contabilidad",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cb9111fb976d0688718",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:53 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:53 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«Fácil, amable»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">- Podemos unificar las ubicaciones</p><p id=\"\">- Configura todas las fotos</p><p id=\"\">- Generar reseñas</p><p id=\"\">- Cada franquicia puede configurar su información</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">- La página debería ser más amigable</p><p id=\"\">- A veces genera pocos errores</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Recomendaciones para otras personas que estén considerando la posibilidad de usar Synup:</strong></p><p id=\"\">Sé paciente</p><p id=\"\">Organízate en todos los sitios</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">- Unifica la información de nuestras franquicias</p><p id=\"\">- Reseñas</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Pequeñas empresas (50 o menos EMP.)</p>",
+  "seo": {
+    "title": "Usuario verificado en contabilidad",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/usuario-verificado-en-contabilidad",
+    "ogImage": null
+  }
+}

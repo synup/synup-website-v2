@@ -1,0 +1,31 @@
+{
+  "slug": "cleveland-com",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Cleveland.com",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf27037abb996e153444",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:03 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:03 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf27037abb996e153432_6531309766087e0eb48ea136_Cleveland.com.svg",
+  "title_tag": "__POSSIBLE_UNTRANSLATED__Manage Your Business Information on Cleveland.com with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "__POSSIBLE_UNTRANSLATED__<h1 id=\"\">Cleveland.com + Synup</h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on Cleveland.com with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\">What is Cleveland.com?</h2><p id=\"\">Cleveland.com is a popular news and information website that primarily covers news, sports, entertainment, and community events in the Cleveland, Ohio area. It serves as a valuable resource for both residents and those interested in staying updated on developments in the region.</p><h2 id=\"\">Why Cleveland.com + Synup?</h2><ul id=\"\"><li id=\"\">Complete Control Over Listings: With the ability to manage your business listings on Cleveland.com, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\">Broaden Your Reach: Adding your business to Cleveland.com through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\">Accurate Business Information: Enhance trust and credibility by publishing accurate information on Cleveland.com.</li><li id=\"\">Customer Engagement: View and respond back to reviews on Cleveland.com, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ul><h2 id=\"\">How to integrate Cleveland.com + Synup?</h2><p id=\"\">The Cleveland.com integration is available to all Synup listings plan subscribers. To view &amp; manage the Cleveland.com integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Cleveland.com logo to manage the Synup + Cleveland.com integration and associated settings.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "red",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2342105abf85e3b904_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).png",
+  "integration_summary": "cleveland.com is the premier news and information website.",
+  "seo": {
+    "title": "Cleveland.com",
+    "description": "__POSSIBLE_UNTRANSLATED__Optimize your presence on Cleveland.com. Synup integration ensures accurate business data for unmatched online visibility.",
+    "canonical": "https://www.synup.com/de/integrations/clevelandcom",
+    "ogImage": null
+  }
+}

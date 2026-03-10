@@ -1,0 +1,31 @@
+{
+  "slug": "penn-live",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Penn en direct",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6a53d79c37dc177d21",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:58 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:58 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf313074eeb6fd91e5b7_65312c5dc90fa142a498c029_penlive.com.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Pennlive avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Penn Live + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Penn Live grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que Penn Live&nbsp;?</h2><p id=\"\">Penn Live est une source bien établie d'actualités et d'informations en Pennsylvanie, offrant une couverture complète des événements locaux et nationaux, de la politique, des sports, etc. Il constitue une ressource essentielle pour les résidents et les personnes intéressées par l'actualité liée à la Pennsylvanie.</p><h2 id=\"\">Pourquoi Penn Live + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Contrôle total des annonces&nbsp;:</strong> Grâce à la possibilité de gérer les listes de vos entreprises sur Penn Live, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\"><strong id=\"\">Élargissez votre portée&nbsp;:</strong> L'ajout de votre entreprise à Penn Live via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\"><strong id=\"\">Informations commerciales précises&nbsp;:</strong> Renforcez la confiance et la crédibilité en publiant des informations précises sur Penn Live.</li><li id=\"\"><strong id=\"\">Engagement des clients&nbsp;:</strong> Consultez et répondez aux avis sur Penn Live, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Penn Live + Synup&nbsp;?</h2><p id=\"\">L'intégration Penn Live est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration de Penn Live, procédez comme suit&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Penn Live pour gérer l'intégration Synup + Penn Live et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#ea0b8c",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2abe431e2855409f32_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).webp",
+  "integration_summary": "Penn Live propose des solutions d'actualités et de publicité numérique aux consommateurs et aux entreprises.",
+  "seo": {
+    "title": "Penn en direct",
+    "description": "Optimisez votre présence sur PennLive. L'intégration de Synup garantit des données commerciales précises pour une visibilité en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/penn-en-direct",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "recurly",
+  "locale": "es",
+  "collectionType": "competitor-sections",
+  "name": "Recurly",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "695b7a4f485eaa2d2f89b0ac",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Jan 05 2026 08:46:07 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Jan 05 2026 08:52:15 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Jan 05 2026 09:01:16 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "​Category: Enterprise Subscription Management",
+  "description": "__POSSIBLE_UNTRANSLATED__<h2><strong>What Recurly Does</strong></h2><p>If your agency is processing millions in recurring revenue and has complex \"usage-based\" billing (like charging per lead or per ad spend), Recurly is the enterprise standard. ​Recurly is a \"billing engine.\" It doesn't care about your project management or your SEO rankings. It cares about ensuring that every subscription is captured, billed, and collected with zero errors.</p>Source: Recurly<h2><strong>​Key Features</strong></h2><p>🏆 <strong>Machine Learning Revenue Optimization:</strong> Uses AI to determine the best time to retry a failed credit card based on the bank’s history.</p><p>​🏆 <strong>Complex Plan Modeling:</strong> Want to offer a \"Buy 10 locations, get 2 free\" discount that expires after 6 months? Recurly handles that easily.</p><p>​🏆 <strong>Revenue Recognition:</strong> Automated accounting that complies with GAAP standards, essential for agencies looking to be acquired.</p><h2><strong>​Benefits of Recurly</strong></h2><p>​It is built for \"subscription nerds.\" If you are running a \"Productized Service\" agency where hundreds of clients sign up via a checkout page, Recurly’s ability to prevent churn is key for growing agencies.</p><h2><strong>​Pricing</strong></h2><p>Recurly offers custom, scalable pricing across various payment structures.&nbsp;</p><h2><strong>​Pros</strong></h2><p>​✅ The gold standard for churn reduction and payment retries.</p><p>✅ Extremely scalable for high-volume agencies.</p><h2><strong>​Cons</strong></h2><p>​🚫 Very expensive for mid-sized agencies.</p><p>🚫 No built-in CRM or project management; it’s <em>just</em> billing.</p><p>‍</p>",
+  "what_people_say": "<h3><strong>What Customers Say</strong></h3><p><em>​\"Recurly simplifies billing and subscription management, letting them easily track payments, manage accounts, and customize subscription plans.\"</em></p><p>– Review collected by and hosted on G2.com.</p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Recurly",
+    "description": "__POSSIBLE_UNTRANSLATED__<h2><strong>What Recurly Does</strong></h2><p>If your agency is processing millions in recurring revenue and has complex \"usage-based\" billing (like charging per lead or per ad spend), Recurly is the enterprise standard. ​Recurly is a \"billing engine.\" It doesn't care about your project management or your SEO rankings. It cares about ensuring that every subscription is captured, billed, and collected with zero errors.</p>Source: Recurly<h2><strong>​Key Features</strong></h2><p>🏆 <strong>Machine Learning Revenue Optimization:</strong> Uses AI to determine the best time to retry a failed credit card based on the bank’s history.</p><p>​🏆 <strong>Complex Plan Modeling:</strong> Want to offer a \"Buy 10 locations, get 2 free\" discount that expires after 6 months? Recurly handles that easily.</p><p>​🏆 <strong>Revenue Recognition:</strong> Automated accounting that complies with GAAP standards, essential for agencies looking to be acquired.</p><h2><strong>​Benefits of Recurly</strong></h2><p>​It is built for \"subscription nerds.\" If you are running a \"Productized Service\" agency where hundreds of clients sign up via a checkout page, Recurly’s ability to prevent churn is key for growing agencies.</p><h2><strong>​Pricing</strong></h2><p>Recurly offers custom, scalable pricing across various payment structures.&nbsp;</p><h2><strong>​Pros</strong></h2><p>​✅ The gold standard for churn reduction and payment retries.</p><p>✅ Extremely scalable for high-volume agencies.</p><h2><strong>​Cons</strong></h2><p>​🚫 Very expensive for mid-sized agencies.</p><p>🚫 No built-in CRM or project management; it’s <em>just</em> billing.</p><p>‍</p>",
+    "canonical": "https://www.synup.com/es/competitor-sections/recurly",
+    "ogImage": null
+  }
+}

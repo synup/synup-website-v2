@@ -1,0 +1,22 @@
+{
+  "slug": "goodwill",
+  "locale": "es",
+  "collectionType": "local-listings-clients",
+  "name": "Buena voluntad",
+  "collection_id": "6891dfa5ae2c74373e72307c",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75de97aa3b9b423ef0303",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:56:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:56:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "clients_logos": null,
+  "list_of_number": "1.0",
+  "seo": {
+    "title": "Buena voluntad",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/local-listings-clients/buena-voluntad",
+    "ogImage": null
+  }
+}

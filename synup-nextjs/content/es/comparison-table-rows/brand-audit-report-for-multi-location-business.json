@@ -1,0 +1,28 @@
+{
+  "slug": "brand-audit-report-for-multi-location-business",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Informe de auditoría de marca para empresas con múltiples ubicaciones",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0ca48fd88620b26bf5",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:36 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:36 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "14.0",
+  "select_pages": "synup-vs-yext; birdeye-alternative; chatmeter-alternative; soci-alternative; uberall-alternative; vendasta-alternative; local-clarity-alternative; brightlocal-alternative; thryv-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; review-trackers-alternative; surefire-local-alternative; rio-seo-alternative; pinmeto-alternative; singleinterface-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; dbaplatform-alternative; advicelocal-alternative; synup-vs-digitalmass; synup-vs-experience-com; synup-vs-location-bank; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews; synup-vs-gmbapi; promanage-alternative; zoho-publish-alternative",
+  "tabel_category": "Informe de auditoría de marca para empresas con múltiples ubicaciones",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Informe de auditoría de marca para empresas con múltiples ubicaciones",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/brand-audit-report-for-multi-location-business",
+    "ogImage": null
+  }
+}

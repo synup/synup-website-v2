@@ -1,0 +1,28 @@
+{
+  "slug": "review-monitoring",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Suivi des révisions",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61553394d62c1c9df1c45",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:59 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "reviews",
+  "list_order": "17.0",
+  "select_pages": "synup-vs-yext; birdeye-alternative; uberall-alternative; chatmeter-alternative; brightlocal-alternative; soci-alternative; vendasta-alternative; thryv-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; review-trackers-alternative; surefire-local-alternative; pinmeto-alternative; rio-seo-alternative; singleinterface-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; dbaplatform-alternative; synup-vs-digitalmass; synup-vs-experience-com; synup-vs-location-bank; synup-vs-localpanda-ai; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-whitespark; synup-vs-reviewgain; synup-vs-get-more-reviews; synup-vs-gmbapi; promanage-alternative; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Suivi des révisions",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Suivi des révisions",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/review-monitoring",
+    "ogImage": null
+  }
+}

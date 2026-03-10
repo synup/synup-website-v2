@@ -1,0 +1,21 @@
+{
+  "slug": "posting",
+  "locale": "es",
+  "collectionType": "compare-table-categories",
+  "name": "Publicando",
+  "collection_id": "6891d90ccbde722a4aadf5d0",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da50721189e7722eff66",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:47:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:47:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "category_icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4c810ccd1ef9e755d9acd_64f6d0cc2d68987974e3c5c7_Posting%2520icon%2520(1).svg",
+  "seo": {
+    "title": "Publicando",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/compare-table-categories/publicando",
+    "ogImage": null
+  }
+}

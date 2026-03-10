@@ -1,0 +1,26 @@
+{
+  "slug": "online-review-calculator",
+  "locale": "fr",
+  "collectionType": "tools",
+  "name": "Calculateur de commentaires en ligne",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6066ea406c045dad16f97",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:31:26 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:31:26 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4b7e110e65379ae341a8b_666feb008127aed43905edfa_Untitled%2520design%2520(1).svg",
+  "description": "<p id=\"\">Découvrez le nombre de nouveaux avis à générer pour obtenir la réputation souhaitée</p>",
+  "description_short": "Découvrez le nombre de nouveaux avis à générer pour obtenir la réputation souhaitée",
+  "link": "https://www.synup.com/get-reviews",
+  "order": "6.0",
+  "button_text": "Calculez maintenant",
+  "seo": {
+    "title": "Calculateur de commentaires en ligne",
+    "description": "<p id=\"\">Découvrez le nombre de nouveaux avis à générer pour obtenir la réputation souhaitée</p>",
+    "canonical": "https://www.synup.com/fr/tools/calculateur-de-commentaires-en-ligne",
+    "ogImage": null
+  }
+}

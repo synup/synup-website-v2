@@ -1,0 +1,26 @@
+{
+  "slug": "review-responses",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Review Responses",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68cd1aed04cd21dee47ffa22",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Sep 19 2025 08:57:17 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Sep 19 2025 08:57:17 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Sep 19 2025 08:57:17 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "agency-management",
+  "list_order": null,
+  "select_pages": "gohighlevel-alternative",
+  "seo": {
+    "title": "Review Responses",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/review-responses",
+    "ogImage": null
+  }
+}

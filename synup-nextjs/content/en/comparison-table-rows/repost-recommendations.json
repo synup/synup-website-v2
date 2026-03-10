@@ -1,0 +1,27 @@
+{
+  "slug": "repost-recommendations",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Repost Recommendations",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db717b7244e28943714d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "ai-posts-ideas",
+  "list_order": "25.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; sprout-social-alternative; buffer-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Repost Recommendations",
+  "seo": {
+    "title": "Repost Recommendations",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/repost-recommendations",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "bulk-verification-support",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Unterstützung für die Massenüberprüfung",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c77bc4c012e63912d3a6",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "8.0",
+  "select_pages": "synup-vs-yext; birdeye-alternative; local-clarity-alternative; chatmeter-alternative; brightlocal-alternative; soci-alternative; thryv-alternative; vendasta-alternative; moz-local-alternative; widewail-alternative; review-trackers-alternative; surefire-local-alternative; pinmeto-alternative; rio-seo-alternative; singleinterface-alternative; sproutloud-alternative; turbify-alternative; advicelocal-alternative; synup-vs-digitalmass; synup-vs-experience-com; synup-vs-location-bank; synup-vs-localpanda-ai; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews; synup-vs-gmbapi; promanage-alternative; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Unterstützung für die Massenüberprüfung",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Unterstützung für die Massenüberprüfung",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/bulk-verification-support",
+    "ogImage": null
+  }
+}

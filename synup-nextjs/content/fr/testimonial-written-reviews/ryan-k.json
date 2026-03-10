@@ -1,0 +1,26 @@
+{
+  "slug": "ryan-k",
+  "locale": "fr",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Ryan K.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60541de3e3298b4cec610",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:26:25 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:26:25 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab61fea51edc2c81133_65effa9c4cc2c6080cff5974_g2-5-star.webp",
+  "one_line_review": "« Excellent produit, service exceptionnel »",
+  "detailed_review": "<p id=\"\"><strong id=\"\">Qu'est-ce que tu préfères chez Synup&nbsp;?</strong></p><p id=\"\">Synup est une excellente plateforme qui nous permet d'améliorer nos efforts de marketing ainsi que ceux de nos clients. Ils fournissent également un excellent service, garantissant le succès de ceux qui utilisent leur plateforme.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Qu'est-ce que tu n'aimes pas chez Synup&nbsp;?</strong></p><p id=\"\">Il n'y a pas grand-chose à détester du point de vue du produit. Si je devais suggérer quelque chose, ce serait potentiellement de fournir des vidéos didactiques pour certaines fonctions. Quoi qu'il en soit, leurs employés sont doués pour nous présenter les nouvelles fonctionnalités.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Quels sont les problèmes résolus par Synup et en quoi cela vous est-il bénéfique&nbsp;?</strong></p><p id=\"\">Ils aident à résoudre la complexité du référencement et à le rendre accessible et facile à utiliser. Cela nous permet de réduire certains de nos engagements en termes de temps et de fournir à nos clients un excellent service.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab8082e7e5c2a2b537e_65f0587226c8883fb0f99b4c_G2-reviewer-14.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Directeur du marketing</p><p id=\"\">Petites entreprises (50 employés ou moins)</p>",
+  "seo": {
+    "title": "Ryan K.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonial-written-reviews/ryan-k",
+    "ogImage": null
+  }
+}

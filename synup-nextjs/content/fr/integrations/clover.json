@@ -1,0 +1,28 @@
+{
+  "slug": "clover",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Trèfle",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6df9751f25e05ee0fd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2d45d55f8067afd7c8_6548f36f082f4f52ad99a70e_Clover.svg",
+  "title_tag": "Intégrez Clover à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Trèfle + Synup</strong></h1><p id=\"\">Révolutionnez la gestion de vos avis clients en combinant les prouesses exceptionnelles de Clover en matière de traitement des paiements avec les fonctionnalités avancées d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que Clover&nbsp;?</h2><p id=\"\">Clover est une solution complète de traitement des paiements qui se distingue par ses configurations matérielles et logicielles de paiement personnalisables, ses transactions rationalisées et sa vaste gamme d'outils qui simplifient et améliorent l'expérience de paiement des entreprises et de leurs clients.</p><h2 id=\"\">Pourquoi choisir Clover + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Engagement de révision en temps réel&nbsp;:</strong> Exploitez la puissance du traitement rapide des paiements de Clover pour engager les clients avec des demandes d'évaluation immédiates, en capturant leur expérience avec fraîcheur et précision.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Informations intégrées sur les clients&nbsp;: </strong>Fusionnez de manière fluide les données de paiement détaillées de Clover avec les informations d'évaluation de Synup pour créer une compréhension unifiée et approfondie de la satisfaction des clients et des nuances d'interaction.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Acquisition automatique des avis&nbsp;:</strong> Intégrez des sollicitations d'avis automatisées dans les flux de paiement de Clover, afin de recueillir de manière cohérente et sans effort les précieux commentaires des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Interactions d'évaluation axées sur la personnalisation&nbsp;: </strong>Personnalisez les demandes d'évaluation et les communications pour les aligner sur les historiques de paiement et les interactions de chaque client, afin de favoriser une expérience d'évaluation plus personnalisée et plus pertinente.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Avancées commerciales stratégiques&nbsp;:</strong> Utilisez les informations combinées issues des données de paiement et des avis clients pour améliorer stratégiquement les offres commerciales, le service client et la satisfaction globale des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de travail opérationnel optimisé&nbsp;: </strong>Synchronisez en douceur les processus de gestion des avis au sein de l'infrastructure de paiement existante de Clover, en promouvant une approche efficace et cohérente pour recueillir et gérer les commentaires des clients.</li></ul><p id=\"\">En intégrant Clover à Synup, une approche révolutionnaire de la gestion des avis est mise en place, utilisant chaque interaction de paiement comme point de contact essentiel pour recueillir, analyser et exploiter les avis des clients afin d'améliorer la stratégie commerciale et d'améliorer la satisfaction des clients.</p><h2 id=\"\">Comment intégrer Clover + Synup&nbsp;?</h2><p id=\"\">L'intégration de Clover pour le traitement des paiements est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Traitement des paiements sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect Payment Gateway.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez Clover comme processeur de paiement.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte Clover.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du traitement des paiements.</li></ul><ul id=\"\"><li id=\"\">Acceptez les paiements via Clover.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Trèfle",
+    "description": "Révolutionnez la gestion des avis avec Clover + Synup : engagement en temps réel, informations, automatisation et interactions personnalisées pour une meilleure réussite commerciale.",
+    "canonical": "https://www.synup.com/fr/integrations/clover",
+    "ogImage": null
+  }
+}

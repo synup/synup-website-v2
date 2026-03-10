@@ -1,0 +1,28 @@
+{
+  "slug": "review-generation-via-sms-email-2",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Génération d'avis par SMS et e-mail",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6154be1b5b3f4e87a7ae0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:51 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:51 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "reviews",
+  "list_order": "19.0",
+  "select_pages": "synup-vs-yext; chatmeter-alternative; local-clarity-alternative; soci-alternative; thryv-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; pinmeto-alternative; singleinterface-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; advicelocal-alternative; synup-vs-digitalmass; synup-vs-localpanda-ai; synup-vs-reviews-on-my-website; synup-vs-gmbapi; zoho-publish-alternative",
+  "tabel_category": "Génération d'avis par SMS et e-mail",
+  "alt_select_pages": "best-yext-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Génération d'avis par SMS et e-mail",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/review-generation-via-sms-email-2",
+    "ogImage": null
+  }
+}

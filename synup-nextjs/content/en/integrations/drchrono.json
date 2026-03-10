@@ -1,0 +1,28 @@
+{
+  "slug": "drchrono",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "DrChrono",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238c482669a86baccd72",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:32 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:32 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238c482669a86baccd6d_6761253f8eecee613aa329af_20241217T0715-efffdbaf-ad94-462d-9dd5-fdf6dce8d280.webp",
+  "title_tag": "Manage Your Business Information on DrChrono with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">DrChrono + Synup</strong></h1><p id=\"\">Maximize your healthcare practice’s review management and acquisition by seamlessly integrating DrChrono with Synup’s innovative platform.</p><h2 id=\"\">What is DrChrono?</h2><p id=\"\">DrChrono is a specialized healthcare EHR (Electronic Health Records) and practice management solution. It revolutionizes patient care and practice management by offering customizable medical templates, billing software, and patient scheduling in an integrated, cloud-based platform.</p><h2 id=\"\">Why DrChrono + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Patient-Centered Reviews:</strong> Simplify the review acquisition process from patients, integrating feedback seamlessly into the patient’s health records for a more comprehensive view of patient satisfaction.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Streamlined Operations:</strong> Enhance operational efficiencies by automating the collection of patient reviews and feedback, reducing administrative burdens and enhancing focus on patient care.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Informed Patient Interaction:</strong> Utilize patient reviews and feedback to foster enriched patient interactions and improve the quality of care and services offered.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Customizable Integration:</strong> Adapt the integration to meet the unique needs of your healthcare practice, ensuring that review management aligns perfectly with existing workflows.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Enhanced Online Presence: </strong>Improve the online visibility and reputation of your practice through efficient and effective management of patient reviews and feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Decision-Making:</strong> Leverage the combined data from DrChrono and Synup to make strategic improvements in your healthcare service offerings, patient interaction strategies, and overall patient experience.</li></ul><p id=\"\">By integrating DrChrono with Synup, healthcare practices can unlock improved pathways for managing and acquiring patient reviews, leading to enriched patient interactions, enhanced online presence, and improved operational efficiency.</p><h2 id=\"\">How to integrate DrChrono + Synup?</h2><p id=\"\">DrChrono integration for healthcare management is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Healthcare Management tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Healthcare Software Button.</li></ul><ul id=\"\"><li id=\"\">Select DrChrono as your healthcare software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your DrChrono account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up healthcare management.</li></ul><ul id=\"\"><li id=\"\">Manage healthcare processes using DrChrono.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "DrChrono",
+    "description": "Enhance patient care with DrChrono + Synup integration: streamline operations, boost online presence, and make informed decisions.",
+    "canonical": "https://www.synup.com/integrations/drchrono",
+    "ogImage": null
+  }
+}

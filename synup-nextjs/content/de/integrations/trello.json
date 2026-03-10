@@ -1,0 +1,28 @@
+{
+  "slug": "trello",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Trello",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf35ddae4997d082c50e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:17 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:17 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf35ddae4997d082c509_6548f348e506a85cd679050e_trello.svg",
+  "title_tag": "Integrieren Sie Trello mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Trello + Synchronisation</strong></h1><p id=\"\">Verändern Sie Ihren Ansatz für das Management von Kundenrezensionen, indem Sie die intuitive Projektmanagement-Plattform von Trello in die fortschrittlichen Lösungen für die Erfassung und Verwaltung von Bewertungen von Synup integrieren.</p><h2 id=\"\">Was ist Trello?</h2><p id=\"\">Trello ist ein benutzerfreundliches Projektmanagement-Tool, das Boards, Listen und Karten verwendet, um Projekte und Aufgaben zu organisieren und zu priorisieren und so einen visuellen und kollaborativen Arbeitsablauf zu ermöglichen, der die Produktivität und die Synergie im Team verbessert.</p><h2 id=\"\">Warum Trello + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Visuelle Überprüfungsplanung: </strong>Nutze die visuellen Boards und Karten von Trello, um Strategien und Workflows für die Akquise von Bewertungen zu entwerfen und so für Klarheit und Kohärenz bei der Ausführung zu sorgen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Dynamische Prüfungsausschüsse: </strong>Erstelle spezielle Trello-Boards für die Verwaltung und Nachverfolgung von Kundenrezensionen und ermögliche so einen strukturierten und organisierten Ansatz für das Bewertungsmanagement.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatisierte Bewertungskarten:</strong> Nutze die Automatisierungsfunktionen von Trello, um Bewertungsaufgaben effizient zu generieren und zu verwalten und so zeitnahe und systematische Überprüfungsanfragen und Folgemaßnahmen sicherzustellen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Kollaborative Bearbeitung von Bewertungen: </strong>Fördern Sie eine kollaborative Umgebung, in der sich Teammitglieder direkt in den interaktiven Foren von Trello austauschen, diskutieren und Strategien für die Überprüfung von Inhalten entwickeln können.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Maßgeschneiderte Review-Workflows: </strong>Passen Sie Trello-Karten und -Listen an die spezifischen Nuancen jeder Bewertung an und ermöglichen Sie so ein personalisiertes und effektives Bewertungsmanagement.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Umsetzbare Erkenntnisse aus Bewertungen:</strong> Stellen Sie durch die Integration mit Synup sicher, dass die Erkenntnisse und Aktionen von Bewertungen im anpassbaren Arbeitsbereich von Trello klar visualisiert und umgesetzt werden.</li></ul><p id=\"\">Die Kombination von Trello und Synup eröffnet eine lebendige und interaktive Arena, in der die Visualisierung, Organisation und Zusammenarbeit der Aufgaben und Strategien des Bewertungsmanagements deutlich verbessert werden, was zu einem effektiveren und kohärenteren Prozess zur Erfassung von Bewertungen führt.</p><h2 id=\"\">Wie integriere ich Trello + Synup?</h2><p id=\"\">Die Trello-Integration zur Erfassung von Bewertungen steht allen Synup-Abonnenten zur Verfügung. Um die Integration anzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Rufe auf der Synup-Konsole den Tab „Akquisition überprüfen“ auf.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf Connect CRM oder App Button.</li></ul><ul id=\"\"><li id=\"\">Wähle den Ordner oder Ort aus, mit dem du Trello verbinden möchtest.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr CRM.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung von CRM.</li></ul><ul id=\"\"><li id=\"\">Erstellen Sie Review-Akquisitionen mithilfe von Kontakten aus CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Trello",
+    "description": "Verbessern Sie Ihr Bewertungsmanagement mit der Trello + Synup-Integration. Visualisieren, organisieren und arbeiten Sie zusammen, um effektive Bewertungen zu erzielen. Probiere es jetzt aus!",
+    "canonical": "https://www.synup.com/de/integrations/trello",
+    "ogImage": null
+  }
+}

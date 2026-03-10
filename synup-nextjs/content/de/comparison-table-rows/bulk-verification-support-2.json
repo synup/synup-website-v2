@@ -1,0 +1,27 @@
+{
+  "slug": "bulk-verification-support-2",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Unterstützung für die Massenüberprüfung",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c77bd81bc13629f8aa7c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "listings-management",
+  "list_order": "8.0",
+  "select_pages": "uberall-alternative; social-places-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; seosamba-alternative; dbaplatform-alternative; synup-vs-whitespark",
+  "tabel_category": "Unterstützung für die Massenüberprüfung",
+  "seo": {
+    "title": "Unterstützung für die Massenüberprüfung",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/bulk-verification-support-2",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "lincare",
+  "locale": "es",
+  "collectionType": "local-listings-clients",
+  "name": "Lincare",
+  "collection_id": "6891dfa5ae2c74373e72307c",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75de9ccf9a59e57682982",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:56:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:56:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "clients_logos": null,
+  "list_of_number": "3.0",
+  "seo": {
+    "title": "Lincare",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/local-listings-clients/lincare",
+    "ogImage": null
+  }
+}

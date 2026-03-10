@@ -1,0 +1,29 @@
+{
+  "slug": "create-and-use-document-templates-to-save-time",
+  "locale": "en",
+  "collectionType": "use-cases",
+  "name": "How To Create and Use Document Templates To Save Time",
+  "collection_id": "6890f98653f98c63533646f5",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68adf98ab5ce25d944845c68",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 26 2025 18:14:34 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 26 2025 18:45:07 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Aug 28 2025 15:38:15 GMT+0000 (Coordinated Universal Time)",
+  "thumbnail_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68adfb58abca0f1512dd7c57_Manage%20all%20your%20Agency%20Documents%20in%20one%20place%20(1).png",
+  "body_para": "<p id=\"\">Agencies work with a lot of repeat documents. Proposals, contracts, onboarding forms, and monthly reports are just a few of them. Starting from scratch every single time is not just tiring; it eats up hours you could spend elsewhere. Synup OS helps you avoid that by giving you easy access to templates that are ready to go when you are.</p><h3 id=\"\"><strong id=\"\">Start with a Template, Not a Blank Page</strong></h3><p id=\"\">Inside the Templates section, you’ll find a range of pre-built documents designed for everyday agency needs. Whether it's a client proposal or a sales report, you can pick a template, make quick edits, and send it out in minutes.</p><h3 id=\"\"><strong id=\"\">Save Your Own Templates for Reuse</strong></h3><p id=\"\">If your agency uses a specific format or layout for contracts or onboarding docs, you can save them as templates. No need to rebuild anything. Your team can use the same version across clients, which keeps everything consistent and makes your work look more polished.</p><h3 id=\"\"><strong id=\"\">Attach Templates to Your Workflows</strong></h3><p id=\"\">You can go one step further and link templates directly to specific workflows. For example, if a new client signs up, your onboarding template is already in place and ready to go. No one needs to dig around or ask where things are. Everything is right there when you need it.</p><h3 id=\"\"><strong id=\"\">Save Time and Stay Consistent</strong></h3><p id=\"\">Templates help your team move faster and avoid doing the same work again and again. It keeps your documents clean, your process clear, and your output consistent across every client. Synup OS makes it easy to manage all of this from one place.</p><h2 id=\"\"><strong id=\"\">How to Create and Use Document Templates in Synup OS</strong></h2><p id=\"\">Setting up templates inside Synup OS is simple and saves your team a lot of back-and-forth. Here's how to do it:</p><h3 id=\"\"><strong id=\"\">Step 1: Head to the Templates Section</strong></h3><p id=\"\">Click on the ‘Templates’ tab under Documents. This is where you’ll find all existing templates and where you can create your own.</p><p>‍</p><h3 id=\"\"><strong id=\"\">Step 2: Choose a Template or Start Fresh</strong></h3><p id=\"\">You can pick from a library of ready-made templates for common use cases like proposals, contracts, and reports. Or, if you already have a document format your agency prefers, you can upload or build it from scratch.</p><h3 id=\"\"><strong id=\"\">Step 3: Customize It to Fit Your Agency’s Needs</strong></h3><p id=\"\">Click on ‘New Template’ and Edit the content, structure, and formatting to match your tone, branding, and services. You can add placeholders for client names, dates, and project-specific details so it’s easy to reuse later.</p><p>‍</p><h3 id=\"\"><strong id=\"\">Step 4: Save It as a Template</strong></h3><p id=\"\">Once your document is ready, save it as a template. Give it a clear name so your team can easily find and use it when needed.</p><p>‍</p><h3 id=\"\"><strong id=\"\">Step 5: Reuse Across Clients and Workflows</strong></h3><p id=\"\">The next time you need to send a proposal or share a report, just select the saved template, fill in the details, and send it out. You can also link templates to specific steps in your workflows, so they automatically show up when needed.</p><h3 id=\"\"><strong id=\"\">Step 6: Keep Your Templates Updated</strong></h3><p id=\"\">If your process or services change, you can quickly update the existing template. Everyone on your team will have access to the latest version, which helps avoid outdated info or inconsistent formatting.</p><h3 id=\"\"><strong id=\"\">In Conclusion</strong></h3><p id=\"\">Templates take the repetitive work out of running an agency. Instead of starting from scratch every time, your team can focus on the actual content and client experience. With Synup OS, creating, saving, and reusing templates becomes second nature. It’s a simple way to stay consistent, move faster, and free up your team’s time to focus on what matters.</p><p>‍</p><p>‍</p>",
+  "use_case_show_on_product_menu": false,
+  "use_case_summary": "Learn how to create and use document templates in Synup OS to cut down repetitive work, save time, and keep your agency workflows consistent.",
+  "use_case_categories": "client-management",
+  "use_case_category_name": "Client Management",
+  "use_case_goal_summary": "__MISSING__",
+  "cta_label": "Try Synup OS now!",
+  "cta_link": "https://www.synup.com/en/book-a-demo",
+  "seo": {
+    "title": "How To Create and Use Document Templates To Save Time",
+    "description": "Learn how to create and use document templates in Synup OS to cut down repetitive work, save time, and keep your agency workflows consistent.",
+    "canonical": "https://www.synup.com/use-cases/how-to-create-and-use-document-templates-to-save-time",
+    "ogImage": null
+  }
+}

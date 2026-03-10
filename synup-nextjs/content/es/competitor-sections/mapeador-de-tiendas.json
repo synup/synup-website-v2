@@ -1,0 +1,29 @@
+{
+  "slug": "storemapper",
+  "locale": "es",
+  "collectionType": "competitor-sections",
+  "name": "Mapeador de tiendas",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7dc194e6b8ba02982a8d5",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:55:21 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:55:21 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "Ideal para: autónomos, grandes empresas, empresas medianas, pequeñas empresas",
+  "description": "<h2 id=\"\">¿Qué hace Storemapper?</h2><p id=\"\">Storemapper ofrece widgets de localización de tiendas personalizables para marcas de comercio electrónico, productos financiados por Kickstarter y grandes minoristas. Estos widgets se integran perfectamente en los sitios web e incluyen temas de mapas personalizados, integración con Facebook y herramientas de análisis. <br></p><a href=\"https://storemapper.com/\" id=\"\"><strong id=\"\"><em id=\"\">Fuente: https://storemapper.com</em></strong></a><h2 id=\"\">Características principales</h2><p id=\"\">➡️ Integraciones con un solo clic</p><p id=\"\">➡️ Aplicación móvil</p><p id=\"\">➡️ Cargador masivo</p><p id=\"\">➡️ Geocrodificación automática</p><p id=\"\">➡️ Funciones de deduplicación</p><p id=\"\">➡️ Totalmente personalizable con CSS</p><p id=\"\">➡️ Análisis del localizador de tiendas</p><h2 id=\"\">Pros</h2><p id=\"\"><br>✅ Simplicidad y facilidad de diseño en el proceso de creación<br>✅ La facilidad de uso para agregar ubicaciones adicionales, capacidad de búsqueda y filtros de clientes</p><p id=\"\">✅ Disponible tanto en computadoras de escritorio como en teléfonos</p><p id=\"\">✅ Servicio de atención al cliente rápido</p><h2 id=\"\"><br>Contras</h2><p id=\"\">❌ Limitación en el número de imágenes y enlaces a sitios web<br>❌ No hay opción para conectarse a una base de datos SQL</p><p id=\"\">❌ Los mapas de Google no funcionan tan bien con direcciones internacionales</p><p id=\"\">❌ Personalizaciones mínimas disponibles<br><br></p><h3 id=\"\"><strong id=\"\"><em id=\"\">El «Micro», es decir, la variante base, tiene un precio de 24,99$ al mes</em></strong></h3>",
+  "what_people_say": "<p id=\"\">‍</p><h3 id=\"\">Qué dicen los clientes sobre Storemapper</h3><p id=\"\"><strong id=\"\">Me gusta</strong>: <em id=\"\">«La fácil integración, la interfaz de usuario personalizable y la modificación se pueden realizar fácilmente con solo una hoja de Excel, un servicio de atención al cliente rápido»</em></p><p id=\"\"><strong id=\"\">No le gusta: </strong><em id=\"\">«Limitación en la cantidad de imágenes y enlaces a sitios web, no hay opción para conectarse a una base de datos SQL, se desea un panel de análisis más detallado» </em></p><p id=\"\"><strong id=\"\"><em id=\"\">*Reseña obtenida y citada a través de G2*</em></strong></p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Mapeador de tiendas",
+    "description": "<h2 id=\"\">¿Qué hace Storemapper?</h2><p id=\"\">Storemapper ofrece widgets de localización de tiendas personalizables para marcas de comercio electrónico, productos financiados por Kickstarter y grandes minoristas. Estos widgets se integran perfectamente en los sitios web e incluyen temas de mapas personalizados, integración con Facebook y herramientas de análisis. <br></p><a href=\"https://storemapper.com/\" id=\"\"><strong id=\"\"><em id=\"\">Fuente: https://storemapper.com</em></strong></a><h2 id=\"\">Características principales</h2><p id=\"\">➡️ Integraciones con un solo clic</p><p id=\"\">➡️ Aplicación móvil</p><p id=\"\">➡️ Cargador masivo</p><p id=\"\">➡️ Geocrodificación automática</p><p id=\"\">➡️ Funciones de deduplicación</p><p id=\"\">➡️ Totalmente personalizable con CSS</p><p id=\"\">➡️ Análisis del localizador de tiendas</p><h2 id=\"\">Pros</h2><p id=\"\"><br>✅ Simplicidad y facilidad de diseño en el proceso de creación<br>✅ La facilidad de uso para agregar ubicaciones adicionales, capacidad de búsqueda y filtros de clientes</p><p id=\"\">✅ Disponible tanto en computadoras de escritorio como en teléfonos</p><p id=\"\">✅ Servicio de atención al cliente rápido</p><h2 id=\"\"><br>Contras</h2><p id=\"\">❌ Limitación en el número de imágenes y enlaces a sitios web<br>❌ No hay opción para conectarse a una base de datos SQL</p><p id=\"\">❌ Los mapas de Google no funcionan tan bien con direcciones internacionales</p><p id=\"\">❌ Personalizaciones mínimas disponibles<br><br></p><h3 id=\"\"><strong id=\"\"><em id=\"\">El «Micro», es decir, la variante base, tiene un precio de 24,99$ al mes</em></strong></h3>",
+    "canonical": "https://www.synup.com/es/competitor-sections/mapeador-de-tiendas",
+    "ogImage": null
+  }
+}

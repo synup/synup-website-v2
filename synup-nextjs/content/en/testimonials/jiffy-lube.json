@@ -1,0 +1,28 @@
+{
+  "slug": "jiffy-lube",
+  "locale": "en",
+  "collectionType": "testimonials",
+  "name": "Jiffy Lube",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891098d0556d3ea6135a0aa",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 19:27:09 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 19:27:09 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 19:33:51 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "Jiffy Lube",
+  "person_name": "Jennifer Friedman",
+  "designation": "Digital Marketing at Jiffy Lube",
+  "partner_description": "Jennifer Friedman, Digital Marketing",
+  "partner": "__MISSING__",
+  "partner_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891098d0556d3ea6135a007_676125a5c76539c4adbdf8b2_20241217T0717-8d8698bc-b6ed-4026-9be4-d67cf1a1a2c0.webp",
+  "partner_image": null,
+  "partner_testimonial": "<h5 id=\"\">There is no way we could manage all our store location data without Synup.</h5><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Jiffy Lube",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonials/jiffy-lube",
+    "ogImage": null
+  }
+}

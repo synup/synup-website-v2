@@ -1,0 +1,20 @@
+{
+  "slug": "sales-pipeline",
+  "locale": "en",
+  "collectionType": "use-case-categories",
+  "name": "Sales Pipeline",
+  "collection_id": "6890f993e6fd82fb4c3cb59b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68aea885ba5c83d8fa4a9a98",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 27 2025 06:41:09 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 27 2025 06:41:16 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Aug 28 2025 15:38:15 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Sales Pipeline",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/use-case-categories/sales-pipeline",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "unknown-user2",
+  "locale": "fr",
+  "collectionType": "testimonial-written-reviews",
+  "name": "utilisateur2 inconnu",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60546b86cef78a57cc8ff",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:26:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:26:30 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab61fea51edc2c81133_65effa9c4cc2c6080cff5974_g2-5-star.webp",
+  "one_line_review": "« SYNUP s'est surpassé pour développer des solutions pour toutes les intégrations personnalisées dont nous avions besoin. »",
+  "detailed_review": "<p id=\"\"><strong id=\"\">Qu'est-ce que tu préfères chez Synup&nbsp;?</strong></p><p id=\"\">L'équipe du SYNUP est extrêmement utile. Nous nous réunissons au moins une fois par semaine pour rester au fait de nos besoins en constante évolution. Mes chargés de clientèle font vraiment tout leur possible pour résoudre tous les problèmes qui surviennent.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Qu'est-ce que tu n'aimes pas chez Synup&nbsp;?</strong></p><p id=\"\">Franchement, je n'arrive à penser à rien. Je suis très satisfaite de ce fournisseur et heureuse qu'après avoir interrogé tant de personnes présentes dans cet espace, j'ai choisi SYNUP en tant que fournisseur pour l'inscription dans les annuaires et la présence sur les recherches locales.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Quels sont les problèmes résolus par Synup et en quoi cela vous est-il bénéfique&nbsp;?</strong></p><p id=\"\">Nous avons plus de 1 000 annonces auprès de SYNUP, et ce nombre change chaque semaine au fur et à mesure que nous entrons et sortons des sites. Maintenir la cohérence et l'exactitude des données est une entreprise de grande envergure et SYNUP s'en occupe pour nous. Ils ont également créé une intégration personnalisée pour permettre aux avis de circuler vers notre site Web. De plus, l'équipe du SYNUP est toujours disponible pour répondre à vos questions et vous aider à résoudre tout problème lié à la recherche.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": false,
+  "seo": {
+    "title": "utilisateur2 inconnu",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonial-written-reviews/utilisateur2-inconnu",
+    "ogImage": null
+  }
+}

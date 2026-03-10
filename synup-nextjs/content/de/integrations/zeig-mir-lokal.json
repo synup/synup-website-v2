@@ -1,0 +1,31 @@
+{
+  "slug": "show-me-local",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Zeig mir Lokal",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf3a2335183b059e9a38",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:22 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:22 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3a2335183b059e9a31_65312c988522ec135ab71d20_Show%2520Me%2520Local.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Showmelocal mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "australia; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Zeig mir Local + Synup</h1><p id=\"\"><strong id=\"\">Fügen Sie Brancheneinträge und Bewertungen auf Show Me Local hinzu, fordern Sie sie an und bearbeiten Sie sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup.</strong></p><h2 id=\"\">Was ist Show Me Local?</h2><p id=\"\">Show Me Local ist ein dynamischer Online-Verzeichnis- und Branchenlistendienst, mit dem Benutzer Informationen über Unternehmen und Dienstleistungen in ihrer Nähe finden können. Egal, ob Sie nach vertrauenswürdigen Empfehlungen oder spezifischen Geschäftsinformationen suchen, Show Me Local bietet wertvolle Tools, um mit lokalen Einrichtungen in Kontakt zu treten.</p><h2 id=\"\">Warum Show Me Local + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote:</strong> Mit der Möglichkeit, Ihre Brancheneinträge auf Show Me Local zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite:</strong> Wenn Sie Ihr Unternehmen über Synup zu Show Me Local hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\"><strong id=\"\">Genaue Geschäftsinformationen:</strong> Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf Show Me Local veröffentlichen.</li><li id=\"\"><strong id=\"\">Kundenbindung:</strong> Sehen Sie sich Bewertungen auf Show Me Local an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie ihr Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich Show Me Local + Synup?</h2><p id=\"\">Die Show Me Local-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. Um die Show Me Local-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das Show Me Local-Logo, um die Synup + Show Me Local-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "#0d0d0d",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2abe431e2855409f32_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).webp",
+  "integration_summary": "Fügen Sie Ihr Unternehmen auf Showmelocal hinzu.",
+  "seo": {
+    "title": "Zeig mir Lokal",
+    "description": "Maximieren Sie die Sichtbarkeit auf Show Me Local. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Präsenz und Kundenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/zeig-mir-lokal",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "smartsheet",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Smartsheet",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6ca3a6967f5a740f35",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:00 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:00 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf34bbe4a5a5f4d5213e_6548b5aebba4fa0fbdd49013_Smartsheet.svg",
+  "title_tag": "Intégrez Smartsheet à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Smartsheet + Synup</strong></h1><p id=\"\">Améliorez la gestion de vos avis clients en synchronisant la puissante plateforme d'exécution des travaux de Smartsheet avec l'expertise sophistiquée de Synup en matière d'acquisition et de gestion des avis.</p><h2 id=\"\">Qu'est-ce que Smartsheet&nbsp;?</h2><p id=\"\">Smartsheet est une plateforme innovante qui améliore la gestion du travail et l'automatisation. Il permet aux organisations de planifier, de capturer, de gérer, d'automatiser et d'analyser le travail de manière flexible et collaborative.</p><h2 id=\"\">Pourquoi choisir Smartsheet + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Acquisition d'examens planifiée de manière stratégique&nbsp;:</strong> Utilisez les capacités de planification de Smartsheet pour concevoir des stratégies complètes qui améliorent l'efficacité de la sollicitation et de la gestion des avis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Processus de révision automatisés&nbsp;: </strong>Exploitez les fonctionnalités d'automatisation de Smartsheet pour optimiser le calendrier et la cohérence des demandes d'évaluation, améliorant ainsi la fiabilité et la qualité des commentaires des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimisation des révisions collaboratives&nbsp;: </strong>Tirez parti des outils de collaboration de Smartsheet pour permettre à l'ensemble de l'équipe de participer à l'analyse, à l'interprétation et à la planification des actions relatives aux avis clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de travail de révision personnalisables&nbsp;: </strong>Adaptez et personnalisez les flux de travail de gestion et de sollicitation d'avis dans Smartsheet, afin de garantir l'alignement sur les parcours clients et les objectifs commerciaux uniques.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Informations sur les évaluations basées sur les données&nbsp;:</strong> Intégrez les informations relatives aux avis de Synup dans Smartsheet, permettant ainsi une approche plus analytique et axée sur les données pour élaborer des stratégies et optimiser les processus d'acquisition des avis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Coordination efficace des examens&nbsp;: </strong>Utilisez les fonctionnalités organisationnelles de Smartsheet pour rationaliser la coordination, l'attribution et le suivi des tâches et responsabilités liées à la révision.</li></ul><p id=\"\">L'intégration de Smartsheet à Synup dévoile un paradigme amélioré de gestion des avis, dans lequel la planification stratégique, l'automatisation, la collaboration et les informations basées sur les données sont harmonisées afin d'optimiser les processus d'acquisition et d'utilisation des avis clients.</p><h2 id=\"\">Comment intégrer Smartsheet + Synup&nbsp;?</h2><p id=\"\">L'intégration de Smartsheet pour l'acquisition des avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Smartsheet.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Smartsheet",
+    "description": "Améliorez les avis clients avec Smartsheet + Synup : planification stratégique, automatisation, collaboration et informations basées sur les données pour la gestion des avis.",
+    "canonical": "https://www.synup.com/fr/integrations/smartsheet",
+    "ogImage": null
+  }
+}

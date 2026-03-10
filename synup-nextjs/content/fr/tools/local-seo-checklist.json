@@ -1,0 +1,26 @@
+{
+  "slug": "local-seo-checklist",
+  "locale": "fr",
+  "collectionType": "tools",
+  "name": "Liste de contrôle du référencement local",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6066eaa1391f62105dc70",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:31:26 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:31:26 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4b7e12335183b059be6ac_650a9f945fd415a185275b66_Localseochecklist.webp",
+  "description": "<p id=\"\">Suivez vos progrès en matière de référencement local grâce à notre liste de contrôle pratique.</p>",
+  "description_short": "Suivez vos progrès en matière de référencement local grâce à notre liste de contrôle pratique.",
+  "link": "https://www.localseochecklist.org/",
+  "order": "1.0",
+  "button_text": "Libérez votre potentiel SEO",
+  "seo": {
+    "title": "Liste de contrôle du référencement local",
+    "description": "<p id=\"\">Suivez vos progrès en matière de référencement local grâce à notre liste de contrôle pratique.</p>",
+    "canonical": "https://www.synup.com/fr/tools/local-seo-checklist",
+    "ogImage": null
+  }
+}

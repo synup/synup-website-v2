@@ -1,0 +1,22 @@
+{
+  "slug": "chkd",
+  "locale": "de",
+  "collectionType": "customer-logos",
+  "name": "CHKD",
+  "collection_id": "6891de2480f47d59c875ffe0",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4cd8443de7918c40110be",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 19:16:20 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 19:16:20 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4cd8443de7918c40110ba_651bce4ecf9529aabcae909a_chkd-meltwater-logo-removebg.png",
+  "list_of_number": "3.0",
+  "seo": {
+    "title": "CHKD",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/customer-logos/chkd",
+    "ogImage": null
+  }
+}

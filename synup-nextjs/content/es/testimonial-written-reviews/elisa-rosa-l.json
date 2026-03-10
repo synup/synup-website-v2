@@ -1,0 +1,26 @@
+{
+  "slug": "elisa-rose-l",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Elisa Rosa L.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cb56afd0a8ed175194a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:49 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:49 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«Excelente herramienta de sindicación de directorios y generación de reseñas»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">Synup es muy fácil de usar y muy eficaz a la hora de solicitar y actualizar las listas de directorios de las empresas. Las solicitudes de reseñas también son fáciles de enviar y responder directamente desde el mismo panel de control.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">A veces, la función de solicitud de revisión puede tener un problema técnico, pero normalmente es bastante fácil de entender. La sindicación de directorios es muy sencilla, intuitiva y rápida.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">gestión de directorios para SEO, gestión de reputación y generación de reseñas.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Vicepresidente y miembro fundador</p><p id=\"\">Pequeñas empresas (50 o menos EMP.)</p>",
+  "seo": {
+    "title": "Elisa Rosa L.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/elisa-rosa-l",
+    "ogImage": null
+  }
+}

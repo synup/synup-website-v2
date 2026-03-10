@@ -1,0 +1,28 @@
+{
+  "slug": "basecamp",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Camp de base",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c5ce3d124961cb78ad4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf24ab990f4de3e45f4a_6548a84429d7c8ad6c725d0f_Basecamp.svg",
+  "title_tag": "Intégrez Basecamp à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Basecamp + Synup</strong></h1><p id=\"\">Embarquez pour une transformation de la gestion des avis clients en associant les capacités de gestion de projet inégalées de Basecamp à la solide expertise de Synup en matière d'acquisition et de gestion des avis.</p><h2 id=\"\">Qu'est-ce que Basecamp&nbsp;?</h2><p id=\"\">Basecamp est un outil holistique de gestion de projet et de collaboration d'équipe qui rationalise les projets, les tâches et les communications, garantissant ainsi aux équipes de travailler de manière efficiente et efficace pour atteindre leurs objectifs.</p><h2 id=\"\">Pourquoi Basecamp + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Sollicitations d'évaluation liées à des projets&nbsp;:</strong> Utilisez les étapes clés du projet de Basecamp pour activer les demandes d'évaluation pertinentes, en veillant à ce que les commentaires soient recueillis aux étapes clés de l'expérience du client.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Hub de feedback client intégré&nbsp;: </strong>Associez les prouesses de Basecamp en matière de gestion des tâches à l'analyse des avis de Synup, créant ainsi une plateforme cohérente permettant de recueillir et d'analyser un large éventail de commentaires des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de travail de révision amélioré&nbsp;:</strong> Intégrez les fonctionnalités de gestion des avis de Synup de manière fluide dans l'espace de travail de Basecamp, facilitant ainsi un flux naturel et efficace des activités d'acquisition et d'analyse des avis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Engagements de révision personnalisés&nbsp;: </strong>Utilisez les données de projet diversifiées et dynamiques de Basecamp pour personnaliser les sollicitations d'avis, en favorisant des engagements qui correspondent aux spécificités de chaque interaction client.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Interactions stratégiques avec les clients&nbsp;: </strong>Tirez parti des informations intégrées de Basecamp et Synup pour affiner les stratégies d'engagement client, améliorant ainsi la qualité des expériences et des interactions clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Efficacité des opérations d'examen&nbsp;: </strong>Centralisez et synchronisez les différents aspects de la gestion des révisions au sein de l'interface organisée et intuitive de Basecamp, afin de renforcer la productivité et l'efficacité opérationnelles.</li></ul><p id=\"\">En fusionnant Basecamp et Synup, dévoilez une dimension innovante de la gestion des avis, où chaque avancement de projet et chaque collaboration d'équipe deviennent un moyen d'acquérir des informations précieuses sur les clients et d'améliorer les stratégies de gestion des avis.</p><h2 id=\"\">Comment intégrer Basecamp + Synup&nbsp;?</h2><p id=\"\">L'intégration de Basecamp pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Basecamp.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Camp de base",
+    "description": "Transformez la gestion de vos avis avec Basecamp + Synup. Rationalisez les jalons des projets pour les examens, l'acquisition et l'analyse stratégiques. Améliorez les interactions avec les clients.",
+    "canonical": "https://www.synup.com/fr/integrations/camp-de-base",
+    "ogImage": null
+  }
+}

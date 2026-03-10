@@ -1,0 +1,20 @@
+{
+  "slug": "netherlands",
+  "locale": "de",
+  "collectionType": "integration-tags",
+  "name": "Niederlande",
+  "collection_id": "68826a55dc0ff405c5839a04",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4be7dd26e0f9ade02c6cd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:12:13 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:12:13 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Niederlande",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/integration-tags/niederlande",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "yellowpages",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Pages jaunes",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c69b4c9729e71b692f4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2abe431e2855409f35_653131f2501182140fe2982b_YellowPages.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Yellowpages avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">YellowPages.com + Synup</strong><br></h1><h2 id=\"\"><strong id=\"\"><br>Qu'est-ce que YellowPages.com&nbsp;?</strong></h2><p id=\"\">YellowPages.com est un service indispensable pour les entreprises qui cherchent à améliorer leur visibilité dans le domaine virtuel. Il s'agit d'un annuaire complet qui aide les entreprises à faire de la publicité et à attirer des clients potentiels. Comparable à des services tels que Bing Places, YellowPages.com est un outil adopté par les entreprises du monde entier. Il offre des informations détaillées sur les services, les heures d'ouverture et les emplacements afin de communiquer efficacement avec un large public.</p><h2 id=\"\"><strong id=\"\">Pourquoi YellowPages.com + Synup&nbsp;?</strong></h2><p id=\"\"><strong id=\"\">Gestion de l'annuaire</strong>: L'intégration de Synup à YellowPages.com offre aux entreprises la maîtrise suprême de leurs annonces. Cette puissante combinaison permet de créer et de gérer des profils précis, à jour et en lien avec l'image de marque de l'entreprise, fournissant ainsi aux clients potentiels les informations nécessaires et fiables. Gardez une trace des commentaires des clients et prenez des mesures correctives si nécessaire.</p><p id=\"\"><strong id=\"\">Exposition en ligne accrue</strong>: Bien que Google et Bing occupent une place de premier plan, YellowPages.com propose une plateforme précieuse avec une portée étendue. En créant un profil sur YellowPages.com, les entreprises peuvent considérablement accroître leur visibilité en ligne. Grâce à l'assistance experte de Synup, les profils sont optimisés pour la visibilité, ce qui permet aux clients de localiser facilement votre entreprise lorsqu'ils recherchent les services ou les produits que vous proposez.</p><p id=\"\"><strong id=\"\">Informations commerciales fiables</strong>: La confiance des clients repose sur des informations commerciales exactes et vérifiées. L'utilisation de YellowPages.com aux côtés de Synup garantit que les informations mises à la disposition des clients sont à la fois précises et fiables, positionnant ainsi votre entreprise comme un établissement fiable et digne de confiance.</p><p id=\"\"><strong id=\"\">Décisions commerciales éclairées</strong>: Utilisez la combinaison robuste de YellowPages.com et Synup pour accéder à des informations et à des analyses approfondies sur votre clientèle. Ces données sont essentielles pour affiner vos stratégies marketing, en fournissant une feuille de route pour des processus de prise de décision éclairés qui font partie intégrante du développement et du succès de votre entreprise.</p><p id=\"\">Tirez parti de la combinaison de YellowPages.com et de Synup pour gérer efficacement votre présence en ligne, interagir avec des clients potentiels et renforcer la visibilité et l'authenticité de votre entreprise sur Internet. Grâce à des listes précises, à un engagement accru et à des analyses pertinentes, les entreprises sont bien équipées pour naviguer et réussir sur le marché numérique.</p><h2 id=\"\"><strong id=\"\">Comment intégrer YellowPages.com à Synup&nbsp;?<br></strong></h2><p id=\"\">L'intégration YellowPages.com est disponible pour tous les abonnés au plan d'annonces Synup. Pour consulter et gérer l'intégration YellowPages.com&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo YellowPages.com pour gérer l'intégration Synup + YellowPages.com et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#9a2fad",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2abe431e2855409f32_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).webp",
+  "integration_summary": "Trouvez-vous sur les pages jaunes.",
+  "seo": {
+    "title": "Pages jaunes",
+    "description": "Renforcez votre présence sur les Pages Jaunes. L'intégration de Synup garantit des données commerciales précises pour une visibilité en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/pages-jaunes",
+    "ogImage": null
+  }
+}

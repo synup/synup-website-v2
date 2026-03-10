@@ -1,0 +1,25 @@
+{
+  "slug": "unknown-user1",
+  "locale": "en",
+  "collectionType": "testimonial-written-reviews",
+  "name": "unknown-user1",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891d1d10ff0aab496e413c7",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 09:41:37 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 09:41:37 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1ca6a2bf83f02a1d1d0_67612e233371249724ab54a0_20241217T0754-087ca904-2dd0-47a0-9221-5d66189e4025.webp",
+  "one_line_review": "\"Review of Synup product experience\"",
+  "detailed_review": "<p id=\"\"><strong id=\"\">What do you like best about Synup?</strong></p><p id=\"\">First and foremost, the enterprise multi-location management feature has been a game-changer for us. With several branches spread across different regions, keeping our online information accurate and consistent used to be a daunting task. Thanks to Synup, we can now effortlessly manage all our locations from a single platform. The intuitive dashboard provides a comprehensive overview of all our listings, allowing us to update business hours, contact details, and even respond to customer reviews with ease. The time saved by centralizing this process has been invaluable, allowing us to focus more on providing excellent service to our customers.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What do you dislike about Synup?</strong></p><p id=\"\">Honestly, there is not much to dislike about them. We have been working with Synup for over seven years now and they always go above and beyond.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What problems is Synup solving and how is that benefiting you?</strong></p><ul id=\"\"><li id=\"\">﻿﻿Managing store info for multiple locations</li><li id=\"\">﻿﻿Tracking &amp; responding back to reviews</li><li id=\"\">﻿﻿Getting a view of analytics including revenue and ROI generated from listings</li><li id=\"\">﻿﻿Tracking social media progress</li></ul>",
+  "reviewer_logo": null,
+  "had_reviewer_details": false,
+  "seo": {
+    "title": "unknown-user1",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-written-reviews/unknown-user1",
+    "ogImage": null
+  }
+}

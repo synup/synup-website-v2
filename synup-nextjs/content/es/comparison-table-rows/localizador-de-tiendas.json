@@ -1,0 +1,28 @@
+{
+  "slug": "store-locator",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Localizador de tiendas",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0dc29049564ca5ac19",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:37 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:37 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "locator-pages",
+  "list_order": "22.0",
+  "select_pages": "synup-vs-yext; uberall-alternative; chatmeter-alternative; soci-alternative; social-places-alternative; milestone-inc-alternative; partoo-alternative; pinmeto-alternative; rio-seo-alternative; singleinterface-alternative; sproutloud-alternative; synup-vs-location-bank",
+  "tabel_category": "Localizador de tiendas",
+  "alt_select_pages": "best-yext-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Localizador de tiendas",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/localizador-de-tiendas",
+    "ogImage": null
+  }
+}

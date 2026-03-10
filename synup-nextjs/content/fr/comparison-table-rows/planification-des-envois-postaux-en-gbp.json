@@ -1,0 +1,28 @@
+{
+  "slug": "gbp-post-scheduling-2",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Planification des envois postaux en GBP",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6154fc161a0ed73520944",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:55 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:55 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "12.0",
+  "select_pages": "brightlocal-alternative; local-clarity-alternative; vendasta-alternative; woobound-alternative; advicelocal-alternative; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews",
+  "tabel_category": "Planification des envois postaux en GBP",
+  "alt_select_pages": "best-vendasta-alternative",
+  "seo": {
+    "title": "Planification des envois postaux en GBP",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/planification-des-envois-postaux-en-gbp",
+    "ogImage": null
+  }
+}

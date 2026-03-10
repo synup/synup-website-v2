@@ -1,0 +1,28 @@
+{
+  "slug": "quickbooks-desktop",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "QuickBooks Desktop",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf3237a02f6c61aba190",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:14 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:14 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3237a02f6c61aba180_6548e25d53d64c6397badb08_Quickbooks.svg",
+  "title_tag": "Integrieren Sie Quickbooks Desktop mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">QuickBooks Desktop + Synchronisierung</h1><p id=\"\">Erzielen Sie beispiellose Effizienz mit QuickBooks Desktop + Synup: Ihr leistungsstarkes Duo für anspruchsvolles Finanzmanagement und aufschlussreiche Kundenrezensionen.</p><h2 id=\"\">Was ist QuickBooks Desktop?</h2><p id=\"\">QuickBooks Desktop ist eine lokal installierte Buchhaltungssoftware, die für mittlere bis große Unternehmen optimiert ist und erweiterte Funktionen und Anpassungen bietet und sich auf umfassende Finanzmanagementlösungen konzentriert.</p><h2 id=\"\">Warum Quickbooks Desktop + Synup?</h2><p id=\"\"><strong id=\"\">Optimierte Überprüfungsanfragen: </strong>Nutzen Sie die umfangreichen Transaktionsdaten von QuickBooks Desktop (QBD) mit Synup für präzise und aussagekräftige automatisierte Überprüfungsanfragen und erhöhen Sie so die Wahrscheinlichkeit, wertvolles Feedback zu erhalten.</p><p id=\"\"><strong id=\"\">Verbesserte Kundenansprache: </strong>Nutzen Sie die detaillierten Kundendaten von QBD zusammen mit Synup für eine ausgeklügelte Segmentierung und maßgeschneiderte Bewertungsanfragen, um umfassende, vielfältige Kundeneinblicke zu erhalten.</p><p id=\"\"><strong id=\"\">Optimierte Kommunikationskanäle:</strong> Kombinieren Sie die Fakturierungsfunktionen von QBD mit dem Bewertungsmanagement von Synup und ermöglichen Sie so eine reibungslose und effektive Übertragung und den Empfang von Bewertungsanfragen und Bewertungen.</p><p id=\"\"><strong id=\"\">Leistungsstarke Integrationssynergie: </strong>Erleben Sie die leistungsstarke Abstimmung der umfassenden Funktionen von QBD und der Plattform von Synup, wodurch ein kohärentes, automatisiertes System zur Erfassung von Bewertungen gefördert wird, das die Nutzerzufriedenheit erhöht.</p><p id=\"\"><strong id=\"\">Betriebseffizienz und Kostenreduzierung: </strong>Die QBD- und Synup-Integration verfeinert den Arbeitsablauf für das Bewertungsmanagement, verbessert die Betriebsleistung und reduziert manuelle Eingriffe und die damit verbundenen Betriebskosten.</p><p id=\"\"><strong id=\"\">Datengestützte Überprüfungsstrategien: </strong>Nutzen Sie die analytischen Fähigkeiten von QBD und Synup für aufschlussreiche, datenzentrierte Strategien und die Feinabstimmung der Bewertungserfassung für herausragende Ergebnisse.<br><br>Durch die Kombination von QuickBooks Desktop mit Synup entsteht eine einflussreiche, integrierte Methode zur Optimierung der Beschaffung von Bewertungen, zur Nutzung wichtiger Kundeninteraktionen und zur Automatisierung von Arbeitsabläufen für mehr Effizienz und Produktivität.</p><h2 id=\"\">Wie integriere ich QuickBooks Desktop + Synup?</h2><p id=\"\">Die QuickBooks Desktop-Integration für die Buchhaltung steht allen Synup-Abonnenten zur Verfügung. Um die Integration anzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Besuchen Sie die Registerkarte Buchhaltung auf der Synup-Konsole.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf die Schaltfläche Buchhaltungssoftware verbinden.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie QuickBooks Desktop als Ihre Buchhaltungssoftware.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr QuickBooks Desktop-Konto.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung der Buchhaltung.</li></ul><ul id=\"\"><li id=\"\">Verwalten Sie Ihre Finanzen mit QuickBooks Desktop.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "QuickBooks Desktop",
+    "description": "Steigern Sie die Effizienz: QuickBooks Desktop + Synup — Leistungsstarke Finanz- und Testberichte für Unternehmen.",
+    "canonical": "https://www.synup.com/de/integrations/quickbooks-desktop",
+    "ogImage": null
+  }
+}

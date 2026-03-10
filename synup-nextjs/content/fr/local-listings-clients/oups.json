@@ -1,0 +1,22 @@
+{
+  "slug": "woops",
+  "locale": "fr",
+  "collectionType": "local-listings-clients",
+  "name": "Oups",
+  "collection_id": "6891dfa5ae2c74373e72307c",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60629a842a9eb11423f84",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:30:17 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:30:17 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "clients_logos": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a60629a842a9eb11423f7c_63f46eb8f8f1ed553c815107_Woops.webp",
+  "list_of_number": "4.0",
+  "seo": {
+    "title": "Oups",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/local-listings-clients/oups",
+    "ogImage": null
+  }
+}

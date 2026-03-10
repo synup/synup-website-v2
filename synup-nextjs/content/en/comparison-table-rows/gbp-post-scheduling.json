@@ -1,0 +1,28 @@
+{
+  "slug": "gbp-post-scheduling-2",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "GBP Post Scheduling",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db6b02a78e4d3369a801",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 08:29:16 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 08:38:55 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "12.0",
+  "select_pages": "brightlocal-alternative; local-clarity-alternative; vendasta-alternative; woobound-alternative; advicelocal-alternative; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews; pipedrive-vs-synup",
+  "tabel_category": "GBP Post Scheduling",
+  "alt_select_pages": "best-vendasta-alternative",
+  "seo": {
+    "title": "GBP Post Scheduling",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/gbp-post-scheduling",
+    "ogImage": null
+  }
+}

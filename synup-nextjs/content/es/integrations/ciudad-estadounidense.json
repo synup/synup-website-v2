@@ -1,0 +1,28 @@
+{
+  "slug": "us-city",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Ciudad estadounidense",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76287381f53e599f70d77",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf362bf43071d1fbf9a7_65312e97e7c34db4daf8a711_us-city.svg",
+  "title_tag": "Gestione la información de su empresa en USCity con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">US City + Synup</h1><p id=\"\"><strong id=\"\">Agregue, reclame y edite listados y reseñas de empresas en US City con las herramientas de administración de listados y reseñas de Synup.</strong></p><h2 id=\"\">¿Qué es US City?</h2><p id=\"\">US City es un servicio dinámico de directorios y listados de empresas en línea que ayuda a los usuarios a encontrar información sobre empresas y servicios en ciudades de los Estados Unidos. Ya sea que busque recomendaciones confiables o detalles comerciales específicos, US City ofrece valiosas herramientas para conectarse con establecimientos locales.</p><h2 id=\"\">¿Por qué US City + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Control total sobre los listados:</strong> Con la capacidad de administrar sus listados de empresas en US City, usted mantiene un control total sobre su presencia en línea y garantiza que su empresa esté representada de manera precisa.</li><li id=\"\"><strong id=\"\">Amplíe su alcance:</strong> Agregar su negocio a US City a través de Synup significa una mayor visibilidad. Ayude a los clientes potenciales a descubrirlo, ampliando su alcance de manera efectiva.</li><li id=\"\"><strong id=\"\">Información empresarial precisa:</strong> Mejore la confianza y la credibilidad publicando información precisa sobre la ciudad de EE. UU.</li><li id=\"\"><strong id=\"\">Compromiso con el cliente:</strong> Consulta y responde a las opiniones en US City para fomentar una relación positiva con tus clientes y demostrar que valoras sus comentarios y que estás atento a sus necesidades.</li></ul><h2 id=\"\">¿Cómo integrar US City + Synup?</h2><p id=\"\">La integración con US City está disponible para todos los suscriptores del plan Synup Listings. Para ver y gestionar la integración con las ciudades de EE. UU.:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haga clic en el logotipo de US City para gestionar la integración de Synup + US City y la configuración asociada.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Ciudad estadounidense",
+    "description": "Maximice la visibilidad en las ciudades de EE. UU. La integración de Synup garantiza la precisión de los datos empresariales para lograr una mejor presencia en línea y fidelizar a los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/ciudad-estadounidense",
+    "ogImage": null
+  }
+}

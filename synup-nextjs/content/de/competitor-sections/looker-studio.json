@@ -1,0 +1,29 @@
+{
+  "slug": "looker-studio",
+  "locale": "de",
+  "collectionType": "competitor-sections",
+  "name": "Looker Studio",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68efd73a5e161ec6cdb57d59",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Oct 15 2025 17:17:46 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Oct 15 2025 17:17:53 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Oct 15 2025 17:31:24 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "Best suited for: Agencies that want a free, flexible dashboard for data visualization and reporting",
+  "description": "__POSSIBLE_UNTRANSLATED__<p id=\"\">Looker Studio, formerly Google Data Studio, is a free tool from Google that helps agencies turn raw marketing data into easy-to-read dashboards and reports. The tool is best used for clients whose data mostly lives in the Google ecosystem (Analytics, Ads, YouTube). For agencies managing many non-Google channels (e.g., LinkedIn, Salesforce), you’ll rely on paid connectors or merges, which may erode the ‘free’ advantage.&nbsp;</p>Source: LookerStudio<h2 id=\"\"><strong id=\"\">Key Features</strong></h2><p id=\"\"><strong id=\"\">🏆</strong>Free access for unlimited reports: Build as many dashboards as you need without worrying about license costs.</p><p id=\"\"><strong id=\"\">🏆</strong>Direct connections to Analytics, Ads, Search Console, YouTube, and more.</p><p id=\"\"><strong id=\"\">🏆</strong> Choose from charts, tables, and graphs to make data easier for clients to understand.</p><p id=\"\"><strong id=\"\">🏆</strong>Share reports with clients or team members, and allow them to view or edit in real time.</p><p id=\"\"><strong id=\"\">🏆</strong>With paid connectors, you can bring in data from Facebook Ads, LinkedIn, HubSpot, and other platforms.</p><h2 id=\"\"><strong id=\"\">Pros</strong></h2><p id=\"\">✅Free and budget-friendly for agencies.</p><p id=\"\">✅Quick to set up and simple to use.</p><p id=\"\">✅Flexible dashboard design and layout</p><p id=\"\">✅Strong Google and third-party integrations.</p><h2 id=\"\"><strong id=\"\">Cons</strong></h2><p id=\"\">🚫Limited customization.</p><p id=\"\">🚫Online reviews call out instances of the tool slowing down, especially when working with large datasets</p><p id=\"\">🚫Sync delays can cause inaccuracies.</p><p>‍</p>",
+  "what_people_say": "__POSSIBLE_UNTRANSLATED__<h3 id=\"\"><strong id=\"\">What Customers Say</strong></h3><p id=\"\"><em id=\"\">“I have used Looker Studio mainly for building dashboards on top of the data pipeline. The strongest part of the tool is how easy it integrates with Google BigQuery and Google Sheets. Once the data models are ready, I can quickly connect them to Looker Studio and build a visualization without much setup. It's a reliable tool for teams already working in the Google ecosystem.”</em></p><p id=\"\">– Review collected by and hosted on G2</p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Looker Studio",
+    "description": "__POSSIBLE_UNTRANSLATED__<p id=\"\">Looker Studio, formerly Google Data Studio, is a free tool from Google that helps agencies turn raw marketing data into easy-to-read dashboards and reports. The tool is best used for clients whose data mostly lives in the Google ecosystem (Analytics, Ads, YouTube). For agencies managing many non-Google channels (e.g., LinkedIn, Salesforce), you’ll rely on paid connectors or merges, which may erode the ‘free’ advantage.&nbsp;</p>Source: LookerStudio<h2 id=\"\"><strong id=\"\">Key Features</strong></h2><p id=\"\"><strong id=\"\">🏆</strong>Free access for unlimited reports: Build as many dashboards as you need without worrying about license costs.</p><p id=\"\"><strong id=\"\">🏆</strong>Direct connections to Analytics, Ads, Search Console, YouTube, and more.</p><p id=\"\"><strong id=\"\">🏆</strong> Choose from charts, tables, and graphs to make data easier for clients to understand.</p><p id=\"\"><strong id=\"\">🏆</strong>Share reports with clients or team members, and allow them to view or edit in real time.</p><p id=\"\"><strong id=\"\">🏆</strong>With paid connectors, you can bring in data from Facebook Ads, LinkedIn, HubSpot, and other platforms.</p><h2 id=\"\"><strong id=\"\">Pros</strong></h2><p id=\"\">✅Free and budget-friendly for agencies.</p><p id=\"\">✅Quick to set up and simple to use.</p><p id=\"\">✅Flexible dashboard design and layout</p><p id=\"\">✅Strong Google and third-party integrations.</p><h2 id=\"\"><strong id=\"\">Cons</strong></h2><p id=\"\">🚫Limited customization.</p><p id=\"\">🚫Online reviews call out instances of the tool slowing down, especially when working with large datasets</p><p id=\"\">🚫Sync delays can cause inaccuracies.</p><p>‍</p>",
+    "canonical": "https://www.synup.com/de/competitor-sections/looker-studio",
+    "ogImage": null
+  }
+}

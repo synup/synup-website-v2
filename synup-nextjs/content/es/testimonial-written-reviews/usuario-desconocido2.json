@@ -1,0 +1,25 @@
+{
+  "slug": "unknown-user2",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "usuario desconocido2",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cbb3a9cdbdea1b5cae2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:55 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:55 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«SYNUP ha hecho todo lo posible para desarrollar soluciones para cualquier integración personalizada que necesitábamos».",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">El equipo de SYNUP es de gran ayuda. Nos reunimos al menos una vez por semana para estar al tanto de nuestras necesidades en constante cambio. Los representantes de mi cuenta realmente hacen todo lo posible para resolver cualquier problema que surja.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">Honestamente, no se me ocurre nada. Estoy muy satisfecho con este proveedor y me alegra que, después de encuestar a tantas personas en este espacio, haya elegido SYNUP como nuestro proveedor de listados en directorios y presencia en búsquedas locales.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">Tenemos más de 1000 anuncios en SYNUP, y ese número cambia semanalmente a medida que incorporamos y retiramos ubicaciones. Mantener los datos coherentes y precisos supone una tarea ingente, y SYNUP se encarga de todo por nosotros. También han creado una integración personalizada para permitir que las reseñas lleguen a nuestro sitio web. Además, el equipo de SYNUP siempre está disponible para responder preguntas y ayudar con cualquier problema relacionado con la búsqueda.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": false,
+  "seo": {
+    "title": "usuario desconocido2",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/usuario-desconocido2",
+    "ogImage": null
+  }
+}

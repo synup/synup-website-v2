@@ -1,0 +1,29 @@
+{
+  "slug": "close1",
+  "locale": "es",
+  "collectionType": "competitor-sections",
+  "name": "Close",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68efc16ba730c66a575a73e5",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Oct 15 2025 15:44:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Oct 15 2025 16:03:11 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Oct 15 2025 17:31:24 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "Best for: Outbound sales and high call volume",
+  "description": "__POSSIBLE_UNTRANSLATED__Source: Close<h2 id=\"\"><strong id=\"\">What Close Does</strong></h2><p id=\"\">Close is made for teams that do high-touch outbound: calls, SMS, and emails, all inside the CRM. If part of your agency has aggressive lead gen outreach, Close is a solid pick. It’s pretty widely used as well.</p><h2 id=\"\"><strong id=\"\">Key Features</strong></h2><ul id=\"\"><li id=\"\">Power dialer &amp; automated call sequences</li><li id=\"\">Email &amp; SMS integration per lead</li><li id=\"\">Visual pipelines</li><li id=\"\">Custom reporting &amp; dashboards</li><li id=\"\">Webhooks, API, integrations</li></ul><h2 id=\"\"><strong id=\"\">Pricing</strong></h2><ul id=\"\"><li id=\"\"><strong id=\"\">Essentials: </strong>$35/user/month</li><li id=\"\"><strong id=\"\">Growth:</strong> $99/user/month</li><li id=\"\"><strong id=\"\">Scale:</strong> $139/user/month</li><li id=\"\">Custom pricing for larger teams</li></ul><h3 id=\"\"><strong id=\"\">Pros</strong></h3><p id=\"\">✅ Best-in-class call + SMS inside CRM (Great visibility into how communication correlates with deals)<br>✅ Clean and focused pipeline view<br>✅ Intuitive and simple to use</p><h3 id=\"\"><strong id=\"\">Cons</strong></h3><p id=\"\">🚫 Advanced reporting &amp; analytics are locked to higher plans<br>🚫 Not ideal if your agency is 100% inbound or doesn’t use high outreach volume<br>🚫 Many users report missing features and customization (such as the persistent need for manual inputs and lack of customization with reporting)</p><p id=\"\">‍</p>",
+  "what_people_say": "__POSSIBLE_UNTRANSLATED__<h2 id=\"\"><strong id=\"\">What Customers Say</strong></h2><p id=\"\"><em id=\"\">“It helps us reach more people with mass campaigns, and at the same time, we can send quick one-to-one emails right after a call using templates. This way, we can follow the 3M strategy faster and more easily.”</em></p><p id=\"\">- Review collected by and hosted on G2.com.</p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Close",
+    "description": "__POSSIBLE_UNTRANSLATED__Source: Close<h2 id=\"\"><strong id=\"\">What Close Does</strong></h2><p id=\"\">Close is made for teams that do high-touch outbound: calls, SMS, and emails, all inside the CRM. If part of your agency has aggressive lead gen outreach, Close is a solid pick. It’s pretty widely used as well.</p><h2 id=\"\"><strong id=\"\">Key Features</strong></h2><ul id=\"\"><li id=\"\">Power dialer &amp; automated call sequences</li><li id=\"\">Email &amp; SMS integration per lead</li><li id=\"\">Visual pipelines</li><li id=\"\">Custom reporting &amp; dashboards</li><li id=\"\">Webhooks, API, integrations</li></ul><h2 id=\"\"><strong id=\"\">Pricing</strong></h2><ul id=\"\"><li id=\"\"><strong id=\"\">Essentials: </strong>$35/user/month</li><li id=\"\"><strong id=\"\">Growth:</strong> $99/user/month</li><li id=\"\"><strong id=\"\">Scale:</strong> $139/user/month</li><li id=\"\">Custom pricing for larger teams</li></ul><h3 id=\"\"><strong id=\"\">Pros</strong></h3><p id=\"\">✅ Best-in-class call + SMS inside CRM (Great visibility into how communication correlates with deals)<br>✅ Clean and focused pipeline view<br>✅ Intuitive and simple to use</p><h3 id=\"\"><strong id=\"\">Cons</strong></h3><p id=\"\">🚫 Advanced reporting &amp; analytics are locked to higher plans<br>🚫 Not ideal if your agency is 100% inbound or doesn’t use high outreach volume<br>🚫 Many users report missing features and customization (such as the persistent need for manual inputs and lack of customization with reporting)</p><p id=\"\">‍</p>",
+    "canonical": "https://www.synup.com/es/competitor-sections/close",
+    "ogImage": null
+  }
+}

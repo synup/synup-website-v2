@@ -1,0 +1,26 @@
+{
+  "slug": "image-resizer",
+  "locale": "fr",
+  "collectionType": "tools",
+  "name": "Redimensionneur d'image",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6066ed3083788599a428c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:31:26 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:31:26 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4b7e1641012cd4f824105_650aa04d279994b42044ff83_Image%2520Resizer.webp",
+  "description": "<p id=\"\">Redimensionnez vos images pour Instagram, Twitter, Facebook, LinkedIn et Pinterest</p>",
+  "description_short": "Redimensionnez vos images pour Instagram, Twitter, Facebook, LinkedIn et Pinterest",
+  "link": "https://resizer.synup.com/",
+  "order": "4.0",
+  "button_text": "Redimensionner maintenant",
+  "seo": {
+    "title": "Redimensionneur d'image",
+    "description": "<p id=\"\">Redimensionnez vos images pour Instagram, Twitter, Facebook, LinkedIn et Pinterest</p>",
+    "canonical": "https://www.synup.com/fr/tools/redimensionneur-dimage",
+    "ogImage": null
+  }
+}

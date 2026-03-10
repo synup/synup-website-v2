@@ -1,0 +1,27 @@
+{
+  "slug": "top-posts-from-instagram-loomly",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Las mejores publicaciones de Instagram - Loomly",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0d65f8588f6eb7d4a1",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:37 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:37 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "ai-posts-ideas",
+  "list_order": "20.0",
+  "select_pages": "loomly-alternative",
+  "tabel_category": "Principales publicaciones de Instagram",
+  "seo": {
+    "title": "Las mejores publicaciones de Instagram - Loomly",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/las-mejores-publicaciones-de-instagram-loomly",
+    "ogImage": null
+  }
+}

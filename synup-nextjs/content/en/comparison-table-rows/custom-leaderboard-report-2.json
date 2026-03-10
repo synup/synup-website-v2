@@ -1,0 +1,27 @@
+{
+  "slug": "custom-leaderboard-report-2",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Custom Leaderboard Report 2",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db696d8d5cdba6ed1404",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "reviews",
+  "list_order": "20.0",
+  "select_pages": "sproutloud-alternative; turbify-alternative; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-whitespark; synup-vs-get-more-reviews; promanage-alternative; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Custom Leaderboard Report",
+  "seo": {
+    "title": "Custom Leaderboard Report 2",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/custom-leaderboard-report-2",
+    "ogImage": null
+  }
+}

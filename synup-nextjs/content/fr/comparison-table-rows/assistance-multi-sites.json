@@ -1,0 +1,27 @@
+{
+  "slug": "multi-location-support-2",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Assistance multi-sites",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61548ae39d1be8705d0d9",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:48 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:48 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "13.0",
+  "select_pages": "brightlocal-alternative; local-clarity-alternative; thryv-alternative; surefire-local-alternative; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews; promanage-alternative",
+  "tabel_category": "Assistance multi-sites",
+  "seo": {
+    "title": "Assistance multi-sites",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/assistance-multi-sites",
+    "ogImage": null
+  }
+}

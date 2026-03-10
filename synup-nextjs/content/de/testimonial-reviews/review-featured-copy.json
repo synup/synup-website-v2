@@ -1,0 +1,27 @@
+{
+  "slug": "review-featured-copy",
+  "locale": "de",
+  "collectionType": "testimonial-reviews",
+  "name": "Ausgewähltes Exemplar überprüfen",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bb1b9192cdcde2a45a78",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:57:47 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:57:47 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "0.45",
+  "reviews_summary": "Wie Goodwill Industries Tausende von Fünf-Sterne-Bewertungen generierte und das Spendenvolumen um 45% erhöhte.",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb1b9192cdcde2a45a54_642bf3088ae70fa614e1b2c6_6401cf3f2ecfa9eb0993a02a_Rectangle%2520(8).png",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": false,
+  "review_link": "https://www.synup.com/case-studies/goodwill-case-study",
+  "seo": {
+    "title": "Ausgewähltes Exemplar überprüfen",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/testimonial-reviews/review-featured-copy",
+    "ogImage": null
+  }
+}

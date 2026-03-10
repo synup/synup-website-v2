@@ -1,0 +1,27 @@
+{
+  "slug": "auto-reject-google-suggestions-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Rechazar automáticamente las sugerencias de Google 2",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da1344c02d6dd414c748",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "listings-management",
+  "list_order": "9.0",
+  "select_pages": "dbaplatform-alternative; synup-vs-digitalmass; synup-vs-experience-com; synup-vs-location-bank",
+  "tabel_category": "Rechazar automáticamente las sugerencias de Google",
+  "seo": {
+    "title": "Rechazar automáticamente las sugerencias de Google 2",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/auto-reject-google-suggestions-2",
+    "ogImage": null
+  }
+}

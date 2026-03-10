@@ -1,0 +1,28 @@
+{
+  "slug": "schedule-updates-2",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Mise à jour du calendrier",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6154da61a5300aab37df4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:53 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:53 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "11.0",
+  "select_pages": "brightlocal-alternative; vendasta-alternative; thryv-alternative; advicelocal-alternative; synup-vs-digitalmass; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews; synup-vs-gmbapi; zoho-publish-alternative",
+  "tabel_category": "Mise à jour du calendrier",
+  "alt_select_pages": "best-vendasta-alternative",
+  "seo": {
+    "title": "Mise à jour du calendrier",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/schedule-updates-2",
+    "ogImage": null
+  }
+}

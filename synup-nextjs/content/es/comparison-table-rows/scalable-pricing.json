@@ -1,0 +1,23 @@
+{
+  "slug": "scalable-pricing",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Scalable Pricing",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68da98ad13e06d6b29dc41db",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Sep 29 2025 14:33:17 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 14:33:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "seo": {
+    "title": "Scalable Pricing",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/scalable-pricing",
+    "ogImage": null
+  }
+}

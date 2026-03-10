@@ -1,0 +1,27 @@
+{
+  "slug": "review-featured-homepage",
+  "locale": "en",
+  "collectionType": "testimonial-reviews",
+  "name": "Review Featured - Homepage",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "689107c2b6fbc51f10db5412",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 19:19:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 19:19:30 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 19:22:05 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "0.3",
+  "reviews_summary": "How GoBeRewarded reduced their customer onboarding time by 30% and improved retention.",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/689107c2b6fbc51f10db53d5_67612c7819d58e81e2a3471c_20241217T0746-2f4915c3-acfa-4c3c-adf2-75ae905f0caf.webp",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": true,
+  "review_link": "https://www.synup.com/case-studies/goberewarded",
+  "seo": {
+    "title": "Review Featured - Homepage",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-reviews/review-featured-homepage",
+    "ogImage": null
+  }
+}

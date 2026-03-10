@@ -1,0 +1,28 @@
+{
+  "slug": "judys-book",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Le livre de Judy",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6494db6fc9b7a5a8f2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:52 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:52 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2dfd77c3004437e4f7_65312f8a81554b6fe7b4ccca_Judy%2527s%2520Book.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Judysbook avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Livre de Judy + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Judy's Book grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que le livre de Judy&nbsp;?</h2><p id=\"\">Judy's Book, une plateforme fiable d'avis et de recommandations sur les entreprises locales, permet aux consommateurs de faire des choix éclairés concernant leurs achats et leurs expériences. Que vous recherchiez des services réputés ou des trésors cachés dans votre région, Judy's Book fournit des informations précieuses provenant de la communauté pour orienter vos décisions.</p><h2 id=\"\">Pourquoi Judy's Book + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des inscriptions&nbsp;: En pouvant gérer les fiches de votre entreprise sur Judy's Book, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise au livre de Judy via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur Judy's Book.</li><li id=\"\">Engagement des clients&nbsp;: consultez les avis sur Judy's Book et répondez à ceux-ci, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Judy's Book + Synup&nbsp;?</h2><p id=\"\">L'intégration de Judy's Book est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration de Judy's Book&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Judy's Book pour gérer l'intégration Synup + Judy's Book et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Le livre de Judy",
+    "description": "Améliorez votre présence sur Judys Book. L'intégration de Synup garantit des données commerciales précises pour une visibilité en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/le-livre-de-judy",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "webinar-featured",
+  "locale": "fr",
+  "collectionType": "testimonial-reviews",
+  "name": "Webinaire en vedette",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6058eb86cef78a57ce3ce",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:27:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:27:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "Lead Gen 101",
+  "reviews_summary": "Joignez-vous à nous le jeudi 28 septembre à 14h",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb1b491faae9521f12f4_64f97226221ce9ae205b58c3_Webinar%25201080x1080.webp",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": false,
+  "review_link": "https://www.synup.com/webinar-lead-gen",
+  "seo": {
+    "title": "Webinaire en vedette",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonial-reviews/webinaire-en-vedette",
+    "ogImage": null
+  }
+}

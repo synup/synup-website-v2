@@ -1,0 +1,27 @@
+{
+  "slug": "users",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Nutzer",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c77423087bf3da9ecd98",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:28 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:28 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "1.0",
+  "second_col": "1.0",
+  "select_table_category": "top-category",
+  "list_order": "2.0",
+  "select_pages": "sendible-alternative; planable-alternative; socialbee-alternative; reputation-com-alternative",
+  "tabel_category": "Nutzer",
+  "seo": {
+    "title": "Nutzer",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/nutzer",
+    "ogImage": null
+  }
+}

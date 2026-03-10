@@ -1,0 +1,28 @@
+{
+  "slug": "monday-com",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Monday.com",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6719e86a936fca634b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:55 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:55 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf30fa7dddf290f77bde_6548b313deacb74d23d6b83a_Monday.com.svg",
+  "title_tag": "Intégrez Monday à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Monday.com + Synup</strong></h1><p id=\"\">Catalysez la gestion de vos avis en associant les prouesses de Monday.com en matière de gestion de projet aux capacités sophistiquées d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que Monday.com&nbsp;?</h2><p id=\"\">Monday.com est un système d'exploitation de travail polyvalent qui permet aux équipes de gérer des projets et des flux de travail en toute confiance. Il favorise un environnement de transparence et de collaboration, permettant de rationaliser les processus et d'améliorer la productivité.</p><h2 id=\"\">Pourquoi Monday.com + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Planification de l'examen stratégique&nbsp;: </strong>Utilisez les outils organisationnels de Monday.com pour créer des flux de travail stratégiques pour les demandes d'avis et la gestion, en garantissant l'alignement des objectifs et des tactiques.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Déclencheurs de révision automatisés&nbsp;:</strong> Tirez parti des fonctionnalités d'automatisation de Monday.com pour lancer des demandes d'évaluation aux principaux points de contact avec les clients, afin de générer des commentaires pertinents et opportuns.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Tableau de bord de révision unifié&nbsp;: </strong>Intégrez les fonctionnalités d'évaluation de Synup dans l'interface de Monday.com, en promouvant un tableau de bord unique pour une vue consolidée des interactions et des commentaires des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Sollicitations de révision adaptative&nbsp;:</strong> Tirez parti de la personnalisation dynamique du flux de travail de Monday.com pour personnaliser les demandes d'avis, en veillant à ce qu'elles correspondent à l'évolution des besoins et des expériences des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Analyse de l'examen collaboratif&nbsp;: </strong>Favorisez un environnement collaboratif dans lequel les membres de l'équipe peuvent analyser collectivement les avis clients et élaborer des stratégies en la matière, en promouvant une approche multidimensionnelle de la gestion des avis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de travail opérationnel amélioré&nbsp;: </strong>Améliorez l'efficacité en centralisant les tâches et les flux de travail liés aux révisions au sein de la plateforme intuitive de Monday.com, garantissant ainsi une navigation et une gestion des tâches fluides.</li></ul><p id=\"\">Associer Monday.com à Synup crée une symbiose qui révolutionne l'approche de la gestion des avis clients, où la planification stratégique, l'automatisation et la collaboration deviennent les pierres angulaires d'un solide cadre d'acquisition et de gestion des avis.</p><h2 id=\"\">Comment intégrer Monday.com à Synup&nbsp;?</h2><p id=\"\">L'intégration de Monday.com pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Monday.com.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Monday.com",
+    "description": "Améliorez la gestion des avis avec Monday.com et Synup : rationalisez, automatisez et collaborez pour un feedback client stratégique et efficace.",
+    "canonical": "https://www.synup.com/fr/integrations/mondaycom",
+    "ogImage": null
+  }
+}

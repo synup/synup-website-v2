@@ -1,0 +1,29 @@
+{
+  "slug": "xero1",
+  "locale": "es",
+  "collectionType": "competitor-sections",
+  "name": "Xero",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68e51941435ba1fa70fa33a2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Oct 07 2025 13:44:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Oct 07 2025 14:40:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Oct 08 2025 17:33:36 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "Category: Best accounting-first platform with invoicing",
+  "description": "__POSSIBLE_UNTRANSLATED__Source: Xero<h2 id=\"\"><strong id=\"\">What Xero Does</strong></h2><p id=\"\">Xero is an accounting-first software with invoicing features added in. It's perfect for agencies that need to manage VAT, payroll, and reconciliation alongside billing.</p><h2 id=\"\"><strong id=\"\">Key Features</strong></h2><ul id=\"\"><li>Quotes &amp; invoices (with online payments), bank feeds &amp; reconciliation.</li><li>Capture bills and receipts with Hubdoc</li><li>Multi-currency on higher tiers; reporting &amp; VAT (UK).</li></ul><h2 id=\"\"><strong id=\"\">Pricing</strong></h2><ul id=\"\"><li><strong id=\"\">Early:</strong> $20&nbsp;</li><li><strong id=\"\">Growing: </strong>$47</li><li><strong id=\"\">Established:</strong> $80&nbsp;</li></ul><h2 id=\"\"><strong id=\"\">Pros</strong></h2><p id=\"\">✅ Deep accounting + reliable invoice tooling; easy reconciliations.<br>✅ Broad ecosystem &amp; payment integrations (e.g., Stripe/PayPal).</p><p id=\"\">✅ Combines agency billing with full accounting &amp; VAT.</p><h2 id=\"\"><strong id=\"\">Cons</strong></h2><p id=\"\">🚫 Invoice UX/features not well reviewed vs specialist tools.</p><p id=\"\">🚫 Limited tracking capabilities (only two custom fields)</p><p id=\"\">🚫 May be restrictive for some companies</p><p>‍</p>",
+  "what_people_say": "__POSSIBLE_UNTRANSLATED__<h2 id=\"\"><strong id=\"\">What Customers Say</strong></h2><p id=\"\"><em id=\"\">“I love how Xero automates… bank reconciliations and invoicing… dashboard gives me a clear view of real-time cash flows.”</em></p><p id=\"\">- Review collected by and hosted on G2.com.</p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Xero",
+    "description": "__POSSIBLE_UNTRANSLATED__Source: Xero<h2 id=\"\"><strong id=\"\">What Xero Does</strong></h2><p id=\"\">Xero is an accounting-first software with invoicing features added in. It's perfect for agencies that need to manage VAT, payroll, and reconciliation alongside billing.</p><h2 id=\"\"><strong id=\"\">Key Features</strong></h2><ul id=\"\"><li>Quotes &amp; invoices (with online payments), bank feeds &amp; reconciliation.</li><li>Capture bills and receipts with Hubdoc</li><li>Multi-currency on higher tiers; reporting &amp; VAT (UK).</li></ul><h2 id=\"\"><strong id=\"\">Pricing</strong></h2><ul id=\"\"><li><strong id=\"\">Early:</strong> $20&nbsp;</li><li><strong id=\"\">Growing: </strong>$47</li><li><strong id=\"\">Established:</strong> $80&nbsp;</li></ul><h2 id=\"\"><strong id=\"\">Pros</strong></h2><p id=\"\">✅ Deep accounting + reliable invoice tooling; easy reconciliations.<br>✅ Broad ecosystem &amp; payment integrations (e.g., Stripe/PayPal).</p><p id=\"\">✅ Combines agency billing with full accounting &amp; VAT.</p><h2 id=\"\"><strong id=\"\">Cons</strong></h2><p id=\"\">🚫 Invoice UX/features not well reviewed vs specialist tools.</p><p id=\"\">🚫 Limited tracking capabilities (only two custom fields)</p><p id=\"\">🚫 May be restrictive for some companies</p><p>‍</p>",
+    "canonical": "https://www.synup.com/es/competitor-sections/xero",
+    "ogImage": null
+  }
+}

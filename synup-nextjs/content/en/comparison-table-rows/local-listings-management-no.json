@@ -1,0 +1,28 @@
+{
+  "slug": "local-listings-management-no",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Local Listings Management - No",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db6b4de82c317e354e64",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 14:25:17 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "8.0",
+  "select_pages": "synup-vs-powerreviews; synup-vs-grade-us; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews; birdeye-alternative",
+  "tabel_category": "Local Listings Management",
+  "alt_select_pages": "best-yext-alternative",
+  "seo": {
+    "title": "Local Listings Management - No",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/local-listings-management-no",
+    "ogImage": null
+  }
+}

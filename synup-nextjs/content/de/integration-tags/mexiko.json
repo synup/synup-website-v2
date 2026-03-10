@@ -1,0 +1,20 @@
+{
+  "slug": "mexico",
+  "locale": "de",
+  "collectionType": "integration-tags",
+  "name": "Mexiko",
+  "collection_id": "68826a55dc0ff405c5839a04",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4be7d0addf0c3edeb88b4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:12:13 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:12:13 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Mexiko",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/integration-tags/mexiko",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "drchrono",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Dr. Chrono",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf291c74b21a1350f5f0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:05 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:05 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf291c74b21a1350f5be_6548e1cb7ced08a20008c7c4_Dr-chrono.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf DrChrono mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">DrChrono + Synup</strong></h1><p id=\"\">Maximieren Sie das Bewertungsmanagement und die Akquise Ihrer Arztpraxis, indem Sie DrChrono nahtlos in die innovative Plattform von Synup integrieren.</p><h2 id=\"\">Was ist DrChrono?</h2><p id=\"\">DrChrono ist eine spezialisierte EHR- (Electronic Health Records) und Praxismanagement-Lösung für das Gesundheitswesen. Es revolutioniert die Patientenversorgung und das Praxismanagement, indem es anpassbare medizinische Vorlagen, Abrechnungssoftware und Patientenplanung auf einer integrierten, Cloud-basierten Plattform anbietet.</p><h2 id=\"\">Warum DrChrono + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Patientenzentrierte Bewertungen:</strong> Vereinfachen Sie den Prozess der Erfassung von Patientenbewertungen, indem Sie Feedback nahtlos in die Patientenakten integrieren, um einen umfassenderen Überblick über die Patientenzufriedenheit zu erhalten.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimierter Betrieb:</strong> Steigern Sie die betriebliche Effizienz, indem Sie die Erfassung von Patientenbewertungen und Feedback automatisieren, den Verwaltungsaufwand reduzieren und sich stärker auf die Patientenversorgung konzentrieren.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Informierte Patienteninteraktion:</strong> Nutzen Sie Patientenrezensionen und Feedback, um eine intensivere Patienteninteraktion zu fördern und die Qualität der angebotenen Versorgung und Dienstleistungen zu verbessern.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Individuell anpassbare Integration:</strong> Passen Sie die Integration an die individuellen Bedürfnisse Ihrer Arztpraxis an und stellen Sie sicher, dass das Bewertungsmanagement perfekt mit den bestehenden Arbeitsabläufen übereinstimmt.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Verbesserte Online-Präsenz: </strong>Verbessern Sie die Online-Sichtbarkeit und den Ruf Ihrer Praxis durch ein effizientes und effektives Management von Patientenrezensionen und Feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategische Entscheidungsfindung:</strong> Nutzen Sie die kombinierten Daten von DrChrono und Synup, um Ihr Gesundheitsangebot, Ihre Strategien zur Patienteninteraktion und das allgemeine Patientenerlebnis strategisch zu verbessern.</li></ul><p id=\"\">Durch die Integration von DrChrono in Synup können Arztpraxen verbesserte Wege für die Verwaltung und Erfassung von Patientenrezensionen erschließen, was zu einer besseren Patienteninteraktion, einer verbesserten Online-Präsenz und einer verbesserten betrieblichen Effizienz führt.</p><h2 id=\"\">Wie integriere ich DrChrono + Synup?</h2><p id=\"\">Die DrChrono-Integration für das Gesundheitsmanagement steht allen Synup-Abonnenten zur Verfügung. Um die Integration einzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Rufen Sie den Tab Healthcare Management auf der Synup-Konsole auf.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf die Schaltfläche Healthcare Software verbinden.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie DrChrono als Ihre Gesundheitssoftware.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr DrChrono-Konto.</li></ul><ul id=\"\"><li id=\"\">Schließen Sie die Einrichtung des Gesundheitsmanagements ab.</li></ul><ul id=\"\"><li id=\"\">Verwalten Sie Gesundheitsprozesse mit DrChrono.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Dr. Chrono",
+    "description": "Verbessern Sie die Patientenversorgung mit der DrChrono + Synup-Integration: Optimieren Sie Abläufe, verbessern Sie die Online-Präsenz und treffen Sie fundierte Entscheidungen.",
+    "canonical": "https://www.synup.com/de/integrations/dr-chrono",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "factual",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Factual",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238da525402438d31117",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238da525402438d31111_65312f2f28c54f6216996ca7_Factual.svg",
+  "title_tag": "Manage Your Business Information on Factual with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Factual + Synup</h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on Factual with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\">What is Factual?</h2><p id=\"\">Factual is a data platform and location data provider that specializes in delivering accurate, real-time location-based information. Businesses use Factual's data to enhance their services, marketing efforts, and location-based applications.</p><h2 id=\"\">Why Factual + Synup?</h2><ul id=\"\"><li id=\"\">Complete Control Over Listings: With the ability to manage your business listings on Factual, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\">Broaden Your Reach: Adding your business to Factual through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\">Accurate Business Information: Enhance trust and credibility by publishing accurate information on Factual.</li><li id=\"\">Customer Engagement: View and respond back to reviews on Factual, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ul><h2 id=\"\">How to integrate Factual + Synup?</h2><p id=\"\">The Factual integration is available to all Synup listings plan subscribers. To view &amp; manage the Factual integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Factual logo to manage the Synup + Factual integration and associated settings.</li></ol>",
+  "integration_types": "data-aggregator",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Factual",
+    "description": "Master local search with Factual. Synup integration ensures accurate business data for unmatched online visibility and credibility.",
+    "canonical": "https://www.synup.com/integrations/factual",
+    "ogImage": null
+  }
+}

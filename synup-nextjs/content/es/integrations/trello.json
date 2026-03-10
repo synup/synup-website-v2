@@ -1,0 +1,28 @@
+{
+  "slug": "trello",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Trello",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7629a0cb9979055a7ee0c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:58 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:58 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Trello con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Suscríbete a Trello +</strong></h1><p id=\"\">Transforma tu enfoque de la gestión de reseñas de clientes integrando la intuitiva plataforma de gestión de proyectos de Trello con las soluciones avanzadas de adquisición y gestión de reseñas de Synup.</p><h2 id=\"\">¿Qué es Trello?</h2><p id=\"\">Trello es una herramienta de gestión de proyectos fácil de usar que emplea tableros, listas y tarjetas para organizar y priorizar proyectos y tareas, lo que facilita un flujo de trabajo visual y colaborativo que mejora la productividad y la sinergia del equipo.</p><h2 id=\"\">¿Por qué Trello + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Planificación de la revisión visual: </strong>Utiliza las tarjetas y los paneles visuales de Trello para trazar las estrategias de adquisición de reseñas y los flujos de trabajo, garantizando la claridad y la coherencia en la ejecución.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Tableros de revisión dinámicos: </strong>Crea tableros de Trello dedicados a gestionar y hacer un seguimiento de las opiniones de los clientes, lo que permite un enfoque estructurado y organizado para la gestión de las reseñas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Tarjetas de revisión automatizadas:</strong> Aproveche las capacidades de automatización de Trello para generar y gestionar las tareas de revisión de manera eficiente, garantizando solicitudes de revisión y seguimientos oportunos y sistemáticos.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Gestión colaborativa de revisiones: </strong>Fomenta un entorno colaborativo en el que los miembros del equipo puedan participar, debatir y elaborar estrategias para revisar el contenido directamente en los tableros interactivos de Trello.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujos de trabajo de revisión personalizados: </strong>Personaliza las tarjetas y listas de Trello para adaptarlas a los matices específicos de cada reseña, lo que permite una gestión de reseñas personalizada y eficaz.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Perspectivas de revisión procesables:</strong> Al integrarte con Synup, asegúrate de que las ideas y acciones de las reseñas se visualicen y ejecuten con claridad dentro del espacio de trabajo adaptable de Trello.</li></ul><p id=\"\">La combinación de Trello con Synup abre un escenario dinámico e interactivo en el que la visualización, la organización y la colaboración de las tareas y estrategias de gestión de reseñas mejoran notablemente, lo que lleva a un proceso de adquisición de reseñas más eficaz y coherente.</p><h2 id=\"\">¿Cómo integrar Trello + Synup?</h2><p id=\"\">La integración de Trello para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y gestionar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o ubicación a la que quieres conectar Trello.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Trello",
+    "description": "Mejora tu gestión de reseñas con la integración de Trello + Synup. Visualice, organice y colabore para obtener revisiones eficaces. ¡Pruébalo ahora!",
+    "canonical": "https://www.synup.com/es/integrations/trello",
+    "ogImage": null
+  }
+}

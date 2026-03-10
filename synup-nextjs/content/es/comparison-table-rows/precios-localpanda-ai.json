@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-localpanda-ai",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Precios - LocalPanda AI",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0fa61d2f32a85a836c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "34,99$ al mes",
+  "second_col": "19 €/mes",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "synup-vs-localpanda-ai",
+  "tabel_category": "Fijación",
+  "seo": {
+    "title": "Precios - LocalPanda AI",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/precios-localpanda-ai",
+    "ogImage": null
+  }
+}

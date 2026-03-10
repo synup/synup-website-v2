@@ -1,0 +1,21 @@
+{
+  "slug": "posting",
+  "locale": "de",
+  "collectionType": "compare-table-categories",
+  "name": "Veröffentlichung",
+  "collection_id": "6891d90ccbde722a4aadf5d0",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c811ccd1ef9e755d9ae1",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:53:05 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:53:05 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "category_icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4c810ccd1ef9e755d9acd_64f6d0cc2d68987974e3c5c7_Posting%2520icon%2520(1).svg",
+  "seo": {
+    "title": "Veröffentlichung",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/compare-table-categories/posting",
+    "ogImage": null
+  }
+}

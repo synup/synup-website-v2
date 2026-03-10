@@ -1,0 +1,26 @@
+{
+  "slug": "listing-scan-tool",
+  "locale": "de",
+  "collectionType": "tools",
+  "name": "Tool zum Scannen von Auflistungen",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4b7e1bddc9e95ba2ce99d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:44:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:44:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4b7e1bddc9e95ba2ce992_650aa2335a4f3926fae62ee2_Listing%2520Scan%2520Tool.webp",
+  "description": "<p id=\"\">Verschaffen Sie sich einen Überblick über Ihre Brancheneinträge aus der Vogelperspektive<br></p>",
+  "description_short": "Verschaffen Sie sich einen Überblick über Ihre Brancheneinträge aus der Vogelperspektive",
+  "link": "https://scan.synup.com/",
+  "order": "3.0",
+  "button_text": "Meine Angebote scannen",
+  "seo": {
+    "title": "Tool zum Scannen von Auflistungen",
+    "description": "<p id=\"\">Verschaffen Sie sich einen Überblick über Ihre Brancheneinträge aus der Vogelperspektive<br></p>",
+    "canonical": "https://www.synup.com/de/tools/tool-zum-scannen-von-auflistungen",
+    "ogImage": null
+  }
+}

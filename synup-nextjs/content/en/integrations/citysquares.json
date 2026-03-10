@@ -1,0 +1,28 @@
+{
+  "slug": "citysquares",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "CitySquares",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238bd6a08ad4a2ab87c4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238ad6a08ad4a2ab87be_6531307e6becc8be99a66ff1_CitySquares.svg",
+  "title_tag": "Manage Your Business Information on Citysquares with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">CitySquares + Synup</h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on CitySquares with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\">What is CitySquares?</h2><p id=\"\">CitySquares is an online platform that serves as a local business directory and community resource. It provides information about businesses, services, and events in various cities and neighborhoods, helping residents and visitors discover and connect with local establishments and stay informed about what's happening in their area. CitySquares supports local businesses by increasing their online visibility.</p><h2 id=\"\">Why CitySquares + Synup?</h2><ul id=\"\"><li id=\"\">Complete Control Over Listings: With the ability to manage your business listings on CitySquares, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\">Broaden Your Reach: Adding your business to CitySquares through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\">Accurate Business Information: Enhance trust and credibility by publishing accurate information on CitySquares.</li><li id=\"\">Customer Engagement: View and respond back to reviews on CitySquares, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ul><h2 id=\"\">How to integrate CitySquares + Synup?</h2><p id=\"\">The CitySquares integration is available to all Synup listings plan subscribers. To view &amp; manage the CitySquares integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the CitySquares logo to manage the Synup + CitySquares integration and associated settings.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "CitySquares",
+    "description": "Thrive in local searches. Synup's seamless CitySquares integration ensures accurate business data for enhanced online presence.",
+    "canonical": "https://www.synup.com/integrations/citysquares",
+    "ogImage": null
+  }
+}

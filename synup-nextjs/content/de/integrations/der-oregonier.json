@@ -1,0 +1,31 @@
+{
+  "slug": "the-oregonian",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Der Oregonier",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf28f84df83429feeae8",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:04 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:04 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf28f84df83429feeae2_65312e5b84ba0acaffb82808_The%2520Oregonian.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Theoregonian mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">The Oregonian + Synup</h1><p id=\"\"><strong id=\"\">Fügen Sie Brancheneinträge und Bewertungen auf The Oregonian hinzu, fordern Sie sie an und bearbeiten Sie sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup.</strong></p><h3 id=\"\">Was ist The Oregonian?</h3><p id=\"\">The Oregonian ist eine angesehene Nachrichten- und Informationsquelle für den Bundesstaat Oregon. Es bietet eine umfassende Berichterstattung über lokale Nachrichten, Ereignisse, Politik, Sport und Kultur und geht auf die Informationsbedürfnisse der Einwohner Oregons und derjenigen ein, die an Entwicklungen im Bundesstaat interessiert sind.</p><h2 id=\"\">Warum The Oregonian + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote:</strong> Mit der Möglichkeit, Ihre Brancheneinträge auf The Oregonian zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite:</strong> Wenn Sie Ihr Unternehmen über Synup zu The Oregonian hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\"><strong id=\"\">Genaue Geschäftsinformationen:</strong> Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf The Oregonian veröffentlichen.</li><li id=\"\"><strong id=\"\">Kundenbindung:</strong> Sehen Sie sich Bewertungen auf The Oregonian an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie ihr Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriert man The Oregonian + Synup?</h2><p id=\"\">Die Oregonian-Integration steht allen Abonnenten des Synup Listings Plans zur Verfügung. Um die Oregonian-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das The Oregonian-Logo, um die Synup + The Oregonian-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Für Unternehmen ist die Verwaltung von Standortdaten auf Facebook mit Synup jetzt ein Kinderspiel.",
+  "seo": {
+    "title": "Der Oregonier",
+    "description": "Maximiere deine Präsenz auf The Oregonian. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Sichtbarkeit und Kundenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/der-oregonier",
+    "ogImage": null
+  }
+}

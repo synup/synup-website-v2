@@ -1,0 +1,20 @@
+{
+  "slug": "singapore",
+  "locale": "fr",
+  "collectionType": "integration-tags",
+  "name": "Singapour",
+  "collection_id": "68826a55dc0ff405c5839a04",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60a7cc7238ad96e129f6c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:48:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:48:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Singapour",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/integration-tags/singapour",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "neustar-localeze",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Neustar Localeze",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf319250096d7741dd0d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:13 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:13 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf319250096d7741dc5e_65312ff1165c787e349878a4_neustar.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Neustar Localeze mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Neustar Localeze + Syrup</h1><p id=\"\"><strong id=\"\">Mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup können Sie Brancheneinträge und Bewertungen auf Neustar Localeze hinzufügen, beanspruchen und bearbeiten.</strong></p><h2 id=\"\">Was ist Neustar Localeze?</h2><p id=\"\">Neustar Localeze ist ein vertrauenswürdiger Anbieter von Lösungen für Brancheneinträge und Standortmanagement, der genaue und aktuelle Geschäftsdaten bietet. Es spielt eine entscheidende Rolle dabei, Unternehmen bei der Aufrechterhaltung ihrer Online-Präsenz zu unterstützen, und stellt sicher, dass Verbraucher leicht genaue Informationen über lokale Unternehmen finden können.</p><h2 id=\"\">Warum Neustar Localeze + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote:</strong> Mit der Möglichkeit, Ihre Brancheneinträge auf Neustar Localeze zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite:</strong> Wenn Sie Ihr Unternehmen über Synup zu Neustar Localeze hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\"><strong id=\"\">Genaue Geschäftsinformationen:</strong> Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf Neustar Localeze veröffentlichen.</li><li id=\"\"><strong id=\"\">Kundenbindung:</strong> Sehen Sie sich Bewertungen auf Neustar Localeze an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie deren Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich Neustar Localeze + Synup?</h2><p id=\"\">Die Neustar Localeze-Integration steht allen Abonnenten des Synup-Angebotsplans zur Verfügung. Um die Neustar Localeze-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das Neustar Localeze-Logo, um die Synup + Neustar Localeze-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "data-aggregator",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Neustar Localeze",
+    "description": "Optimieren Sie Ihre Präsenz auf Neustar Localeze. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Sichtbarkeit und Kundenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/neustar-localeze",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "lyft",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Lyft",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c65112df9ffdb503851",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:53 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:53 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2f38a6ae0f90c55853_65312df3155463d9ac66fb52_lyft.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Lyft avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Lyft + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Lyft grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que Lyft&nbsp;?</h2><p id=\"\">Lyft est une plateforme de covoiturage bien connue qui met en relation les passagers et les chauffeurs pour des services de transport pratiques et fiables. Que vous ayez besoin d'un trajet pour vous rendre à destination ou que vous souhaitiez devenir chauffeur vous-même, Lyft propose une plateforme conviviale pour le transport à la demande.</p><h2 id=\"\">Pourquoi Lyft + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Contrôle total des annonces&nbsp;:</strong> Grâce à la possibilité de gérer vos listes d'entreprises sur Lyft, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\"><strong id=\"\">Élargissez votre portée&nbsp;:</strong> L'ajout de votre entreprise à Lyft via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\"><strong id=\"\">Informations commerciales précises&nbsp;:</strong> Renforcez la confiance et la crédibilité en publiant des informations précises sur Lyft.</li><li id=\"\"><strong id=\"\">Engagement des clients&nbsp;:</strong> Consultez les avis sur Lyft et répondez-y, entretenez une relation positive avec vos clients, montrez que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Lyft + Synup&nbsp;?</h2><p id=\"\">L'intégration Lyft est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration de Lyft&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Lyft pour gérer l'intégration Synup + Lyft et les paramètres associés.</li></ol>",
+  "integration_types": "auto",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#ea0b8c",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2544446bf04208916f_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).webp",
+  "integration_summary": "Lyft est une application de covoiturage à la demande qui simplifie le transport urbain.",
+  "seo": {
+    "title": "Lyft",
+    "description": "Intégration fluide sur Lyft. Synup garantit des données commerciales précises pour une présence en ligne et une portée client optimales.",
+    "canonical": "https://www.synup.com/fr/integrations/lyft",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "unsplash-and-giphy-integration-2",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Integration von Unsplash und GIPHY",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c77282320f226de5a6f3",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:26 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:26 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "posting",
+  "list_order": "14.0",
+  "select_pages": "sendible-alternative; planable-alternative; socialbee-alternative; reputation-com-alternative",
+  "tabel_category": "Integration von Unsplash und GIPHY",
+  "seo": {
+    "title": "Integration von Unsplash und GIPHY",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/integration-von-unsplash-und-giphy",
+    "ogImage": null
+  }
+}

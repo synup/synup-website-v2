@@ -1,0 +1,20 @@
+{
+  "slug": "youtube",
+  "locale": "de",
+  "collectionType": "marketing-guide-companies",
+  "name": "Youtube",
+  "collection_id": "6877e2009abc166483d78d09",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4b676c85b2e9510381030",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:37:58 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:37:58 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Youtube",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/marketing-guide-companies/youtube",
+    "ogImage": null
+  }
+}

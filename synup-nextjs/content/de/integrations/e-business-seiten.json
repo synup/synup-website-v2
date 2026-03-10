@@ -1,0 +1,28 @@
+{
+  "slug": "ebusiness-pages",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "E-Business-Seiten",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2907714af562c57125",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:05 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:05 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2907714af562c5709a_65312d1a9984ad22ccb162a7_EBusiness%2520Pages.svg",
+  "title_tag": "Fügen Sie Ihr Unternehmen mit Synup zu E-Business-Seiten hinzu",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">E-Business-Seiten + Synup</h1><p id=\"\"><strong id=\"\">Mit den Tools zur Verwaltung von Inseraten und Bewertungen von Inseraten und Bewertungen von Synup können Sie Brancheneinträge und Bewertungen auf E-Business-Seiten hinzufügen, beanspruchen und bearbeiten.</strong></p><h2 id=\"\">Was sind eBusiness Pages?</h2><p id=\"\">eBusiness Pages ist wahrscheinlich ein Online-Verzeichnis oder eine Online-Plattform, die Auflistungen verschiedener Unternehmen enthält und es Benutzern ermöglicht, nach bestimmten Diensten oder Unternehmen zu suchen. Es dient als Ressource für Personen, die Informationen über lokale Unternehmen suchen.</p><h2 id=\"\">Warum eBusiness Pages + Synup?</h2><ul id=\"\"><li id=\"\">Vollständige Kontrolle über Angebote: Mit der Möglichkeit, Ihre Brancheneinträge auf E-Business-Seiten zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\">Erhöhen Sie Ihre Reichweite: Wenn Sie Ihr Unternehmen über Synup zu E-Business-Seiten hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\">Präzise Geschäftsinformationen: Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf E-Business-Seiten veröffentlichen.</li><li id=\"\">Kundenbindung: Sehen Sie sich Bewertungen auf E-Business-Seiten an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie deren Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich eBusiness Pages + Synup?</h2><p id=\"\">Die eBusiness Pages-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. So können Sie die eBusiness Pages-Integration anzeigen und verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das eBusiness Pages-Logo, um die Synup + eBusiness Pages-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "E-Business-Seiten",
+    "description": "Optimieren Sie Ihre Online-Präsenz. Die Synup-Integration auf E-Business-Seiten gewährleistet genaue Geschäftsdaten für eine hervorragende Sichtbarkeit.",
+    "canonical": "https://www.synup.com/de/integrations/e-business-seiten",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "review-featured-homepage",
+  "locale": "de",
+  "collectionType": "testimonial-reviews",
+  "name": "Bewertung vorgestellt - Startseite",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bb1bcf104be457ca7592",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:57:47 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:57:47 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "0.3",
+  "reviews_summary": "Wie GobeRewarded die Zeit für das Onboarding seiner Kunden um 30% reduzierte und die Kundenbindung verbesserte.",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb1bcf104be457ca7589_658d12ec97589af28fc14c07_image%2520(3).webp",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": true,
+  "review_link": "https://www.synup.com/case-studies/goberewarded",
+  "seo": {
+    "title": "Bewertung vorgestellt - Startseite",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/testimonial-reviews/bewertung-vorgestellt-startseite",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "hubspots-sales-hub",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "HubSpot’s Sales Hub",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238fe060aa7727b6b9fb",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238fe060aa7727b6b9f5_6548e2c8176639bf5e2a746f_Hubspot.svg",
+  "title_tag": "Integrate Hubspot with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "argentina; australia; austria; belgium; brazil; canada; chile; china; czech-republic; denmark; ecuador; france; germany; hong-kong; indonesia; ireland; italy; japan; kenya; malaysia; mexico; netherlands; new-zealand; nigeria; norway; india; peru; philippines; poland; popular; portugal; russia; singapore; south-africa; spain-es; sweden; switzerland; taiwan; thailand; uae; uganda; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">HubSpot’s Sales Hub + Synup</h1><p id=\"\">Get the most out of your review acquisition process, maximizing efficiency, and fostering&nbsp; enriched customer engagement.</p><h2 id=\"\">What is HubSpot’s Sales Hub?</h2><p id=\"\">A sophisticated CRM tool, HubSpot’s Sales Hub centralizes customer interactions, enhances sales workflows, and provides valuable analytics, driving effective sales strategies and decision-making.</p><h2 id=\"\">Why Sales Hub + Synup?</h2><p id=\"\">‍<strong id=\"\">Streamlined Reviews:</strong> Automate review requests for new customers, simplifying and enhancing acquisition workflows.</p><p id=\"\">‍<strong id=\"\">Robust CRM Practices:</strong> Synchronize and leverage customer data to refine CRM strategies and customer interactions.</p><p id=\"\">‍<strong id=\"\">Strategic Efficiency:</strong> Harness automation to optimize resource allocation, improve operational productivity, and reduce costs.</p><p id=\"\">‍<strong id=\"\">Versatile Integrations:</strong> Utilize a range of powerful integrations, expanding capabilities and improving tech adaptability.</p><p id=\"\">‍<strong id=\"\">Elevated Visibility:</strong> Enhance your online footprint, improving attractiveness to potential customers through effective review management.</p><p id=\"\">Integrate HubSpot’s Sales Hub with Synup to unlock a realm of enhanced operational efficacy, strategic customer engagement, and powerful, flexible tech integrations.</p><h2 id=\"\">How to integrate HubSpot's Sales Hub + Synup?</h2><p id=\"\">HubSpot's Sales Hub integration for customer relationship management is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the CRM Integration tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM Button.</li></ul><ul id=\"\"><li id=\"\">Select HubSpot's Sales Hub as your CRM software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your HubSpot's Sales Hub account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Manage customer relationships using HubSpot's Sales Hub.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "HubSpot’s Sales Hub",
+    "description": "HubSpot's Sales Hub is a powerful CRM tool that centralizes customer interactions, streamlines sales workflows, and delivers valuable analytics for effective sales strategies.",
+    "canonical": "https://www.synup.com/integrations/hubspots-sales-hub",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "m-live",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "M en vivo",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76292833f0b1f796d16d4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Gestione la información de su empresa en mLive con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Suscríbete a M Live +</h1><p id=\"\"><strong id=\"\">Agregue, reclame y edite listados y reseñas de empresas en M Live con las herramientas de administración de listados y reseñas de Synup.</strong></p><h2 id=\"\">¿Qué es M Live?</h2><p id=\"\">M Live, una fuente confiable de noticias e información sobre la región «M» (que podría hacer referencia a un área o lugar específico), ofrece actualizaciones e información esenciales a su audiencia. Ya sea que te interesen las noticias locales, los eventos o los acontecimientos de la comunidad, M Live ofrece un recurso valioso para mantenerte informado y comprometido.</p><h2 id=\"\">¿Por qué M Live + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Control total sobre los listados:</strong> Con la capacidad de gestionar las fichas de tu empresa en M Live, mantienes un control total sobre tu presencia en línea y te aseguras de que tu empresa esté representada de forma precisa.</li><li id=\"\"><strong id=\"\">Amplíe su alcance:</strong> Añadir tu empresa a M Live a través de Synup significa una mayor visibilidad. Ayude a los clientes potenciales a descubrirlo, ampliando su alcance de manera efectiva.</li><li id=\"\"><strong id=\"\">Información empresarial precisa:</strong> Mejore la confianza y la credibilidad publicando información precisa en M Live.</li><li id=\"\"><strong id=\"\">Compromiso con el cliente:</strong> Consulta y responde a las opiniones en M Live para fomentar una relación positiva con tus clientes y demostrar que valoras sus comentarios y que estás atento a sus necesidades.</li></ul><h2 id=\"\">¿Cómo integrar M Live + Synup?</h2><p id=\"\">La integración con M Live está disponible para todos los suscriptores del plan Synup Listings. Para ver y administrar la integración de M Live:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haga clic en el logotipo de M Live para administrar la integración de Synup + M Live y la configuración asociada.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#0d0d0d",
+  "integration_bg_image": null,
+  "integration_summary": "mLive Media Group lleva a las empresas de Michigan a un mayor éxito.",
+  "seo": {
+    "title": "M en vivo",
+    "description": "Mejore su presencia en M-Live. La integración de Synup garantiza datos empresariales precisos para una visibilidad en línea superior y una mayor interacción con los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/m-en-vivo",
+    "ogImage": null
+  }
+}

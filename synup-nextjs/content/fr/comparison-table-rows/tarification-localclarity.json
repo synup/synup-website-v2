@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-localclarity",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Tarification - LocalClarity",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61554b03f8df4687a5b79",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:35:00 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:35:00 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "34,99 $/mois",
+  "second_col": "12$ (+ frais de citation)",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "local-clarity-alternative",
+  "tabel_category": "Tarification",
+  "seo": {
+    "title": "Tarification - LocalClarity",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/tarification-localclarity",
+    "ogImage": null
+  }
+}

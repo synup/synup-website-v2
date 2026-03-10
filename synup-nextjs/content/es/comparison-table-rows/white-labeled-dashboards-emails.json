@@ -1,0 +1,26 @@
+{
+  "slug": "white-labeled-dashboards-emails",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "White-Labeled Dashboards & Emails",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68e76fe95ab249c4dd94d7c5",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Oct 09 2025 08:18:49 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 08:19:04 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 08:38:55 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "__MISSING__",
+  "list_order": null,
+  "select_pages": "pipedrive-vs-synup",
+  "seo": {
+    "title": "White-Labeled Dashboards & Emails",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/white-labeled-dashboards-emails",
+    "ogImage": null
+  }
+}

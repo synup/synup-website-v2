@@ -1,0 +1,28 @@
+{
+  "slug": "zoho",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Zoho",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7629f8f6ee769b84c8510",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:17:03 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:17:03 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Zoho CRM con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us; canada; brazil; belgium; hong-kong; india; indonesia; malaysia; singapore; taiwan",
+  "detailed_paragraph": "<h1 id=\"\">Suscribirse a Zoho +</h1><p id=\"\">Potencie las relaciones con sus clientes con Zoho CRM + Synup: agilice los procesos, mejore las interacciones y acelere la gestión de reseñas.</p><h2 id=\"\">¿Qué es Zoho CRM?</h2><p id=\"\">Zoho CRM optimiza la gestión de las relaciones con los clientes al agilizar los procesos de clientes potenciales y contactos, mejorar la automatización de las ventas y mejorar la atención al cliente. Su multifuncionalidad incluye análisis detallados, una amplia integración y funciones personalizables, que satisfacen las necesidades empresariales únicas e impulsan el crecimiento a través de interacciones específicas con los clientes.</p><h2 id=\"\"><strong id=\"\">¿Por qué Zoho CRM + Synup?</strong></h2><p id=\"\"><strong id=\"\">Adquisición de reseñas sin problemas: </strong>La integración de Zoho CRM con Synup automatiza el proceso de solicitud de revisión. Cuando se inicia una interacción con un cliente en Zoho, Synup envía automáticamente una solicitud de revisión, lo que hace que el proceso sea instantáneo y eficiente.</p><p id=\"\"><strong id=\"\">Interacciones optimizadas con los clientes: </strong>Utilice los abundantes datos de interacción con los clientes de Zoho CRM. Synup aprovecha estos datos para adaptar las solicitudes de revisión, haciéndolas más personalizadas y con más probabilidades de recibir una respuesta.</p><p id=\"\"><strong id=\"\">Automatización mejorada: </strong>La integración de Zoho CRM y Synup minimiza la intervención manual en el envío de solicitudes de revisión, lo que mejora la eficiencia operativa y garantiza que no se pierda ninguna oportunidad.</p><p id=\"\"><strong id=\"\">Uso estratégico de los datos de los clientes: </strong>Synup utiliza estratégicamente los datos de los clientes alojados en Zoho CRM para comprender mejor las interacciones con los clientes, lo que ayuda a enviar solicitudes de revisión en el momento oportuno.</p><p id=\"\"><strong id=\"\">Panel de control unificado: </strong>Gestione y supervise las opiniones de los clientes sin esfuerzo a través de un panel unificado, lo que simplifica la gestión de las reseñas y permite respuestas rápidas.</p><p id=\"\">‍</p><p id=\"\">Esta potente integración simplifica y amplifica el proceso de gestión de reseñas, lo que garantiza que su empresa maximice la utilidad de cada interacción con el cliente capturada en Zoho CRM.</p><h2 id=\"\">¿Cómo integrar Zoho + Synup?</h2><p id=\"\">La integración de Zoho para la gestión de las relaciones con los clientes está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visite la pestaña Integración de CRM en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar CRM.</li></ul><ul id=\"\"><li id=\"\">Seleccione Zoho como su software de CRM.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Zoho.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Gestione las relaciones con los clientes con Zoho.</li></ul><p id=\"\">‍</p><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Zoho",
+    "description": "Maximice la participación de los clientes y agilice la gestión de reseñas con la potencia integrada de Zoho CRM y Synup, diseñada para el crecimiento empresarial.",
+    "canonical": "https://www.synup.com/es/integrations/zoho",
+    "ogImage": null
+  }
+}

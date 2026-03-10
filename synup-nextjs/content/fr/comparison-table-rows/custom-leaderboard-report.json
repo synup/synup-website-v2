@@ -1,0 +1,28 @@
+{
+  "slug": "custom-leaderboard-report",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Rapport de classement personnalisé",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6155190ae847ec0eedb3e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "reviews",
+  "list_order": "20.0",
+  "select_pages": "birdeye-alternative; uberall-alternative; brightlocal-alternative; vendasta-alternative; synup-vs-yext; chatmeter-alternative; local-clarity-alternative; thryv-alternative; soci-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; review-trackers-alternative; surefire-local-alternative; pinmeto-alternative; rio-seo-alternative; singleinterface-alternative; seosamba-alternative; dbaplatform-alternative; advicelocal-alternative; synup-vs-digitalmass; synup-vs-experience-com; synup-vs-location-bank; synup-vs-localpanda-ai; synup-vs-reviewgain; synup-vs-gmbapi",
+  "tabel_category": "Rapport de classement personnalisé",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Rapport de classement personnalisé",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/custom-leaderboard-report",
+    "ogImage": null
+  }
+}

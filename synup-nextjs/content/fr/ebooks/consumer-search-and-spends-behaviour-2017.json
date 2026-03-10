@@ -1,0 +1,27 @@
+{
+  "slug": "consumer-search-and-spends-behaviour-2017",
+  "locale": "fr",
+  "collectionType": "ebooks",
+  "name": "Recherche et comportement des consommateurs en matière de dépenses 2017",
+  "collection_id": "6891dedfab83e12481b305d9",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6104835c38884f7c1f810",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:13:28 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:13:28 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "ebook_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4c1aefdb97594ca395e73_60236b3620b8e20a96373e8d_holiday-spends.webp",
+  "rich_text_block": "<p id=\"\">Nous avons examiné plus de 3 600 entreprises à partir de la base de données de Synup et avons suivi l'évolution des tendances d'achat des consommateurs au cours des différentes saisons de vacances en 2017. Les résultats de cette étude ont été compilés dans ce rapport pour vous donner un aperçu des moments où les entreprises de différents secteurs peuvent s'attendre à une hausse de leurs ventes au cours d'une année.</p>",
+  "category": "__MISSING__",
+  "free_business": true,
+  "learn_more": false,
+  "schedule_a_demo": false,
+  "resource_type": "Ebook",
+  "seo": {
+    "title": "Recherche et comportement des consommateurs en matière de dépenses 2017",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/ebooks/consumer-search-and-spends-behaviour-2017",
+    "ogImage": null
+  }
+}

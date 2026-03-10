@@ -1,0 +1,28 @@
+{
+  "slug": "ibegin",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Je commence",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c635d4731c3ae53cce5",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:51 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:51 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2c79c9b80073806cda_65312d94aefe89ecb3edca66_iBegin.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur iBegin avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">iBegin + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur iBegin grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce qu'iBegin&nbsp;?</h2><p id=\"\">iBegin, l'un des principaux services d'annuaires et de listes d'entreprises en ligne, propose une plateforme complète permettant aux utilisateurs de découvrir les entreprises et les services locaux. Que vous recherchiez un restaurant à proximité ou que vous recherchiez un professionnel en particulier, iBegin fournit une ressource précieuse pour mettre en relation les consommateurs avec les entreprises dont ils ont besoin.</p><h2 id=\"\">Pourquoi iBegin + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: En pouvant gérer les fiches de vos entreprises sur iBegin, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à iBegin via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur iBegin.</li><li id=\"\">Engagement des clients&nbsp;: consultez et répondez aux avis sur iBegin, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer iBegin + Synup&nbsp;?</h2><p id=\"\">L'intégration iBegin est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration d'iBegin, procédez comme suit&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo iBegin pour gérer l'intégration Synup + iBegin et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Je commence",
+    "description": "Optimisez votre présence sur iBegin. L'intégration de Synup garantit des données commerciales précises pour une visibilité et un engagement en ligne supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/je-commence",
+    "ogImage": null
+  }
+}

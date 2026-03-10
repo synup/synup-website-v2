@@ -1,0 +1,31 @@
+{
+  "slug": "yelp",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Yelp",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c70ae39d1be8702a5c1",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:04 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:04 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2d6efd8ae35fff338c_6531323dcdb94f4b94694237_yext.svg",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "france; germany; netherlands; ireland; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<p id=\"\">Yelp met en relation les internautes avec des entreprises locales en leur fournissant des informations fiables sur les entreprises locales, des photos et du contenu d'évaluation. Il s'agit d'une plateforme locale unique qui permet aux consommateurs de découvrir, de contacter et d'effectuer des transactions avec des entreprises locales de toutes tailles en leur permettant de demander facilement un devis, de s'inscrire sur une liste d'attente, de faire une réservation, de prendre rendez-vous ou d'effectuer un achat. Yelp compte 76,7 millions de visiteurs uniques via son site Web mobile chaque mois.</p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Pour les entreprises, la gestion des données de localisation sur Facebook est désormais un jeu d'enfant avec Synup.",
+  "seo": {
+    "title": "Yelp",
+    "description": "Répertoire général",
+    "canonical": "https://www.synup.com/fr/integrations/yelp",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "infobel",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Infobel",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238f21c7c8dbdee4b70b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:35 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238f21c7c8dbdee4b704_6761254f6e7bab42b2de2bfa_20241217T0716-4835739e-31c6-4046-9256-7c20046cd228.webp",
+  "title_tag": "Manage Your Business Information on Infobel with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; france; germany; netherlands; uae; south-africa; ireland; australia; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Infobel + Synup</h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on Infobel with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\">What is Infobel?</h2><p id=\"\">Infobel, a respected provider of international business and residential directories, offers a wealth of contact information for businesses and individuals worldwide. Whether you're looking for a local service or need to connect with international partners, Infobel provides a comprehensive directory to assist you in your endeavors.</p><h2 id=\"\">Why Infobel + Synup?</h2><ul id=\"\"><li id=\"\">Complete Control Over Listings: With the ability to manage your business listings on Infobel, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\">Broaden Your Reach: Adding your business to Infobel through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\">Accurate Business Information: Enhance trust and credibility by publishing accurate information on Infobel.</li><li id=\"\">Customer Engagement: View and respond back to reviews on Infobel, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ul><h2 id=\"\">How to integrate Infobel + Synup?</h2><p id=\"\">The Infobel integration is available to all Synup listings plan subscribers. To view &amp; manage the Infobel integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Infobel logo to manage the Synup + Infobel integration and associated settings.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#e16e25",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238f21c7c8dbdee4b700_64622d0c96463f632ca35391_Rectangle%25203463235%2520(1).avif",
+  "integration_summary": "Infobel is an online services for marketing and advertising.",
+  "seo": {
+    "title": "Infobel",
+    "description": "Maximize visibility on Infobel. Synup integration ensures accurate business data for superior online presence and customer engagement.",
+    "canonical": "https://www.synup.com/integrations/infobel",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "coincloud",
+  "locale": "en",
+  "collectionType": "local-listings-clients",
+  "name": "CoinCloud",
+  "collection_id": "6891dfa5ae2c74373e72307c",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891dfd555b94994925c7e60",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:41:25 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:41:25 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "clients_logos": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891de5fa19a4760c24dcc7c_67601acabfab640c962d29d5_20241216T1219-0ee6d43a-b06e-468a-b198-555a42e34e18.webp",
+  "list_of_number": "4.0",
+  "seo": {
+    "title": "CoinCloud",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/local-listings-clients/coincloud",
+    "ogImage": null
+  }
+}

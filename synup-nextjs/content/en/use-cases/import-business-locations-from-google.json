@@ -1,0 +1,25 @@
+{
+  "slug": "import-business-locations-from-google",
+  "locale": "en",
+  "collectionType": "use-cases",
+  "name": "Import Business Locations from Google",
+  "collection_id": "6890f98653f98c63533646f5",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6890ff134ff33105b3b10f9a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 18:42:27 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 18:42:27 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 18:42:57 GMT+0000 (Coordinated Universal Time)",
+  "thumbnail_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6890ff134ff33105b3b10f84_67b48e3966a2d574d99ce36f_20250218T0140-c73181fa-7c42-4468-b106-69bcc8fe512a.webp",
+  "body_para": "<p id=\"\">Synup allows you to seamlessly integrate your Google Business Profile locations into our platform, saving you valuable time and ensuring consistency across your online presence. Whether you're a small business with a handful of locations or a large enterprise with hundreds of stores, Synup makes it easy to centralize your location management and keep your information up-to-date across the web.</p><h2 id=\"\">Ease of managing multiple locations in one place</h2><p id=\"\">By using Synup's add location feature, you can transform the complex task of multi-location management into a streamlined, efficient process. This leads to:<br></p><ul id=\"\"><li id=\"\"><strong id=\"\">Time Efficiency: </strong>No need to manually input information for each location. Import everything at once from your Google Business Profile.</li><li id=\"\"><strong id=\"\">Consistency:</strong> Ensure all your location information is consistent across different platforms, reducing customer confusion and improving your online presence.</li><li id=\"\"><strong id=\"\">Simplified Updates: </strong>Make changes to multiple locations simultaneously, saving time and reducing the risk of errors.</li><li id=\"\"><strong id=\"\">Improved SEO: </strong>Consistent and accurate location information across the web can boost your local SEO performance.</li><li id=\"\"><strong id=\"\">Better Customer Experience:</strong> Provide accurate, up-to-date information to your customers, enhancing their experience and building trust.</li></ul><h2 id=\"\">Synup helps add business locations easily ‍</h2><p id=\"\">Existing customers can also add new locations from their Google Business Profile by following these steps:</p><p id=\"\"><strong id=\"\">Step 1: </strong>From the Synup dashboard, click on the <strong id=\"\">\"Add Location\"</strong> button.</p><p id=\"\"><strong id=\"\">Step 2: Select the plan</strong> the user is a part of or wants to enable for the first time.</p><p id=\"\"><strong id=\"\">Step 3: </strong>Users will see two options to add a location:</p><ul id=\"\"><li id=\"\"><strong id=\"\">Add from Google Business Profile</strong></li><li id=\"\"><strong id=\"\">Manually add location</strong></li></ul><p id=\"\">Click on <strong id=\"\">\"Add from Google Business Profile\"</strong>.</p><p id=\"\"><strong id=\"\">Step 4: Select an existing connected Google accounts</strong> from which you want to add locations or connect a new Google account.</p><p id=\"\"><strong id=\"\">Step 5: Select the locations</strong> you want to add to the platform. <strong id=\"\">Click \"Next\"</strong> after selecting the locations.</p><p id=\"\">For a single location, it takes about 30 seconds to create the location. For a large number of locations, it might take longer.</p><p id=\"\">Once the locations are added, you will be notified through an in-app notification.</p><h2 id=\"\">Import multiple business locations to Synup</h2><p id=\"\">Managing your online presence effectively across multiple locations is crucial for business success. Synup lets you import all your business locations from Google, so you're not just saving time – you're ensuring that your business information is accurate, consistent, and optimized across the web.<br></p><p id=\"\">New to Synup? <a href=\"https://www.synup.com/book-a-demo\" id=\"\">Book a demo</a> to see it all in action</p>",
+  "use_case_show_on_product_menu": false,
+  "use_case_summary": "Managing multiple business locations can be a complex and time-consuming task, especially when it comes to maintaining consistent and accurate information across various online platforms. But what if you could streamline this process and import all your locations directly from Google? That's exactly what Synup offers!",
+  "use_case_categories": "listings",
+  "seo": {
+    "title": "Effortlessly Import Business Locations from Google | Boost Your Online Presence with Synup",
+    "description": "Import business locations from Google to Synup and enhance your online presence effortlessly. Manage your listings, reviews, and more across all platforms with ease using Synup's comprehensive platform.",
+    "canonical": "https://www.synup.com/use-cases/import-business-locations-from-google",
+    "ogImage": null
+  }
+}

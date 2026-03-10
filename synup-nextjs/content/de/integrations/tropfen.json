@@ -1,0 +1,28 @@
+{
+  "slug": "drip",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Tropfen",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf363c9e10c54a0d4386",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:18 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:18 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf363c9e10c54a0d4361_6548be78accc5211a1fb2d6f_drip.svg",
+  "title_tag": "Integrieren Sie Drip mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Drip + Syrup</strong></h1><p id=\"\">Revolutionieren Sie Ihre Prozesse zur Akquise und Verwaltung von Bewertungen, indem Sie die E-Commerce-Marketingautomatisierung von Drip mit der spezialisierten Expertise von Synup in der Orchestrierung von Bewertungen kombinieren.</p><h2 id=\"\">Was ist Drip?</h2><p id=\"\">Drip ist eine E-Commerce-Marketingautomatisierungsplattform, die Pionierarbeit bei personalisierten Kundenerlebnissen leistet und es Unternehmen ermöglicht, einzigartige Kundenerlebnisse zu gestalten, das Engagement zu optimieren und Strategien zur Umsatzgenerierung zu verbessern.</p><h2 id=\"\">Warum Drip + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Kundenorientierte Überprüfungsanfragen:</strong> Nutzen Sie das Kundenverständnis von Drip, um Bewertungsanfragen zu erstellen, die auf die individuellen Erfahrungen jedes Kunden eingehen und relevantere und von Herzen kommende Bewertungen fördern.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatisierte Überprüfungsverfahren:</strong> Nutzen Sie die Automatisierungsfunktionen von Drip, um Kundenerlebnisse zu gestalten, die auf natürliche Weise Aufforderungen zur Bewertung an optimalen Kontaktpunkten beinhalten, wodurch die Wahrscheinlichkeit erhöht wird, aussagekräftiges Feedback zu erhalten.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">E-Commerce-orientierte Strategien: </strong>Passen Sie Strategien zur Akquise von Bewertungen an E-Commerce-Interaktionen an und stellen Sie sicher, dass die Bewertungen eng mit den tatsächlichen Kauf- und Interaktionshistorien der Kunden übereinstimmen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Dynamische Bewertungssegmentierung:</strong> Nutzen Sie die Segmentierungsfunktionen von Drip, um Kunden anhand verschiedener Merkmale zu kategorisieren und so gezieltere und relevantere Kampagnen zur Aufforderung zur Einreichung von Bewertungen zu ermöglichen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intelligente Bewertungsanalysen:</strong> Integrieren Sie die analytischen Informationen von Synup in Drip und ermöglichen Sie so eine tiefgründigere Analyse der Performance und Strategien von Review-Akquisitionen im E-Commerce-Kontext.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Kontinuierliche Review-Optimierung: </strong>Nutzen Sie das adaptive Lernen von Drip, um die Strategien zur Aufforderung zur Einreichung von Bewertungen auf der Grundlage des sich ändernden Kundenverhaltens und der Feedback-Trends kontinuierlich zu optimieren.</li></ul><p id=\"\">Durch die Integration von Drip mit Synup entsteht ein ausgeklügeltes Bewertungsmanagement-Ökosystem. Es nutzt E-Commerce-Intelligenz und Automatisierung, um Bewertungsstrategien zu entwickeln, die stark personalisiert und effektiv automatisiert sind und in hohem Maße auf die individuellen Bedürfnisse und Erfahrungen von E-Commerce-Kunden zugeschnitten sind.</p><h2 id=\"\">Wie integriere ich Drip + Synup?</h2><p id=\"\">Die Drip-Integration für die Erfassung von Bewertungen steht allen Synup-Abonnenten zur Verfügung. Um die Integration anzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Rufe auf der Synup-Konsole den Tab „Akquisition überprüfen“ auf.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf Connect CRM oder App Button.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie den Ordner oder Speicherort aus, mit dem Sie Drip verbinden möchten.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr CRM.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung von CRM.</li></ul><ul id=\"\"><li id=\"\">Erstellen Sie Review-Akquisitionen mithilfe von Kontakten aus CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Tropfen",
+    "description": "Revolutionieren Sie das Bewertungsmanagement mit Drip + Synup. Personalisierte, automatisierte und auf E-Commerce ausgerichtete Strategien für aussagekräftiges Feedback. Optimieren Sie noch heute Ihre Kundenreise!",
+    "canonical": "https://www.synup.com/de/integrations/tropfen",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ebusiness-pages",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Páginas de comercio electrónico",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76298013fb4177db8e2de",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:56 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:56 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Agregue su negocio a las páginas de negocios electrónicos con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Páginas de comercio electrónico + Suscribirse</h1><p id=\"\"><strong id=\"\">Agregue, reclame y edite listados y reseñas de empresas en páginas de negocios electrónicos con las herramientas de administración de listados y reseñas de Synup.</strong></p><h2 id=\"\">¿Qué es eBusiness Pages?</h2><p id=\"\">Es probable que eBusiness Pages sea un directorio o plataforma en línea que presenta listados de varias empresas, lo que permite a los usuarios buscar servicios o empresas específicos. Sirve como un recurso para las personas que buscan información sobre empresas locales.</p><h2 id=\"\">¿Por qué elegir eBusiness Pages + Synup?</h2><ul id=\"\"><li id=\"\">Control total sobre los listados: con la capacidad de administrar los listados de su empresa en las páginas de comercio electrónico, usted mantiene un control total sobre su presencia en línea, lo que garantiza que su empresa esté representada de manera precisa.</li><li id=\"\">Amplíe su alcance: agregar su empresa a las páginas de comercio electrónico a través de Synup significa una mayor visibilidad. Ayude a los clientes potenciales a descubrirlo, ampliando su alcance de manera efectiva.</li><li id=\"\">Información empresarial precisa: aumente la confianza y la credibilidad publicando información precisa en las páginas de comercio electrónico.</li><li id=\"\">Interacción con los clientes: consulta y responde a las opiniones en las páginas de comercio electrónico, fomentando una relación positiva con tus clientes y demostrando que valoras sus comentarios y que estás atento a sus necesidades.</li></ul><h2 id=\"\">¿Cómo integrar eBusiness Pages + Synup?</h2><p id=\"\">La integración de eBusiness Pages está disponible para todos los suscriptores del plan Synup Listings. Para ver y administrar la integración de eBusiness Pages:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haga clic en el logotipo de eBusiness Pages para administrar la integración de Synup + eBusiness Pages y la configuración asociada.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Páginas de comercio electrónico",
+    "description": "Optimice su presencia en línea. La integración de Synup en eBusiness Pages garantiza datos empresariales precisos para una visibilidad superior.",
+    "canonical": "https://www.synup.com/es/integrations/ebusiness-pages",
+    "ogImage": null
+  }
+}

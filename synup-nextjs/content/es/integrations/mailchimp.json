@@ -1,0 +1,28 @@
+{
+  "slug": "mailchimp",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Mailchimp",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76292267315df8b4b1bd7",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integra Mailchimp con Synup para automatizar tu proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Suscribirse a Mailchimp +</strong></h1><p id=\"\">Maximice las reseñas sin esfuerzo con Mailchimp + Synup: ¡una potente sinergia para la adquisición automática y personalizada de reseñas!</p><h2 id=\"\">¿Qué es Mailchimp?</h2><p id=\"\">Mailchimp es una plataforma líder de marketing por correo electrónico que se especializa en crear campañas de correo electrónico específicas, automatizar funciones de marketing cruciales y analizar las métricas de rendimiento para mejorar las tasas de participación y conversión.</p><h2 id=\"\">¿Por qué Mailchimp + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Campañas de revisión específicas: </strong>Utiliza las funciones de segmentación de Mailchimp para crear campañas de correo electrónico específicas, alentando a segmentos específicos de clientes a dejar reseñas significativas basadas en sus experiencias.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión automatizadas: </strong>Aprovecha las herramientas de automatización de Mailchimp para programar y enviar correos electrónicos de solicitud de revisión personalizados en los momentos óptimos, lo que aumenta la probabilidad de que los clientes capten y respondan.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión personalizadas: </strong>Aprovecha las funciones de personalización de Mailchimp para personalizar los correos electrónicos de solicitud de revisión, haciendo que tengan más repercusión entre los clientes y mejorando su relevancia y atractivo.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Análisis de reseñas perspicaces: </strong>Integra el análisis de reseñas de Synup en Mailchimp para comprender mejor los patrones de comentarios de los clientes y perfeccionar las estrategias de correo electrónico para la adquisición de reseñas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Contenido de reseñas atractivo: </strong>Utiliza las funcionalidades de diseño de Mailchimp para crear contenido de correo electrónico visualmente atractivo y atractivo que cautive a los clientes y los anime a dejar comentarios.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Seguimiento de la revisión estratégica:</strong> Implementa las herramientas de Mailchimp para planificar y ejecutar correos electrónicos de seguimiento estratégicos, fomentar las relaciones con los clientes y fomentar la participación continua a través de las reseñas.</li></ul><p id=\"\">La integración de Mailchimp con Synup mejora tu estrategia de gestión de reseñas, ya que combina potentes técnicas de marketing por correo electrónico con un análisis y una gestión de reseñas perspicaces, para fomentar la interacción y los comentarios de los clientes.</p><h2 id=\"\">¿Cómo integrar Mailchimp + Synup?</h2><p id=\"\">La integración de Mailchimp para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y gestionar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o ubicación a la que quieres conectar Mailchimp.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Mailchimp",
+    "description": "Optimiza la gestión de reseñas con Mailchimp + Synup: campañas segmentadas, solicitudes automatizadas y análisis detallados para mejorar la participación de los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/mailchimp",
+    "ogImage": null
+  }
+}

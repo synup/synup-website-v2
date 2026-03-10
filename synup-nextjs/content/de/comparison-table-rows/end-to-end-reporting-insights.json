@@ -1,0 +1,26 @@
+{
+  "slug": "end-to-end-reporting-insights",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "End-to-End Reporting & Insights",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68e7711047ba97984dccaa9a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Oct 09 2025 08:23:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 08:23:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 08:38:55 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Unified",
+  "second_col": "Sales-Only",
+  "select_table_category": "__MISSING__",
+  "list_order": null,
+  "select_pages": "pipedrive-vs-synup",
+  "seo": {
+    "title": "End-to-End Reporting & Insights",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/end-to-end-reporting-insights",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "best-of-the-web",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Lo mejor de la web (BOTW)",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a762914a0f8141933a0195",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:49 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:49 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Administre la información de su empresa en BestofWeb Local con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<p id=\"\">Best of the Web es uno de los directorios en línea más visitados, con más de 16 millones de empresas estadounidenses que ya figuran en la lista. Permite a los clientes encontrar información comercial, horarios, ubicaciones, cupones y reseñas.</p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Lo mejor de la web (BOTW)",
+    "description": "Mejore su presencia digital. La integración de Synup con Best of the Web garantiza una visibilidad de primer nivel para su negocio.",
+    "canonical": "https://www.synup.com/es/integrations/lo-mejor-de-la-web-botw",
+    "ogImage": null
+  }
+}

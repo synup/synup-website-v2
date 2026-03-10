@@ -1,0 +1,31 @@
+{
+  "slug": "yellowpages",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Páginas amarillas",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76298d60d5d82b72a18b5",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:56 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:56 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Gestione la información de su empresa en Yellowpages con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">YellowPages.com + Regístrate</strong><br></h1><h2 id=\"\"><strong id=\"\"><br>¿Qué es Yellowpages.com?</strong></h2><p id=\"\">YellowPages.com es un servicio indispensable para las empresas que buscan mejorar su visibilidad en el dominio virtual, ya que sirve como un directorio completo que ayuda a las empresas a anunciar y atraer clientes potenciales. Al igual que servicios como Bing Places, YellowPages.com es una herramienta que utilizan empresas de todo el mundo y que ofrece amplia información sobre los servicios, los horarios de atención y las ubicaciones para conectarse de manera eficiente con una amplia audiencia.</p><h2 id=\"\"><strong id=\"\">¿Por qué YellowPages.com + Synup?</strong></h2><p id=\"\"><strong id=\"\">Administración de directorios</strong>: La integración de Synup con YellowPages.com ofrece a las empresas un control supremo sobre sus anuncios. Esta poderosa combinación permite crear y administrar perfiles precisos, actualizados y que reflejen la imagen de marca de la empresa, proporcionando así a los posibles clientes la información necesaria y confiable. Lleve un registro de las opiniones de los clientes y tome medidas correctivas cuando sea necesario.</p><p id=\"\"><strong id=\"\">Mayor exposición en línea</strong>: Aunque Google y Bing son prominentes, YellowPages.com ofrece una plataforma valiosa con un amplio alcance. Al crear un perfil en YellowPages.com, las empresas pueden ampliar considerablemente su visibilidad en línea. Con la ayuda de los expertos de Synup, los perfiles se optimizan para que sean más visibles, lo que ayuda a los clientes a localizar fácilmente tu empresa cuando buscan los servicios o productos que ofreces.</p><p id=\"\"><strong id=\"\">Información empresarial confiable</strong>: La base de la confianza del cliente es la información empresarial precisa y verificada. El empleo de YellowPages.com junto con Synup garantiza que la información disponible para los clientes sea precisa y confiable, lo que posiciona a su empresa como un establecimiento confiable y digno de confianza.</p><p id=\"\"><strong id=\"\">Decisiones empresariales informadas</strong>: Utilice la sólida combinación de YellowPages.com y Synup para acceder a información y análisis detallados sobre su clientela. Estos datos son fundamentales para perfeccionar sus estrategias de marketing, ya que ofrecen una hoja de ruta para procesos de toma de decisiones informados que son fundamentales para el desarrollo y el éxito de su empresa.</p><p id=\"\">Aproveche la combinación de YellowPages.com y Synup para administrar de manera competente su presencia en línea, interactuar con clientes potenciales y ampliar la visibilidad y la autenticidad de su negocio en Internet. Con listados precisos, una mayor participación y análisis detallados, las empresas están bien equipadas para navegar y tener éxito en el mercado digital.</p><h2 id=\"\"><strong id=\"\">¿Cómo integrar YellowPages.com + Synup?<br></strong></h2><p id=\"\">La integración con YellowPages.com está disponible para todos los suscriptores del plan Synup Listings. Para ver y administrar la integración de YellowPages.com:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haga clic en el logotipo de YellowPages.com para administrar la integración de Synup + YellowPages.com y la configuración asociada.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#9a2fad",
+  "integration_bg_image": null,
+  "integration_summary": "Haz que te encuentren en las páginas amarillas.",
+  "seo": {
+    "title": "Páginas amarillas",
+    "description": "Mejore su presencia en las páginas amarillas. La integración de Synup garantiza datos empresariales precisos para una visibilidad en línea superior y una mayor participación de los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/yellowpages",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "localizedlisting",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Annonce localisée",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c591e1560ff67edbf20",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Liste localisée + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur LocalizedListing grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que LocalizedListing&nbsp;?</h2><p id=\"\">LocalizedListing, une plateforme de premier plan pour les listes d'entreprises et les informations localisées, constitue une ressource précieuse pour les utilisateurs qui recherchent des entreprises et des services dans leurs régions spécifiques. Que vous recherchiez des recommandations locales ou que vous souhaitiez accroître la visibilité de votre entreprise, LocalizedListing propose des outils complets pour vous aider à réussir.</p><h2 id=\"\">Pourquoi LocalizedListing + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: En pouvant gérer les fiches de vos entreprises sur LocalizedListing, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à LocalizedListing via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur LocalizedListing.</li><li id=\"\">Engagement des clients&nbsp;: consultez et répondez aux avis sur LocalizedListing, ce qui favorise une relation positive avec vos clients, montre que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer LocalizedListing + Synup&nbsp;?</h2><p id=\"\">L'intégration LocalizedListing est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration de LocalizedListing&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo LocalizedListing pour gérer l'intégration Synup + LocalizedListing et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Annonce localisée",
+    "description": "Répertoire général",
+    "canonical": "https://www.synup.com/fr/integrations/localizedlisting",
+    "ogImage": null
+  }
+}

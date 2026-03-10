@@ -1,0 +1,28 @@
+{
+  "slug": "clickup",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Haga clic arriba",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a762909ae3df99f2900d69",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:48 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:48 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2722a5f9e9686fc4b4_6548a9590af04ec3a9cf9d94_Clickup.svg",
+  "title_tag": "Integre Clickup con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">ClickUp + Regístrate</strong></h1><p id=\"\">Navegue por una trayectoria transformadora en la gestión de reseñas de clientes fusionando la potencia de productividad de ClickUp con las refinadas estrategias de adquisición y gestión de reseñas de Synup.</p><h2 id=\"\">¿Qué es ClickUp?</h2><p id=\"\">ClickUp es una plataforma de productividad que combina la gestión de tareas, la colaboración en proyectos y el seguimiento de objetivos. Fomenta un entorno en el que los equipos pueden prosperar, garantizando la claridad, la concentración y la ejecución exitosa de los proyectos.</p><h2 id=\"\">¿Por qué ClickUp + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Colección de reseñas orientadas a tareas: </strong>Aproveche la granularidad de la gestión de tareas de ClickUp para generar solicitudes de revisión ricas en contexto en los momentos esenciales de las interacciones con los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Ecosistema de retroalimentación unificado: </strong>Alinee la información detallada del proyecto de ClickUp con los análisis de reseñas de Synup, creando una esfera unificada para una comprensión más profunda de las experiencias y sentimientos de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujo de trabajo de solicitud de revisión sin interrupciones: </strong>Integre las capacidades de revisión de Synup en el espacio de trabajo integral de ClickUp, lo que facilita un enfoque fluido e integrado para capturar y gestionar los comentarios de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Experiencias de revisión personalizadas:</strong> Aproveche los datos matizados de tareas y proyectos de ClickUp para personalizar las solicitudes de reseñas y crear una estrategia de interacción sólida y significativa para cada interacción con el cliente.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Refinamiento de la estrategia basada en datos: </strong>Utilice los conocimientos combinados de ClickUp y Synup para descubrir estrategias prácticas que aumenten la satisfacción del cliente y perfeccionen los modelos de prestación de servicios.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Procesos de revisión optimizados: </strong>Integre las funcionalidades de gestión de reseñas sin problemas en el entorno de ClickUp, mejorando la eficacia y la coordinación de los esfuerzos de adquisición de reseñas.</li></ul><p id=\"\">Al integrar ClickUp con Synup, explore vías innovadoras en la gestión de reseñas, donde cada finalización de tareas y cada hito del proyecto se convierta en una fuente de oportunidades para cultivar valiosos comentarios de los clientes y fomentar estrategias de revisión mejoradas.</p><h2 id=\"\">¿Cómo integrar ClickUp + Synup?</h2><p id=\"\">La integración de ClickUp para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y gestionar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o ubicación a la que quieres conectar ClickUp.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Haga clic arriba",
+    "description": "Transforme su gestión de reseñas con ClickUp + Synup: aproveche la recopilación de reseñas orientada a las tareas, los comentarios unificados y las experiencias personalizadas para la satisfacción del cliente.",
+    "canonical": "https://www.synup.com/es/integrations/haga-clic-arriba",
+    "ogImage": null
+  }
+}

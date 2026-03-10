@@ -1,0 +1,28 @@
+{
+  "slug": "clover",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Trébol",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7629c2465ea0b93eeebce",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:17:00 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:17:00 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2d45d55f8067afd7c8_6548f36f082f4f52ad99a70e_Clover.svg",
+  "title_tag": "Integre Clover con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Clover + Synup</strong></h1><p id=\"\">Revolucione la gestión de reseñas de sus clientes fusionando la excepcional destreza de procesamiento de pagos de Clover con las funcionalidades avanzadas de adquisición y gestión de reseñas de Synup.</p><h2 id=\"\">¿Qué es Clover?</h2><p id=\"\">Clover es una solución integral de procesamiento de pagos que se destaca por sus configuraciones personalizables de hardware y software de pago, transacciones optimizadas y una amplia gama de herramientas que simplifican y mejoran la experiencia de pago tanto para las empresas como para sus clientes.</p><h2 id=\"\">¿Por qué Clover + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Participación en la revisión en tiempo real:</strong> Aproveche el poder del rápido procesamiento de pagos de Clover para atraer a los clientes con solicitudes de revisión inmediatas, capturando su experiencia de forma fresca y precisa.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Información integrada sobre los clientes: </strong>Combine sin problemas los datos de pago detallados de Clover con las opiniones de Synup para crear una comprensión unificada y profunda de la satisfacción del cliente y los matices de la interacción.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Adquisición automática de reseñas:</strong> Incorpore solicitudes de revisión automatizadas en los flujos de trabajo de pago de Clover, lo que permite capturar de manera uniforme y sencilla los valiosos comentarios de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Interacciones de revisión centradas en la personalización: </strong>Personalice las solicitudes de revisión y las comunicaciones para que se ajusten a los historiales de pago e interacciones de los clientes individuales, fomentando una experiencia de revisión más personalizada y eficaz.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Avances empresariales estratégicos:</strong> Utilice la información combinada de los datos de pago y las opiniones de los clientes para mejorar estratégicamente las ofertas comerciales, el servicio al cliente y la satisfacción general del cliente.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujo de trabajo operativo optimizado: </strong>Sincronice los procesos de gestión de reseñas sin problemas dentro de la infraestructura de pagos existente de Clover, promoviendo un enfoque eficiente y coherente para obtener y gestionar los comentarios de los clientes.</li></ul><p id=\"\">Al integrar Clover con Synup, se despliega un enfoque innovador para la gestión de reseñas, que utiliza cada interacción de pago como un punto de contacto fundamental para recopilar, analizar y aprovechar las opiniones de los clientes para una mejora estratégica del negocio y una mayor satisfacción del cliente.</p><h2 id=\"\">¿Cómo integrar Clover + Synup?</h2><p id=\"\">La integración de Clover para el procesamiento de pagos está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Procesamiento de pagos en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar pasarela de pago.</li></ul><ul id=\"\"><li id=\"\">Selecciona Clover como tu procesador de pagos.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Clover.</li></ul><ul id=\"\"><li id=\"\">Termina de configurar el procesamiento de pagos.</li></ul><ul id=\"\"><li id=\"\">Acepta pagos a través de Clover.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Trébol",
+    "description": "Revolucione la gestión de reseñas con Clover + Synup: participación, información, automatización e interacciones personalizadas en tiempo real para mejorar el éxito empresarial.",
+    "canonical": "https://www.synup.com/es/integrations/clover",
+    "ogImage": null
+  }
+}

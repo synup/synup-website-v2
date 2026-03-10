@@ -1,0 +1,28 @@
+{
+  "slug": "google-q-a",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Questions et réponses sur Google",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61551e3d124961cbac114",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "listings-management",
+  "list_order": "15.0",
+  "select_pages": "synup-vs-yext; birdeye-alternative; chatmeter-alternative; soci-alternative; uberall-alternative; vendasta-alternative; widewail-alternative; woobound-alternative; review-trackers-alternative; surefire-local-alternative; singleinterface-alternative; sproutloud-alternative; turbify-alternative; dbaplatform-alternative; synup-vs-digitalmass; synup-vs-yotpo; synup-vs-whitespark; promanage-alternative; zceppa-alternative",
+  "tabel_category": "Questions et réponses sur Google",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Questions et réponses sur Google",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/google-q-a",
+    "ogImage": null
+  }
+}

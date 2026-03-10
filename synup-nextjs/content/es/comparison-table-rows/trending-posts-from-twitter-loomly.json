@@ -1,0 +1,27 @@
+{
+  "slug": "trending-posts-from-twitter-loomly",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Publicaciones más populares de Twitter - Loomly",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da125c4a5ae09e3284fd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "ai-posts-ideas",
+  "list_order": "21.0",
+  "select_pages": "loomly-alternative",
+  "tabel_category": "Publicaciones populares de Twitter",
+  "seo": {
+    "title": "Publicaciones más populares de Twitter - Loomly",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/trending-posts-from-twitter-loomly",
+    "ogImage": null
+  }
+}

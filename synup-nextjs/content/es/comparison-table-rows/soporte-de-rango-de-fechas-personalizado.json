@@ -1,0 +1,27 @@
+{
+  "slug": "custom-date-range-support",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Soporte de rango de fechas personalizado",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da135c4a5ae09e32854b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "analytics",
+  "list_order": "28.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; socialbee-alternative; reputation-com-alternative; buffer-alternative; sprout-social-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Soporte de rango de fechas personalizado",
+  "seo": {
+    "title": "Soporte de rango de fechas personalizado",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/soporte-de-rango-de-fechas-personalizado",
+    "ogImage": null
+  }
+}

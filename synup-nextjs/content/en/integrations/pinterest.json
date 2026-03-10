@@ -1,0 +1,31 @@
+{
+  "slug": "pinterest",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Pinterest",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2395a430a310531360ba",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2395a430a310531360b3_6761253e7f481757535df3fd_20241217T0715-0a3fdd98-32af-475d-83f8-a601c125b626.webp",
+  "title_tag": "Manage Your Pinterest Page and Listing with Synup",
+  "link_to_cta": "https://www.synup.com/book-a-demo",
+  "tags": "india; france; germany; netherlands; uae; south-africa; nigeria; ireland; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Pinterest + Synup?</strong></h1><h2 id=\"\"><strong id=\"\">What is Pinterest?</strong></h2><p id=\"\">Pinterest is a visual discovery platform where users can find inspiration and ideas for their interests, hobbies, and projects. With over 450 million active users, Pinterest is a powerful tool for businesses to showcase their products, services, and brand identity through visually appealing pins and boards. It's particularly effective for driving traffic, generating leads, and increasing brand awareness.</p><h2 id=\"\"><strong id=\"\">Why Manage Pinterest Presence with Synup?</strong></h2><p id=\"\"><strong id=\"\">Showcase Your Brand Visually:</strong> Pinterest is all about visual content, and with Synup, you can ensure that your pins are not only visually appealing but also optimized for maximum reach. Synup helps you maintain a cohesive brand presence by curating pins that align with your brand’s aesthetics and messaging. Whether you're promoting products, sharing ideas, or building brand awareness, Synup’s tools make it easy to create and manage captivating Pinterest content.</p><p id=\"\"><strong id=\"\">AI-Enhanced Content Creation:</strong> Creating high-quality, engaging pins consistently can be time-consuming. Synup’s AI-powered content creation capabilities simplify this process by generating relevant descriptions that resonate with your audience. With Synup, you can easily create on-brand content that stands out and drives more engagement on Pinterest.</p><p id=\"\"><strong id=\"\">Maximize Your Reach:</strong> Pinterest operates on a search-based algorithm, making it essential to optimize your pins for discovery. Synup ensures that your Pinterest presence is fully optimized with the right keywords and descriptions, increasing your chances of appearing in user searches. By leveraging Synup’s optimization tools, your pins can reach a broader audience, driving more traffic to your website or online store.</p><p id=\"\"><strong id=\"\">Build Credibility and Trust:</strong> A well-maintained Pinterest profile enhances your brand's credibility and trustworthiness. Synup helps you manage your Pinterest boards and pins, ensuring they are consistent, up-to-date, and aligned with your brand’s values. This consistency helps build trust with your audience, encouraging them to engage with your content and follow your boards.</p><p id=\"\"><strong id=\"\">Data-Driven Decisions:</strong> Understanding what resonates with your audience on Pinterest is crucial for driving success. Synup’s Pinterest analytics integration provides deep insights into your pin performance and engagement trends. This data empowers you to make informed decisions, optimize your pinning strategy, and enhance your Pinterest marketing efforts for results. With Synup, you can continuously refine your approach, ensuring that your Pinterest presence remains dynamic and effective.</p><p id=\"\">Integrating Pinterest with Synup offers a comprehensive solution for managing your brand's visual content, maximizing reach, and engaging with your audience. Through AI-enhanced content creation, optimized visibility, and actionable insights, your business can thrive on Pinterest, turning pins into powerful drivers of traffic and customer engagement.</p><h2 id=\"\"><strong id=\"\">How to Integrate Pinterest with Synup?</strong></h2><p id=\"\">The Pinterest platform integration is available to all Synup Social users. To set up and manage your Pinterest account:</p><ol id=\"\"><li id=\"\">Log in to your Synup Social account.</li><li id=\"\">Go to Settings &gt; Connected Channels.</li></ol><ol start=\"3\" id=\"\"><li id=\"\">Click the ‘Connect New Channel’ button.</li><li id=\"\">Select Pinterest and follow the prompts to connect your profile.</li></ol>",
+  "integration_types": "social-app",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#ea0b8c",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2390c13160717161200d_676017eb02a9cc61b8af7175_20241216T1207-ce77bd85-d62d-4707-8be9-74731a2b3ea7.webp",
+  "integration_summary": "Add your business, publish content on Pinterest.",
+  "seo": {
+    "title": "Pinterest",
+    "description": "Optimize your presence on Pinterest. Synup integration ensures accurate business data for superior online visibility and engagement.",
+    "canonical": "https://www.synup.com/integrations/pinterest",
+    "ogImage": null
+  }
+}

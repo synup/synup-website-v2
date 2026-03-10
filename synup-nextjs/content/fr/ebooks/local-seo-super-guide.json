@@ -1,0 +1,28 @@
+{
+  "slug": "local-seo-super-guide",
+  "locale": "fr",
+  "collectionType": "ebooks",
+  "name": "Super guide du référencement local",
+  "collection_id": "6891dedfab83e12481b305d9",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61049f1b99f0ca6c5db74",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:13:29 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:13:29 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "ebook_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4c1ad4be3f6ef27e6439c_60236b3620b8e25041373e9b_seo-superguide-card-cover.avif",
+  "rich_text_block": "<p id=\"\">Notre Superguide du référencement local est un livre électronique complet qui explique les bases du référencement local. Il s'agit du guide ultime pour les propriétaires d'entreprise et les spécialistes du marketing qui souhaitent renforcer leurs efforts de marketing local. Il couvre l'optimisation des sites Web, la création de citations, la création de liens, la gestion de la réputation en ligne et les réseaux sociaux.</p>",
+  "category": "__MISSING__",
+  "free_business": true,
+  "learn_more": false,
+  "schedule_a_demo": false,
+  "resource_type": "Ebook",
+  "ebook_link": "https://files.tryflowdrive.com/495/file-c723157a-375d-4f51-8856-6e928db9f4b6_Local-SEO-Superguide-2024.pdf",
+  "seo": {
+    "title": "Super guide du référencement local",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/ebooks/local-seo-super-guide",
+    "ogImage": null
+  }
+}

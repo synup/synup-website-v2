@@ -1,0 +1,28 @@
+{
+  "slug": "localtunity",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Unité locale",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6d87202e9015b35277",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3ba3c97a901587bac8_65312c0817a2030cb638fc80_Localtunity.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Localtunity avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Localtunity + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Localtunity grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que Localtunity&nbsp;?</h2><p id=\"\">Localtunity, une communauté en ligne dynamique dédiée à favoriser les connexions locales et à soutenir les entreprises de quartier, enrichit la vie des résidents et des entrepreneurs. Que vous recherchiez des événements locaux, des opportunités commerciales ou des moyens de vous engager auprès de votre communauté, Localtunity fournit une plateforme dynamique pour entrer en contact avec vos voisins.</p><h2 id=\"\">Pourquoi Localtunity + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: en pouvant gérer les fiches de vos entreprises sur Localtunity, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à Localtunity via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur Localtunity.</li><li id=\"\">Engagement des clients&nbsp;: consultez et répondez aux avis sur Localtunity, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Localtunity + Synup&nbsp;?</h2><p id=\"\">L'intégration Localtunity est disponible pour tous les abonnés au plan de référencement Synup. Pour consulter et gérer l'intégration Localtunity&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Localtunity pour gérer l'intégration Synup + Localtunity et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Unité locale",
+    "description": "Maximisez votre visibilité sur Localtunity. L'intégration de Synup garantit des données commerciales précises pour une présence en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/localtunity",
+    "ogImage": null
+  }
+}

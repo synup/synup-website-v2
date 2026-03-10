@@ -1,0 +1,26 @@
+{
+  "slug": "prospecting-lead-enrichment",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Prospecting & Lead Enrichment",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68e77057fc0a90516db34926",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Oct 09 2025 08:20:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 08:20:52 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 08:38:55 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Limited",
+  "select_table_category": "__MISSING__",
+  "list_order": null,
+  "select_pages": "pipedrive-vs-synup",
+  "seo": {
+    "title": "Prospecting & Lead Enrichment",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/prospecting-lead-enrichment",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "nola-com",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Nola.com",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c689424c8d9f9889a03",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:56 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:56 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf31e923b5fc4450f733_65312b56e310a62d4846017e_nola.com.svg",
+  "title_tag": "Intégrez Nola à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">NOLA.com + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, éditez des fiches d'entreprises et des avis sur Nola.com grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">What is Nola.com&nbsp;?</h2><p id=\"\">NOLA.com est une source respectée d'actualités et d'informations sur la grande région de la Nouvelle-Orléans. Il fournit une couverture approfondie de l'actualité locale, des événements, de la culture et des sports, constituant une ressource précieuse pour les résidents et les personnes intéressées par la région de la Nouvelle-Orléans.</p><h2 id=\"\">Pourquoi Nola.com et Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Total control of Ads&nbsp;:</strong> Grâce à la possibilité de gérer les fiches de votre entreprise sur NOLA.com, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\"><strong id=\"\">Elargissez votre portée&nbsp;:</strong> L'ajout de votre entreprise à NOLA.com via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\"><strong id=\"\">Informations commerciales précises&nbsp;:</strong> Renforcez la confiance et la crédibilité en publiant des informations précises sur NOLA.com.</li><li id=\"\"><strong id=\"\">Engagement des clients&nbsp;:</strong> Consultez et répondez aux avis sur NOLA.com, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer NOLA.com à Synup&nbsp;?</h2><p id=\"\">L'intégration NOLA.com est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration de NOLA.com, procédez comme suit&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Nola.com pour gérer l'intégration Synup + NOLA.com et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Pour les entreprises, la gestion des données de localisation sur Facebook est désormais un jeu d'enfant avec Synup.",
+  "seo": {
+    "title": "Nola.com",
+    "description": "Maximisez votre présence sur NOLA.com. L'intégration de Synup garantit des données commerciales précises pour une visibilité en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/nolacom",
+    "ogImage": null
+  }
+}

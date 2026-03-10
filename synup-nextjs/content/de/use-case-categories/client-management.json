@@ -1,0 +1,20 @@
+{
+  "slug": "client-management",
+  "locale": "de",
+  "collectionType": "use-case-categories",
+  "name": "Client Management",
+  "collection_id": "6890f993e6fd82fb4c3cb59b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68ada68b5417514646fcc6ce",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 26 2025 12:20:27 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 26 2025 14:30:11 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Aug 28 2025 15:38:15 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Client Management",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/use-case-categories/client-management",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "google-business-messaging-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Mensajería de Google Business",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0dbada7c5f17385f8d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:37 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:37 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "listings-management",
+  "list_order": "16.0",
+  "select_pages": "birdeye-alternative; uberall-alternative; chatmeter-alternative; soci-alternative; synup-vs-digitalmass; synup-vs-yotpo; synup-vs-rannko; synup-vs-whitespark; promanage-alternative; zceppa-alternative",
+  "tabel_category": "Mensajería de Google Business",
+  "seo": {
+    "title": "Mensajería de Google Business",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/google-business-messaging-2",
+    "ogImage": null
+  }
+}

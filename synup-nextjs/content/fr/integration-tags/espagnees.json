@@ -1,0 +1,20 @@
+{
+  "slug": "spain-es",
+  "locale": "fr",
+  "collectionType": "integration-tags",
+  "name": "Espagne/ES",
+  "collection_id": "68826a55dc0ff405c5839a04",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60a7a09cd8a2d06137372",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:48:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:48:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Espagne/ES",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/integration-tags/espagnees",
+    "ogImage": null
+  }
+}

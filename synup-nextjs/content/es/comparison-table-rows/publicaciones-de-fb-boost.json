@@ -1,0 +1,27 @@
+{
+  "slug": "fb-boost-posts",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Publicaciones de FB Boost",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da123fa6632b90c542cd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "ads-support",
+  "list_order": "39.0",
+  "select_pages": "sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; hootsuite-alternative",
+  "tabel_category": "Publicaciones de FB Boost",
+  "seo": {
+    "title": "Publicaciones de FB Boost",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/publicaciones-de-fb-boost",
+    "ogImage": null
+  }
+}

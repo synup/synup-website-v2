@@ -1,0 +1,28 @@
+{
+  "slug": "google-assistant",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Assistant Google",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c5a6a10b89fe4bf6def",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2a44446bf042089497_65312d6e17a2030cb63b0ad9_Google%2520Assistant.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Google Assistant avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "__MISSING__",
+  "integration_types": "voice-assistant",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Assistant Google",
+    "description": "Améliorez l'accessibilité de l'Assistant Google. L'intégration de Synup garantit des données commerciales précises pour des interactions fluides avec les clients.",
+    "canonical": "https://www.synup.com/fr/integrations/assistant-google",
+    "ogImage": null
+  }
+}

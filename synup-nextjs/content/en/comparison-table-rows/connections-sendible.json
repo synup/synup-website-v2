@@ -1,0 +1,27 @@
+{
+  "slug": "connections-sendible",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Connections - Sendible",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db694bb73bfd5cc54820",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "5.0",
+  "second_col": "6.0",
+  "select_table_category": "top-category",
+  "list_order": "5.0",
+  "select_pages": "sendible-alternative",
+  "tabel_category": "Connections",
+  "seo": {
+    "title": "Connections - Sendible",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/connections-sendible",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "connections-agorapulse",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Connexions - Agorapulse",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a615486223a054c0778136",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:48 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:48 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "5.0",
+  "second_col": "15.0",
+  "select_table_category": "top-category",
+  "list_order": "5.0",
+  "select_pages": "agorapulse-alternative",
+  "tabel_category": "Connexions",
+  "seo": {
+    "title": "Connexions - Agorapulse",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/connexions-agorapulse",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "constant-contact",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Ständiger Kontakt",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf352335183b059e981f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:17 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:17 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf342335183b059e97bc_6548bde20b71f98915a6c739_Constant%2520Contact.svg",
+  "title_tag": "Integrieren Sie Constant Contact mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Ständiger Kontakt + Synup</strong></h1><p id=\"\">Optimieren Sie Ihre Strategie zur Akquise und Verwaltung von Bewertungen, indem Sie die einflussreichen E-Mail-Marketing-Lösungen von Constant Contact mit der fortschrittlichen Expertise von Synup im Bereich der Bewertungsoptimierung integrieren.</p><h2 id=\"\">Was ist Constant Contact?</h2><p id=\"\">Constant Contact ist eine hervorragende E-Mail-Marketing-Plattform, die Unternehmen eine Reihe von Tools bietet, um effektive E-Mail-Kampagnen zu erstellen, Kontakte zu verwalten und Ergebnisse zu analysieren, um so das Engagement und die Konversionsraten zu steigern.</p><h2 id=\"\">Warum Constant Contact + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Ansprechende Bewertungseinladungen: </strong>Nutzen Sie die umfangreichen Designtools von Constant Contact, um visuell ansprechende und ansprechende E-Mails mit Aufforderungen zur Bewertung zu erstellen, die die Aufmerksamkeit der Kunden auf sich ziehen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Kampagnen zur strategischen Überprüfung: </strong>Profitieren Sie von den Segmentierungs- und Targeting-Funktionen von Constant Contact, um Bewertungskampagnen zu starten, die auf unterschiedliche Kundenerfahrungen und Präferenzen abgestimmt sind.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatisierte Bewertungsanfragen: </strong>Nutzen Sie die Automatisierungsfunktionen von Constant Contact, um zeitnahe und relevante Bewertungsanfragen zu stellen und so die Antwortraten und die Qualität des erhaltenen Feedbacks zu verbessern.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Analytik und Einblicke überprüfen: </strong>Integrieren Sie die Analysefunktionen von Synup, um detaillierte Einblicke in die Leistung von Kampagnen zur Aufforderung zur Einreichung von Bewertungen zu gewinnen und datengestützte Strategieverbesserungen zu ermöglichen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Kontinuierliche Überprüfung fördern:</strong> Nutzen Sie die Follow-up-Tools von Constant Contact, um kontinuierliche Beziehungen zu den Rezensenten zu pflegen und ein Umfeld zu schaffen, in dem kontinuierliches, wertvolles Feedback erhalten wird.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Ganzheitliches Bewertungsmanagement: </strong>Durch die Kombination der Tools von Synup mit Constant Contact erhalten Sie eine ganzheitliche Ansicht und Verwaltung der Bewertungen, was einen optimierten Betrieb und die Verfeinerung der Strategie ermöglicht.</li></ul><p id=\"\">Die Fusion von Constant Contact mit Synup schafft ein transformatives Umfeld für das Bewertungsmanagement. Es verbessert die Sichtbarkeit, das Engagement und die strategische Ausrichtung Ihrer Bemühungen zur Bewertungserfassung und sorgt so für hervorragende Ergebnisse und Kundeninteraktionen.</p><h2 id=\"\">Wie integriere ich Constant Contact + Synup?</h2><p id=\"\">Die Constant Contact-Integration für die Erfassung von Bewertungen steht allen Synup-Abonnenten zur Verfügung. Um die Integration einzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Rufe auf der Synup-Konsole den Tab „Akquisition überprüfen“ auf.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf Connect CRM oder App Button.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie den Ordner oder Speicherort aus, mit dem Sie Constant Contact verbinden möchten.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr CRM.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung von CRM.</li></ul><ul id=\"\"><li id=\"\">Erstellen Sie Review-Akquisitionen mithilfe von Kontakten aus CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Ständiger Kontakt",
+    "description": "Optimieren Sie das Bewertungsmanagement mit Constant Contact + Synup. Verfassen Sie ansprechende Bewertungseinladungen, starten Sie strategische Kampagnen und gewinnen Sie wertvolle Erkenntnisse.",
+    "canonical": "https://www.synup.com/de/integrations/constant-contact",
+    "ogImage": null
+  }
+}

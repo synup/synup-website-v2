@@ -1,0 +1,26 @@
+{
+  "slug": "matt-d",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Matt D.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cb6013fb4177db6d9d1",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«Excelente herramienta para agencias de SEO»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">Synup es una herramienta extremadamente fácil de configurar y empezar a obtener un ROL rápido. Nuestros clientes disfrutan de un panel de control sencillo donde pueden tener una visión panorámica de la estrategia que vamos a implementar para ellos. El sistema de gestión de reseñas es excelente. Por último, el servicio de atención al cliente es excelente.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">Realmente no hay nada que no me guste. La herramienta es todo fácil y, si hay algún problema, el servicio de atención al cliente lo corrige.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Recomendaciones para otras personas que estén considerando la posibilidad de usar Synup:</strong></p><p id=\"\">No dudes en ponerte en contacto con el servicio de asistencia si tienes preguntas. Son extremadamente útiles.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">La gestión de las citas y reseñas de los clientes... y la presentación de informes a los clientes sobre dichas tareas. Todo está extremadamente simplificado con Synup.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Directora y fundadora</p><p id=\"\">Pequeñas empresas (50 o menos EMP.)</p><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Matt D.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/matt-d",
+    "ogImage": null
+  }
+}

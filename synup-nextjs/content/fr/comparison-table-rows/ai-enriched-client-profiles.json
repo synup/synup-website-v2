@@ -1,0 +1,23 @@
+{
+  "slug": "ai-enriched-client-profiles-1",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "AI-Enriched Client Profiles",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68d63c5486b8b6b1976f9e8b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Sep 26 2025 07:10:12 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 13:06:23 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "seo": {
+    "title": "AI-Enriched Client Profiles",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/ai-enriched-client-profiles",
+    "ogImage": null
+  }
+}

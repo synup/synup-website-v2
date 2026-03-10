@@ -1,0 +1,28 @@
+{
+  "slug": "google-business-messaging",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Google Business Messaging",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db6bca612247b3bc0589",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:35 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 12:11:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 12:15:00 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "16.0",
+  "select_pages": "brightlocal-alternative; local-clarity-alternative; thryv-alternative; synup-vs-yext; vendasta-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; review-trackers-alternative; surefire-local-alternative; pinmeto-alternative; rio-seo-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; dbaplatform-alternative; advicelocal-alternative; synup-vs-experience-com; synup-vs-location-bank; synup-vs-localpanda-ai; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews; gmb-api-alternative; zoho-publish-alternative",
+  "tabel_category": "Google Business Messaging",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative",
+  "seo": {
+    "title": "Google Business Messaging",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/google-business-messaging",
+    "ogImage": null
+  }
+}

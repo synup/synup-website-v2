@@ -1,0 +1,28 @@
+{
+  "slug": "liondesk",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Bureau Lion",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c5b4ed3a7a55479977e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2e42105abf85e3bd46_6548e23f22898db5ca41a599_Liondesk.svg",
+  "title_tag": "Intégrez LionDesk à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">LionDesk + Synup</h1><p id=\"\">LionDesk + Synup présente une intégration dynamique qui exploite de manière innovante les puissantes capacités CRM de LionDesk avec l'habileté de Synup en matière d'acquisition et de gestion des avis.</p><h2 id=\"\">Qu'est-ce que LionDesk&nbsp;?</h2><p id=\"\">LionDesk est une solide plateforme CRM et de vente conçue principalement pour les professionnels de l'immobilier, axée sur l'amélioration de la gestion des clients. Il intègre des fonctionnalités polyvalentes telles que la gestion des contacts, le marketing par e-mail et des outils de communication innovants tels que l'envoi vidéo, favorisant un engagement client enrichi. LionDesk vise à centraliser et à rationaliser les flux de travail, permettant une gestion efficace des prospects et des clients, maximisant ainsi les clôtures de transactions et minimisant les opportunités manquées en raison de la désorganisation ou du manque de suivi. </p><h2 id=\"\">Pourquoi LionDesk + Synup&nbsp;?</h2><p id=\"\"><strong id=\"\">Engagement accru des clients&nbsp;:</strong> En utilisant les fonctionnalités CRM complètes de LionDesk ainsi que la gestion des avis de Synup, les entreprises peuvent favoriser des interactions plus riches avec les clients, en veillant à ce que les précieux commentaires soient capturés et traités rapidement.</p><p id=\"\"><strong id=\"\">Opérations rationalisées&nbsp;:</strong> L'intégration simplifie les flux de travail, permettant aux entreprises de gérer les relations avec les clients et les avis au sein d'une plateforme unifiée, améliorant ainsi l'efficacité et l'organisation.</p><p id=\"\"><strong id=\"\">Examen stratégique et acquisition&nbsp;: </strong>Grâce à l'utilisation de l'API de LionDesk par Synup, les entreprises peuvent demander et gérer des évaluations de manière stratégique, en veillant à ce que le processus d'acquisition soit non seulement rationalisé, mais également plus ciblé et efficace.</p><p id=\"\"><strong id=\"\">Communication améliorée&nbsp;:</strong> La combinaison des fonctionnalités avancées de gestion des contacts et des tâches de LionDesk avec les fonctionnalités de révision de Synup permet d'optimiser les stratégies de communication, garantissant des engagements opportuns et pertinents.</p><p id=\"\"><strong id=\"\">Informations basées sur les données&nbsp;: </strong>En tirant parti des atouts analytiques des deux plateformes, les entreprises peuvent obtenir des informations exploitables pour améliorer leurs stratégies d'acquisition d'avis et leur gestion de la relation client, ce qui se traduit par de meilleurs résultats et de meilleures performances commerciales.<br>‍</p><p id=\"\">Cette intégration vise à responsabiliser les entreprises, en particulier dans le secteur immobilier, en fournissant une solution fluide et puissante pour gérer efficacement les relations clients et les avis en ligne.</p><h2 id=\"\">Comment intégrer LionDesk + Synup&nbsp;?</h2><p id=\"\">L'intégration de LionDesk pour la gestion de la relation client est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Intégration CRM sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez LionDesk comme logiciel CRM.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte LionDesk.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Gérez les relations clients à l'aide de LionDesk.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Bureau Lion",
+    "description": "Améliorez l'engagement des clients et rationalisez les opérations grâce à l'intégration LionDesk + Synup pour l'immobilier.",
+    "canonical": "https://www.synup.com/fr/integrations/bureau-lion",
+    "ogImage": null
+  }
+}

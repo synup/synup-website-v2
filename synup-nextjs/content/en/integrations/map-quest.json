@@ -1,0 +1,31 @@
+{
+  "slug": "mapquest",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Map Quest",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23910b89614954e29020",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:37 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:37 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23910b89614954e28fff_6531312ee7c34db4dafba567_mapquest.svg",
+  "title_tag": "Manage Your Business Information on Mapquest with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">MapQuest +&nbsp;Synup</h1><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp;&nbsp;reviews on MapQuest with Synup's listings &amp; review management tools</strong></p><h2 id=\"\">What is MapQuest?</h2><p id=\"\">MapQuest, one of the pioneers of online mapping services, has been an invaluable tool for route planning and real-time navigation, touching millions of lives daily. Whether you are finding your way across town or planning a cross-country adventure, MapQuest offers unparalleled tools for getting you exactly where you need to be.</p><h2 id=\"\">Why MapQuest +&nbsp;Synup?</h2><ol id=\"\"><li id=\"\"><strong id=\"\">Complete Control Over Listings</strong>: With the ability to manage your business listings on MapQuest, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\"><strong id=\"\">Broaden Your Reach</strong>: Adding your business to MapQuest through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\"><strong id=\"\">Accurate Business Information</strong>: Enhance trust and credibility by publishing accurate information on MapQuest </li><li id=\"\"><strong id=\"\">Customer Engagement</strong>: View and respond back to reviews on Mapquest fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ol><h2 id=\"\">How to integrate MapQuest +&nbsp;Synup?</h2><p id=\"\">The MapQuest integration is available to all Synup listings plan subscribers. To view &amp; manage the MapQuest integration:</p><ol id=\"\"><li id=\"\">Visit the <strong id=\"\">Listings tab</strong> on Synup's console</li><li id=\"\">Navigate to the <strong id=\"\">Premium Listings</strong> section</li><li id=\"\">Click on the MapQuest logo to manage the <strong id=\"\">Synup + MapQuest</strong> integration and associated settings.</li></ol><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Related Articles</strong></p><p id=\"\"><a href=\"https://www.synup.com/how-to/claim-add-mapquest-business-listing\" id=\"\">MapQuest business listing guide</a></p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#515352",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2388cddad88d26433eca_67612540802fb1b6423d94e4_20241217T0716-210d56b3-4e68-4f2a-af19-1f792e39d6fd.webp",
+  "integration_summary": "Add and update your business information on Mapquest.",
+  "seo": {
+    "title": "Map Quest",
+    "description": "Optimize your presence on MapQuest. Synup integration ensures accurate business data for superior online visibility and engagement.",
+    "canonical": "https://www.synup.com/integrations/map-quest",
+    "ogImage": null
+  }
+}

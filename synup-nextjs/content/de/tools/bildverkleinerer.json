@@ -1,0 +1,26 @@
+{
+  "slug": "image-resizer",
+  "locale": "de",
+  "collectionType": "tools",
+  "name": "Bildverkleinerer",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4b7e1641012cd4f824109",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:44:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:44:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4b7e1641012cd4f824105_650aa04d279994b42044ff83_Image%2520Resizer.webp",
+  "description": "<p id=\"\">Ändere die Größe deiner Bilder für Instagram, Twitter, Facebook, LinkedIn und Pinterest</p>",
+  "description_short": "Ändere die Größe deiner Bilder für Instagram, Twitter, Facebook, LinkedIn und Pinterest",
+  "link": "https://resizer.synup.com/",
+  "order": "4.0",
+  "button_text": "Größe jetzt ändern",
+  "seo": {
+    "title": "Bildverkleinerer",
+    "description": "<p id=\"\">Ändere die Größe deiner Bilder für Instagram, Twitter, Facebook, LinkedIn und Pinterest</p>",
+    "canonical": "https://www.synup.com/de/tools/bildverkleinerer",
+    "ogImage": null
+  }
+}

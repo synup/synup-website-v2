@@ -1,0 +1,28 @@
+{
+  "slug": "galacticvibe",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Galaktische Stimmung",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf29d859dbf2839dcf65",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:05 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:05 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf29d859dbf2839dcf33_653130f16d5fb7997770c7c1_GalacticVibe.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Galacticvibe mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">GalacticVibe + Synup</h1><p id=\"\"><strong id=\"\">Mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup können Sie Brancheneinträge und Bewertungen auf GalacticVibe hinzufügen, beanspruchen und bearbeiten.</strong></p><h2 id=\"\">Was ist GalacticVibe?</h2><p id=\"\">[Inhalt fehlt — Bitte geben Sie Informationen zu GalacticVibe an.]</p><h2 id=\"\">Warum GalacticVibe + Synup?</h2><ul id=\"\"><li id=\"\">Vollständige Kontrolle über Angebote: Mit der Möglichkeit, Ihre Brancheneinträge auf GalacticVibe zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\">Erhöhen Sie Ihre Reichweite: Wenn Sie Ihr Unternehmen über Synup zu GalacticVibe hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\">Präzise Geschäftsinformationen: Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf GalacticVibe veröffentlichen.</li><li id=\"\">Kundenbindung: Sehen Sie sich Bewertungen auf GalacticVibe an und antworten Sie darauf, um eine positive Beziehung zu Ihren Kunden aufzubauen und zu zeigen, dass Sie ihr Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich GalacticVibe + Synup?</h2><p id=\"\">Die GalacticVibe-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. Um die GalacticVibe-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das GalacticVibe-Logo, um die Synup + GalacticVibe-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol><p id=\"\">‍</p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Galaktische Stimmung",
+    "description": "Verstärken Sie Ihre Online-Präsenz mit GalacticVibe. Die Synup-Integration gewährleistet genaue Geschäftsdaten für herausragende Sichtbarkeit und Engagement.",
+    "canonical": "https://www.synup.com/de/integrations/galaktische-stimmung",
+    "ogImage": null
+  }
+}

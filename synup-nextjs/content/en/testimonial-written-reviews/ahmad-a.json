@@ -1,0 +1,26 @@
+{
+  "slug": "ahmad-a",
+  "locale": "en",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Ahmad A.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891d1ca234f29abc280cd00",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 09:41:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 09:41:30 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1ca234f29abc280ccd9_67612e233371249724ab54a0_20241217T0754-087ca904-2dd0-47a0-9221-5d66189e4025.webp",
+  "one_line_review": "\"Very convenient to manage everything on one dashboard! Also, customer service is top notch!\"",
+  "detailed_review": "<p id=\"\"><strong id=\"\">What do you like best about Synup?</strong></p><p id=\"\">Easy to navigate dashboard, easy integration with all websites. Customer support is there when you need them and they take care of any questions you may have.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What do you dislike about Synup?</strong></p><p id=\"\">Not every website is available to be integrated with synup, but the main ones are.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What problems is Synup solving and how is that benefiting you?</strong></p><p id=\"\">We're able to reply and manage all reviews without forgetting any.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1ca234f29abc280ccdc_67612e282ea0c765caf3429a_20241217T0754-55a2fdd6-7595-4306-a589-7cbc3f5326c4.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">CEO</p><p id=\"\">Mid-Market (51-1000 emp.)</p>",
+  "seo": {
+    "title": "Ahmad A.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-written-reviews/ahmad-a",
+    "ogImage": null
+  }
+}

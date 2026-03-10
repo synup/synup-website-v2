@@ -1,0 +1,23 @@
+{
+  "slug": "automation-integrations",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Automation & Integrations",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68da8e6d1405a6833f05a7d0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Sep 29 2025 13:49:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 13:51:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "seo": {
+    "title": "Automation & Integrations",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/automation-integrations",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "sleepworld",
+  "locale": "de",
+  "collectionType": "local-listings-clients",
+  "name": "Schlafwelt",
+  "collection_id": "6891dfa5ae2c74373e72307c",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bc03dc1d46fc36f3c370",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:01:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:01:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "clients_logos": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bc03dc1d46fc36f3c36c_63f46e7ef2e5662fd98d568c_Sleepworld.webp",
+  "list_of_number": "2.0",
+  "seo": {
+    "title": "Schlafwelt",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/local-listings-clients/schlafwelt",
+    "ogImage": null
+  }
+}

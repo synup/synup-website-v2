@@ -1,0 +1,26 @@
+{
+  "slug": "listing-management",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Listing Management",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68cd19dbae718ccb4db953d3",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Sep 19 2025 08:52:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Sep 19 2025 08:52:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Sep 19 2025 08:52:43 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "agency-management",
+  "list_order": null,
+  "select_pages": "gohighlevel-alternative",
+  "seo": {
+    "title": "Listing Management",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/listing-management",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "google-sheets",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Google-Tabellen",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2b1ade2ebd2d1dc3e4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:07 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:07 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2b1ade2ebd2d1dc3d2_6548c561d7196d199391986d_Google%2520sheets.svg",
+  "title_tag": "Verwenden Sie die Googlesheets-Integration mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren.",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Google Sheets + Synup</h1><p id=\"\">Verbessern Sie Ihren Bewertungsmanagementprozess, indem Sie die Synergien von Google Sheets und Synup nutzen, um die Produktivität und betriebliche Effizienz zu steigern.</p><h2 id=\"\">Was ist Google Sheets?</h2><p id=\"\">Google Sheets ist ein dynamisches Cloud-basiertes Produktivitätstool zum Erstellen und Verwalten von Tabellenkalkulationen in Echtzeit. Es zeichnet sich dadurch aus, dass es kollaboratives Arbeiten ermöglicht und es mehreren Benutzern ermöglicht, innerhalb eines Dokuments gleichzeitig zu bearbeiten, zu kommentieren und zu chatten. Integrierte Automatisierungsfunktionen und eine Vielzahl verfügbarer Integrationen verbessern die Effizienz der Arbeitsabläufe. Google Sheets ist auf verschiedenen Geräten zugänglich und bietet Flexibilität, sodass Nutzer jederzeit und überall mit ihren Daten interagieren können, was die Gesamtproduktivität steigert.</p><h2 id=\"\">Warum Google Sheets+ Synup?</h2><p id=\"\"><strong id=\"\">Optimiertes Bewertungsmanagement: </strong>Vereinen Sie die leistungsstarke Organisation von Google Sheets und die Review-Kompetenz von Synup. Zentralisieren und verwalten Sie mühelos alle Bewertungen und stellen Sie sicher, dass nichts übersehen wird.</p><p id=\"\"><strong id=\"\">Automatisierte Arbeitsabläufe: </strong>Nutzen Sie die Automatisierungsfunktionen beider Plattformen. Ermöglichen Sie das automatische Senden von Überprüfungsanfragen und das Sammeln von Feedback direkt in Google Sheets und vereinfachen Sie so die Prozesse.</p><p id=\"\"><strong id=\"\">Vorteile der Zusammenarbeit:</strong>Ermöglichen Sie die Zusammenarbeit in Echtzeit über Google Sheets. Verbessern Sie die Antwortzeiten und das Engagement mit Rezensenten und fördern Sie so positive Interaktionen.</p><p id=\"\"><strong id=\"\">Maßgeschneiderte Erfassung von Bewertungen: </strong>Passen Sie Ihre Strategie zur Erfassung von Bewertungen an, indem Sie Google Sheets verwenden, um maßgeschneiderte Kampagnen zu erstellen, die Relevanz sicherstellen und die Wahrscheinlichkeit von Feedback erhöhen.</p><p id=\"\"><strong id=\"\">Betriebseffizienz und Kostenreduzierung: </strong>Steigern Sie die Produktivität und senken Sie die Betriebskosten, indem Sie manuelle Aufgaben eliminieren und Arbeitsabläufe optimieren, wodurch der Prozess zur Erfassung von Bewertungen effizienter und kostengünstiger wird.</p><p id=\"\">Integrieren Sie Google Sheets mit Synup, um ein organisiertes, automatisiertes und effizientes Bewertungsmanagement zu erschließen, die Produktivität zu maximieren und den Prozess der Bewertungserfassung zu optimieren.</p><h2 id=\"\">Wie integriere ich Google Sheets+ Synup?</h2><p id=\"\">Die Google Sheets-Integration zur Erfassung von Bewertungen steht allen Synup-Abonnenten zur Verfügung. Um die Integration einzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Rufe auf der Synup-Konsole den Tab „Akquisition überprüfen“ auf.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf Connect CRM oder App Button.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie den Ordner oder Speicherort aus, mit dem Sie Google Sheets verbinden möchten.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr CRM.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung von CRM.</li></ul><ul id=\"\"><li id=\"\">Erstellen Sie Review-Akquisitionen mithilfe von Kontakten aus CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Google-Tabellen",
+    "description": "Verbessern Sie das Bewertungsmanagement mit Google Sheets + Synup: Organisieren, automatisieren und optimieren Sie für Produktivität und Effizienz.",
+    "canonical": "https://www.synup.com/de/integrations/google-tabellen",
+    "ogImage": null
+  }
+}

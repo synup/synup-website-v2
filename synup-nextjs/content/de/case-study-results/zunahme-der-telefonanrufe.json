@@ -1,0 +1,22 @@
+{
+  "slug": "increase-in-phone-calls",
+  "locale": "de",
+  "collectionType": "case-study-results",
+  "name": "Zunahme der Telefonanrufe",
+  "collection_id": "689107d6d9f5f1e22ab2c39e",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c1fbdfd9abd48c72ee9c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:27:07 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:27:07 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "value": "0.82",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4c1f5b02468dcca3f64c4_6705683aeb8af7163a4f7743_Phone%2520icon.png",
+  "seo": {
+    "title": "Zunahme der Telefonanrufe",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/case-study-results/zunahme-der-telefonanrufe",
+    "ogImage": null
+  }
+}

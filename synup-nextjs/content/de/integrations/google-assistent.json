@@ -1,0 +1,28 @@
+{
+  "slug": "google-assistant",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Google-Assistent",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2a44446bf0420894a3",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:06 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:06 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2a44446bf042089497_65312d6e17a2030cb63b0ad9_Google%2520Assistant.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen in Google Assistant mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "__MISSING__",
+  "integration_types": "voice-assistant",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Google-Assistent",
+    "description": "Verbessern Sie die Barrierefreiheit in Google Assistant. Die Synup-Integration gewährleistet genaue Geschäftsdaten für reibungslose Kundeninteraktionen.",
+    "canonical": "https://www.synup.com/de/integrations/google-assistent",
+    "ogImage": null
+  }
+}

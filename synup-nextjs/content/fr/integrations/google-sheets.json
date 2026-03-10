@@ -1,0 +1,28 @@
+{
+  "slug": "google-sheets",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Google Sheets",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6250b04c8b619329cc",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2b1ade2ebd2d1dc3d2_6548c561d7196d199391986d_Google%2520sheets.svg",
+  "title_tag": "Utilisez l'intégration de GoogleSheets à Synup pour automatiser votre processus de gestion des avis.",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Google Sheets + Synup</h1><p id=\"\">Améliorez votre processus de gestion des avis en tirant parti des synergies entre Google Sheets et Synup pour améliorer la productivité et l'efficacité opérationnelle.</p><h2 id=\"\">Qu'est-ce que Google Sheets&nbsp;?</h2><p id=\"\">Google Sheets est un outil de productivité dynamique basé sur le cloud qui permet de créer et de gérer des feuilles de calcul en temps réel. Il se distingue par la possibilité de travailler en collaboration, en permettant à plusieurs utilisateurs de modifier, de commenter et de discuter simultanément dans un document. Les fonctionnalités d'automatisation intégrées et les nombreuses intégrations disponibles améliorent l'efficacité du flux de travail. Accessible sur différents appareils, Google Sheets favorise la flexibilité en permettant aux utilisateurs d'interagir avec leurs données à tout moment et en tout lieu, ce qui stimule la productivité globale.</p><h2 id=\"\">Pourquoi Google Sheets + Synup&nbsp;?</h2><p id=\"\"><strong id=\"\">Gestion rationalisée des évaluations&nbsp;: </strong>Associez la puissante organisation de Google Sheets à la maîtrise de Synup en matière de révision. Centralisez et gérez tous les avis sans effort, en veillant à ce que rien ne passe entre les mailles du filet.</p><p id=\"\"><strong id=\"\">Flux de travail automatisés&nbsp;: </strong>Exploitez les capacités d'automatisation des deux plateformes. Activez l'envoi automatique des demandes de révision et la collecte des commentaires directement dans Google Sheets, simplifiant ainsi les processus.</p><p id=\"\"><strong id=\"\">Avantages de la collaboration&nbsp;:</strong>Facilitez la collaboration en temps réel grâce à Google Sheets. Améliorez les temps de réponse et les niveaux d'engagement avec les évaluateurs, en favorisant des interactions positives.</p><p id=\"\"><strong id=\"\">Acquisition d'avis personnalisés&nbsp;: </strong>Personnalisez votre stratégie d'acquisition d'avis en utilisant Google Sheets pour créer des campagnes personnalisées, garantir la pertinence et augmenter les chances de recevoir des commentaires.</p><p id=\"\"><strong id=\"\">Efficacité opérationnelle et réduction des coûts&nbsp;: </strong>Augmentez la productivité et réduisez les coûts opérationnels en éliminant les tâches manuelles et en optimisant les flux de travail, ce qui rend le processus d'acquisition des avis plus efficace et plus rentable.</p><p id=\"\">Intégrez Google Sheets à Synup pour accéder à un univers de gestion des avis organisée, automatisée et efficace, en maximisant la productivité et en optimisant le processus d'acquisition des avis.</p><h2 id=\"\">Comment intégrer Google Sheets + Synup&nbsp;?</h2><p id=\"\">L'intégration de Google Sheets pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Google Sheets.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Google Sheets",
+    "description": "Améliorez la gestion des avis avec Google Sheets + Synup : organisez, automatisez et optimisez la productivité et l'efficacité.",
+    "canonical": "https://www.synup.com/fr/integrations/google-sheets",
+    "ogImage": null
+  }
+}

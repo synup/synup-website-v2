@@ -1,0 +1,26 @@
+{
+  "slug": "matt-d",
+  "locale": "en",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Matt D.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891d1cd933594f738e136f5",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 09:41:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 09:41:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1ca6a2bf83f02a1d1d0_67612e233371249724ab54a0_20241217T0754-087ca904-2dd0-47a0-9221-5d66189e4025.webp",
+  "one_line_review": "\"Excellent tool for SEO Agencies\"",
+  "detailed_review": "<p id=\"\"><strong id=\"\">What do you like best about Synup?</strong></p><p id=\"\">Synup is an extremely easy tool to set up and start getting some quick ROl. Our clients enjoy the straight-forward dashboard where they can get a birds-eye view of the strategy we're going to implement for them. The review management system is superb. Lastly, customer service is excellent.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What do you dislike about Synup?</strong></p><p id=\"\">There's really nothing to dislike. Everything is easy about the tool, and if there's anything challenging, customer service corrects it.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Recommendations to others considering Synup:</strong></p><p id=\"\">Don't be afraid to contact support with questions. They've extremely helpful.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What problems is Synup solving and how is that benefiting you?</strong></p><p id=\"\">The management of clients citations and reviews... and client reporting of said tasks. Everything is extremely streamlined with Synup.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1cd933594f738e13677_676023d697076ed398a3db6e_20241216T1257-c44ba5ad-f849-472b-b7b5-3664ad52f7c2.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Director and Founder</p><p id=\"\">Small-Business (50 or fewer emp.)</p><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Matt D.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-written-reviews/matt-d",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "automation-across-operations",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Automation Across Operations",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68e76f760f08866a07a94d8d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Oct 09 2025 08:16:54 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 08:17:14 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 08:38:55 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "__MISSING__",
+  "list_order": null,
+  "select_pages": "pipedrive-vs-synup",
+  "seo": {
+    "title": "Automation Across Operations",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/automation-across-operations",
+    "ogImage": null
+  }
+}

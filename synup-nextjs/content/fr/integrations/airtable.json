@@ -1,0 +1,28 @@
+{
+  "slug": "airtable",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Airtable",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c59f5bd0f72d74e54fc",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf23def6b59dfbeb64ea_6548a79690524ea02e8d7a82_Airtable.svg",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Airtable + Synup</strong></h1><p id=\"\">Découvrez une approche révolutionnaire de la gestion des avis clients en fusionnant les fonctionnalités de productivité polyvalentes d'Airtable avec les capacités d'acquisition et de gestion des avis performantes de Synup.</p><h2 id=\"\">Qu'est-ce qu'Airtable&nbsp;?</h2><p id=\"\">Airtable est un outil de productivité dynamique qui fonctionne comme une combinaison sophistiquée d'une base de données et d'une feuille de calcul. Il offre une plate-forme enrichie pour organiser le travail, gérer des projets et favoriser la collaboration en équipe grâce à ses interfaces flexibles et visuellement attrayantes.</p><h2 id=\"\">Pourquoi choisir Airtable + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Invitations à des évaluations basées sur les tâches&nbsp;:</strong> Tirez parti des jalons et de l'achèvement des tâches dans Airtable pour déclencher des demandes d'évaluation personnalisées, en vous assurant que les commentaires sont pertinents et ancrés dans les expériences utilisateur réelles.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Récits clients complets&nbsp;:</strong> En synchronisant les prouesses organisationnelles d'Airtable avec les informations d'évaluation de Synup, créez une vision multidimensionnelle des interactions avec les clients et des trajectoires de satisfaction.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de travail fluide pour l'acquisition des avis&nbsp;: </strong>Intégrez les fonctionnalités de gestion des avis de Synup directement dans le flux opérationnel d'Airtable, permettant ainsi de saisir et d'organiser de manière fluide les commentaires essentiels des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Communications de révision adaptatives&nbsp;:</strong> Personnalisez les stratégies de sollicitation d'avis en utilisant les divers points de données et les statuts des projets disponibles dans Airtable, en veillant à ce que les communications soient précises et riches en contexte.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Améliorations commerciales stratégiques&nbsp;:</strong> Utilisez les données harmonisées d'Airtable et de Synup pour formuler des stratégies pertinentes qui améliorent la satisfaction des clients, améliorent la qualité du service et favorisent l'excellence commerciale globale.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Opérations de révision optimisées&nbsp;: </strong>Améliorez l'efficacité opérationnelle en gérant et en coordonnant de manière centralisée les tâches d'acquisition et de gestion des avis dans l'environnement familier et puissant d'Airtable.</li></ul><p id=\"\">En associant Airtable à Synup, accédez à un univers transformateur de possibilités de gestion des avis. Chaque étape d'un projet et chaque réalisation de tâche deviennent l'occasion de recueillir de précieux commentaires des clients, de favoriser de meilleures relations avec les clients et d'optimiser stratégiquement les opérations commerciales.</p><h2 id=\"\">Comment intégrer Airtable + Synup&nbsp;?</h2><p id=\"\">L'intégration d'Airtable pour l'acquisition des avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Airtable.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Airtable",
+    "description": "Révolutionnez la gestion des avis clients avec Airtable + Synup. Intégrez et améliorez de manière fluide votre flux de travail d'acquisition d'avis. Optimisez vos opérations dès aujourd'hui !",
+    "canonical": "https://www.synup.com/fr/integrations/airtable",
+    "ogImage": null
+  }
+}

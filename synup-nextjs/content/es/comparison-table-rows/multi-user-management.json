@@ -1,0 +1,28 @@
+{
+  "slug": "multi-user-management",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Administración multiusuario",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da07a61d2f32a85a8087",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "top-category",
+  "list_order": "3.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; socialpilot-alternative; reputation-com-alternative; hootsuite-alternative; buffer-alternative; sprout-social-alternative; loomly-alternative; pinmeto-alternative; rio-seo-alternative; sproutloud-alternative; dbaplatform-alternative; singleinterface-alternative; synup-vs-experience-com; synup-vs-location-bank; synup-vs-localpanda-ai; synup-vs-yotpo; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-whitespark; synup-vs-reviewgain; synup-vs-gmbapi; zoho-publish-alternative",
+  "tabel_category": "Administración multiusuario",
+  "alt_select_pages": "best-yext-alternative",
+  "seo": {
+    "title": "Administración multiusuario",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/multi-user-management",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "snappy-tomato-pizza",
+  "locale": "fr",
+  "collectionType": "testimonials",
+  "name": "Pizza Snappy aux tomates",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a605ddd3b23b897d620cab",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:29:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:29:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "Pizza Snappy aux tomates",
+  "person_name": "Andy Ritter",
+  "designation": "Directeur du marketing chez Snappy Tomato Pizza Co.",
+  "partner_description": "Andy Ritter, directeur du marketing chez Snappy Tomato Pizza Co",
+  "partner": "__MISSING__",
+  "partner_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb7108d8c2bc0bcb9fd5_60236b3620b8e2f60c373ead_snappy-pizza-6de96bbee68e191209f1e6ee18dad9e0%2520(1).webp",
+  "partner_image": null,
+  "partner_testimonial": "<h5 id=\"\">Synup nous aide à améliorer constamment notre présence marketing, notre contenu commercial, notre gestion de la réputation et nos analyses simultanément.</h5>",
+  "seo": {
+    "title": "Pizza Snappy aux tomates",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonials/pizza-snappy-aux-tomates",
+    "ogImage": null
+  }
+}

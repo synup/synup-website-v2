@@ -1,0 +1,27 @@
+{
+  "slug": "set-budget-for-boost-posts",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Budget für Boost-Beiträge festlegen",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c77061c851f886cd9ff4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:24 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:24 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "ads-support",
+  "list_order": "43.0",
+  "select_pages": "sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; hootsuite-alternative",
+  "tabel_category": "Budget für Boost-Beiträge festlegen",
+  "seo": {
+    "title": "Budget für Boost-Beiträge festlegen",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/set-budget-for-boost-posts",
+    "ogImage": null
+  }
+}

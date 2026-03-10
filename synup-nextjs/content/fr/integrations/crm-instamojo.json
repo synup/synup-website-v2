@@ -1,0 +1,28 @@
+{
+  "slug": "instamojo-crm",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "CRM Instamojo",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c5b394d62c1c9dbe438",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2c42105abf85e3bc9b_6548e1b6fd17e9f72f6a34d6_Instamojo.svg",
+  "title_tag": "Intégrez Instamojo CRM à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Instamojo CRM + Synup</strong></h1><p id=\"\">Exploitez la puissance de la gestion de la relation client en associant Instamojo CRM aux fonctionnalités robustes d'acquisition d'avis de Synup.</p><h2 id=\"\">Qu'est-ce qu'Instamojo CRM&nbsp;?</h2><p id=\"\">Instamojo CRM est une solution complète qui favorise les relations avec les clients, optimise les pipelines de vente et améliore l'engagement des clients, tout en rationalisant les différents processus CRM pour favoriser la croissance de l'entreprise.</p><h2 id=\"\">Pourquoi Instamojo CRM + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Demandes de révision ciblées&nbsp;: </strong>Personnalisez et automatisez les demandes d'évaluation en fonction des différents segments de clientèle au sein du CRM, en améliorant la pertinence et en augmentant les chances d'obtenir des commentaires précieux.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Informations unifiées sur les clients&nbsp;: </strong>Combinez les données CRM d'Instamojo avec les informations d'évaluation de Synup pour obtenir une vue à 360 degrés du client, permettant ainsi des interactions et des stratégies plus personnalisées et efficaces avec les clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intégration efficace des flux de travail&nbsp;: </strong>Intégrez facilement le processus de gestion des avis dans les flux de travail CRM, simplifiez la tâche et garantissez une acquisition des avis cohérente et rapide.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Engagement stratégique des clients&nbsp;: </strong>Utilisez les avis et les commentaires des clients pour affiner les stratégies CRM, améliorer la communication avec les clients, leur engagement et leur satisfaction globale.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Prise de décision améliorée&nbsp;:</strong> Tirez parti des informations intégrées des deux plateformes pour prendre des décisions éclairées qui correspondent aux besoins et aux préférences des clients, améliorant ainsi la stratégie CRM globale.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Des opérations rentables&nbsp;: </strong>Économisez des ressources et améliorez l'efficacité en automatisant et en optimisant les processus d'acquisition et de gestion des avis au sein du CRM, pour obtenir de meilleurs résultats avec moins d'efforts.</li></ul><p id=\"\">L'intégration d'Instamojo CRM à Synup favorise un environnement harmonisé qui permet aux entreprises de gérer les relations avec les clients grâce à une meilleure acquisition d'avis, à des données pertinentes et à des opérations rationalisées, pour finalement favoriser la réussite commerciale.</p><h2 id=\"\">Comment intégrer Instamojo CRM + Synup&nbsp;?</h2><p id=\"\">L'intégration d'Instamojo CRM pour la gestion de la relation client est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Intégration CRM sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez Instamojo CRM comme logiciel CRM.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte Instamojo CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Gérez les relations clients à l'aide d'Instamojo CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "CRM Instamojo",
+    "description": "Boostez le succès de votre CRM avec Instamojo CRM + Synup : évaluations ciblées, informations unifiées et opérations rentables.",
+    "canonical": "https://www.synup.com/fr/integrations/crm-instamojo",
+    "ogImage": null
+  }
+}

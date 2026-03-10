@@ -1,0 +1,28 @@
+{
+  "slug": "managed-services-2",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Managed Services",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db6c796c0366e37a5f35",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:36 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:36 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "locator-pages",
+  "list_order": "24.0",
+  "select_pages": "brightlocal-alternative; vendasta-alternative; social-places-alternative; woobound-alternative; milestone-inc-alternative; review-trackers-alternative; surefire-local-alternative; rio-seo-alternative; seosamba-alternative; advicelocal-alternative",
+  "tabel_category": "Managed Services",
+  "alt_select_pages": "best-vendasta-alternative",
+  "seo": {
+    "title": "Managed Services",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/managed-services",
+    "ogImage": null
+  }
+}

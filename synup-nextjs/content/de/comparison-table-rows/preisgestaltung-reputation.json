@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-reputation",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Preisgestaltung — Reputation",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c778a33c9cab4645774c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:32 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:32 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "99 $/Monat",
+  "second_col": "?",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "reputation-com-alternative",
+  "tabel_category": "Preisgestaltung",
+  "seo": {
+    "title": "Preisgestaltung — Reputation",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/preisgestaltung-reputation",
+    "ogImage": null
+  }
+}

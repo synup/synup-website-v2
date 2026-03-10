@@ -1,0 +1,27 @@
+{
+  "slug": "pricing-socialplaces",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Precios - SocialPlaces",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da104cbbea4ed7fa81fa",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:40 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:40 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "34,99$ al mes",
+  "second_col": "197,37$ al mes",
+  "select_table_category": "top-category",
+  "list_order": "1.0",
+  "select_pages": "social-places-alternative",
+  "tabel_category": "Fijación",
+  "seo": {
+    "title": "Precios - SocialPlaces",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/precios-socialplaces",
+    "ogImage": null
+  }
+}

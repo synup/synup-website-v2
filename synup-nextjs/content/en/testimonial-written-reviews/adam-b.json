@@ -1,0 +1,26 @@
+{
+  "slug": "adam-b",
+  "locale": "en",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Adam B.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891d1cb6a2bf83f02a1d227",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 09:41:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 09:41:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1ca6a2bf83f02a1d1d0_67612e233371249724ab54a0_20241217T0754-087ca904-2dd0-47a0-9221-5d66189e4025.webp",
+  "one_line_review": "\"Great product! Essential for my business!\"",
+  "detailed_review": "<p id=\"\"><strong id=\"\">What do you like best about Synup?</strong></p><p id=\"\">Very helpful staff. Easy to work with product. They keep adding things to the service that makes the product even better.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What do you dislike about Synup?</strong></p><p id=\"\">Nothing to really dislike, they solve issues quickly. They have continued to add to their product so it's hard not to like the product when it keeps getting better.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Recommendations to others considering Synup:</strong></p><p id=\"\">Just try it out.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What problems is Synup solving and how is that benefiting you?</strong></p><p id=\"\">Review Generation platform is great. I have increased my SEO ranking and love having all of my reviews put into one place so that I can respond quickly to them.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1ca6a2bf83f02a1d1d4_67612e2724a2dee85f4f2934_20241217T0754-9f644cc8-84e7-45a7-93c1-a4fbdad6432a.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Manager</p><p id=\"\">Small-Business (50 or fewer emp.)</p><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Adam B.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-written-reviews/adam-b",
+    "ogImage": null
+  }
+}

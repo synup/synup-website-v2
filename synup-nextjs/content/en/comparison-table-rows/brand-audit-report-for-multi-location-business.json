@@ -1,0 +1,28 @@
+{
+  "slug": "brand-audit-report-for-multi-location-business",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Brand Audit Report for Multi-Location Business",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db6718dbac62ec40a5a2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Oct 09 2025 12:11:10 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Thu Oct 09 2025 12:15:00 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "14.0",
+  "select_pages": "synup-vs-yext; birdeye-alternative; chatmeter-alternative; soci-alternative; uberall-alternative; vendasta-alternative; local-clarity-alternative; brightlocal-alternative; thryv-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; review-trackers-alternative; surefire-local-alternative; rio-seo-alternative; pinmeto-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; dbaplatform-alternative; advicelocal-alternative; synup-vs-digitalmass; synup-vs-experience-com; synup-vs-location-bank; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews; gmb-api-alternative; promanage-alternative; zoho-publish-alternative",
+  "tabel_category": "Brand Audit Report for Multi-Location Business",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative",
+  "seo": {
+    "title": "Brand Audit Report for Multi-Location Business",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/brand-audit-report-for-multi-location-business",
+    "ogImage": null
+  }
+}

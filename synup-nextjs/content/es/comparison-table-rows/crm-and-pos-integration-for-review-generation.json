@@ -1,0 +1,28 @@
+{
+  "slug": "crm-and-pos-integration-for-review-generation",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Integración de CRM y POS para la generación de reseñas",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0ccb789e47977de59f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:36 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:36 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "reviews",
+  "list_order": "21.0",
+  "select_pages": "uberall-alternative; brightlocal-alternative; vendasta-alternative; synup-vs-yext; chatmeter-alternative; local-clarity-alternative; thryv-alternative; soci-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; surefire-local-alternative; pinmeto-alternative; rio-seo-alternative; singleinterface-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; dbaplatform-alternative; advicelocal-alternative; synup-vs-digitalmass; synup-vs-experience-com; synup-vs-location-bank; synup-vs-localpanda-ai; synup-vs-powerreviews; synup-vs-reviewgain; synup-vs-get-more-reviews; synup-vs-gmbapi; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Integración de CRM y POS para la generación de reseñas",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Integración de CRM y POS para la generación de reseñas",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/crm-and-pos-integration-for-review-generation",
+    "ogImage": null
+  }
+}

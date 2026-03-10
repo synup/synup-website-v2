@@ -1,0 +1,28 @@
+{
+  "slug": "joom-local",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Joom Local",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6487202e9015b350d0",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:52 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:52 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2d8eaa112defa990fc_65312f718522ec135aba8ee1_Joom%2520Local.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Joomlocal avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; uae; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Joom Local + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Joom Local avec les outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que Joom Local&nbsp;?</h2><p id=\"\">Joom Local, une place de marché et un annuaire en ligne dynamiques, met les consommateurs en relation avec une large gamme de produits et services locaux. Que vous recherchiez des trouvailles uniques ou que vous souteniez des entreprises locales, Joom Local propose une plateforme pratique pour explorer et interagir avec votre communauté.</p><h2 id=\"\">Pourquoi choisir Joom Local + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: Avec la possibilité de gérer les fiches de vos entreprises sur Joom Local, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à Joom Local via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur Joom Local.</li><li id=\"\">Engagement des clients&nbsp;: consultez et répondez aux avis sur Joom Local, en favorisant une relation positive avec vos clients, en montrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Joom Local + Synup&nbsp;?</h2><p id=\"\">L'intégration Joom Local est disponible pour tous les abonnés au plan Synup Listings. Pour afficher et gérer l'intégration Joom Local&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Joom Local pour gérer l'intégration Synup + Joom Local et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Joom Local",
+    "description": "Maximisez votre visibilité sur Joom Local. L'intégration de Synup garantit des données commerciales précises pour une présence en ligne et un engagement client supérieurs.",
+    "canonical": "https://www.synup.com/fr/integrations/joom-local",
+    "ogImage": null
+  }
+}

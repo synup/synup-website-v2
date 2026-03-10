@@ -1,0 +1,26 @@
+{
+  "slug": "ai-powered-client-data-enrichment",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "AI-powered Custom Fields",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68cd18973452528c1dd7db19",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Sep 19 2025 08:47:19 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Sep 19 2025 08:50:19 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sat Sep 20 2025 07:00:16 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "agency-management",
+  "list_order": null,
+  "select_pages": "gohighlevel-alternative",
+  "seo": {
+    "title": "AI-powered Custom Fields",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/ai-powered-custom-fields",
+    "ogImage": null
+  }
+}

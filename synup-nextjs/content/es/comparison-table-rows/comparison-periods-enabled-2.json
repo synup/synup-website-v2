@@ -1,0 +1,27 @@
+{
+  "slug": "comparison-periods-enabled-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Períodos de comparación habilitados",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0e89c6e9070eff19d4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:38 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:38 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "analytics",
+  "list_order": "29.0",
+  "select_pages": "planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative",
+  "tabel_category": "Períodos de comparación habilitados",
+  "seo": {
+    "title": "Períodos de comparación habilitados",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/comparison-periods-enabled-2",
+    "ogImage": null
+  }
+}

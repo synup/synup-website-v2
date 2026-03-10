@@ -1,0 +1,28 @@
+{
+  "slug": "gnucash",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "GNUCash",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c623485704a0a435351",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2a43d7c281774e8f64_6548e1593a66302f22f33764_GNUCash.svg",
+  "title_tag": "Intégrez Gnucash à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">GnuCash + Synup</strong></h1><p id=\"\">Débloquez de nouvelles dimensions dans la stratégie d'évaluation des clients en associant les solides cadres comptables de GnuCash aux outils progressifs d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que GnuCash&nbsp;?</h2><p id=\"\">GnuCash est un logiciel de comptabilité gratuit et open source qui fournit des fonctionnalités robustes pour la gestion des finances personnelles et des petites entreprises. Ses fonctionnalités incluent la facturation, le rapprochement bancaire et une myriade d'autres outils comptables essentiels qui rendent la gestion financière efficace et organisée.</p><h2 id=\"\">Pourquoi GnuCash + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Initiatives d'évaluation transactionnelle&nbsp;:</strong> Tirez parti des vastes données transactionnelles de GnuCash pour lancer des demandes d'évaluation opportunes et riches en contexte, améliorant ainsi la pertinence et la précision des commentaires des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Perspectives globales des clients&nbsp;:</strong> Fusionnez les données financières multidimensionnelles de GnuCash avec les informations d'évaluation complètes de Synup, afin de mieux comprendre les expériences et les interactions des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Passez en revue l'automatisation des flux de travail&nbsp;:</strong> Intégrez les demandes de révision et la gestion de manière fluide dans les routines comptables de GnuCash, en favorisant la cohérence et l'efficacité dans la collecte des commentaires des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Expériences de révision personnalisées&nbsp;: </strong>Personnalisez la communication des avis en fonction des historiques de transactions uniques et des interactions avec les clients enregistrés dans GnuCash, en amplifiant les taux d'engagement et de réponse.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Raffinement de la stratégie basé sur les données&nbsp;: </strong>Utilisez les données imbriquées des transactions financières et des avis clients pour affiner et améliorer les approches commerciales, la satisfaction des clients et les performances globales.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Allocation efficace des ressources&nbsp;: </strong>Facilitez un fonctionnement harmonisé et efficace en intégrant naturellement les processus de gestion des révisions dans les flux de travail comptables de GnuCash.</li></ul><p id=\"\">Rejoindre GnuCash et Synup propulse les stratégies de gestion des avis, en utilisant la valeur intrinsèque des transactions et des interactions comptables comme piliers fondamentaux pour construire un processus d'acquisition d'avis supérieur et perspicace.</p><h2 id=\"\">Comment intégrer GnuCash + Synup&nbsp;?</h2><p id=\"\">L'intégration de GnuCash pour la comptabilité est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Comptabilité sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connecter le logiciel de comptabilité.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez GnuCash comme logiciel de comptabilité.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte GnuCash.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration de la comptabilité.</li></ul><ul id=\"\"><li id=\"\">Gérez vos finances à l'aide de GnuCash.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "GNUCash",
+    "description": "Améliorez les avis avec GnuCash + Synup : des stratégies efficaces, personnalisées et basées sur les données pour la gestion des avis.",
+    "canonical": "https://www.synup.com/fr/integrations/gnucash",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "ahmad-a",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Áhmad A.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cbc7312eceec81a80e8",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:56 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:56 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab61fea51edc2c81133_65effa9c4cc2c6080cff5974_g2-5-star.webp",
+  "one_line_review": "«¡Es muy práctico administrar todo en un solo panel! Además, ¡el servicio de atención al cliente es de primera categoría!»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">Panel de control fácil de navegar, fácil integración con todos los sitios web. El servicio de atención al cliente está ahí cuando lo necesite y se ocuparán de cualquier pregunta que pueda tener.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">No todos los sitios web están disponibles para integrarse con synup, pero los principales sí.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">Podemos responder y gestionar todas las opiniones sin olvidar ninguna.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">DIRECTOR GENERAL</p><p id=\"\">Mercado medio (51-1000 emp.)</p>",
+  "seo": {
+    "title": "Áhmad A.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/ahmad-a",
+    "ogImage": null
+  }
+}

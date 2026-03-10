@@ -1,0 +1,28 @@
+{
+  "slug": "bubblelife",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Bubble Life",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76285d490282132695c48",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:37 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:37 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Gestione la información de su empresa en Bubblelife con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Suscríbete a BubbleLife +</h1><p id=\"\"><strong id=\"\">Añade, reclama y edita listados y reseñas de empresas en BubbleLife con las herramientas de gestión de listados y reseñas de Synup.</strong></p><h2 id=\"\">¿Qué es BubbleLife?</h2><p id=\"\">BubbleLife es una plataforma comunitaria en línea que conecta los barrios y comunidades locales. Proporciona una plataforma para que los residentes interactúen con sus vecinos, compartan noticias y eventos y se mantengan informados sobre los acontecimientos locales. BubbleLife fomenta el sentido de comunidad y ayuda a las personas a conectarse con otras personas en su área.</p><h2 id=\"\">¿Por qué BubbleLife + Synup?</h2><ul id=\"\"><li id=\"\">Control total sobre los listados: obtenga un control total sobre su presencia en línea administrando los listados de su empresa en BubbleLife, asegurándose de que su empresa esté representada con precisión.</li><li id=\"\">Amplíe su alcance: aumente su visibilidad añadiendo su empresa a BubbleLife a través de Synup. Esta estrategia amplía tu alcance de manera efectiva, ayudando a los clientes potenciales a descubrir tu negocio fácilmente.</li><li id=\"\">Información empresarial precisa: genere confianza y credibilidad entre sus clientes publicando información empresarial precisa y actualizada en BubbleLife.</li><li id=\"\">Interacción con los clientes: interactúa con los clientes respondiendo a sus comentarios en BubbleLife, demostrando que aprecias sus comentarios y que te dedicas a satisfacer sus necesidades.</li></ul><h2 id=\"\">¿Cómo integrar BubbleLife + Synup?</h2><p id=\"\">La integración con BubbleLife está disponible para todos los suscriptores del plan Synup Listings. Para ver y gestionar la integración de BubbleLife:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haz clic en el logotipo de BubbleLife para gestionar la integración de Synup + BubbleLife y la configuración asociada.</li></ol><p id=\"\">‍</p>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Bubble Life",
+    "description": "Conéctate con tu comunidad en BubbleLife. La integración de Synup garantiza datos empresariales precisos para mejorar la visibilidad en línea.",
+    "canonical": "https://www.synup.com/es/integrations/bubble-life",
+    "ogImage": null
+  }
+}

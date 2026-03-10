@@ -1,0 +1,28 @@
+{
+  "slug": "gazettextra",
+  "locale": "en",
+  "collectionType": "testimonials",
+  "name": "GazetteXtra",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891098cb5b293631944cf59",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 19:27:08 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 19:27:08 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 19:33:51 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "GazetteXtra",
+  "person_name": "Laura Feit",
+  "designation": "Digital Sales Manager at GazetteXtra",
+  "partner_description": "Laura Feit, Digital Sales Manager",
+  "partner": "__MISSING__",
+  "partner_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891098cb5b293631944cf55_676125a5bd407b21d98fa278_20241217T0717-3f616479-d807-401b-a541-18b38f72c27a.webp",
+  "partner_image": null,
+  "partner_testimonial": "<h5 id=\"\">“Synup’s platform is very user-friendly and makes profile management easy.”</h5><p id=\"\">‍</p>",
+  "seo": {
+    "title": "GazetteXtra",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonials/gazettextra",
+    "ogImage": null
+  }
+}

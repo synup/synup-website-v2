@@ -1,0 +1,28 @@
+{
+  "slug": "gmb-local-justifications",
+  "locale": "de",
+  "collectionType": "ebooks",
+  "name": "E-Book mit lokalen Begründungen von Google My Business",
+  "collection_id": "6891dedfab83e12481b305d9",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c1acea69b7e704212d42",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:25:48 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:25:48 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "ebook_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4c1acea69b7e704212d27_6182ed6583bb73d1e36c1e9f_Screen%2520Shot%25202021-11-01%2520at%25201.04.04%2520PM.avif",
+  "rich_text_block": "<p id=\"\">In diesem E-Book erfahren Sie, wie Sie die lokale Suchmaschinenoptimierung optimieren können, und erfahren, wie lokale Rechtfertigungen die Klickrate beeinflussen. Wir zeigen Ihnen genau, wie Google lokale Begründungen verwendet, um Ihr Geschäft anzukurbeln, den Traffic Ihrer Website zu erhöhen und vieles mehr.</p>",
+  "category": "featured",
+  "free_business": false,
+  "learn_more": true,
+  "schedule_a_demo": false,
+  "resource_type": "Ebook",
+  "ebook_link": "https://files.tryflowdrive.com/495/file-bc0432d2-cdb6-4621-804b-a3108c93dc49_Google-My-Business-Local-Justifications-E-book.pdf",
+  "seo": {
+    "title": "E-Book mit lokalen Begründungen von Google My Business",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/ebooks/gmb-local-justifications",
+    "ogImage": null
+  }
+}

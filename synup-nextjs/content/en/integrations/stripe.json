@@ -1,0 +1,28 @@
+{
+  "slug": "stripe",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Stripe",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23963f6719c6c88f2505",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:42 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:42 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23963f6719c6c88f2500_6548e250f5496067ffde84b2_Stripe.svg",
+  "title_tag": "Integrate Stripe with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Stripe + Synup</h1><p id=\"\">Revolutionize Reviews with Stripe + Synup: Seamlessly collect and enhance customer feedback through automated prompts, customized experiences, and insightful follow-ups in perfect harmony with your payment transactions.</p><h2 id=\"\">What is Stripe?</h2><p id=\"\">Stripe is a leading online payment processor, enabling businesses to securely accept and manage transactions over the Internet with robust technical and fraud prevention infrastructure. Its user-friendly design allows for seamless management of online payments and subscriptions, making it a preferred choice for businesses.<br>‍</p><h2 id=\"\">Why Stripe + Synup?<strong id=\"\">‍</strong></h2><p id=\"\"><strong id=\"\">Effortless Review Prompts:</strong>Harness the post-transaction momentsI to automate and optimize the dispatch of review requests, capturing customers’ fresh impressions and enhancing response rates.</p><p id=\"\"><strong id=\"\">Customized Review Experiences: </strong>Leverage Stripe's flexible API with Synup to cultivate customized, integrated review acquisition touchpoints within the payment process, simplifying the review process for customers and increasing engagement.</p><p id=\"\"><strong id=\"\">Strategic Data Utilization: </strong>Strategically utilize transactional data to craft personalized and meaningful review requests, driving higher quality feedback and fostering enhanced customer relationships.</p><p id=\"\"><strong id=\"\">Seamless Integration Capabilities: </strong>Stripe’s extensive integration capabilities combined with Synup’s expertise facilitate a seamless and powerful convergence of payment and review platforms, promoting a unified and efficient review management approach.</p><p id=\"\"><strong id=\"\">Automated, Insightful Follow-Ups: </strong>Implement automated follow-ups based on transaction data ensuring sustained and insightful customer engagement, and facilitating a consistent flow of valuable reviews.</p><p id=\"\"><br>Pairing Stripe with Synup empowers businesses to reimagine and refine the review acquisition process, aligning it meticulously with customer transactions and interactions, and driving enhanced engagement, insights, and efficiency.</p><h2 id=\"\">How to integrate Stripe + Synup?</h2><p id=\"\">Stripe integration for payment processing is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Payment Processing tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Payment Gateway Button.</li></ul><ul id=\"\"><li id=\"\">Select Stripe as your payment processor.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Stripe account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up payment processing.</li></ul><ul id=\"\"><li id=\"\">Accept payments through Stripe.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Stripe",
+    "description": "Enhance Reviews with Stripe + Synup: Seamless Integration, Customized Experiences, and Automated Follow-Ups.",
+    "canonical": "https://www.synup.com/integrations/stripe",
+    "ogImage": null
+  }
+}

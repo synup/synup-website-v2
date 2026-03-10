@@ -1,0 +1,27 @@
+{
+  "slug": "twitter-threads",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Twitter-Threads",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c77a5f4c083266989c9f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:34 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:34 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "posting",
+  "list_order": "12.0",
+  "select_pages": "falcon-alternative; agorapulse-alternative; sendible-alternative; planable-alternative; socialpilot-alternative; buffer-alternative; hootsuite-alternative; loomly-alternative",
+  "tabel_category": "Twitter-Threads",
+  "seo": {
+    "title": "Twitter-Threads",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/twitter-threads",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "stripe-invoicing",
+  "locale": "es",
+  "collectionType": "competitor-sections",
+  "name": "Stripe Invoicing",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "695b7afec8204500818a764e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Jan 05 2026 08:49:02 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Jan 05 2026 08:51:29 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Jan 05 2026 09:01:16 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "​Category: Infrastructure & API-First Billing",
+  "description": "__POSSIBLE_UNTRANSLATED__<h2><strong>What Stripe Does</strong></h2><p>Sometimes you don't need a \"platform\"; you just need a \"pipe\" to get money from the client's bank to yours. That’s Stripe Invoicing. ​It provides a reliable, no-frills way to send invoices and collect recurring payments. If you already use Stripe to process payments, this is the native way to handle the paperwork.</p>Source: Stripe<h2><strong>Key Features</strong></h2><p>​🏆 <strong>Hosted Invoice Pages:</strong> Stripe hosts the payment page, so you don't have to worry about security.</p><p>🏆 <strong>Smart Retries:</strong> Uses data from millions of businesses to retry cards when they are most likely to succeed.</p><p>​🏆 <strong>Automatic Reconciliation:</strong> Matches incoming wire transfers to open invoices.</p><h2><strong>​Benefits of Stripe</strong></h2><p>​It is one of the most \"stable\" systems on the planet. You never have to worry about it being down, and the integration with other tools (via Zapier) is endless.</p><h2><strong>​Pricing</strong></h2><ul><li>​<strong>Starter:</strong> 0.4% per paid invoice.</li><li>​<strong>Plus:</strong> 0.5% per paid invoice (includes Smart Retries and Quotes).</li></ul><p><em>Note: This is in addition to the standard ~2.9% credit card processing fee.</em></p><h2><strong>​Pros</strong></h2><p>​✅ Flawless mechanics; payments just work.</p><p>✅ No monthly subscription fee (pay-as-you-go).</p><h2>​<strong>Cons</strong></h2><p>​🚫 No \"client portal\" for them to see their history or results.</p><p>🚫 The backend is built for developers, not account managers.</p><p>‍</p>",
+  "what_people_say": "__POSSIBLE_UNTRANSLATED__<h3>​<strong>What Customers Say</strong></h3><p><em>​\"Stripe Invoicing is a terrific component of a confusing system... the backend support is awful when it can be found.\"</em></p><p>– Review collected by and hosted on G2.com.</p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Stripe Invoicing",
+    "description": "__POSSIBLE_UNTRANSLATED__<h2><strong>What Stripe Does</strong></h2><p>Sometimes you don't need a \"platform\"; you just need a \"pipe\" to get money from the client's bank to yours. That’s Stripe Invoicing. ​It provides a reliable, no-frills way to send invoices and collect recurring payments. If you already use Stripe to process payments, this is the native way to handle the paperwork.</p>Source: Stripe<h2><strong>Key Features</strong></h2><p>​🏆 <strong>Hosted Invoice Pages:</strong> Stripe hosts the payment page, so you don't have to worry about security.</p><p>🏆 <strong>Smart Retries:</strong> Uses data from millions of businesses to retry cards when they are most likely to succeed.</p><p>​🏆 <strong>Automatic Reconciliation:</strong> Matches incoming wire transfers to open invoices.</p><h2><strong>​Benefits of Stripe</strong></h2><p>​It is one of the most \"stable\" systems on the planet. You never have to worry about it being down, and the integration with other tools (via Zapier) is endless.</p><h2><strong>​Pricing</strong></h2><ul><li>​<strong>Starter:</strong> 0.4% per paid invoice.</li><li>​<strong>Plus:</strong> 0.5% per paid invoice (includes Smart Retries and Quotes).</li></ul><p><em>Note: This is in addition to the standard ~2.9% credit card processing fee.</em></p><h2><strong>​Pros</strong></h2><p>​✅ Flawless mechanics; payments just work.</p><p>✅ No monthly subscription fee (pay-as-you-go).</p><h2>​<strong>Cons</strong></h2><p>​🚫 No \"client portal\" for them to see their history or results.</p><p>🚫 The backend is built for developers, not account managers.</p><p>‍</p>",
+    "canonical": "https://www.synup.com/es/competitor-sections/stripe-invoicing",
+    "ogImage": null
+  }
+}

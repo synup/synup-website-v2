@@ -1,0 +1,28 @@
+{
+  "slug": "local-listings-management-no",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Gestion des listes locales - Non",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6154aa431d2b51c181e70",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "8.0",
+  "select_pages": "synup-vs-powerreviews; synup-vs-grade-us; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews",
+  "tabel_category": "Gestion des listes locales",
+  "alt_select_pages": "best-yext-alternative",
+  "seo": {
+    "title": "Gestion des listes locales - Non",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/gestion-des-listes-locales-non",
+    "ogImage": null
+  }
+}

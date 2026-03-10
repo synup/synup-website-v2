@@ -1,0 +1,26 @@
+{
+  "slug": "marlena-s",
+  "locale": "es",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Marlena S.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75cb6128e03d8cb647eca",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:51:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:51:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "review_image": null,
+  "one_line_review": "«Una forma sencilla de actualizar NPO en los directorios locales»",
+  "detailed_review": "<p id=\"\"><strong id=\"\">¿Qué es lo que más te gusta de Synup?</strong></p><p id=\"\">Synup tiene una interfaz de usuario muy sencilla. Tenemos una empresa con muchas ubicaciones diferentes y es muy fácil actualizar la información individual de las ubicaciones. Synup realiza las actualizaciones muy rápido. Usar Synup es mucho mejor que actualizar individualmente Google My Business, Facebook, Yelp y otros listados locales. La posibilidad de actualizar todas nuestras ubicaciones mediante un archivo Excel es muy útil.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué es lo que no te gusta de Synup?</strong></p><p id=\"\">Hemos descubierto que necesitamos hacer controles de calidad en las actualizaciones. Sería mejor que nos avisaran si hay anuncios duplicados. Synup tampoco se conecta a todos los campos de Facebook y nos gustaría poder actualizarlos al mismo tiempo.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Recomendaciones para otras personas que estén considerando la posibilidad de usar Synup:</strong></p><p id=\"\">Synup tiene una interfaz de usuario muy sencilla. También podemos subir un archivo de Excel para poder cargar todas las ubicaciones a la vez y eso es muy útil.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">¿Qué problemas está solucionando Synup y cómo le beneficia?</strong></p><p id=\"\">Tenemos ubicaciones que actualizan sus horarios con frecuencia. Synup nos permite actualizar todos los directorios locales a la vez y eso es de gran ayuda. También hemos resuelto el problema del tiempo dedicado a actualizar el nombre, el número de teléfono y la dirección en todas nuestras ubicaciones. Antes de Synup, era muy difícil actualizar todas las ubicaciones y consumía mucho tiempo.</p>",
+  "reviewer_logo": null,
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Director de Marketing Digital</p><p id=\"\">Mercado medio (51-1000 emp.)</p>",
+  "seo": {
+    "title": "Marlena S.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-written-reviews/marlena-s",
+    "ogImage": null
+  }
+}

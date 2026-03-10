@@ -1,0 +1,23 @@
+{
+  "slug": "social-google-posts",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Social & Google Posts",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68da8db3972f438a23cf6ef6",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Sep 29 2025 13:46:27 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 14:28:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "seo": {
+    "title": "Social & Google Posts",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/social-google-posts",
+    "ogImage": null
+  }
+}

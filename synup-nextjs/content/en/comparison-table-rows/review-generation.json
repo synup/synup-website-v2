@@ -1,0 +1,26 @@
+{
+  "slug": "review-generation",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Review Generation",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68da96ef2c36a3287a28c267",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Sep 29 2025 14:25:51 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Sep 29 2025 14:26:07 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Sep 29 2025 14:37:09 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "top-category",
+  "list_order": null,
+  "select_pages": "birdeye-alternative",
+  "seo": {
+    "title": "Review Generation",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/review-generation",
+    "ogImage": null
+  }
+}

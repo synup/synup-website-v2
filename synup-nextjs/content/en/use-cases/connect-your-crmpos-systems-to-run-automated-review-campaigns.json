@@ -1,0 +1,24 @@
+{
+  "slug": "connect-crm-pos-automated-review-campaigns",
+  "locale": "en",
+  "collectionType": "use-cases",
+  "name": "Connect your CRM/POS systems to run automated review campaigns",
+  "collection_id": "6890f98653f98c63533646f5",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6890ff09227ae1e025fda6ed",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 18:42:17 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 18:42:17 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 18:42:57 GMT+0000 (Coordinated Universal Time)",
+  "thumbnail_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6890ff09227ae1e025fda6de_67b48e39bd0e09e44c5822b8_20250218T0140-e323e164-ebc9-48da-9b50-7ae35cd0ad1d.png",
+  "body_para": "<p id=\"\">Online reviews are crucial for your business's success, but manually requesting reviews from each customer can be time-consuming and inefficient. By connecting your CRM or POS system to Synup, you can automate your review generation process and consistently build your online reputation while focusing on what matters most – running your business.</p><p id=\"\">‍</p><h2 id=\"\"><strong id=\"\">Introduction</strong><br></h2><p id=\"\">Are you struggling to consistently gather customer reviews? Manually sending review requests after each transaction is not just time-consuming – it's also prone to delays and oversight. What if you could automatically trigger review requests right when a customer completes their purchase or service? With Synup's CRM and POS integration, you can turn every customer interaction into a potential review opportunity.</p><p id=\"\">‍</p><h2 id=\"\">Why automate your review campaigns</h2><p id=\"\">Automating your review campaigns through CRM integration offers several key advantages for your business:<br></p><ul id=\"\"><li id=\"\">Timing is crucial: Send review requests when the customer experience is still fresh</li><li id=\"\">Consistency in follow-up: Never miss an opportunity to gather feedback</li><li id=\"\">Save valuable time: Eliminate manual review request processes</li><li id=\"\">Higher response rates: Reach customers at the optimal moment</li><li id=\"\">Build authentic reviews: Generate a steady stream of genuine customer feedback</li><li id=\"\">Track and measure: Monitor your review generation success rates</li></ul><p id=\"\">‍</p><h2 id=\"\">Synup makes it super easy to source new reviews with CRM integration&nbsp;</h2><p id=\"\">Connect your preferred CRM or POS system with Synup to automatically trigger review requests. Our smart automation ensures timely follow-up with every new customer added to your database.</p><p id=\"\">‍<br></p><p id=\"\">Here's how it works:</p><p id=\"\"><strong id=\"\">Step 1:</strong> From your Synup dashboard, go to Reviews &gt; Generate Reviews &gt; Connect CRM/App</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Step 2:</strong> From the review dashboard, click the “Connect CRM or App” button.<br></p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Step 3:</strong> Pick a connection name and select the location for which you want to add the CRM. You can also pick multiple locations via folders or tags.<br></p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Step 4:</strong> Search or the CRM or app you want to connect<br></p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Step 5: </strong>Follow the steps to connect your CRM with Synup. Once connected, you can run automated email or sms review campaigns. We’ll send a review request whenever a new customer is added to your CRM.<br></p><p id=\"\">‍</p><h2 id=\"\">Source new reviews on autopilot by connecting your CRM<br></h2><p id=\"\">Synup makes it super easy for you to be proactive and get feedback from your new customers. You don’t have to manually ask for reviews after every purchase. We make sure your review SMS or email requests are automatically rolled out whenever a new customer is added to your CRM or POS systems.<br></p><p id=\"\">Customers are also most likely to leave a review about a good experience if you nudge them early after doing business with them.</p><p id=\"\">‍</p><p id=\"\">New to Synup? <a href=\"https://www.synup.com/book-a-demo\" id=\"\">Book a demo</a> to see it all in action</p><p id=\"\">‍</p>",
+  "use_case_show_on_product_menu": false,
+  "use_case_summary": "Automate your review generation by connecting your CRM or POS to Synup, ensuring timely and consistent review requests without manual effort.",
+  "seo": {
+    "title": "Automate Review Requests with CRM & POS Integration | Synup",
+    "description": "Connect your CRM or POS to Synup and automate review requests via email & SMS. Save time, boost reviews, and enhance your online reputation effortlessly!",
+    "canonical": "https://www.synup.com/use-cases/connect-your-crmpos-systems-to-run-automated-review-campaigns",
+    "ogImage": null
+  }
+}

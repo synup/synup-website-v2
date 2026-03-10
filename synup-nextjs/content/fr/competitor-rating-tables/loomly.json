@@ -1,0 +1,24 @@
+{
+  "slug": "loomly",
+  "locale": "fr",
+  "collectionType": "competitor-rating-tables",
+  "name": "Loomly",
+  "collection_id": "6891dd955b61c147e47d91b7",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6184b25123c66f1723ba7",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:47:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:47:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "gbp_posting": "5.0",
+  "gbp_review_reputation_management": "NA",
+  "gbp_listing_management": "NA",
+  "gbp_reporting_analytics": "3.0",
+  "seo": {
+    "title": "Loomly",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/competitor-rating-tables/loomly",
+    "ogImage": null
+  }
+}

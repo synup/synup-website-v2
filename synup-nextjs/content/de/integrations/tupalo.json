@@ -1,0 +1,28 @@
+{
+  "slug": "tupalo",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Tupalo",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf36a2073234e857028e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:18 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:18 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf36a2073234e857027c_65312e7b7313df59f0480b11_Tupalo.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Tupalo mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; france; netherlands; nigeria; ireland; australia; new-zealand; canada; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Tupalo + Syrup</h1><p id=\"\"><strong id=\"\">Füge Brancheneinträge und Bewertungen auf Tupalo hinzu, beantrage sie und bearbeite sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Inseraten und Bewertungen von Synup.</strong></p><h2 id=\"\">Was ist Tupalo?</h2><p id=\"\">Tupalo ist eine Online-Plattform, die Brancheneinträge und Informationen für verschiedene lokale Unternehmen und Dienstleistungen anbietet. Es hilft Benutzern dabei, Unternehmen in ihrer Nähe zu finden und mit ihnen in Kontakt zu treten, und bietet eine praktische Ressource für diejenigen, die lokale Empfehlungen und Dienstleistungen suchen.</p><h2 id=\"\">Warum Tupalo + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote:</strong> Mit der Möglichkeit, Ihre Brancheneinträge auf Tupalo zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite:</strong> Wenn Sie Ihr Unternehmen über Synup zu Tupalo hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\"><strong id=\"\">Genaue Geschäftsinformationen:</strong> Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf Tupalo veröffentlichen.</li><li id=\"\"><strong id=\"\">Kundenbindung:</strong> Sieh dir Bewertungen auf Tupalo an und antworte darauf. So baust du eine positive Beziehung zu deinen Kunden auf und zeigst, dass du ihr Feedback wertschätzt und auf ihre Bedürfnisse achtest.</li></ul><h2 id=\"\">Wie integriere ich Tupalo + Synup?</h2><p id=\"\">Die Tupalo-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. Um die Tupalo-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das Tupalo-Logo, um die Synup + Tupalo-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Tupalo",
+    "description": "Erhöhen Sie Ihre Präsenz auf Tupalo. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Sichtbarkeit und Kundenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/tupalo",
+    "ogImage": null
+  }
+}

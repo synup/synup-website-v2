@@ -1,0 +1,27 @@
+{
+  "slug": "crm-and-pos-integration-for-review-generation-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Integración de CRM y POS para la generación de reseñas",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0ca6e37fd4c53a1e39",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:36 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:36 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "reviews",
+  "list_order": "21.0",
+  "select_pages": "birdeye-alternative; review-trackers-alternative; synup-vs-yotpo; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-whitespark",
+  "tabel_category": "Integración de CRM y POS para la generación de reseñas",
+  "seo": {
+    "title": "Integración de CRM y POS para la generación de reseñas",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/crm-and-pos-integration-for-review-generation-2",
+    "ogImage": null
+  }
+}

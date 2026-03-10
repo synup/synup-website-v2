@@ -1,0 +1,26 @@
+{
+  "slug": "online-review-calculator",
+  "locale": "de",
+  "collectionType": "tools",
+  "name": "Online-Bewertungsrechner",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4b7e110e65379ae341a94",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:44:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:44:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4b7e110e65379ae341a8b_666feb008127aed43905edfa_Untitled%2520design%2520(1).svg",
+  "description": "<p id=\"\">Erfahren Sie, wie viele neue Bewertungen Sie für die gewünschte Reputation generieren müssen</p>",
+  "description_short": "Erfahren Sie, wie viele neue Bewertungen Sie für die gewünschte Reputation generieren müssen",
+  "link": "https://www.synup.com/get-reviews",
+  "order": "6.0",
+  "button_text": "Jetzt berechnen",
+  "seo": {
+    "title": "Online-Bewertungsrechner",
+    "description": "<p id=\"\">Erfahren Sie, wie viele neue Bewertungen Sie für die gewünschte Reputation generieren müssen</p>",
+    "canonical": "https://www.synup.com/de/tools/online-bewertungsrechner",
+    "ogImage": null
+  }
+}

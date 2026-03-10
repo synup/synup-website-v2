@@ -1,0 +1,28 @@
+{
+  "slug": "date-on-deals",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Date des offres",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c60d08e5683376aa3b5",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:48 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:48 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf28f1c947dda9c6826e_65312bd10a421f8f617b535e_Date%2520on%2520Deals.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur DateOnDeals avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; uae; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Date sur les offres + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Date on Deals grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce que Date on Deals&nbsp;?</h2><p id=\"\">Date on Deals peut faire référence à une plateforme ou à un service proposant des offres, des remises ou des promotions aux consommateurs. Il peut se concentrer sur la fourniture d'offres pour des produits, des services ou des expériences spécifiques afin d'aider les consommateurs à économiser de l'argent.</p><h2 id=\"\">Pourquoi Date on Deals + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: En pouvant gérer les listes de vos entreprises sur Date on Deals, vous conservez un contrôle total sur votre présence en ligne, garantissant ainsi une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à Date on Deals via Synup signifie une visibilité accrue. Aidez les clients potentiels à vous découvrir, en élargissant efficacement votre portée.</li><li id=\"\">Informations commerciales précises&nbsp;: renforcez la confiance et la crédibilité en publiant des informations précises sur Date on Deals.</li><li id=\"\">Engagement des clients&nbsp;: consultez les avis publiés sur Date on Deals et répondez-y, en favorisant une relation positive avec vos clients, en démontrant que vous accordez de l'importance à leurs commentaires et que vous êtes attentif à leurs besoins.</li></ul><h2 id=\"\">Comment intégrer Date on Deals + Synup&nbsp;?</h2><p id=\"\">L'intégration Date on Deals est disponible pour tous les abonnés au plan Synup Listings. Pour afficher et gérer l'intégration de Date on Deals, procédez comme suit&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Date on Deals pour gérer l'intégration Synup + Date on Deals et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Date des offres",
+    "description": "Libérez votre potentiel de visibilité sur Date on Deals. L'intégration de Synup garantit des informations commerciales précises pour une présence en ligne percutante.",
+    "canonical": "https://www.synup.com/fr/integrations/date-des-offres",
+    "ogImage": null
+  }
+}

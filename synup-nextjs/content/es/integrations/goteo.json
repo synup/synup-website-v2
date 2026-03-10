@@ -1,0 +1,28 @@
+{
+  "slug": "drip",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Goteo",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628d5cd72f3ef2c51a6a",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:45 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:45 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf363c9e10c54a0d4361_6548be78accc5211a1fb2d6f_drip.svg",
+  "title_tag": "Integre Drip con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Drip + Synup</strong></h1><p id=\"\">Revolucione sus procesos de adquisición y gestión de reseñas fusionando la automatización del marketing de comercio electrónico de Drip con la experiencia especializada en orquestación de reseñas de Synup.</p><h2 id=\"\">¿Qué es Drip?</h2><p id=\"\">Drip es una plataforma de automatización de marketing de comercio electrónico que es pionera en las experiencias personalizadas de los clientes, lo que permite a las empresas crear recorridos únicos para los clientes, optimizar la participación y mejorar las estrategias de generación de ingresos.</p><h2 id=\"\">¿Por qué Drip + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión centradas en el cliente:</strong> Utiliza la comprensión de los clientes de Drip para elaborar solicitudes de reseñas que reflejen las experiencias únicas de cada cliente y fomentar reseñas más relevantes y sinceras.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Viajes de revisión automatizados:</strong> Aproveche las funciones de automatización de Drip para diseñar recorridos de clientes que incorporen naturalmente las solicitudes de reseñas en los puntos de contacto óptimos, lo que aumenta la probabilidad de obtener comentarios significativos.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Estrategias centradas en el comercio electrónico: </strong>Adapte las estrategias de adquisición de reseñas a las interacciones de comercio electrónico, asegurándose de que las reseñas estén estrechamente alineadas con los historiales reales de compras e interacciones de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Segmentación dinámica de revisiones:</strong> Utiliza las capacidades de segmentación de Drip para categorizar a los clientes en función de varios atributos, lo que permite campañas de solicitud de reseñas más específicas y resonantes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Análisis inteligente de reseñas:</strong> Integre la inteligencia analítica de Synup en Drip, lo que permitirá un análisis más profundo del rendimiento y las estrategias de adquisición de reseñas en el contexto del comercio electrónico.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimización de la revisión continua: </strong>Aproveche el aprendizaje adaptativo de Drip para optimizar continuamente las estrategias de solicitud de reseñas en función de la evolución del comportamiento de los clientes y las tendencias de comentarios.</li></ul><p id=\"\">La integración de Drip con Synup establece un sofisticado ecosistema de gestión de reseñas. Aprovecha la inteligencia y la automatización del comercio electrónico para cultivar estrategias de revisión que sean profundamente personalizadas, automatizadas de manera efectiva y que respondan en gran medida a las necesidades y experiencias únicas de los clientes de comercio electrónico.</p><h2 id=\"\">¿Cómo integrar Drip + Synup?</h2><p id=\"\">La integración de Drip para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y gestionar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o ubicación a la que quieres conectar Drip.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Goteo",
+    "description": "Revolucione la gestión de reseñas con Drip + Synup. Estrategias personalizadas, automatizadas y centradas en el comercio electrónico para obtener comentarios significativos. ¡Optimice el recorrido de sus clientes hoy mismo!",
+    "canonical": "https://www.synup.com/es/integrations/goteo",
+    "ogImage": null
+  }
+}

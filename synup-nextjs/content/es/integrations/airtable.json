@@ -1,0 +1,28 @@
+{
+  "slug": "airtable",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Airtable",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76282e57e7a55f1b166ca",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:34 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:34 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Airtable + Synup</strong></h1><p id=\"\">Descubra un enfoque innovador para la gestión de reseñas de clientes al combinar las versátiles funciones de productividad de Airtable con las avanzadas capacidades de adquisición y gestión de reseñas de Synup.</p><h2 id=\"\">¿Qué es Airtable?</h2><p id=\"\">Airtable es una herramienta de productividad dinámica que funciona como una sofisticada combinación de base de datos y hoja de cálculo. Ofrece una plataforma enriquecida para organizar el trabajo, gestionar proyectos y fomentar la colaboración en equipo con sus interfaces flexibles y visualmente atractivas.</p><h2 id=\"\">¿Por qué Airtable + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Invitaciones de revisión basadas en tareas:</strong> Aproveche los hitos y la finalización de tareas en Airtable para activar solicitudes de revisión personalizadas y garantizar que los comentarios sean relevantes y se basen en las experiencias reales de los usuarios.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Narrativas completas de los clientes:</strong> Al sincronizar la destreza organizativa de Airtable con las opiniones de Synup, puedes crear una visión multifacética de las interacciones con los clientes y las trayectorias de satisfacción.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujo de trabajo de adquisición de reseñas sin interrupciones: </strong>Integre las funcionalidades de gestión de reseñas de Synup directamente en el flujo operativo de Airtable, lo que permite capturar y organizar sin problemas los comentarios esenciales de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Comunicaciones de revisión adaptativa:</strong> Personalice las estrategias de solicitud de revisión utilizando los diversos puntos de datos y estados de proyectos disponibles en Airtable, garantizando que las comunicaciones sean precisas y ricas en contexto.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Refinamientos comerciales estratégicos:</strong> Utilice los datos armonizados de Airtable y Synup para formular estrategias perspicaces que mejoren la satisfacción del cliente, mejoren la calidad del servicio e impulsen la excelencia empresarial en general.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Operaciones de revisión optimizadas: </strong>Mejore la eficiencia operativa gestionando y coordinando de forma centralizada las tareas de revisión, adquisición y gestión dentro del potente y conocido entorno de Airtable.</li></ul><p id=\"\">Al combinar Airtable con Synup, desbloquee un mundo transformador de posibilidades de gestión de reseñas. Cada hito del proyecto y la finalización de cada tarea se convierten en una oportunidad para obtener valiosos comentarios de los clientes, fomentar la mejora de las relaciones con los clientes y optimizar estratégicamente las operaciones comerciales.</p><h2 id=\"\">¿Cómo integrar Airtable + Synup?</h2><p id=\"\">La integración de Airtable para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o ubicación a la que deseas conectar Airtable.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Airtable",
+    "description": "Revolucione la gestión de reseñas de clientes con Airtable + Synup. Integre y mejore sin problemas su flujo de trabajo de adquisición de reseñas. ¡Optimice las operaciones hoy mismo!",
+    "canonical": "https://www.synup.com/es/integrations/airtable",
+    "ogImage": null
+  }
+}

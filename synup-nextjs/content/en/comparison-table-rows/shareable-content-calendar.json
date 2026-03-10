@@ -1,0 +1,27 @@
+{
+  "slug": "shareable-content-calendar",
+  "locale": "en",
+  "collectionType": "comparison-table-rows",
+  "name": "Shareable content calendar",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891db73cbcad54705146314",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 10:22:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 10:22:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "posting",
+  "list_order": "16.0",
+  "select_pages": "later-alternative; heyorca-alternative; falcon-alternative; agorapulse-alternative; sendible-alternative; planable-alternative; socialbee-alternative; socialpilot-alternative; reputation-com-alternative; sprout-social-alternative; buffer-alternative; hootsuite-alternative",
+  "tabel_category": "Shareable content calendar",
+  "seo": {
+    "title": "Shareable content calendar",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/comparison-table-rows/shareable-content-calendar",
+    "ogImage": null
+  }
+}

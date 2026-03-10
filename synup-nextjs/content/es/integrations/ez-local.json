@@ -1,0 +1,31 @@
+{
+  "slug": "ez-local",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "EZ Local",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628b40798635bb3fb39e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf29bb9cf463fb39d6cc_65312d3edf56818cdc3087fa_EZ%2520Local.svg",
+  "title_tag": "Gestione la información de su empresa en Ezlocal con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">EZ Local + Synup</h1><p id=\"\"><strong id=\"\">Agregue, reclame y edite listados y reseñas de empresas en EZ Local con las herramientas de administración de listados y reseñas de Synup.</strong></p><h2 id=\"\">¿Qué es EZ Local?</h2><p id=\"\">EZ Local es probablemente un directorio en línea o un servicio de marketing que ayuda a las empresas a mejorar su presencia y visibilidad en línea. Puede ofrecer servicios como listados de empresas, gestión de reseñas y optimización de búsquedas locales.</p><h2 id=\"\">¿Por qué EZ Local + Synup?</h2><ul id=\"\"><li id=\"\">Control total sobre los listados: con la capacidad de administrar los listados de su empresa en EZ Local, usted mantiene un control total sobre su presencia en línea, asegurando que su negocio esté representado de manera precisa.</li><li id=\"\">Amplíe su alcance: agregar su empresa a EZ Local a través de Synup significa una mayor visibilidad. Ayude a los clientes potenciales a descubrirlo, ampliando su alcance de manera efectiva.</li><li id=\"\">Información empresarial precisa: aumente la confianza y la credibilidad publicando información precisa en EZ Local.</li><li id=\"\">Participación del cliente: vea y responda a las reseñas en EZ Local, fomentando una relación positiva con sus clientes, demostrando que valora sus comentarios y que está atento a sus necesidades.</li></ul><h2 id=\"\">¿Cómo integrar EZ Local + Synup?</h2><p id=\"\">La integración EZ Local está disponible para todos los suscriptores del plan Synup Listings. Para ver y administrar la integración de EZ Local:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haga clic en el logotipo de EZ Local para administrar la integración de Synup + EZ Local y la configuración asociada.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Actualiza fácilmente tu perfil de Facebook y las páginas de tu tienda.",
+  "seo": {
+    "title": "EZ Local",
+    "description": "Maximice la visibilidad en EZ Local. La integración de Synup garantiza datos empresariales precisos para una presencia en línea sobresaliente.",
+    "canonical": "https://www.synup.com/es/integrations/ez-local",
+    "ogImage": null
+  }
+}

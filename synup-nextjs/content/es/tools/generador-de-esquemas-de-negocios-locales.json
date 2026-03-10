@@ -1,0 +1,26 @@
+{
+  "slug": "local-business-schema-generator",
+  "locale": "es",
+  "collectionType": "tools",
+  "name": "Generador de esquemas de negocios locales",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75e44055ad19038f8f195",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:58:28 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:58:28 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "image": null,
+  "description": "<p id=\"\">Mejore su presencia en línea con nuestro generador de esquemas.</p>",
+  "description_short": "Mejore su presencia en línea con nuestro generador de esquemas.",
+  "link": "http://schema-generator.synup.com",
+  "order": "5.0",
+  "button_text": "Genere el esquema ahora",
+  "seo": {
+    "title": "Generador de esquemas de negocios locales",
+    "description": "<p id=\"\">Mejore su presencia en línea con nuestro generador de esquemas.</p>",
+    "canonical": "https://www.synup.com/es/tools/generador-de-esquemas-de-negocios-locales",
+    "ogImage": null
+  }
+}

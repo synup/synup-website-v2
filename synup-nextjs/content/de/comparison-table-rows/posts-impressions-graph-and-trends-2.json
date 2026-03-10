@@ -1,0 +1,27 @@
+{
+  "slug": "posts-impressions-graph-and-trends-2",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Beiträge Impressionen, Grafik und Trends",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c76f608660fc84466982",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:23 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:23 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "analytics",
+  "list_order": "30.0",
+  "select_pages": "planable-alternative; socialpilot-alternative",
+  "tabel_category": "Beiträge Impressionen, Grafik und Trends",
+  "seo": {
+    "title": "Beiträge Impressionen, Grafik und Trends",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/posts-impressions-graph-and-trends-2",
+    "ogImage": null
+  }
+}

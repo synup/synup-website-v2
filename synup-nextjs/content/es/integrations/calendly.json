@@ -1,0 +1,28 @@
+{
+  "slug": "calendly",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Calendly",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a76286ce2f39dc410a0b99",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:38 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:38 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integra Asana con Calendly para automatizar tu flujo de trabajo",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Calendly + Regístrate</h1><p id=\"\">Revolucione su proceso de planificación y revisión de adquisiciones mediante la sinergia de Calendly con las potentes funciones de Synup.</p><h2 id=\"\">¿Qué es Calendly?</h2><p id=\"\">Calendly se destaca como una herramienta de programación de primer nivel que simplifica la configuración de citas, mejora la flexibilidad y automatiza las confirmaciones y los recordatorios, lo que permite a las empresas centrarse más en las interacciones significativas con los clientes.</p><h2 id=\"\">¿Por qué Calendly + Synup?<strong id=\"\">‍</strong></h2><p id=\"\"><strong id=\"\">Programación automatizada:</strong> Integre sin problemas las solicitudes de revisión en el proceso de programación automatizado, garantizando que los comentarios se capturen de manera eficiente sin intervención manual.</p><p id=\"\"><strong id=\"\">Experiencias de cliente mejoradas:</strong> Mejore la experiencia del cliente sincronizando los detalles de las citas y las opiniones de los clientes, haciendo que las interacciones sean más perspicaces y personalizadas.</p><p id=\"\"><strong id=\"\">Optimización del tiempo: </strong>Maximice el uso del tiempo automatizando las tareas administrativas, como la programación y las solicitudes de revisión, lo que permite centrarse más en la interacción estratégica con los clientes.</p><p id=\"\"><strong id=\"\">Integraciones fluidas:</strong> Experimente la facilidad con integraciones fluidas que refuerzan las capacidades combinadas de Calendly y Synup, lo que mejora la eficiencia operativa general.</p><p id=\"\"><strong id=\"\">Eficiencia de costos:</strong> Reduzca significativamente los costos operativos mediante la automatización y la optimización de los procesos, lo que mejora la eficiencia y la rentabilidad generales del negocio.</p><p id=\"\"><strong id=\"\">Perspectivas basadas en reseñas: </strong>Utilice las opiniones y comentarios de los clientes para obtener información valiosa que pueda mejorar el proceso de programación y la satisfacción del cliente.<br>‍</p><p id=\"\">Integre Calendly con Synup para explorar una ruta armonizada de programación automatizada, experiencias de cliente enriquecidas y estrategias perspicaces basadas en reseñas.</p><h2 id=\"\">¿Cómo integrar Calendly + Synup?</h2><p id=\"\">La integración de Calendly para programar citas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visite la pestaña Programación de citas en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar software de programación.</li></ul><ul id=\"\"><li id=\"\">Selecciona Calendly como tu software de programación.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Calendly.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar la programación de citas.</li></ul><ul id=\"\"><li id=\"\">Programa citas con Calendly.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Calendly",
+    "description": "Maximice la eficiencia con Calendly + Synup: programación automatizada, experiencias mejoradas y ahorro de costos",
+    "canonical": "https://www.synup.com/es/integrations/calendly",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "ahmad-a",
+  "locale": "de",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Ahmad A.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bab743d7c281774d0f93",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:56:07 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:56:07 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab61fea51edc2c81133_65effa9c4cc2c6080cff5974_g2-5-star.webp",
+  "one_line_review": "„Sehr praktisch, um alles auf einem Dashboard zu verwalten! Außerdem ist der Kundenservice erstklassig!“",
+  "detailed_review": "<p id=\"\"><strong id=\"\">Was gefällt dir am besten an Synup?</strong></p><p id=\"\">Einfach zu navigierendes Dashboard, einfache Integration in alle Websites. Der Kundensupport ist da, wenn Sie ihn benötigen, und er kümmert sich um alle Ihre Fragen.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Was magst du an Synup nicht?</strong></p><p id=\"\">Nicht jede Website kann in Synup integriert werden, die wichtigsten jedoch.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">Welche Probleme löst Synup und wie profitieren Sie davon?</strong></p><p id=\"\">Wir können alle Bewertungen beantworten und verwalten, ohne sie zu vergessen.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bab743d7c281774d0f88_65f138c8248f0423a4b6a7dc_G2-reviewer-19.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">CEO</p><p id=\"\">Mittlerer Markt (51-1000 emp.)</p>",
+  "seo": {
+    "title": "Ahmad A.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/testimonial-written-reviews/ahmad-a",
+    "ogImage": null
+  }
+}

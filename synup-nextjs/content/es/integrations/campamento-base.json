@@ -1,0 +1,28 @@
+{
+  "slug": "basecamp",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Campamento base",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7628797aea8e7269f7126",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf24ab990f4de3e45f4a_6548a84429d7c8ad6c725d0f_Basecamp.svg",
+  "title_tag": "Integre Basecamp con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Suscribirse a Basecamp +</strong></h1><p id=\"\">Embárcate en un viaje transformador en la gestión de reseñas de clientes al combinar las incomparables capacidades de gestión de proyectos de Basecamp con la sólida experiencia en gestión y adquisición de reseñas de Synup.</p><h2 id=\"\">¿Qué es Basecamp?</h2><p id=\"\">Basecamp es una herramienta holística de gestión de proyectos y colaboración en equipo que agiliza los proyectos, las tareas y las comunicaciones, garantizando que los equipos puedan trabajar de manera eficiente y eficaz para lograr sus objetivos.</p><h2 id=\"\">¿Por qué Basecamp + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Solicitudes de revisión vinculadas a proyectos:</strong> Utilice los hitos del proyecto de Basecamp para activar las solicitudes de revisión relevantes y garantizar que los comentarios se recopilen en las etapas clave de la experiencia del cliente.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Centro integrado de comentarios de clientes: </strong>Conecta la destreza de gestión de tareas de Basecamp con el análisis de reseñas de Synup, creando una plataforma cohesiva para capturar y analizar un espectro de comentarios de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujo de trabajo de revisión mejorado:</strong> Incorpore las funcionalidades de gestión de reseñas de Synup sin problemas en el espacio de trabajo de Basecamp, lo que facilita un flujo natural y efectivo de actividades de adquisición y análisis de reseñas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Compromisos de revisión personalizados: </strong>Utilice los diversos y dinámicos datos de proyectos de Basecamp para personalizar las solicitudes de reseñas y fomentar las interacciones que se adapten a las características específicas de cada interacción con el cliente.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Interacciones con los clientes informadas estratégicamente: </strong>Aproveche la información integrada de Basecamp y Synup para ajustar las estrategias de interacción con los clientes y mejorar la calidad de las experiencias e interacciones con los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Eficiencia en las operaciones de revisión: </strong>Centralice y sincronice los diversos aspectos de la gestión de revisiones dentro de la interfaz organizada e intuitiva de Basecamp, lo que aumentará la productividad y la eficiencia operativas.</li></ul><p id=\"\">Al combinar Basecamp con Synup, revelamos una dimensión innovadora en la gestión de reseñas, en la que cada avance del proyecto y la colaboración en equipo se convierten en un conducto para adquirir información valiosa sobre los clientes y mejorar las estrategias de gestión de reseñas.</p><h2 id=\"\">¿Cómo integrar Basecamp + Synup?</h2><p id=\"\">La integración de Basecamp para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o ubicación a la que quieres conectar Basecamp.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Campamento base",
+    "description": "Transforma tu gestión de reseñas con Basecamp + Synup. Optimice los hitos del proyecto para realizar revisiones, adquisiciones y análisis estratégicos. Mejore las interacciones con los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/campamento-base",
+    "ogImage": null
+  }
+}

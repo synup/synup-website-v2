@@ -1,0 +1,28 @@
+{
+  "slug": "freeagent",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "FreeAgent",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238d36fcf3d83ac1b88f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:33 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:33 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238d36fcf3d83ac1b882_6548e16840cff87da71a049e_FreeAgent.svg",
+  "title_tag": "Integrate Freeagent with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">FreeAgent + Synup</strong></h1><p id=\"\">Enhance your customer review strategies by leveraging the powerful integration of FreeAgent’s accounting capabilities with Synup’s innovative review management solutions.</p><h2 id=\"\">What is FreeAgent?</h2><p id=\"\">FreeAgent is a comprehensive accounting software, especially favored by small businesses and freelancers, that simplifies invoice management, expense tracking, and timekeeping, enabling a more organized and efficient financial workflow.</p><h2 id=\"\">Why FreeAgent + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Review Prompts through Invoicing: </strong>Utilize FreeAgent’s invoicing interactions as an avenue to prompt customers for reviews, capturing their experiences and feedback in real-time.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Consolidated Client Understanding: </strong>Meld FreeAgent’s detailed client transaction histories with review insights from Synup, creating a richer, more comprehensive understanding of client experiences and needs.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Feedback Workflows:</strong> Integrate automated review requests within FreeAgent’s accounting workflows, enhancing consistency and relevance in feedback acquisition.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Personalized Review Communications: </strong>Customize review requests and responses based on individual client interactions and historical transaction data in FreeAgent, fostering more engaging and meaningful exchanges.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Business Improvements: </strong>Harness the combined intelligence of financial interactions and client reviews to steer business strategies, services, and client relations towards improved outcomes and satisfaction.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimized Resource Utilization:</strong> Coordinate review management efforts seamlessly within FreeAgent’s existing workflows, facilitating a more efficient and harmonized operational approach.</li></ul><p id=\"\">Connecting FreeAgent with Synup unlocks a synergistic collaboration that maximizes the potential of accounting interactions for sophisticated, intelligent, and effective review acquisition and management, fostering enhanced client relations and business strategies.</p><h2 id=\"\">How to integrate FreeAgent + Synup?</h2><p id=\"\">FreeAgent integration for accounting is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Accounting tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Accounting Software Button.</li></ul><ul id=\"\"><li id=\"\">Select FreeAgent as your accounting software.</li></ul><ul id=\"\"><li id=\"\">Authenticate your FreeAgent account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up accounting.</li></ul><ul id=\"\"><li id=\"\">Manage your finances using FreeAgent.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "FreeAgent",
+    "description": "FreeAgent + Synup: Elevate Reviews & Accounting - Unleash Efficient Client Relations & Business Growth",
+    "canonical": "https://www.synup.com/integrations/freeagent",
+    "ogImage": null
+  }
+}

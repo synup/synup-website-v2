@@ -1,0 +1,28 @@
+{
+  "slug": "wrike",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Wrike",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf393bb9c113410eb5ac",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:21 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:21 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf393bb9c113410eb583_6548b75f90e4378988a33d5f_Wrikle.svg",
+  "title_tag": "Integrieren Sie Wrike mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Wrike + Synup</strong></h1><p id=\"\">Verstärken Sie Ihre Bewertungsmanagement-Strategie, indem Sie die umfassenden Projektmanagementfunktionen von Wrike mit den speziellen Funktionen von Synup zur Erfassung und Verwaltung von Bewertungen kombinieren.</p><h2 id=\"\">Was ist Wrike?</h2><p id=\"\">Wrike ist ein vielseitiges Projektmanagement-Tool, das Zusammenarbeit, Transparenz und Workflow-Effizienz fördert. Es bietet einen zentralen Ort für Arbeit, Diskussionen und den Austausch von Dokumenten, optimiert die Projektabwicklung und steigert die Teamproduktivität.</p><h2 id=\"\">Warum Wrike + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Koordinierte Überprüfungsstrategie:</strong> Nutzen Sie die Projektplanungstools von Wrike, um eine kohärente Strategie zu entwickeln und zu verwalten, die die Effektivität Ihres Prozesses zur Akquise von Bewertungen erhöht.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatisierte Überprüfungsaufgaben: </strong>Nutzen Sie die Automatisierungsfunktionen von Wrike, um Bewertungsanfragen systematisch zu planen und zu verwalten und so die Reaktionszeiten und das allgemeine Engagement zu verbessern.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Kollaborative Überprüfungsanalyse:</strong> Nutzen Sie die Collaboration-Tools von Wrike und fördern Sie die Teambeteiligung bei der Analyse, Interpretation und Strategieentwicklung von Kundenrezensionen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Anpassbare Review-Workflows: </strong>Passen Sie die flexiblen Arbeitsmanagementfunktionen von Wrike an, um personalisierte Arbeitsabläufe zu erstellen, die in jeder Phase des Bewertungsprozesses berücksichtigt werden.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Zentralisiertes Überprüfungs-Dashboard:</strong> Integrieren Sie die Funktionen von Synup in Wrike und richten Sie ein einheitliches Dashboard ein, das einen umfassenden Überblick über Bewertungen und entsprechende Strategien und Maßnahmen bietet.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Effiziente Durchführung von Überprüfungen: </strong>Nutzen Sie die Aufgabenmanagement- und Tracking-Funktionen von Wrike, um sicherzustellen, dass Aktivitäten im Zusammenhang mit Überprüfungen zeitnah und effizient ausgeführt werden, wodurch Ressourcen und Ergebnisse optimiert werden.</li></ul><p id=\"\">Durch die Integration von Wrike mit Synup entsteht ein robustes Ökosystem, das die Strategie-, Ausführungs- und Analyseaspekte Ihrer Bewertungsakquise und -verwaltung erheblich optimiert und so die Zusammenarbeit, Anpassung und Gesamteffizienz verbessert.</p><h2 id=\"\">Wie integriere ich Wrike + Synup?</h2><p id=\"\">Die Wrike-Integration zur Erfassung von Bewertungen steht allen Synup-Abonnenten zur Verfügung. Um die Integration anzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Rufe auf der Synup-Konsole den Tab „Akquisition überprüfen“ auf.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf Connect CRM oder App Button.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie den Ordner oder Ort aus, mit dem Sie Wrike verbinden möchten.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr CRM.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung von CRM.</li></ul><ul id=\"\"><li id=\"\">Erstellen Sie Review-Akquisitionen mithilfe von Kontakten aus CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Wrike",
+    "description": "Verbessern Sie Ihre Bewertungsstrategie mit Wrike + Synup: Optimieren Sie die Erfassung von Bewertungen, automatisieren Sie Aufgaben und verbessern Sie die Zusammenarbeit für bessere Ergebnisse.",
+    "canonical": "https://www.synup.com/de/integrations/wrike",
+    "ogImage": null
+  }
+}

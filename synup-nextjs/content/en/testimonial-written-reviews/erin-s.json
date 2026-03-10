@@ -1,0 +1,26 @@
+{
+  "slug": "erin-s",
+  "locale": "en",
+  "collectionType": "testimonial-written-reviews",
+  "name": "Erin S.",
+  "collection_id": "6891d178ae964dd61459887b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "6891d1cc65bc23bd90bd5ec4",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 05 2025 09:41:32 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 05 2025 09:41:32 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 05 2025 12:33:03 GMT+0000 (Coordinated Universal Time)",
+  "review_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1ccd4c22141378b0f06_67612e278b516d7ce2d99cd9_20241217T0754-82c22709-8880-4d77-91e5-162764b0cf96.webp",
+  "one_line_review": "\"This makes responding and organizing reviews so much easier having everything on one platform!\"",
+  "detailed_review": "<p id=\"\"><strong id=\"\">What do you like best about Synup?</strong></p><p id=\"\">The fact that everything is funneled into one inbox! I love most that we can set up automated responses to a multitude of different situations. We can even have auto notification set up for email.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What do you dislike about Synup?</strong></p><p id=\"\">It will be nice when Yelp auto-response is integrated. I believe this also extends to Bing as well. I am not currently using all of the features so there is more available.</p><p id=\"\">‍</p><p id=\"\"><strong id=\"\">What problems is Synup solving and how is that benefiting you?</strong></p><p id=\"\">We no longer have to have multiple people checking different platforms for reviews, we can now have one person check them and have things auto-forwarded as needed.</p>",
+  "reviewer_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/6891d1cc65bc23bd90bd5e94_67612e27c12dc16517718ab4_20241217T0754-0fae39ab-f6cc-4207-98fb-ca7fd32b0431.webp",
+  "had_reviewer_details": true,
+  "reviewer_details": "<p id=\"\">Marketing Director</p><p id=\"\">Mid-Market (51-1000 emp.)</p>",
+  "seo": {
+    "title": "Erin S.",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-written-reviews/erin-s",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "drip",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Drip",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238c146a7b795473e1ac",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:32 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:32 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238c146a7b795473e1a0_6548be78accc5211a1fb2d6f_drip.svg",
+  "title_tag": "Integrate Drip with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Drip + Synup</strong></h1><p id=\"\">Revolutionize your review acquisition and management processes by merging Drip’s e-commerce marketing automation with Synup’s specialized review orchestration expertise.</p><h2 id=\"\">What is Drip?</h2><p id=\"\">Drip is an e-commerce marketing automation platform that pioneers personalized customer experiences, enabling businesses to craft unique customer journeys, optimize engagement, and enhance revenue generation strategies.</p><h2 id=\"\">Why Drip + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Customer-Centric Review Requests:</strong> Utilize Drip’s customer understanding to craft review requests that speak to each customer's unique experiences, encouraging more relevant and heartfelt reviews.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Journeys:</strong> Leverage Drip’s automation features to design customer journeys that naturally incorporate review solicitations at optimal touchpoints, enhancing the likelihood of acquiring meaningful feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">E-commerce Focused Strategies: </strong>Tailor review acquisition strategies to e-commerce interactions, ensuring that reviews are closely aligned with actual customer purchase and interaction histories.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Dynamic Review Segmentation:</strong> Utilize Drip’s segmentation capabilities to categorize customers based on various attributes, enabling more targeted and resonant review solicitation campaigns.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intelligent Review Analytics:</strong> Infuse Synup’s analytic intelligence into Drip, enabling a more profound analysis of review acquisition performance and strategies within the e-commerce context.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Continuous Review Optimization: </strong>Harness Drip’s adaptive learning to continually optimize review solicitation strategies based on evolving customer behaviors and feedback trends.</li></ul><p id=\"\">Integrating Drip with Synup establishes a sophisticated review management ecosystem. It leverages e-commerce intelligence and automation to cultivate review strategies that are deeply personalized, effectively automated, and highly resonant with the unique needs and experiences of e-commerce customers.</p><h2 id=\"\">How to integrate Drip + Synup?</h2><p id=\"\">Drip integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Drip to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Drip",
+    "description": "Revolutionize review management with Drip + Synup. Personalized, automated, and e-commerce focused strategies for meaningful feedback. Optimize your customer journey today!",
+    "canonical": "https://www.synup.com/integrations/drip",
+    "ogImage": null
+  }
+}

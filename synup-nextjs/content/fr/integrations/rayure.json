@@ -1,0 +1,28 @@
+{
+  "slug": "stripe",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Rayure",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6b93702af1e97ad540",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:59 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf34bf4a2eab67efd429_6548e250f5496067ffde84b2_Stripe.svg",
+  "title_tag": "Intégrez Stripe à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Stripe + Synup</h1><p id=\"\">Révolutionnez les avis avec Stripe + Synup&nbsp;: collectez et améliorez facilement les commentaires des clients grâce à des invites automatisées, à des expériences personnalisées et à des suivis pertinents en parfaite harmonie avec vos transactions de paiement.</p><h2 id=\"\">Qu'est-ce que Stripe&nbsp;?</h2><p id=\"\">Stripe est l'un des principaux processeurs de paiement en ligne, qui permet aux entreprises d'accepter et de gérer en toute sécurité les transactions sur Internet grâce à une infrastructure technique et de prévention des fraudes robuste. Sa conception conviviale permet une gestion fluide des paiements et des abonnements en ligne, ce qui en fait un choix privilégié pour les entreprises.<br>‍</p><h2 id=\"\">Pourquoi Stripe + Synup&nbsp;?<strong id=\"\">‍</strong></h2><p id=\"\"><strong id=\"\">Des instructions de révision faciles&nbsp;:</strong>Exploitez les moments qui suivent la transaction pour automatiser et optimiser l'envoi des demandes d'avis, en capturant les nouvelles impressions des clients et en améliorant les taux de réponse.</p><p id=\"\"><strong id=\"\">Expériences de révision personnalisées&nbsp;: </strong>Tirez parti de l'API flexible de Stripe avec Synup pour créer des points de contact personnalisés et intégrés pour l'acquisition d'avis au cours du processus de paiement, simplifiant ainsi le processus d'évaluation pour les clients et augmentant l'engagement.</p><p id=\"\"><strong id=\"\">Utilisation stratégique des données&nbsp;: </strong>Utilisez stratégiquement les données transactionnelles pour créer des demandes d'évaluation personnalisées et pertinentes, générer des commentaires de meilleure qualité et favoriser de meilleures relations avec les clients.</p><p id=\"\"><strong id=\"\">Capacités d'intégration sans faille&nbsp;: </strong>Les capacités d'intégration étendues de Stripe, combinées à l'expertise de Synup, facilitent une convergence fluide et puissante des plateformes de paiement et d'évaluation, favorisant ainsi une approche de gestion des avis unifiée et efficace.</p><p id=\"\"><strong id=\"\">Des suivis automatisés et pertinents&nbsp;: </strong>Mettez en œuvre des suivis automatisés basés sur les données des transactions, garantissant un engagement durable et pertinent des clients et facilitant un flux constant d'avis précieux.</p><p id=\"\"><br>Associer Stripe à Synup permet aux entreprises de réimaginer et d'affiner le processus d'acquisition des avis, en l'alignant méticuleusement sur les transactions et les interactions avec les clients, et en améliorant l'engagement, les informations et l'efficacité.</p><h2 id=\"\">Comment intégrer Stripe + Synup&nbsp;?</h2><p id=\"\">L'intégration de Stripe pour le traitement des paiements est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Traitement des paiements sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect Payment Gateway.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez Stripe comme processeur de paiement.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte Stripe.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du traitement des paiements.</li></ul><ul id=\"\"><li id=\"\">Acceptez les paiements via Stripe.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Rayure",
+    "description": "Améliorez les avis avec Stripe + Synup : intégration fluide, expériences personnalisées et suivis automatisés.",
+    "canonical": "https://www.synup.com/fr/integrations/rayure",
+    "ogImage": null
+  }
+}

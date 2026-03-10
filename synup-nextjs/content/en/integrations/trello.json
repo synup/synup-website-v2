@@ -1,0 +1,28 @@
+{
+  "slug": "trello",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Trello",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2397681e168c0217c185",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:43 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:43 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2397681e168c0217c17e_6548f348e506a85cd679050e_trello.svg",
+  "title_tag": "Integrate Trello with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Trello + Synup</strong></h1><p id=\"\">Transform your approach to customer review management by integrating Trello’s intuitive project management platform with Synup’s advanced review acquisition and management solutions.</p><h2 id=\"\">What is Trello?</h2><p id=\"\">Trello is a user-friendly project management tool that employs boards, lists, and cards to organize and prioritize projects and tasks, facilitating a visual and collaborative workflow that enhances productivity and team synergy.</p><h2 id=\"\">Why Trello + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Visual Review Planning: </strong>Utilize Trello’s visual boards and cards to map out review acquisition strategies and workflows, ensuring clarity and coherence in execution.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Dynamic Review Boards: </strong>Create dedicated Trello boards for managing and tracking customer reviews, enabling a structured and organized approach to review management.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Cards:</strong> Leverage Trello’s automation capabilities to generate and manage review tasks efficiently, ensuring timely and systematic review solicitations and follow-ups.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Collaborative Review Handling: </strong>Foster a collaborative environment where team members can engage, discuss, and strategize on review content directly within Trello’s interactive boards.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Customized Review Workflows: </strong>Customize Trello cards and lists to adapt to the specific nuances of each review, allowing for personalized and effective review management.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Actionable Review Insights:</strong> By integrating with Synup, ensure that review insights and actions are clearly visualized and actioned within Trello’s adaptable workspace.</li></ul><p id=\"\">Pairing Trello with Synup unlocks a vibrant and interactive arena where the visualization, organization, and collaboration of review management tasks and strategies are markedly enhanced, leading to a more effective and cohesive review acquisition process.</p><h2 id=\"\">How to integrate Trello + Synup?</h2><p id=\"\">Trello integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Trello to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Trello",
+    "description": "Elevate your review management with Trello + Synup integration. Visualize, organize, and collaborate for effective reviews. Try it now!",
+    "canonical": "https://www.synup.com/integrations/trello",
+    "ogImage": null
+  }
+}

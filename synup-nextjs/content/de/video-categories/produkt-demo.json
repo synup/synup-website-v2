@@ -1,0 +1,20 @@
+{
+  "slug": "product-demo",
+  "locale": "de",
+  "collectionType": "video-categories",
+  "name": "Produkt-Demo",
+  "collection_id": "6891109786e5c9e868088e51",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bc5668f5b5ad3c14b0e3",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:03:02 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:03:02 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Produkt-Demo",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/video-categories/produkt-demo",
+    "ogImage": null
+  }
+}

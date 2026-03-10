@@ -1,0 +1,22 @@
+{
+  "slug": "lincare",
+  "locale": "de",
+  "collectionType": "customer-logos",
+  "name": "Lincare",
+  "collection_id": "6891de2480f47d59c875ffe0",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4cd85412bd07de4f395d1",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 19:16:21 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 19:16:21 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bc03e923b5fc444fdb3b_64b6754d45c2ac61520d2c18_Lincare_Logo.png",
+  "list_of_number": "1.0",
+  "seo": {
+    "title": "Lincare",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/customer-logos/lincare",
+    "ogImage": null
+  }
+}

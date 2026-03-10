@@ -1,0 +1,28 @@
+{
+  "slug": "microsoft-teams",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Microsoft-Teams",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf30cefe66a8109c7b6c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:12 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:12 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf30cefe66a8109c7b43_6548b28c33bcb7719bb38ad6_Microsoft%2520Teams.svg",
+  "title_tag": "Integrieren Sie Microsoft Teams mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Microsoft Teams + Synchronisierung</strong></h1><p id=\"\">Revitalisieren Sie Ihren Ansatz für das Bewertungsmanagement, indem Sie das leistungsstarke Kollaborationszentrum von Microsoft Teams nahtlos mit den erfahrenen Lösungen für die Erfassung und Verwaltung von Bewertungen von Synup verbinden.</p><h2 id=\"\">Was ist Microsoft Teams?</h2><p id=\"\">Microsoft Teams ist eine umfangreiche Kollaborationsplattform, die erweiterte Kommunikations-, Besprechungs- und Filesharing-Funktionen ermöglicht und kohärente Teaminteraktionen und Produktivität in einem einheitlichen Arbeitsbereich fördert.</p><h2 id=\"\">Warum Microsoft Teams + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Kollaborative Überprüfungsstrategien:</strong> Nutzen Sie das kollaborative Potenzial von Teams und ermöglichen Sie funktionsübergreifende Diskussionen und Strategien, um die Ansätze zur Bewertungsgewinnung und Kundenbindung zu verbessern.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Dynamische Bewertungsbenachrichtigungen: </strong>Nutzen Sie die Kommunikationskanäle der Teams, um Bewertungsbenachrichtigungen und Erkenntnisse umgehend zu verbreiten und so die teamweite Sensibilität und Reaktionsfähigkeit sicherzustellen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Integriertes Bewertungsmanagement: </strong>Passen Sie die Bewertungsfunktionen von Synup an die vielfältige Umgebung von Teams an und fördern Sie einen integrierten Ansatz für die Verwaltung und Analyse von Kundenfeedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Individuell anpassbare Bewertungsaufträge:</strong> Nutzen Sie die adaptiven Kommunikationstools von Teams, um Bewertungsanfragen und Interaktionen zu personalisieren und so ein ansprechenderes und ansprechenderes Kundenerlebnis zu gewährleisten.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimierter Arbeitsablauf:</strong> Steigern Sie die betriebliche Effizienz, indem Sie die Aufgaben und die Kommunikation im Bewertungsmanagement in der vertrauten und leistungsstarken Teams-Arbeitsumgebung konsolidieren.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategieanpassungen in Echtzeit: </strong>Nutzen Sie die Kommunikationsfunktionen von Teams in Echtzeit, um schnelle Strategieanpassungen und Entscheidungen als Reaktion auf neue Trends im Kundenfeedback zu ermöglichen.</li></ul><p id=\"\">Die Integration von Microsoft Teams mit Synup eröffnet ein dynamisches Spektrum an Möglichkeiten, in dem die Konvergenz von Zusammenarbeit und Echtzeitkommunikation den Ansatz zur Erfassung, Verwaltung und strategischen Gestaltung von Kundenrezensionen und Feedback erheblich bereichert.</p><h2 id=\"\">Wie integriere ich Microsoft Teams + Synup?</h2><p id=\"\">Die Microsoft Teams-Integration für die Erfassung von Bewertungen steht allen Synup-Abonnenten zur Verfügung. Um die Integration anzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Rufe auf der Synup-Konsole den Tab „Akquisition überprüfen“ auf.</li><li id=\"\">Klicken Sie auf Connect CRM oder App Button.</li><li id=\"\">Wählen Sie den Ordner oder Speicherort aus, mit dem Sie Microsoft Teams verbinden möchten.</li><li id=\"\">Authentifizieren Sie Ihr CRM.</li><li id=\"\">Beenden Sie die Einrichtung von CRM.</li><li id=\"\">Erstellen Sie Review-Akquisitionen mithilfe von Kontakten aus CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Microsoft-Teams",
+    "description": "Transformieren Sie Ihr Bewertungsmanagement mit Microsoft Teams + Synup: Optimieren Sie die Zusammenarbeit, Benachrichtigungen und Analysen für eine dynamische Kundenfeedback-Strategie.",
+    "canonical": "https://www.synup.com/de/integrations/microsoft-teams",
+    "ogImage": null
+  }
+}

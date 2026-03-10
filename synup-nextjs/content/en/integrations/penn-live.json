@@ -1,0 +1,31 @@
+{
+  "slug": "penn-live",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Penn Live",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2394149ae9bbfc490bcd",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:40 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:40 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2394149ae9bbfc490bc1_65312c5dc90fa142a498c029_penlive.com.svg",
+  "title_tag": "Manage Your Business Information on Pennlive with Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Penn Live + Synup</h1><p id=\"\"><strong id=\"\">Add, claim, edit business listings &amp; reviews on Penn Live with Synup's listings &amp; review management tools.</strong></p><h2 id=\"\">What is Penn Live?</h2><p id=\"\">Penn Live is a well-established source for news and information in Pennsylvania, delivering comprehensive coverage of local and statewide events, politics, sports, and more. It serves as an essential resource for residents and individuals interested in Pennsylvania-related news.</p><h2 id=\"\">Why Penn Live + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Complete Control Over Listings:</strong> With the ability to manage your business listings on Penn Live, you maintain full control over your online presence, ensuring your business is represented accurately.</li><li id=\"\"><strong id=\"\">Broaden Your Reach:</strong> Adding your business to Penn Live through Synup means increased visibility. Help potential customers discover you, effectively expanding your reach.</li><li id=\"\"><strong id=\"\">Accurate Business Information:</strong> Enhance trust and credibility by publishing accurate information on Penn Live.</li><li id=\"\"><strong id=\"\">Customer Engagement:</strong> View and respond back to reviews on Penn Live, fostering a positive relationship with your customers, showing that you value their feedback and are attentive to their needs.</li></ul><h2 id=\"\">How to integrate Penn Live + Synup?</h2><p id=\"\">The Penn Live integration is available to all Synup listings plan subscribers. To view &amp; manage the Penn Live integration:</p><ol id=\"\"><li id=\"\">Visit the Listings tab on Synup's console.</li><li id=\"\">Navigate to the Premium Listings section.</li><li id=\"\">Click on the Penn Live logo to manage the Synup + Penn Live integration and associated settings.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": true,
+  "integration_bg_color": "#ea0b8c",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23883e0f3cbdd7931de0_6761253f37ef61f13f82fa75_20241217T0716-3c6a0216-75de-4766-9726-5a78339a7d79.webp",
+  "integration_summary": "Penn Live delivers news and digital advertising solutions to consumers and businesses.",
+  "seo": {
+    "title": "Penn Live",
+    "description": "Optimize your presence on PennLive. Synup integration ensures accurate business data for superior online visibility and customer engagement.",
+    "canonical": "https://www.synup.com/integrations/penn-live",
+    "ogImage": null
+  }
+}

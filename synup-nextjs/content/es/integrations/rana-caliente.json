@@ -1,0 +1,31 @@
+{
+  "slug": "hotfrog",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Rana caliente",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a762997950fef6777ede9c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2b037abb996e15354d_65312f420a421f8f618028b8_Hotfrog.svg",
+  "title_tag": "Gestiona la información de tu empresa en Hotfrog con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "france; germany; netherlands; ireland; spain-es; australia; canada; united-kingdom-gb; united-states-us; brazil; indonesia; argentina; austria; belgium; switzerland; chile; czech-republic; denmark; ecuador; hong-kong; italy; japan; kenya; mexico; malaysia; peru; philippines; poland; portugal; russia; sweden; singapore; thailand; taiwan; uganda; vietnam; china",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">¿Quieres registrarte en Hotfrog +?<br>‍</strong></h1><h2 id=\"\"><strong id=\"\">¿Qué es Hotfrog?<br></strong></h2><p id=\"\"><strong id=\"\">Rana caliente</strong> es un distinguido directorio de empresas en línea que cierra eficazmente la brecha entre los consumidores y las empresas locales, y sirve como una solución integral para los usuarios que buscan productos y servicios específicos en su área. Hotfrog es mucho más que una simple plataforma de anuncios, ya que enriquece la experiencia del usuario al ofrecer opiniones de los clientes, valoraciones e información detallada sobre las empresas, ofreciendo así una guía definitiva para quienes buscan servicios o productos específicos.</p><h2 id=\"\"><strong id=\"\">¿Por qué Hotfrog + Synup?</strong></h2><p id=\"\"><strong id=\"\">Administración de listados:</strong> La sinergia entre Synup y Hotfrog proporciona a las empresas un control sin igual sobre sus listados en línea. La creación de un perfil empresarial en Hotfrog, complementado con las sofisticadas funcionalidades de Synup, permite a las empresas gestionar y perfeccionar sus perfiles con facilidad. Desde las actualizaciones del servicio y los cambios en los horarios de atención hasta los detalles precisos de la ubicación, las empresas pueden proyectar sin problemas su auténtica imagen de marca en línea. Esta representación precisa permite a los consumidores tomar decisiones informadas sobre los productos y servicios con los que desean interactuar.</p><p id=\"\"><strong id=\"\">Aumente su visibilidad:</strong> Hotfrog cuenta con una importante base de usuarios que exploran activamente los servicios y productos locales. Cuando un perfil empresarial en Hotfrog se optimiza aún más a través de Synup, el resultado es una expansión espectacular de su presencia en línea. Esta asociación facilita a los usuarios localizar tu empresa de manera eficiente cuando necesitan tus servicios, lo que mejora tu visibilidad en línea y la accesibilidad a una base de clientes más amplia.</p><p id=\"\"><strong id=\"\">Información empresarial fiable:</strong> La confianza es la piedra angular de las relaciones con los clientes, y la difusión de información empresarial precisa es imprescindible para generar y mantener esta confianza. Los esfuerzos de colaboración de Hotfrog y Synup permiten a las empresas compartir información verificada y confiable, lo que refuerza su posición como proveedores de servicios confiables en un mercado saturado y competitivo.</p><p id=\"\"><strong id=\"\">Elecciones empresariales informadas:</strong> La alianza forjada entre Hotfrog y Synup proporciona a las empresas datos invaluables relacionados con el comportamiento, las preferencias y las tendencias de participación de los clientes con los servicios y productos locales. El acceso a estos datos críticos es fundamental para elaborar campañas de marketing eficaces y tomar decisiones empresariales acertadas, todo lo cual es fundamental para el crecimiento empresarial y la expansión del mercado.</p><p id=\"\">Al aprovechar la destreza combinada de Hotfrog y Synup, las empresas no solo pueden administrar meticulosamente sus listados en línea, sino también atraer a un público más amplio. Esta asociación promete una mayor visibilidad local y en línea, una mayor participación de los clientes y datos reveladores que permitirán a las empresas navegar y tener éxito en un mercado digital en constante evolución.</p><h2 id=\"\"><strong id=\"\">¿Cómo integrar Hotfrog + Synup?<br></strong></h2><p id=\"\">La integración de Hotfrog está disponible para todos los suscriptores del plan Synup Listings. Para ver y administrar la integración de Hotfrog:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haz clic en el logotipo de Hotfrog para gestionar la integración de Synup + Hotfrog y los ajustes asociados.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": true,
+  "popular_integration": false,
+  "integration_bg_color": "#f3ae3d",
+  "integration_bg_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2544446bf04208916f_64622e27552e56d4f1d3861f_Rectangle%25203463234%2520(1).webp",
+  "integration_summary": "Haga que su empresa aparezca en Hotfrog.",
+  "seo": {
+    "title": "Rana caliente",
+    "description": "Aumente su presencia en Hotfrog. La integración con Synup garantiza la precisión de los datos empresariales para una visibilidad online superior y una mayor interacción con los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/rana-caliente",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "uganda",
+  "locale": "en",
+  "collectionType": "integration-tags",
+  "name": "Uganda",
+  "collection_id": "68826a55dc0ff405c5839a04",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f231b1802e9cd240a4c67",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:51:39 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:51:39 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Uganda",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/integration-tags/uganda",
+    "ogImage": null
+  }
+}

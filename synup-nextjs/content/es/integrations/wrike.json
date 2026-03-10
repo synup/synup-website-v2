@@ -1,0 +1,28 @@
+{
+  "slug": "wrike",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Wrike",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7629d9445fabe8c8fe525",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:17:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:17:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf393bb9c113410eb583_6548b75f90e4378988a33d5f_Wrikle.svg",
+  "title_tag": "Integra Wrike con Synup para automatizar tu proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Suscríbete a Wrike +</strong></h1><p id=\"\">Potencia tu estrategia de gestión de reseñas combinando las completas capacidades de gestión de proyectos de Wrike con las funcionalidades especializadas de adquisición y gestión de reseñas de Synup.</p><h2 id=\"\">¿Qué es Wrike?</h2><p id=\"\">Wrike es una herramienta de gestión de proyectos versátil que aumenta la colaboración, la transparencia y la eficiencia del flujo de trabajo. Proporciona un espacio centralizado para trabajar, debatir y compartir documentos, lo que agiliza la ejecución de los proyectos y mejora la productividad del equipo.</p><h2 id=\"\">¿Por qué elegir Wrike + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Estrategia de revisión coordinada:</strong> Utiliza las herramientas de planificación de proyectos de Wrike para desarrollar y gestionar una estrategia coherente que refuerce la eficacia de tu proceso de adquisición de reseñas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Tareas de revisión automatizadas: </strong>Aprovecha las funciones de automatización de Wrike para programar y gestionar las solicitudes de revisión de forma sistemática, lo que mejora los tiempos de respuesta y el compromiso general.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Análisis de revisión colaborativo:</strong> Aprovecha las herramientas de colaboración de Wrike para fomentar la participación del equipo en el análisis, la interpretación y la elaboración de estrategias en torno a las opiniones de los clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujos de trabajo de revisión personalizables: </strong>Adapta las funciones flexibles de gestión del trabajo de Wrike para crear flujos de trabajo personalizados que se adapten a cada fase del proceso de adquisición de reseñas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Panel de revisión centralizado:</strong> Integra las capacidades de Synup en Wrike y establece un panel de control unificado para obtener una visión completa de las revisiones y las estrategias y acciones correspondientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Ejecución eficiente de la revisión: </strong>Utiliza las funciones de gestión y seguimiento de tareas de Wrike para garantizar que las actividades relacionadas con la revisión se ejecuten de forma puntual y eficiente, optimizando los recursos y los resultados.</li></ul><p id=\"\">La integración de Wrike con Synup crea un ecosistema sólido que optimiza significativamente los aspectos de estrategia, ejecución y análisis de la adquisición y la gestión de las reseñas, lo que mejora la colaboración, la personalización y la eficacia general.</p><h2 id=\"\">¿Cómo integrar Wrike + Synup?</h2><p id=\"\">La integración de Wrike para la adquisición de reseñas está disponible para todos los suscriptores de Synup. Para ver y gestionar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Revisar la adquisición en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Connect CRM o App.</li></ul><ul id=\"\"><li id=\"\">Selecciona la carpeta o ubicación a la que quieres conectar Wrike.</li></ul><ul id=\"\"><li id=\"\">Autentica tu CRM.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar el CRM.</li></ul><ul id=\"\"><li id=\"\">Cree adquisiciones de Review utilizando los contactos de CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Wrike",
+    "description": "Mejora tu estrategia de reseñas con Wrike + Synup: agiliza la recopilación de reseñas, automatiza las tareas y mejora la colaboración para obtener mejores resultados.",
+    "canonical": "https://www.synup.com/es/integrations/wrike",
+    "ogImage": null
+  }
+}

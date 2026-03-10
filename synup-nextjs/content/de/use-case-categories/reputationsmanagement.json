@@ -1,0 +1,20 @@
+{
+  "slug": "reputation-management",
+  "locale": "de",
+  "collectionType": "use-case-categories",
+  "name": "Reputationsmanagement",
+  "collection_id": "6890f993e6fd82fb4c3cb59b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bd92cf104be457cb3ee7",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:08:18 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:08:18 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Reputationsmanagement",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/use-case-categories/reputationsmanagement",
+    "ogImage": null
+  }
+}

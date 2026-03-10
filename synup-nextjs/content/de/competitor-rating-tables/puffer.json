@@ -1,0 +1,24 @@
+{
+  "slug": "buffer",
+  "locale": "de",
+  "collectionType": "competitor-rating-tables",
+  "name": "Puffer",
+  "collection_id": "6891dd955b61c147e47d91b7",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c91a163166e8171f601c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:57:30 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:57:30 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "gbp_posting": "4.0",
+  "gbp_review_reputation_management": "NA",
+  "gbp_listing_management": "NA",
+  "gbp_reporting_analytics": "4.0",
+  "seo": {
+    "title": "Puffer",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/competitor-rating-tables/puffer",
+    "ogImage": null
+  }
+}

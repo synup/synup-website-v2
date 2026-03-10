@@ -1,0 +1,28 @@
+{
+  "slug": "activecampaign",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "ActiveCampaign",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23885341c02d3c58ecb2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:28 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:28 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23885341c02d3c58ecac_6761253e36cfad05cdb2efba_20241217T0715-24d2a948-0b14-47d8-868c-f831707726b3.webp",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">ActiveCampaign + Synup</strong></h1><p id=\"\">Boost your review acquisition and management by melding ActiveCampaign’s sophisticated email marketing automation with Synup’s robust review mastery.</p><h2 id=\"\">What is ActiveCampaign?</h2><p id=\"\">ActiveCampaign specializes in customer experience automation, combining email marketing, automation, and CRM to nurture customer relationships and enhance business communications and workflows.</p><h2 id=\"\">Why ActiveCampaign + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Tailored Review Invitations:</strong> Utilize ActiveCampaign’s personalization tools to craft bespoke review solicitation emails that resonate with customers’ unique experiences and interactions.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Outreach: </strong>Harness the power of ActiveCampaign’s automation to optimize the delivery of review requests, ensuring timeliness and relevance in communication.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intelligent Review Segmentation:</strong> Leverage ActiveCampaign’s segmentation features to target specific customer groups, cultivating more relevant and impactful reviews based on diverse customer interactions.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Responsive Review Management:</strong> Sync Synup’s responsive review management tools within ActiveCampaign’s platform, ensuring agility and precision in handling customer feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Enhanced Review Analytics: </strong>Integrate the analytical prowess of Synup to gain deeper insights into the effectiveness of review acquisition strategies within ActiveCampaign’s ecosystem.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Customer Engagements:</strong> Use ActiveCampaign’s multifaceted communication tools to nurture ongoing relationships with reviewers, fostering loyalty and encouraging a consistent flow of genuine reviews.</li></ul><p id=\"\">Joining forces with ActiveCampaign and Synup unveils a powerhouse of strategic review management, where personalized outreach, automated processes, and insightful analytics coalesce to supercharge your review acquisition and management ecosystem.</p><h2 id=\"\">How to integrate ActiveCampaign + Synup?</h2><p id=\"\">ActiveCampaign integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect ActiveCampaign to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM. </li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "ActiveCampaign",
+    "description": "Supercharge your review management with ActiveCampaign + Synup: Personalized outreach, automation, and insightful analytics for impactful reviews.",
+    "canonical": "https://www.synup.com/integrations/activecampaign",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "stripe",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Streifen",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf34bf4a2eab67efd430",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:16 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:16 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf34bf4a2eab67efd429_6548e250f5496067ffde84b2_Stripe.svg",
+  "title_tag": "Integrieren Sie Stripe mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Stripe + Synup</h1><p id=\"\">Revolutionieren Sie Bewertungen mit Stripe+ Synup: Sammeln und verbessern Sie nahtlos Kundenfeedback durch automatische Aufforderungen, maßgeschneiderte Erlebnisse und aufschlussreiche Follow-ups, die perfekt auf Ihre Zahlungsvorgänge abgestimmt sind.</p><h2 id=\"\">Was ist Stripe?</h2><p id=\"\">Stripe ist ein führender Online-Zahlungsabwickler, der es Unternehmen mit einer robusten technischen Infrastruktur und Betrugspräventionsinfrastruktur ermöglicht, Transaktionen über das Internet sicher zu akzeptieren und zu verwalten. Das benutzerfreundliche Design ermöglicht eine nahtlose Verwaltung von Online-Zahlungen und Abonnements und ist daher eine bevorzugte Wahl für Unternehmen.<br>‍</p><h2 id=\"\">Warum Stripe+ Synup?<strong id=\"\">‍</strong></h2><p id=\"\"><strong id=\"\">Mühelose Aufforderungen zur Überprüfung:</strong>Nutzen Sie die Momente nach der Transaktion, um den Versand von Bewertungsanfragen zu automatisieren und zu optimieren, die neuen Eindrücke der Kunden zu erfassen und die Rücklaufquoten zu erhöhen.</p><p id=\"\"><strong id=\"\">Maßgeschneiderte Bewertungserlebnisse: </strong>Nutzen Sie die flexible API von Stripe mit Synup, um maßgeschneiderte, integrierte Kontaktpunkte zur Erfassung von Bewertungen innerhalb des Zahlungsprozesses zu entwickeln, den Überprüfungsprozess für Kunden zu vereinfachen und das Engagement zu erhöhen.</p><p id=\"\"><strong id=\"\">Strategische Datennutzung: </strong>Nutzen Sie Transaktionsdaten strategisch, um personalisierte und aussagekräftige Bewertungsanfragen zu erstellen, um qualitativ hochwertigeres Feedback zu erzielen und bessere Kundenbeziehungen zu fördern.</p><p id=\"\"><strong id=\"\">Nahtlose Integrationsmöglichkeiten: </strong>Die umfassenden Integrationsmöglichkeiten von Stripe in Kombination mit der Expertise von Synup ermöglichen eine nahtlose und leistungsstarke Konvergenz der Zahlungs- und Bewertungsplattformen und fördern so einen einheitlichen und effizienten Ansatz für das Bewertungsmanagement.</p><p id=\"\"><strong id=\"\">Automatisierte, aufschlussreiche Follow-ups: </strong>Implementieren Sie automatisierte Follow-ups auf der Grundlage von Transaktionsdaten, um eine nachhaltige und aufschlussreiche Kundenbindung zu gewährleisten und einen konsistenten Fluss wertvoller Bewertungen zu ermöglichen.</p><p id=\"\"><br>Die Kombination von Stripe und Synup ermöglicht es Unternehmen, den Prozess der Erfassung von Bewertungen neu zu erfinden und zu verfeinern, ihn akribisch an Kundentransaktionen und Interaktionen auszurichten und so das Engagement, die Einblicke und die Effizienz zu verbessern.</p><h2 id=\"\">Wie integriere ich Stripe+ Synup?</h2><p id=\"\">Die Stripe-Integration für die Zahlungsabwicklung steht allen Synup-Abonnenten zur Verfügung. Um die Integration einzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Gehen Sie auf der Synup-Konsole auf die Registerkarte Zahlungsabwicklung.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf die Schaltfläche Payment Gateway verbinden.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie Stripe als Ihren Zahlungsabwickler aus.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr Stripe-Konto.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung der Zahlungsabwicklung.</li></ul><ul id=\"\"><li id=\"\">Akzeptieren Sie Zahlungen über Stripe.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Streifen",
+    "description": "Verbessern Sie Bewertungen mit Stripe + Synup: Nahtlose Integration, maßgeschneiderte Erlebnisse und automatische Follow-ups.",
+    "canonical": "https://www.synup.com/de/integrations/streifen",
+    "ogImage": null
+  }
+}

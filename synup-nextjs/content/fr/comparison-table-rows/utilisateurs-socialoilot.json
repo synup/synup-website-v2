@@ -1,0 +1,27 @@
+{
+  "slug": "users-socialoilot",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Utilisateurs - SocialOilot",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61557d3083788599fa93d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:35:03 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:35:03 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "1.0",
+  "second_col": "6.0",
+  "select_table_category": "top-category",
+  "list_order": "2.0",
+  "select_pages": "socialpilot-alternative; loomly-alternative",
+  "tabel_category": "Les utilisateurs",
+  "seo": {
+    "title": "Utilisateurs - SocialOilot",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/utilisateurs-socialoilot",
+    "ogImage": null
+  }
+}

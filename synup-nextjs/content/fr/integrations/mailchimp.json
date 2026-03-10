@@ -1,0 +1,28 @@
+{
+  "slug": "mailchimp",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Mailchimp",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6594db6fc9b7a5a956",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:53 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:53 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2f493f2083a8b0b0ad_6548bce295a2936ccdd5b3ac_Mailchimp.svg",
+  "title_tag": "Intégrez Mailchimp à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Mailchimp + Synup</strong></h1><p id=\"\">Maximisez les avis sans effort avec Mailchimp et Synup&nbsp;: une puissante synergie pour l'acquisition automatisée et personnalisée des avis&nbsp;!</p><h2 id=\"\">Qu'est-ce que Mailchimp&nbsp;?</h2><p id=\"\">Mailchimp est une plateforme de marketing par e-mail de premier plan spécialisée dans la création de campagnes par e-mail ciblées, l'automatisation de fonctions marketing cruciales et l'analyse des indicateurs de performance pour améliorer l'engagement et les taux de conversion.</p><h2 id=\"\">Pourquoi Mailchimp + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Campagnes d'évaluation ciblées&nbsp;: </strong>Utilisez les fonctionnalités de segmentation de Mailchimp pour créer des campagnes par e-mail ciblées, en encourageant des segments de clientèle spécifiques à laisser des avis significatifs en fonction de leurs expériences.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Sollicitations de révision automatisées&nbsp;: </strong>Tirez parti des outils d'automatisation de Mailchimp pour planifier et envoyer des e-mails de sollicitation d'avis personnalisés au moment optimal, augmentant ainsi les chances d'engagement et de réponse des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Demandes de révision personnalisées&nbsp;: </strong>Exploitez les fonctionnalités de personnalisation de Mailchimp pour personnaliser les e-mails de demande d'avis, afin qu'ils trouvent un meilleur écho auprès des clients et renforcent leur pertinence et leur attrait.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Analyses d'évaluation pertinentes&nbsp;: </strong>Intégrez les analyses d'avis de Synup à Mailchimp, afin de mieux comprendre les modèles de commentaires des clients et d'affiner les stratégies d'e-mail pour l'acquisition d'avis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Contenu d'évaluation engageant&nbsp;: </strong>Utilisez les fonctionnalités de conception de Mailchimp pour créer un contenu d'e-mail visuellement attrayant et engageant qui captivera les clients et les encouragera à laisser des avis.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Suivi de l'examen stratégique&nbsp;:</strong> Déployez les outils de Mailchimp pour planifier et exécuter des e-mails de suivi stratégiques, entretenir des relations avec les clients et encourager un engagement continu par le biais d'évaluations.</li></ul><p id=\"\">L'intégration de Mailchimp à Synup améliore votre stratégie de gestion des avis, en combinant de puissantes techniques de marketing par e-mail avec des analyses et une gestion des avis pertinentes, afin de favoriser un engagement et un feedback améliorés des clients.</p><h2 id=\"\">Comment intégrer Mailchimp + Synup&nbsp;?</h2><p id=\"\">L'intégration de Mailchimp pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Mailchimp.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Mailchimp",
+    "description": "Optimisez la gestion des avis avec Mailchimp + Synup : campagnes ciblées, sollicitations automatisées et analyses pertinentes pour améliorer l'engagement des clients.",
+    "canonical": "https://www.synup.com/fr/integrations/mailchimp",
+    "ogImage": null
+  }
+}

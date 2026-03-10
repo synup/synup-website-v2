@@ -1,0 +1,28 @@
+{
+  "slug": "activecampaign",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Campagne active",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c5c873277aa63996326",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a60c5c873277aa6399631a_6548bd2c206e0be7d869378d_ActiveCampaign-1.svg",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">ActiveCampaign + Synup</strong></h1><p id=\"\">Améliorez l'acquisition et la gestion de vos avis en associant l'automatisation sophistiquée du marketing par e-mail d'ActiveCampaign à la solide maîtrise des évaluations de Synup.</p><h2 id=\"\">Qu'est-ce qu'ActiveCampaign&nbsp;?</h2><p id=\"\">ActiveCampaign se spécialise dans l'automatisation de l'expérience client, combinant le marketing par e-mail, l'automatisation et le CRM pour entretenir les relations avec les clients et améliorer les communications commerciales et les flux de travail.</p><h2 id=\"\">Pourquoi choisir ActiveCampaign + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Invitations d'évaluation personnalisées&nbsp;:</strong> Utilisez les outils de personnalisation d'ActiveCampaign pour créer des e-mails de sollicitation d'avis sur mesure qui reflètent les expériences et les interactions uniques des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Sensibilisation automatisée aux évaluations&nbsp;: </strong>Exploitez la puissance de l'automatisation d'ActiveCampaign pour optimiser la livraison des demandes d'évaluation, en garantissant la rapidité et la pertinence de la communication.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Segmentation intelligente des avis&nbsp;:</strong> Tirez parti des fonctionnalités de segmentation d'ActiveCampaign pour cibler des groupes de clients spécifiques, en cultivant des avis plus pertinents et plus percutants sur la base de diverses interactions avec les clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Gestion réactive des évaluations&nbsp;:</strong> Synchronisez les outils de gestion des avis réactifs de Synup au sein de la plateforme ActiveCampaign, garantissant agilité et précision dans la gestion des commentaires des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Analyse améliorée des avis&nbsp;: </strong>Intégrez les prouesses analytiques de Synup pour mieux comprendre l'efficacité des stratégies d'acquisition d'avis au sein de l'écosystème d'ActiveCampaign.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Engagements stratégiques avec les clients&nbsp;:</strong> Utilisez les outils de communication multidimensionnels d'ActiveCampaign pour entretenir des relations continues avec les évaluateurs, les fidéliser et encourager un flux constant d'avis authentiques.</li></ul><p id=\"\">En unissant nos forces à celles d'ActiveCampaign et de Synup, nous dévoilons un puissant outil de gestion des évaluations stratégiques, où une approche personnalisée, des processus automatisés et des analyses pertinentes s'unissent pour dynamiser votre écosystème d'acquisition et de gestion des avis.</p><h2 id=\"\">Comment intégrer ActiveCampaign + Synup&nbsp;?</h2><p id=\"\">L'intégration d'ActiveCampaign pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter ActiveCampaign.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM. </li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Campagne active",
+    "description": "Boostez la gestion de vos avis avec ActiveCampaign + Synup : sensibilisation personnalisée, automatisation et analyses pertinentes pour des avis percutants.",
+    "canonical": "https://www.synup.com/fr/integrations/campagne-active",
+    "ogImage": null
+  }
+}

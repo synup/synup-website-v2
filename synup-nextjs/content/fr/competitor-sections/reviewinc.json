@@ -1,0 +1,29 @@
+{
+  "slug": "reviewinc",
+  "locale": "fr",
+  "collectionType": "competitor-sections",
+  "name": "Révision",
+  "collection_id": "687cc55b8800c9720e5c6cf9",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6170cf9c58d422ddbfb5e",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:42:20 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:42:20 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "highlight_text": "Idéal pour : revendeurs, partenaires",
+  "description": "<h2 id=\"\">À quoi sert la révision</h2><p id=\"\">ReviewInc se présente comme une plateforme de gestion de réputation en marque blanche conçue spécifiquement pour les agences de marketing et les revendeurs. Il propose des services de surveillance, de génération et de gestion des avis aux clients finaux que vous pouvez revendre.</p><p id=\"\">Source&nbsp;: G2</p><h2 id=\"\">Principales caractéristiques</h2><ul id=\"\"><li id=\"\">Fournit des outils de notation et de reporting spécifiques à un lieu qui rassemblent les avis et les classements des clients dans un rapport interactif.</li><li id=\"\">Les partenaires ont la possibilité de faire correspondre les couleurs de la plateforme à l'image de marque de leur agence par défaut, tout en permettant aux clients individuels de modifier l'apparence afin de conserver leur identité de marque existante.</li><li id=\"\">Comprend un portail d'administration qui fournit des rapports pour tous les comptes, les connexions instantanées, la configuration des clients et le contrôle d'accès.</li><li id=\"\">Les partenaires peuvent intégrer l'intégralité du portail client dans leurs systèmes existants ou tirer parti de la fonctionnalité d'authentification unique (SSO).</li></ul><h2 id=\"\">Tarification</h2><p id=\"\">Propose des prix personnalisés aux revendeurs</p><h2 id=\"\">Pros</h2><p id=\"\">✅ La plateforme est conçue pour être rapide et optimisée pour les appareils mobiles</p><p id=\"\">✅ Les partenaires apprécient les options de personnalisation approfondies disponibles pour leurs clients</p><h2 id=\"\">Les inconvénients</h2><p id=\"\">❌ L'interface n'est pas conviviale</p><p id=\"\">❌ Leurs capacités d'analyse peuvent être améliorées</p><p id=\"\">❌ Ne propose pas d'automatisation de l'IA pour simplifier le processus de réponse aux avis des clients</p><p id=\"\">❌ Les fonctionnalités de gestion et les intégrations des revues sont très limitées</p>",
+  "what_people_say": "<p id=\"\"><em id=\"\">«&nbsp;Simplicité et facilité de soutien de la part des personnes avec qui je travaille depuis des années.&nbsp;»</em></p><p id=\"\"> - Avis collecté et hébergé sur G2.com</p><p id=\"\">‍</p><p id=\"\"><em id=\"\">«&nbsp;L'esthétique de la plateforme n'est pas satisfaisante et certaines fonctionnalités pourraient être retravaillées. Davantage d'options logiques conditionnelles intégrées au flux de sollicitation seraient bien.&nbsp;»</em></p><p id=\"\"> - Avis collecté et hébergé sur G2.com</p>",
+  "logo_icon": null,
+  "main_logo": null,
+  "cta_heading": "__MISSING__",
+  "cta_button_text": "__MISSING__",
+  "cta_link": "__MISSING__",
+  "cta_visibility": false,
+  "seo": {
+    "title": "Révision",
+    "description": "<h2 id=\"\">À quoi sert la révision</h2><p id=\"\">ReviewInc se présente comme une plateforme de gestion de réputation en marque blanche conçue spécifiquement pour les agences de marketing et les revendeurs. Il propose des services de surveillance, de génération et de gestion des avis aux clients finaux que vous pouvez revendre.</p><p id=\"\">Source&nbsp;: G2</p><h2 id=\"\">Principales caractéristiques</h2><ul id=\"\"><li id=\"\">Fournit des outils de notation et de reporting spécifiques à un lieu qui rassemblent les avis et les classements des clients dans un rapport interactif.</li><li id=\"\">Les partenaires ont la possibilité de faire correspondre les couleurs de la plateforme à l'image de marque de leur agence par défaut, tout en permettant aux clients individuels de modifier l'apparence afin de conserver leur identité de marque existante.</li><li id=\"\">Comprend un portail d'administration qui fournit des rapports pour tous les comptes, les connexions instantanées, la configuration des clients et le contrôle d'accès.</li><li id=\"\">Les partenaires peuvent intégrer l'intégralité du portail client dans leurs systèmes existants ou tirer parti de la fonctionnalité d'authentification unique (SSO).</li></ul><h2 id=\"\">Tarification</h2><p id=\"\">Propose des prix personnalisés aux revendeurs</p><h2 id=\"\">Pros</h2><p id=\"\">✅ La plateforme est conçue pour être rapide et optimisée pour les appareils mobiles</p><p id=\"\">✅ Les partenaires apprécient les options de personnalisation approfondies disponibles pour leurs clients</p><h2 id=\"\">Les inconvénients</h2><p id=\"\">❌ L'interface n'est pas conviviale</p><p id=\"\">❌ Leurs capacités d'analyse peuvent être améliorées</p><p id=\"\">❌ Ne propose pas d'automatisation de l'IA pour simplifier le processus de réponse aux avis des clients</p><p id=\"\">❌ Les fonctionnalités de gestion et les intégrations des revues sont très limitées</p>",
+    "canonical": "https://www.synup.com/fr/competitor-sections/reviewinc",
+    "ogImage": null
+  }
+}

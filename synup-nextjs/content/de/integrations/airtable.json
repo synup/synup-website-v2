@@ -1,0 +1,28 @@
+{
+  "slug": "airtable",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Airtable",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf23def6b59dfbeb64f1",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:14:59 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:14:59 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf23def6b59dfbeb64ea_6548a79690524ea02e8d7a82_Airtable.svg",
+  "title_tag": "__MISSING__",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "__POSSIBLE_UNTRANSLATED__<h1 id=\"\"><strong id=\"\">Airtable + Synup</strong></h1><p id=\"\">Discover a groundbreaking approach to customer review management by amalgamating Airtable’s versatile productivity features with Synup’s adept review acquisition and management capabilities.</p><h2 id=\"\">What is Airtable?</h2><p id=\"\">Airtable is a dynamic productivity tool that operates as a sophisticated blend of a database and spreadsheet. It offers an enriched platform for organizing work, managing projects, and fostering team collaboration with its flexible and visually appealing interfaces.</p><h2 id=\"\">Why Airtable + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Task-Driven Review Invitations:</strong> Leverage milestones and task completions within Airtable to trigger personalized review requests, ensuring feedback is relevant and anchored in actual user experiences.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Comprehensive Customer Narratives:</strong> By synchronizing Airtable’s organizational prowess with Synup’s review insights, craft a multifaceted view of customer interactions and satisfaction trajectories.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Seamless Review Acquisition Workflow: </strong>Infuse Synup’s review management functionalities directly into Airtable’s operational flow, allowing for the seamless capture and organization of essential customer feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Adaptive Review Communications:</strong> Tailor review solicitation strategies by utilizing the diverse data points and project statuses available in Airtable, ensuring that communications are precise and contextually rich.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Business Refinements:</strong> Utilize the harmonized data from Airtable and Synup to formulate insightful strategies that enhance customer satisfaction, improve service quality, and drive overall business excellence.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimized Review Operations: </strong>Enhance operational efficiencies by centrally managing and coordinating review acquisition and management tasks within the familiar and powerful environment of Airtable.</li></ul><p id=\"\">By intertwining Airtable with Synup, unlock a transformative realm of review management possibilities. Every project milestone and task completion becomes an opportunity to secure valuable customer feedback, foster improved customer relations, and strategically optimize business operations.</p><h2 id=\"\">How to integrate Airtable + Synup?</h2><p id=\"\">Airtable integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Airtable to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Airtable",
+    "description": "__POSSIBLE_UNTRANSLATED__Revolutionize customer review management with Airtable + Synup. Seamlessly integrate and enhance your review acquisition workflow. Optimize operations today!",
+    "canonical": "https://www.synup.com/de/integrations/airtable",
+    "ogImage": null
+  }
+}

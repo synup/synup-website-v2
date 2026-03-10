@@ -1,0 +1,28 @@
+{
+  "slug": "woops",
+  "locale": "de",
+  "collectionType": "testimonials",
+  "name": "Hoppla",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bb71641012cd4f83777b",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 17:59:13 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 17:59:13 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "Hoppla!",
+  "person_name": "Raj Bhatt",
+  "designation": "Mitbegründer",
+  "partner_description": "__MISSING__",
+  "partner": "__MISSING__",
+  "partner_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb71641012cd4f837777_618c40047f656a9f74c6d448_woops-logo.webp",
+  "partner_image": null,
+  "partner_testimonial": "<p id=\"\">Synup war für uns ein Lebensretter. Als standortbezogene Unternehmen wiedereröffneten, stiegen die Verkäufe in den Geschäften nicht. Mit Synup Campaigns haben wir einige unserer besten E-Commerce-Verkaufsmonate seit Jahren verzeichnet. Wir sind so bereit, es mit unserer Konkurrenz aufzunehmen, an die sie ohne Synup nicht einmal gedacht hätte.</p><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Hoppla",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/testimonials/hoppla",
+    "ogImage": null
+  }
+}

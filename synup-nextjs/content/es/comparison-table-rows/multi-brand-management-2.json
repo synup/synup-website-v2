@@ -1,0 +1,27 @@
+{
+  "slug": "multi-brand-management-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Gestión multimarca",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0ae2dd793fa6b77ee2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:34 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:34 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N (Necesita un plan mejorado)",
+  "select_table_category": "top-category",
+  "list_order": "4.0",
+  "select_pages": "sendible-alternative; planable-alternative",
+  "tabel_category": "Gestión multimarca",
+  "seo": {
+    "title": "Gestión multimarca",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/multi-brand-management-2",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "n49",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "N49",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a762962810086755bfa3bb",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:16:54 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:16:54 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf31618489032daad56b_65312e48ea938d7d2420da65_n49.svg",
+  "title_tag": "Gestione la información de su empresa en N49 con Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Inscripción a N49 +</h1><p id=\"\"><strong id=\"\">Añade, reclama y edita listados y reseñas de empresas en N49 con las herramientas de gestión de listados y reseñas de Synup.</strong></p><h2 id=\"\">¿Qué es N49?</h2><p id=\"\">N49, una plataforma líder de directorios y listados de empresas en línea, proporciona un recurso valioso para los usuarios que buscan información sobre empresas y servicios en su área local. Ya sea que busques reseñas, recomendaciones o información de contacto, N49 ofrece herramientas completas para conectarte con las empresas de tu comunidad.</p><h2 id=\"\">¿Por qué N49 + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Control total sobre los listados:</strong> Con la capacidad de gestionar los listados de tu empresa en N49, mantienes un control total sobre tu presencia en línea y te aseguras de que tu empresa esté representada de forma precisa.</li><li id=\"\"><strong id=\"\">Amplíe su alcance:</strong> Añadir tu empresa a N49 a través de Synup significa una mayor visibilidad. Ayude a los clientes potenciales a descubrirlo, ampliando su alcance de manera efectiva.</li><li id=\"\"><strong id=\"\">Información empresarial precisa:</strong> Mejore la confianza y la credibilidad publicando información precisa sobre N49.</li><li id=\"\"><strong id=\"\">Compromiso con el cliente:</strong> Consulta y responde a las opiniones en N49 para fomentar una relación positiva con tus clientes y demostrar que valoras sus comentarios y que estás atento a sus necesidades.</li></ul><h2 id=\"\">¿Cómo integrar N49 + Synup?</h2><p id=\"\">La integración con N49 está disponible para todos los suscriptores del plan Synup Listings. Para ver y gestionar la integración del N49:</p><ol id=\"\"><li id=\"\">Visita la pestaña Listados en la consola de Synup.</li><li id=\"\">Dirígete a la sección de anuncios premium.</li><li id=\"\">Haz clic en el logotipo de N49 para gestionar la integración de Synup + N49 y la configuración asociada.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "N49",
+    "description": "Mejora tu presencia en la N49. La integración de Synup garantiza datos empresariales precisos para una visibilidad en línea superior y una mayor participación de los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/n49",
+    "ogImage": null
+  }
+}

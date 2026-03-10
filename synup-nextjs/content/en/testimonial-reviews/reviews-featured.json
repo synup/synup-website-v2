@@ -1,0 +1,27 @@
+{
+  "slug": "reviews-featured",
+  "locale": "en",
+  "collectionType": "testimonial-reviews",
+  "name": "Reviews Featured",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "689107c19cfd068e8ceb5542",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 19:19:29 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 19:19:29 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 19:22:05 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "0.2",
+  "reviews_summary": "Zoek Marketing Delivers Custom Solutions For Clients by Partnering With Synup",
+  "reviews_image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/689107c19cfd068e8ceb553e_67612c8a4b271f748916dc58_20241217T0746-7f7082a7-7e8a-4d29-91c7-dbebe6c0b5c6.webp",
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": true,
+  "review_link": "https://www.synup.com/case-studies/zoek",
+  "seo": {
+    "title": "Reviews Featured",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/testimonial-reviews/reviews-featured",
+    "ogImage": null
+  }
+}

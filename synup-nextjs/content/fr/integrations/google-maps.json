@@ -1,0 +1,28 @@
+{
+  "slug": "google-maps",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Google Maps",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c62a406c045dad3bb2d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:50 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:50 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2afb8c070b6841cdda_65312b3e0fd8dd9a10c76222_Google%2520Maps.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur Google Maps avec Synup.",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; france; germany; netherlands; uae; south-africa; nigeria; ireland; norway; spain-es; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<p id=\"\">Google Maps est l'application de navigation la plus populaire avec 154,4 millions d'utilisateurs mensuels. Il s'agit de l'une des plateformes cartographiques les plus importantes permettant aux entreprises de corriger les informations locales afin que les consommateurs puissent les trouver.</p>",
+  "integration_types": "maps",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Google Maps",
+    "description": "Augmentez votre visibilité sur Google Maps. L'intégration de Synup garantit des données commerciales précises pour une présence en ligne et une portée client optimales.",
+    "canonical": "https://www.synup.com/fr/integrations/google-maps",
+    "ogImage": null
+  }
+}

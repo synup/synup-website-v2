@@ -1,0 +1,22 @@
+{
+  "slug": "client-churn-dropped-by",
+  "locale": "en",
+  "collectionType": "case-study-results",
+  "name": "Drop in client churn",
+  "collection_id": "689107d6d9f5f1e22ab2c39e",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "68910808fa55cb01d0a5d63d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Mon Aug 04 2025 19:20:40 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Mon Aug 04 2025 19:20:40 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Mon Aug 04 2025 19:22:05 GMT+0000 (Coordinated Universal Time)",
+  "value": "0.5",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68910808fa55cb01d0a5d607_676127231331f5bd235f306c_20241217T0723-bcfab799-f257-478c-ae63-45dd8d92bddd.webp",
+  "seo": {
+    "title": "Drop in client churn",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/case-study-results/drop-in-client-churn",
+    "ogImage": null
+  }
+}

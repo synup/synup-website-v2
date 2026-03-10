@@ -1,0 +1,27 @@
+{
+  "slug": "multi-location-support-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Soporte para múltiples ubicaciones",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da142dd772983287ea39",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:44 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:44 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "13.0",
+  "select_pages": "brightlocal-alternative; local-clarity-alternative; thryv-alternative; surefire-local-alternative; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-reviews-on-my-website; synup-vs-reviewgain; synup-vs-get-more-reviews; promanage-alternative",
+  "tabel_category": "Soporte para múltiples ubicaciones",
+  "seo": {
+    "title": "Soporte para múltiples ubicaciones",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/multi-location-support-2",
+    "ogImage": null
+  }
+}

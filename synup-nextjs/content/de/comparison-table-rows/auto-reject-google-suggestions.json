@@ -1,0 +1,28 @@
+{
+  "slug": "auto-reject-google-suggestions",
+  "locale": "de",
+  "collectionType": "comparison-table-rows",
+  "name": "Google-Vorschläge automatisch ablehnen",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4c772cbf727eb61c16e16",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:50:26 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:50:26 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "listings-management",
+  "list_order": "9.0",
+  "select_pages": "synup-vs-yext; birdeye-alternative; local-clarity-alternative; chatmeter-alternative; brightlocal-alternative; soci-alternative; thryv-alternative; vendasta-alternative; uberall-alternative; social-places-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; surefire-local-alternative; pinmeto-alternative; rio-seo-alternative; singleinterface-alternative; sproutloud-alternative; turbify-alternative; seosamba-alternative; advicelocal-alternative; synup-vs-localpanda-ai; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-whitespark; synup-vs-reviewgain; synup-vs-get-more-reviews; synup-vs-gmbapi; promanage-alternative; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Google-Vorschläge automatisch ablehnen",
+  "alt_select_pages": "best-yext-alternative; best-vendasta-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Google-Vorschläge automatisch ablehnen",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/comparison-table-rows/auto-reject-google-suggestions",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "zoom-local-search",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Lokale Zoom-Suche",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2fbd06584a5b6e3ed2",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:11 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:11 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2ebd06584a5b6e3ec7_653264456e45c7f44b19d17d_YellowPages-1.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Zoomlocalsearch mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "india; uae; australia; new-zealand; canada; united-kingdom-gb; united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Zoom Lokale Suche + Synup</h1><p id=\"\"><strong id=\"\">Mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup können Sie Brancheneinträge und Bewertungen auf Zoom Local Search hinzufügen, beanspruchen und bearbeiten.</strong></p><h2 id=\"\">Was ist Zoom Local Search?</h2><p id=\"\">Zoom Local Search ist wahrscheinlich ein Online-Verzeichnis oder eine Online-Plattform, die detaillierte und fokussierte lokale Brancheneinträge und Suchfunktionen bietet. Es kann Wert auf Präzision bei der Suche nach Unternehmen und Dienstleistungen in bestimmten Bereichen legen und Nutzern genaue und relevante Suchergebnisse liefern.</p><h2 id=\"\">Warum Zoom Local Search + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote:</strong> Mit der Möglichkeit, Ihre Brancheneinträge auf Zoom Local Search zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite:</strong> Wenn Sie Ihr Unternehmen über Synup zur lokalen Zoom-Suche hinzufügen, erhöht sich die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\"><strong id=\"\">Genaue Geschäftsinformationen:</strong> Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf Zoom Local Search veröffentlichen.</li><li id=\"\"><strong id=\"\">Kundenbindung:</strong> Sehen Sie sich Bewertungen auf Zoom Local Search an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie deren Feedback schätzen und auf ihre Bedürfnisse eingehen.</li></ul><h2 id=\"\">Wie integriere ich Zoom Local Search + Synup?</h2><p id=\"\">Die Zoom Local Search-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. Um die Zoom Local Search-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das Zoom Local Search-Logo, um die Synup + Zoom Local Search-Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Für Unternehmen ist die Verwaltung von Standortdaten auf Facebook mit Synup jetzt ein Kinderspiel.",
+  "seo": {
+    "title": "Lokale Zoom-Suche",
+    "description": "Erhöhen Sie Ihre Sichtbarkeit in der lokalen Zoom-Suche. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Präsenz und Kundenbindung.",
+    "canonical": "https://www.synup.com/de/integrations/lokale-zoom-suche",
+    "ogImage": null
+  }
+}

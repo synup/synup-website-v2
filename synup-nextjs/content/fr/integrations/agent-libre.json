@@ -1,0 +1,28 @@
+{
+  "slug": "freeagent",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Agent libre",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c593ab8c14452e7e671",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2e6202a34397e9e1ee_6548e16840cff87da71a049e_FreeAgent.svg",
+  "title_tag": "Intégrez Freeagent à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">FreeAgent + Synup</strong></h1><p id=\"\">Améliorez vos stratégies d'évaluation des clients en tirant parti de la puissante intégration des capacités comptables de FreeAgent avec les solutions innovantes de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que FreeAgent&nbsp;?</h2><p id=\"\">FreeAgent est un logiciel de comptabilité complet, particulièrement apprécié des petites entreprises et des indépendants, qui simplifie la gestion des factures, le suivi des dépenses et la comptabilisation du temps, permettant ainsi un flux de travail financier plus organisé et plus efficace.</p><h2 id=\"\">Pourquoi FreeAgent + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Consultez les invites via la facturation&nbsp;: </strong>Utilisez les interactions de facturation de FreeAgent pour inviter les clients à donner leur avis, en capturant leurs expériences et leurs commentaires en temps réel.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Compréhension consolidée des clients&nbsp;: </strong>Associez les historiques détaillés des transactions clients de FreeAgent aux analyses de Synup, pour une compréhension plus riche et plus complète des expériences et des besoins des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flux de feedback automatisés&nbsp;:</strong> Intégrez les demandes de révision automatisées dans les flux de travail comptables de FreeAgent, améliorant ainsi la cohérence et la pertinence de l'acquisition de commentaires.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Communications d'évaluation personnalisées&nbsp;: </strong>Personnalisez les demandes d'évaluation et les réponses en fonction des interactions individuelles avec les clients et des données historiques des transactions dans FreeAgent, afin de favoriser des échanges plus engageants et plus significatifs.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Améliorations commerciales stratégiques&nbsp;: </strong>Exploitez l'intelligence combinée des interactions financières et des évaluations des clients pour orienter les stratégies commerciales, les services et les relations avec les clients vers de meilleurs résultats et une meilleure satisfaction.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Utilisation optimisée des ressources&nbsp;:</strong> Coordonnez les efforts de gestion des révisions de manière fluide au sein des flux de travail existants de FreeAgent, afin de faciliter une approche opérationnelle plus efficace et harmonisée.</li></ul><p id=\"\">La connexion de FreeAgent à Synup ouvre la voie à une collaboration synergique qui maximise le potentiel des interactions comptables pour une acquisition et une gestion des avis sophistiquées, intelligentes et efficaces, favorisant ainsi l'amélioration des relations avec les clients et des stratégies commerciales.</p><h2 id=\"\">Comment intégrer FreeAgent + Synup&nbsp;?</h2><p id=\"\">L'intégration de FreeAgent pour la comptabilité est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Comptabilité sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connecter le logiciel de comptabilité.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez FreeAgent comme logiciel de comptabilité.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte FreeAgent.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration de la comptabilité.</li></ul><ul id=\"\"><li id=\"\">Gérez vos finances à l'aide de FreeAgent.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Agent libre",
+    "description": "FreeAgent + Synup : Améliorez les évaluations et la comptabilité - Libérez des relations clients efficaces et développez votre activité",
+    "canonical": "https://www.synup.com/fr/integrations/agent-libre",
+    "ogImage": null
+  }
+}

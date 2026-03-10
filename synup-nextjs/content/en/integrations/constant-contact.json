@@ -1,0 +1,28 @@
+{
+  "slug": "constant-contact",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Constant Contact",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238b07927d7cacf7b45c",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238b07927d7cacf7b457_6548bde20b71f98915a6c739_Constant%2520Contact.svg",
+  "title_tag": "Integrate Constrant Contact with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Constant Contact + Synup</strong></h1><p id=\"\">Supercharge your review acquisition and management strategy by integrating Constant Contact’s influential email marketing solutions with Synup’s advanced review optimization expertise.</p><h2 id=\"\">What is Constant Contact?</h2><p id=\"\">Constant Contact is a formidable email marketing platform that offers businesses an array of tools to create effective email campaigns, manage contacts, and analyze results, promoting enhanced engagement and conversion rates.</p><h2 id=\"\">Why Constant Contact + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Engaging Review Invitations: </strong>Utilize Constant Contact’s rich design tools to craft visually appealing and engaging review solicitation emails that captivate customers’ attention.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Review Campaigns: </strong>Benefit from Constant Contact’s segmentation and targeting functionalities to launch review campaigns that resonate with diverse customer experiences and preferences.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automated Review Solicitations: </strong>Leverage the automation features of Constant Contact to deliver timely and relevant review requests, enhancing response rates and the quality of feedback received.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Review Analytics and Insights: </strong>Integrate Synup’s analytic capabilities to harvest detailed insights into the performance of review solicitation campaigns, enabling data-driven strategy enhancements.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Continuous Review Nurturing:</strong> Employ Constant Contact’s follow-up tools to nurture ongoing relationships with reviewers, fostering an environment conducive to receiving continuous, valuable feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Holistic Review Management: </strong>By marrying Synup’s tools with Constant Contact, achieve a holistic view and management of reviews, allowing for streamlined operations and strategy refinement.</li></ul><p id=\"\">The fusion of Constant Contact with Synup creates a transformative environment for review management, enhancing the visibility, engagement, and strategic alignment of your review acquisition efforts, driving superior results and customer interactions.</p><h2 id=\"\">How to integrate Constant Contact + Synup?</h2><p id=\"\">Constant Contact integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Constant Contact to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Constant Contact",
+    "description": "Supercharge review management with Constant Contact + Synup. Craft engaging review invitations, launch strategic campaigns, and gain valuable insights.",
+    "canonical": "https://www.synup.com/integrations/constant-contact",
+    "ogImage": null
+  }
+}

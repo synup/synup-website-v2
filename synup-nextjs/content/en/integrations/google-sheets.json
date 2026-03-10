@@ -1,0 +1,28 @@
+{
+  "slug": "google-sheets",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Google Sheets",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f238ec4cd195a470b319f",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:34 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:34 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f238ec4cd195a470b318b_6548c561d7196d199391986d_Google%2520sheets.svg",
+  "title_tag": "Use Googlesheets Integration with Synup to Automate Your Review Management Process.",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Google Sheets + Synup</h1><p id=\"\">Elevate your review management process by leveraging the synergies of Google Sheets and Synup for enhanced productivity and operational efficiency.</p><h2 id=\"\">What is Google Sheets?</h2><p id=\"\">Google Sheets is a dynamic cloud-based productivity tool for creating and managing spreadsheets in real-time. It stands out for enabling collaborative work, allowing multiple users to edit, comment, and chat within a document simultaneously. Integrated automation features and a variety of available integrations enhance workflow efficiency. Accessible across various devices, Google Sheets promotes flexibility, allowing users to interact with their data anytime, anywhere, which boosts overall productivity.</p><h2 id=\"\">Why Google Sheets + Synup?</h2><p id=\"\"><strong id=\"\">Streamlined Review Management: </strong>Unite Google Sheets' powerful organization and Synup’s review mastery. Centralize and manage all reviews effortlessly, ensuring that nothing slips through the cracks.</p><p id=\"\"><strong id=\"\">Automated Workflows: </strong>Harness the automation capabilities of both platforms. Enable automatic sending of review requests and the collection of feedback directly into Google Sheets, simplifying processes.</p><p id=\"\"><strong id=\"\">Collaborative Advantages:</strong>Facilitate real-time collaboration through Google Sheets. Improve response times and engagement levels with reviewers, promoting positive interactions.</p><p id=\"\"><strong id=\"\">Customized Review Acquisition: </strong>Tailor your review acquisition strategy by utilizing Google Sheets to create customized campaigns, ensuring relevancy and increasing the likelihood of feedback.</p><p id=\"\"><strong id=\"\">Operational Efficiency and Cost Reduction: </strong>Boost productivity and reduce operational costs by eliminating manual tasks and optimizing workflows, making the review acquisition process more efficient and cost-effective.</p><p id=\"\">Integrate Google Sheets with Synup to unlock a realm of organized, automated, and efficient review management, maximizing productivity and optimizing the review acquisition process.</p><h2 id=\"\">How to integrate Google Sheets + Synup?</h2><p id=\"\">Google Sheets integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect Google Sheets to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Google Sheets",
+    "description": "Enhance review management with Google Sheets + Synup: Organize, automate, and optimize for productivity and efficiency.",
+    "canonical": "https://www.synup.com/integrations/google-sheets",
+    "ogImage": null
+  }
+}

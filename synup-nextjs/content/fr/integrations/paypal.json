@@ -1,0 +1,28 @@
+{
+  "slug": "paypal",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "PayPal",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c69f1b99f0ca6c46f02",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:57 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:57 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf31f8c5e3b1f6b2642e_6548e12418221043edf3eaa3_Paypal.svg",
+  "title_tag": "Intégrez Paypal à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">PayPal + Synup</h1><p id=\"\">Explorez une approche transformatrice de la gestion des avis clients en mettant en synergie les services de traitement des paiements fiables de PayPal avec les solutions de pointe d'acquisition et de gestion des avis de Synup.</p><h2 id=\"\">Qu'est-ce que PayPal&nbsp;?</h2><p id=\"\">PayPal est une plateforme de traitement des paiements mondialement reconnue, connue pour ses services de transaction sécurisés, flexibles et conviviaux. Elle propose une gamme variée de solutions de paiement qui répondent aux besoins des consommateurs et des entreprises, facilitant ainsi les transactions en ligne.</p><h2 id=\"\">Pourquoi PayPal + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Sollicitations de révision immédiate&nbsp;:</strong> Tirez parti des confirmations de paiement en temps réel de PayPal pour solliciter des avis clients immédiats, en vous assurant que les commentaires sont à la fois récents et reflètent l'expérience réelle du client.</li></ul><ul id=\"\"><li id=\"\">Compréhension complète des clients&nbsp;: fusionnez les données transactionnelles de PayPal avec les solides informations d'évaluation de Synup pour obtenir une vision globale des interactions avec les clients, de leur satisfaction et des domaines à améliorer.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intégration fluide des évaluations&nbsp;: </strong>Intégrez les demandes d'évaluation dans le flux de transactions PayPal, ce qui permet de recueillir de manière naturelle et discrète les commentaires des clients de manière cohérente.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Sensibilisation aux évaluations personnalisées&nbsp;: </strong>Personnalisez les communications relatives aux avis en fonction des détails des transactions spécifiques et de l'historique des clients dans PayPal, afin de rendre chaque interaction d'évaluation plus personnalisée et plus attrayante.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Perspectives stratégiques pour l'amélioration&nbsp;: </strong>Exploitez la puissance combinée des données de paiement et des avis clients pour orienter la prise de décisions stratégiques, améliorer la satisfaction des clients et améliorer les performances globales de l'entreprise.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Efficacité de la gestion des avis&nbsp;:</strong> Optimisez le processus de gestion des avis en l'intégrant parfaitement au flux de travail opérationnel de PayPal, maximisant ainsi l'efficience et l'efficacité de la collecte d'informations précieuses sur les clients.</li></ul><p id=\"\">L'intégration de PayPal à Synup dévoile une stratégie remarquable de gestion des avis, faisant de chaque transaction une opportunité précieuse d'obtenir des commentaires exploitables, de renforcer les relations avec les clients et de favoriser une amélioration continue de l'activité.</p><h2 id=\"\">Comment intégrer PayPal + Synup&nbsp;?</h2><p id=\"\">L'intégration PayPal pour le traitement des paiements est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Traitement des paiements sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect Payment Gateway.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez PayPal comme processeur de paiement.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte PayPal.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du traitement des paiements.</li></ul><ul id=\"\"><li id=\"\">Acceptez les paiements via PayPal.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "PayPal",
+    "description": "Transformez la gestion de vos avis clients avec PayPal + Synup : sollicitation immédiate, informations holistiques, intégration fluide et sensibilisation personnalisée.",
+    "canonical": "https://www.synup.com/fr/integrations/paypal",
+    "ogImage": null
+  }
+}

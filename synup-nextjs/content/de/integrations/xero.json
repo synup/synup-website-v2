@@ -1,0 +1,28 @@
+{
+  "slug": "xero",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Xero",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf3ad505a9d4cb685820",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:22 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:22 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf3ad505a9d4cb685808_6548e19cc344cc51e8d1fb46_xero.svg",
+  "title_tag": "Integrieren Sie Xero mit Synup, um Ihren Bewertungsmanagementprozess zu automatisieren",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Xero + Synup</strong></h1><p id=\"\">Maximieren Sie den Nutzen Ihrer Buchhaltungsinteraktionen, indem Sie die robusten Finanzmanagementfunktionen von Xero mit den ausgeklügelten Strategien von Synup zur Erfassung und Verwaltung von Bewertungen, Akquisitionen und Verwaltung kombinieren.</p><h2 id=\"\">Was ist Xero?</h2><p id=\"\">Xero ist eine leistungsstarke Cloud-basierte Buchhaltungssoftware, die das Finanzmanagement mit ihrem intuitiven Design, Aktualisierungen in Echtzeit und umfassenden Integrationen von Drittanbietern transformiert und die Unternehmensbuchhaltung effizient und aufschlussreich macht.</p><h2 id=\"\">Warum Xero + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Auslöser für die Transaktionsüberprüfung:</strong> Stellen Sie Überprüfungsanfragen strategisch ein, indem Sie die detaillierten Transaktionsaufzeichnungen von Xero nutzen und so zeitnahes und relevantes Feedback von Kunden und Kunden sicherstellen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Dynamische Kundenprofilerstellung:</strong> Verbessern Sie die umfassenden Kundenprofile von Xero mit aufschlussreichen Bewertungen und Feedback und ebnen Sie so den Weg für eine persönlichere und durchdachtere Strategie zur Kundenbindung.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Integrierte Bewertungseinblicke: </strong>Integrieren Sie die Bewertungsdaten von Synup nahtlos in das Buchhaltungs-Dashboard von Xero und ermöglichen Sie so einen einheitlichen Überblick über die finanziellen Interaktionen der Kunden und deren Feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Automatisierte Review-Workflows:</strong> Steigern Sie die betriebliche Produktivität, indem Sie Prozesse zur Erfassung und Verwaltung von Bewertungen automatisieren und so einen reibungsloseren, konsistenteren Prozess zur Erfassung von Feedback ermöglichen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategische Geschäftsanpassungsfähigkeit: </strong>Nutzen Sie die kombinierten Erkenntnisse aus Finanzdaten und Kundenrezensionen, um Geschäftsstrategien, Dienstleistungen und Kundeninteraktionen so anzupassen, dass sie die Erwartungen erfüllen und übertreffen.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Kostengünstiges Bewertungsmanagement:</strong> Optimieren Sie den Bewertungsmanagementprozess, um kostengünstiger und ressourcenschonender zu sein und eine höhere Investitionsrendite für Reputationsmanagement zu gewährleisten.</li></ul><p id=\"\">Die Kombination von Xero mit Synup schafft einen transformativen Ansatz zur Überprüfung von Akquisition und Management. Diese Integration ermöglicht die Optimierung der Interaktionen im Rechnungswesen und gewährleistet so eine ausgewogene, strategische und effektive Methode zur Nutzung von Kundenfeedback und Erkenntnissen.</p><h2 id=\"\">Wie integriere ich Xero + Synup?</h2><p id=\"\">Die Xero-Integration für die Buchhaltung steht allen Synup-Abonnenten zur Verfügung. Um die Integration einzusehen und zu verwalten:</p><ul id=\"\"><li id=\"\">Besuchen Sie die Registerkarte Buchhaltung auf der Synup-Konsole.</li></ul><ul id=\"\"><li id=\"\">Klicken Sie auf die Schaltfläche Buchhaltungssoftware verbinden.</li></ul><ul id=\"\"><li id=\"\">Wählen Sie Xero als Ihre Buchhaltungssoftware.</li></ul><ul id=\"\"><li id=\"\">Authentifizieren Sie Ihr Xero-Konto.</li></ul><ul id=\"\"><li id=\"\">Beenden Sie die Einrichtung der Buchhaltung.</li></ul><ul id=\"\"><li id=\"\">Verwalte deine Finanzen mit Xero.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Xero",
+    "description": "Nutzen Sie mit der Xero + Synup-Integration ein leistungsstarkes Bewertungsmanagement: Transformieren Sie finanzielle Erkenntnisse mit strategischem Kundenfeedback.",
+    "canonical": "https://www.synup.com/de/integrations/xero",
+    "ogImage": null
+  }
+}

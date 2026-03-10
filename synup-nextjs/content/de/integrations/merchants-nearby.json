@@ -1,0 +1,28 @@
+{
+  "slug": "merchants-nearby",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Händler in der Nähe",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf2c41071258c62b7b11",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:08 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:08 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf2c41071258c62b7b02_65312c19f15ac2213b0b9c38_Merchants%2520Nearby.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Merchantsnearby mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Händler in der Nähe + Synup</h1><p id=\"\"><strong id=\"\">Fügen Sie Brancheneinträge und Bewertungen bei Merchants Nearby hinzu, fordern Sie sie an und bearbeiten Sie sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup.</strong></p><h2 id=\"\">Was ist Merchants Nearby?</h2><p id=\"\">Merchants Nearby, eine innovative Plattform, auf der Sie lokale Unternehmen und Dienstleistungen in Ihrer Nähe entdecken können, vereinfacht die Suche nach dem, was Sie benötigen. Egal, ob Sie nach Geschäften, Restaurants oder Dienstleistern in Ihrer Nähe suchen, Merchants Nearby bietet praktische Tools, um Sie mit lokalen Angeboten zu verbinden.</p><h2 id=\"\">Warum Händler in der Nähe + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Vollständige Kontrolle über Angebote:</strong> Mit der Möglichkeit, Ihre Brancheneinträge bei Merchants Nearby zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\"><strong id=\"\">Erweitere deine Reichweite:</strong> Wenn Sie Ihr Unternehmen über Synup zu Merchants Nearby hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\"><strong id=\"\">Genaue Geschäftsinformationen:</strong> Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf Merchants Nearby veröffentlichen.</li><li id=\"\"><strong id=\"\">Kundenbindung:</strong> Sehen Sie sich Bewertungen auf Merchants Nearby an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie deren Feedback schätzen und auf ihre Bedürfnisse eingehen.</li></ul><h2 id=\"\">Wie integriere ich Merchants Nearby+ Synup?</h2><p id=\"\">Die Merchants Nearby-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. Um die Merchants Nearby-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das Merchants Nearby-Logo, um die Integration von Synup + Merchants Nearby und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Händler in der Nähe",
+    "description": "Optimieren Sie Ihre Präsenz. Die Synup-Integration auf Merchants Nearby gewährleistet genaue Geschäftsdaten für eine hervorragende Online-Sichtbarkeit und Kundenreichweite.",
+    "canonical": "https://www.synup.com/de/integrations/merchants-nearby",
+    "ogImage": null
+  }
+}

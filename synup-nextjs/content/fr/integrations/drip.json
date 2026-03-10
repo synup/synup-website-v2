@@ -1,0 +1,28 @@
+{
+  "slug": "drip",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "goutte à goutte",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c7109a23d15e4999e63",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:57:05 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:57:05 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf363c9e10c54a0d4361_6548be78accc5211a1fb2d6f_drip.svg",
+  "title_tag": "Intégrez Drip à Synup pour automatiser votre processus de gestion des avis",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Drip + Synup</strong></h1><p id=\"\">Révolutionnez vos processus d'acquisition et de gestion des avis en fusionnant l'automatisation du marketing du commerce électronique de Drip avec l'expertise spécialisée de Synup en matière d'orchestration des avis.</p><h2 id=\"\">Qu'est-ce que Drip&nbsp;?</h2><p id=\"\">Drip est une plateforme d'automatisation du marketing pour le commerce électronique qui innove en matière d'expériences client personnalisées, permettant aux entreprises de créer des parcours clients uniques, d'optimiser l'engagement et d'améliorer les stratégies de génération de revenus.</p><h2 id=\"\">Pourquoi Drip + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Demandes d'évaluation centrées sur le client&nbsp;:</strong> Tirez parti de la compréhension des clients de Drip pour créer des demandes d'avis qui reflètent les expériences uniques de chaque client, en encourageant des avis plus pertinents et plus sincères.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Parcours de révision automatisés&nbsp;:</strong> Tirez parti des fonctionnalités d'automatisation de Drip pour concevoir des parcours clients qui intègrent naturellement les sollicitations d'avis à des points de contact optimaux, augmentant ainsi les chances d'obtenir des commentaires significatifs.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Stratégies axées sur le commerce électronique&nbsp;: </strong>Adaptez les stratégies d'acquisition d'avis aux interactions du commerce électronique, en veillant à ce que les avis soient étroitement liés à l'historique des achats et des interactions des clients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Segmentation dynamique des évaluations&nbsp;:</strong> Utilisez les fonctionnalités de segmentation de Drip pour classer les clients en fonction de divers attributs, permettant ainsi des campagnes de sollicitation d'avis plus ciblées et plus pertinentes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Analyse intelligente des avis&nbsp;:</strong> Intégrez l'intelligence analytique de Synup à Drip, afin de permettre une analyse plus approfondie des performances et des stratégies d'acquisition d'avis dans le contexte du commerce électronique.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Optimisation de la révision continue&nbsp;: </strong>Exploitez l'apprentissage adaptatif de Drip pour optimiser en permanence les stratégies de sollicitation d'avis en fonction de l'évolution des comportements des clients et des tendances en matière de feedback.</li></ul><p id=\"\">L'intégration de Drip à Synup met en place un écosystème sophistiqué de gestion des avis. Il tire parti de l'intelligence et de l'automatisation du commerce électronique pour élaborer des stratégies d'évaluation profondément personnalisées, automatisées efficacement et parfaitement adaptées aux besoins et aux expériences uniques des clients du commerce électronique.</p><h2 id=\"\">Comment intégrer Drip + Synup&nbsp;?</h2><p id=\"\">L'intégration Drip pour l'acquisition d'avis est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Review Acquisition sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect CRM ou App.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez le dossier ou l'emplacement auquel vous souhaitez connecter Drip.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre CRM.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration du CRM.</li></ul><ul id=\"\"><li id=\"\">Créez des acquisitions d'avis à l'aide des contacts du CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "goutte à goutte",
+    "description": "Révolutionnez la gestion des avis avec Drip + Synup. Des stratégies personnalisées, automatisées et axées sur le commerce électronique pour des commentaires pertinents. Optimisez votre parcours client dès aujourd'hui !",
+    "canonical": "https://www.synup.com/fr/integrations/drip",
+    "ogImage": null
+  }
+}

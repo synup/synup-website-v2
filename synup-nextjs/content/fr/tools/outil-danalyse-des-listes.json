@@ -1,0 +1,26 @@
+{
+  "slug": "listing-scan-tool",
+  "locale": "fr",
+  "collectionType": "tools",
+  "name": "Outil d'analyse des listes",
+  "collection_id": "6877e34f9bb2fd6dad7b017d",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6066e9816096be5834a96",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:31:26 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:31:26 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "image": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4b7e1bddc9e95ba2ce992_650aa2335a4f3926fae62ee2_Listing%2520Scan%2520Tool.webp",
+  "description": "<p id=\"\">Obtenez une vue d'ensemble des listes de vos entreprises<br></p>",
+  "description_short": "Obtenez une vue d'ensemble des listes de vos entreprises",
+  "link": "https://scan.synup.com/",
+  "order": "3.0",
+  "button_text": "Scannez mes annonces",
+  "seo": {
+    "title": "Outil d'analyse des listes",
+    "description": "<p id=\"\">Obtenez une vue d'ensemble des listes de vos entreprises<br></p>",
+    "canonical": "https://www.synup.com/fr/tools/outil-danalyse-des-listes",
+    "ogImage": null
+  }
+}

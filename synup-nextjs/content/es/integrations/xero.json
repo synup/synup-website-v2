@@ -1,0 +1,28 @@
+{
+  "slug": "xero",
+  "locale": "es",
+  "collectionType": "integrations",
+  "name": "Xero",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7629eed47dff5a40ab646",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 18:17:02 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 18:17:02 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "icon": "__MISSING__",
+  "title_tag": "Integre Xero con Synup para automatizar su proceso de gestión de reseñas",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">Suscríbete a Xero +</strong></h1><p id=\"\">Maximice la utilidad de sus interacciones contables al combinar las sólidas capacidades de administración financiera de Xero con las sofisticadas estrategias de revisión, adquisición y administración de Synup.</p><h2 id=\"\">¿Qué es Xero?</h2><p id=\"\">Xero es un potente software de contabilidad basado en la nube que transforma la gestión financiera con su diseño intuitivo, actualizaciones en tiempo real y amplias integraciones de terceros, lo que hace que la contabilidad empresarial sea eficiente y perspicaz.</p><h2 id=\"\">¿Por qué Xero + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Desencadenantes de la revisión transaccional:</strong> Implemente las solicitudes de revisión de manera estratégica aprovechando los registros detallados de transacciones de Xero, garantizando la retroalimentación oportuna y relevante de los clientes y clientes.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Perfiles dinámicos de clientes:</strong> Mejore los ricos perfiles de clientes de Xero con reseñas y comentarios interesantes, lo que allana el camino para una estrategia de captación de clientes más personalizada y reflexiva.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Perspectivas de revisión integradas: </strong>Combine sin problemas los datos de revisión de Synup con el panel de contabilidad de Xero, lo que permite una visión unificada de las interacciones financieras de los clientes y sus comentarios.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Flujos de trabajo de revisión automatizados:</strong> Mejore la productividad operativa automatizando los procesos de revisión, adquisición y administración, lo que permite un proceso de recopilación de comentarios más fluido y uniforme.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Adaptabilidad empresarial estratégica: </strong>Utilice la información combinada de los datos financieros y las opiniones de los clientes para adaptar las estrategias empresariales, los servicios y las interacciones con los clientes a fin de cumplir y superar las expectativas.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Gestión de revisiones rentable:</strong> Optimice el proceso de gestión de reseñas para que sea más rentable y eficiente en el uso de los recursos, garantizando un mayor retorno de la inversión en las iniciativas de gestión de la reputación.</li></ul><p id=\"\">La combinación de Xero con Synup crea un enfoque transformador para revisar la adquisición y la administración. Esta integración permite la optimización de las interacciones contables, lo que garantiza un método integral, estratégico y eficaz para aprovechar los comentarios y las opiniones de los clientes.</p><h2 id=\"\">¿Cómo integrar Xero + Synup?</h2><p id=\"\">La integración de Xero para la contabilidad está disponible para todos los suscriptores de Synup. Para ver y administrar la integración:</p><ul id=\"\"><li id=\"\">Visita la pestaña Contabilidad en la consola de Synup.</li></ul><ul id=\"\"><li id=\"\">Haga clic en el botón Conectar software de contabilidad.</li></ul><ul id=\"\"><li id=\"\">Seleccione Xero como su software de contabilidad.</li></ul><ul id=\"\"><li id=\"\">Autentica tu cuenta de Xero.</li></ul><ul id=\"\"><li id=\"\">Termine de configurar la contabilidad.</li></ul><ul id=\"\"><li id=\"\">Gestione sus finanzas con Xero.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Xero",
+    "description": "Libere una potente gestión de reseñas con la integración de Xero + Synup: transforme la información financiera con comentarios estratégicos de los clientes.",
+    "canonical": "https://www.synup.com/es/integrations/xero",
+    "ogImage": null
+  }
+}

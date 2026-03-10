@@ -1,0 +1,28 @@
+{
+  "slug": "factual",
+  "locale": "de",
+  "collectionType": "integrations",
+  "name": "Sachlich",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4bf33efc72ae29e056e5d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:15:15 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:15:15 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf33efc72ae29e056e4f_65312f2f28c54f6216996ca7_Factual.svg",
+  "title_tag": "Verwalten Sie Ihre Geschäftsinformationen auf Factual mit Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "united-states-us",
+  "detailed_paragraph": "<h1 id=\"\">Faktisch + Synup</h1><p id=\"\"><strong id=\"\">Fügen Sie Brancheneinträge und Bewertungen auf Factual hinzu, fordern Sie sie an und bearbeiten Sie sie mit den Tools zur Verwaltung von Inseraten und Bewertungen von Synup.</strong></p><h2 id=\"\">Was ist Factual?</h2><p id=\"\">Factual ist eine Datenplattform und ein Anbieter von Standortdaten, der sich auf die Bereitstellung genauer standortbezogener Informationen in Echtzeit spezialisiert hat. Unternehmen nutzen die Daten von Factual, um ihre Dienstleistungen, Marketingaktivitäten und standortbezogenen Anwendungen zu verbessern.</p><h2 id=\"\">Warum Factual + Synup?</h2><ul id=\"\"><li id=\"\">Vollständige Kontrolle über Angebote: Mit der Möglichkeit, Ihre Brancheneinträge auf Factual zu verwalten, behalten Sie die volle Kontrolle über Ihre Online-Präsenz und stellen sicher, dass Ihr Unternehmen korrekt dargestellt wird.</li><li id=\"\">Erhöhen Sie Ihre Reichweite: Wenn Sie Ihr Unternehmen über Synup zu Factual hinzufügen, erhöhen Sie die Sichtbarkeit. Helfen Sie potenziellen Kunden, Sie zu entdecken, und erweitern Sie so effektiv Ihre Reichweite.</li><li id=\"\">Präzise Geschäftsinformationen: Erhöhen Sie das Vertrauen und die Glaubwürdigkeit, indem Sie genaue Informationen auf Factual veröffentlichen.</li><li id=\"\">Kundenbindung: Sehen Sie sich Bewertungen auf Factual an und antworten Sie darauf. So pflegen Sie eine positive Beziehung zu Ihren Kunden und zeigen Sie, dass Sie ihr Feedback schätzen und auf ihre Bedürfnisse achten.</li></ul><h2 id=\"\">Wie integriere ich Factual + Synup?</h2><p id=\"\">Die Factual-Integration steht allen Abonnenten des Synup-Listingsplans zur Verfügung. Um die Factual-Integration anzusehen und zu verwalten:</p><ol id=\"\"><li id=\"\">Rufe den Tab Angebote auf der Synup-Konsole auf.</li><li id=\"\">Navigiere zum Abschnitt Premium-Angebote.</li><li id=\"\">Klicken Sie auf das Factual-Logo, um die Synup + Factual Integration und die zugehörigen Einstellungen zu verwalten.</li></ol>",
+  "integration_types": "data-aggregator",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Sachlich",
+    "description": "Meistern Sie die lokale Suche mit Factual. Die Synup-Integration gewährleistet genaue Geschäftsdaten für eine unübertroffene Online-Sichtbarkeit und Glaubwürdigkeit.",
+    "canonical": "https://www.synup.com/de/integrations/sachlich",
+    "ogImage": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "sendgrid",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "SendGrid",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f23957ca186742019a227",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:41 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:41 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f23957ca186742019a222_6548c3469bca07c8ff72f16d_Sendgrid.svg",
+  "title_tag": "Integrate Sendgrid with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">SendGrid + Synup</strong></h1><p id=\"\">Elevate your review acquisition and management endeavors by intertwining SendGrid’s esteemed email delivery and scalability with Synup’s specialized review enhancement capabilities.</p><h2 id=\"\">What is SendGrid?</h2><p id=\"\">SendGrid is a cloud-based email service renowned for its reliable email delivery, scalability, and real-time analytics. It is designed to manage and optimize the sending of transactional and marketing emails, ensuring that messages reach recipients’ inboxes effectively.</p><h2 id=\"\">Why SendGrid + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Reliable Review Solicitations: </strong>Utilize SendGrid’s reliable email delivery services to ensure that your review requests reach customers’ inboxes promptly, improving the probability of obtaining valuable feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Scalable Review Campaigns: </strong>Leverage SendGrid’s scalability to effectively manage review solicitation campaigns of varying sizes, ensuring consistency and adaptability in outreach strategies.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Transactional Review Insights: </strong>Utilize transactional emails to solicit timely reviews, harnessing the immediate relevance of customer interactions to garner insightful and impactful feedback.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Customized Review Requests: </strong>Employ SendGrid’s customization features to tailor review solicitation emails, ensuring that each message aligns with customers’ unique experiences and expectations.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Review Analytics Integration: </strong>Incorporate Synup’s analytic capabilities to gather comprehensive insights into the performance and impact of your review solicitation emails, enabling continual refinement.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Streamlined Review Operations: </strong>Merge SendGrid’s email expertise with Synup’s review management tools to streamline workflows, improve efficiency, and optimize review acquisition strategies.</li></ul><p id=\"\">By intertwining SendGrid with Synup, gain access to a formidable combination of reliable email delivery, scalable campaigns, and enhanced review management tools, designed to optimize your review acquisition processes and outcomes.</p><h2 id=\"\">How to integrate SendGrid + Synup?</h2><p id=\"\">SendGrid integration for review acquisition is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Review acquisition tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect CRM or App Button.</li></ul><ul id=\"\"><li id=\"\">Select the Folder or location you want to connect SendGrid to.</li></ul><ul id=\"\"><li id=\"\">Authenticate your CRM.</li></ul><ul id=\"\"><li id=\"\">Finish setting up CRM.</li></ul><ul id=\"\"><li id=\"\">Create Review acquisitions using contacts from CRM.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "SendGrid",
+    "description": "Elevate your review acquisition with SendGrid + Synup: Reliable email delivery, scalability, and tailored review campaigns for impactful feedback.",
+    "canonical": "https://www.synup.com/integrations/sendgrid",
+    "ogImage": null
+  }
+}

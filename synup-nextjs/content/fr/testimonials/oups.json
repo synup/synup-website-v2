@@ -1,0 +1,28 @@
+{
+  "slug": "woops",
+  "locale": "fr",
+  "collectionType": "testimonials",
+  "name": "Oups",
+  "collection_id": "68910931f7488005a4319a64",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a605dd5bf76fa9d35c9927",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:29:01 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:29:01 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "partner_name": "Oups !",
+  "person_name": "Raj Bhat",
+  "designation": "Co-fondateur",
+  "partner_description": "__MISSING__",
+  "partner": "__MISSING__",
+  "partner_logo": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bb71641012cd4f837777_618c40047f656a9f74c6d448_woops-logo.webp",
+  "partner_image": null,
+  "partner_testimonial": "<p id=\"\">Synup nous a sauvé la vie. Alors que les commerces locaux rouvraient leurs portes, les ventes en magasin n'augmentaient pas. Grâce à Synup Campaigns, nous avons enregistré certaines de nos meilleures ventes en ligne depuis des années. Nous sommes prêts à affronter des concurrents auxquels nous n'aurions jamais pensé sans Synup.</p><p id=\"\">‍</p>",
+  "seo": {
+    "title": "Oups",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/testimonials/oups",
+    "ogImage": null
+  }
+}

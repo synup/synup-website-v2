@@ -1,0 +1,28 @@
+{
+  "slug": "mollie",
+  "locale": "en",
+  "collectionType": "integrations",
+  "name": "Mollie",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "6877df595609c1d0ca9e8c2f",
+  "item_id": "688f2392b84739be21f7ddb3",
+  "archived": false,
+  "draft": false,
+  "created_on": "Sun Aug 03 2025 08:53:38 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Sun Aug 03 2025 08:53:38 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Sun Aug 03 2025 09:06:52 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/688f2392b84739be21f7ddae_674571b943232ea2be54a657_Mollie%25201.svg",
+  "title_tag": "Integrate Mollie with Synup to Automate Your Review Management Process",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\">Developed - <strong id=\"\">Mollie + Synup</strong></h1><p id=\"\">Embark on a revolutionary customer review journey by integrating Mollie’s efficient payment processing solutions with Synup’s innovative review acquisition and management system.</p><h2 id=\"\">What is Mollie?</h2><p id=\"\">Mollie is a flourishing payment processing platform that emphasizes simplicity, flexibility, and functionality. It supports a diverse array of payment methods, ensuring that businesses can accommodate various customer preferences and streamline the transaction process.</p><h2 id=\"\">Why Mollie + Synup?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Prompt Review Invitations: </strong>Utilize Mollie’s speedy transaction completions to immediately invite customers to share their experiences and feedback, capturing real-time insights and sentiments.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Unified Customer Portraits: </strong>Combine Mollie’s rich transactional data with Synup’s review insights, constructing a comprehensive picture of customer interactions and satisfaction levels.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Integrated Review Solicitations: </strong>Seamlessly infuse review requests within Mollie’s efficient payment workflows, simplifying the acquisition of valuable customer feedback without disrupting the transaction experience.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Targeted Review Engagements: </strong>Customize review engagements by harnessing individual transaction histories and customer details from Mollie, enabling more relevant and personalized review interactions.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Strategic Evolution Based on Insights: </strong>Employ the combined intelligence of payment interactions and customer reviews to inform and enhance strategic business decisions, service improvements, and customer relationship management.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Streamlined Operational Flow:</strong> Integrate the review management process smoothly within Mollie’s payment ecosystem, ensuring a cohesive and efficient strategy for gathering and managing customer insights.</li></ul><p id=\"\">By blending Mollie with Synup, a transformative pathway in review management unfolds, where every payment interaction becomes a strategic avenue for gathering essential customer feedback, promoting enriched customer relationships, and guiding business improvements.</p><h2 id=\"\">How to integrate Mollie + Synup?</h2><p id=\"\">Mollie integration for payment processing is available to all Synup subscribers. To view and manage the integration:</p><ul id=\"\"><li id=\"\">Visit the Payment Processing tab on Synup's console.</li></ul><ul id=\"\"><li id=\"\">Click on Connect Payment Gateway Button.</li></ul><ul id=\"\"><li id=\"\">Select Mollie as your payment processor.</li></ul><ul id=\"\"><li id=\"\">Authenticate your Mollie account.</li></ul><ul id=\"\"><li id=\"\">Finish setting up payment processing.</li></ul><ul id=\"\"><li id=\"\">Accept payments through Mollie.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Mollie",
+    "description": "Revolutionize customer reviews with Mollie + Synup integration. Capture real-time insights, customize engagements, and streamline operations for enriched customer relationships.",
+    "canonical": "https://www.synup.com/integrations/mollie",
+    "ogImage": null
+  }
+}

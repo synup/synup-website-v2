@@ -1,0 +1,27 @@
+{
+  "slug": "twitter-threads-2",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "fils de discussion sur Twitter",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a6155a16a088b2f330d5c9",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:35:06 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:35:06 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "N",
+  "select_table_category": "posting",
+  "list_order": "12.0",
+  "select_pages": "later-alternative; heyorca-alternative; socialbee-alternative; reputation-com-alternative; sprout-social-alternative",
+  "tabel_category": "fils de discussion sur Twitter",
+  "seo": {
+    "title": "fils de discussion sur Twitter",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/fils-de-discussion-sur-twitter",
+    "ogImage": null
+  }
+}

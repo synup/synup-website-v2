@@ -1,0 +1,31 @@
+{
+  "slug": "australian-planet",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Planète australienne",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6a90ae847ec0eba848",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:58 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:58 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf242532bb7af51a2126_65313066baed54e0e8936ead_Australian%2520Planet.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur la planète australienne avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_in",
+  "tags": "australia",
+  "detailed_paragraph": "<h1 id=\"\">Australian Planet + Synup</h1><p id=\"\"><strong id=\"\">Ajoutez, réclamez, modifiez des fiches d'entreprises et des avis sur Australian Planet grâce aux outils de gestion des annonces et des avis de Synup.</strong></p><h2 id=\"\">Qu'est-ce qu'Australian Planet&nbsp;?</h2><p id=\"\">AustralianPlanet.com est une ressource précieuse pour les entreprises australiennes car il les aide à accroître leur visibilité en ligne, à entrer en contact avec des clients potentiels, à recevoir les commentaires des clients et à explorer les opportunités de réseautage. En tirant parti des fonctionnalités de la plateforme, les entreprises peuvent améliorer leurs efforts de marketing et élargir leur clientèle.</p><h2 id=\"\">Pourquoi choisir Australian Planet + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\">Contrôle total des annonces&nbsp;: en gérant les listes de vos entreprises sur Australian Planet, vous assurez un contrôle total sur votre présence en ligne, avec une représentation précise de votre entreprise.</li><li id=\"\">Élargissez votre portée&nbsp;: l'ajout de votre entreprise à Australian Planet via Synup améliore votre visibilité, élargit efficacement votre portée et aide les clients potentiels à vous découvrir facilement.</li><li id=\"\">Informations commerciales précises&nbsp;: Favorisez la confiance et la crédibilité auprès des clients en publiant des informations précises et fiables sur Australian Planet.</li><li id=\"\">Engagement des clients&nbsp;: consultez les avis des clients sur Australian Planet, en démontrant que vous appréciez leurs commentaires et que vous êtes attentif à leurs besoins, favorisant ainsi des relations positives.</li></ul><h2 id=\"\">Comment intégrer Australian Planet + Synup&nbsp;?</h2><p id=\"\">L'intégration d'Australian Planet est disponible pour tous les abonnés au plan Synup Listings. Pour consulter et gérer l'intégration d'Australian Planet&nbsp;:</p><ol id=\"\"><li id=\"\">Accédez à l'onglet Listings sur la console de Synup.</li><li id=\"\">Accédez à la section Annonces premium.</li><li id=\"\">Cliquez sur le logo Australian Planet pour gérer l'intégration Synup + Australian Planet et les paramètres associés.</li></ol>",
+  "integration_types": "general-directory",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "integration_bg_color": "__MISSING__",
+  "integration_bg_image": null,
+  "integration_summary": "Australian Planet est le principal annuaire d'entreprises en ligne desservant les villes de sept provinces d'Australie.",
+  "seo": {
+    "title": "Planète australienne",
+    "description": "Élevez votre entreprise sur la planète australienne. L'intégration de Synup garantit une visibilité précise et étendue à votre marque.",
+    "canonical": "https://www.synup.com/fr/integrations/australian-planet",
+    "ogImage": null
+  }
+}

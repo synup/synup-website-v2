@@ -1,0 +1,28 @@
+{
+  "slug": "custom-roles",
+  "locale": "fr",
+  "collectionType": "comparison-table-rows",
+  "name": "Rôles personnalisés",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a61552d3b23b897d6766ad",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 18:34:58 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 18:34:58 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "top-category",
+  "list_order": "3.0",
+  "select_pages": "synup-vs-yext; review-trackers-alternative; singleinterface-alternative; dbaplatform-alternative; synup-vs-localpanda-ai; synup-vs-yotpo; synup-vs-grade-us; synup-vs-rannko; synup-vs-whitespark; zoho-publish-alternative",
+  "tabel_category": "Rôles personnalisés",
+  "alt_select_pages": "best-yext-alternative; best-singleinterface-alternative",
+  "seo": {
+    "title": "Rôles personnalisés",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/fr/comparison-table-rows/custom-roles",
+    "ogImage": null
+  }
+}

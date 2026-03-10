@@ -1,0 +1,20 @@
+{
+  "slug": "ecuador",
+  "locale": "de",
+  "collectionType": "integration-tags",
+  "name": "Ecuador",
+  "collection_id": "68826a55dc0ff405c5839a04",
+  "locale_id": "689b745049dcf9cf63f57d03",
+  "item_id": "68a4be7cc3355c467e4a07c8",
+  "archived": false,
+  "draft": false,
+  "created_on": "Tue Aug 19 2025 18:12:12 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Tue Aug 19 2025 18:12:12 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Tue Aug 19 2025 19:17:58 GMT+0000 (Coordinated Universal Time)",
+  "seo": {
+    "title": "Ecuador",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/de/integration-tags/ecuador",
+    "ogImage": null
+  }
+}

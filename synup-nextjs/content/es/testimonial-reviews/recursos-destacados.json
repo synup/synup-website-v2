@@ -1,0 +1,27 @@
+{
+  "slug": "resources-featured",
+  "locale": "es",
+  "collectionType": "testimonial-reviews",
+  "name": "Recursos destacados",
+  "collection_id": "6891071705e9e84a74744a0a",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a75d19919a5686217779ed",
+  "archived": false,
+  "draft": false,
+  "created_on": "Thu Aug 21 2025 17:53:29 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Thu Aug 21 2025 17:53:29 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "testimonial_number": "0.2",
+  "reviews_summary": "¡Cómo, guau! Generó un 20% más de ingresos gracias a la personalización de perfiles",
+  "reviews_image": null,
+  "reviews_video": "__MISSING__",
+  "featured_post_resources_mega_menu": false,
+  "featured_show_home_page": false,
+  "review_link": "https://www.synup.com/case-studies/woops-macarons",
+  "seo": {
+    "title": "Recursos destacados",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/testimonial-reviews/recursos-destacados",
+    "ogImage": null
+  }
+}

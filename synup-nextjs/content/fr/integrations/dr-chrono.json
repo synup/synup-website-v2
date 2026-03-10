@@ -1,0 +1,28 @@
+{
+  "slug": "drchrono",
+  "locale": "fr",
+  "collectionType": "integrations",
+  "name": "Dr Chrono",
+  "collection_id": "68826acfc56230b196cf390b",
+  "locale_id": "68a473ac6f18f13d93fc8274",
+  "item_id": "68a60c6150b04c8b6193293d",
+  "archived": false,
+  "draft": false,
+  "created_on": "Wed Aug 20 2025 17:56:49 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Wed Aug 20 2025 17:56:49 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Wed Aug 20 2025 18:52:33 GMT+0000 (Coordinated Universal Time)",
+  "icon": "https://cdn.prod.website-files.com/6877df595609c1d0ca9e8c30/68a4bf291c74b21a1350f5be_6548e1cb7ced08a20008c7c4_Dr-chrono.svg",
+  "title_tag": "Gérez les informations de votre entreprise sur DrChrono avec Synup",
+  "link_to_cta": "https://local.synup.com/users/sign_up",
+  "tags": "__MISSING__",
+  "detailed_paragraph": "<h1 id=\"\"><strong id=\"\">DrChrono + Synup</strong></h1><p id=\"\">Optimisez la gestion et l'acquisition des avis de votre cabinet de santé en intégrant facilement DrChrono à la plateforme innovante de Synup.</p><h2 id=\"\">Qu'est-ce que DrChrono&nbsp;?</h2><p id=\"\">DrChrono est une solution spécialisée de gestion des dossiers médicaux électroniques (DSE) et de gestion des cabinets médicaux. Elle révolutionne les soins aux patients et la gestion du cabinet en proposant des modèles médicaux personnalisables, un logiciel de facturation et une planification des patients sur une plateforme intégrée basée sur le cloud.</p><h2 id=\"\">Pourquoi DrChrono + Synup&nbsp;?</h2><ul id=\"\"><li id=\"\"><strong id=\"\">Évaluations centrées sur le patient&nbsp;:</strong> Simplifiez le processus d'acquisition des avis des patients, en intégrant de manière fluide les commentaires dans les dossiers médicaux des patients pour une vision plus complète de leur satisfaction.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Opérations rationalisées&nbsp;:</strong> Améliorez l'efficacité opérationnelle en automatisant la collecte des avis et des commentaires des patients, en réduisant les charges administratives et en mettant davantage l'accent sur les soins aux patients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Interaction informée avec le patient&nbsp;:</strong> Utilisez les évaluations et les commentaires des patients pour favoriser des interactions enrichies avec les patients et améliorer la qualité des soins et des services offerts.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Intégration personnalisable&nbsp;:</strong> Adaptez l'intégration pour répondre aux besoins uniques de votre cabinet de santé, en vous assurant que la gestion des évaluations s'aligne parfaitement sur les flux de travail existants.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Présence en ligne améliorée&nbsp;: </strong>Améliorez la visibilité en ligne et la réputation de votre cabinet grâce à une gestion efficiente et efficace des évaluations et des commentaires des patients.</li></ul><ul id=\"\"><li id=\"\"><strong id=\"\">Prise de décisions stratégiques&nbsp;:</strong> Tirez parti des données combinées de DrChrono et Synup pour apporter des améliorations stratégiques à vos offres de services de santé, à vos stratégies d'interaction avec les patients et à l'expérience globale des patients.</li></ul><p id=\"\">En intégrant DrChrono à Synup, les cabinets de santé peuvent accéder à de meilleures voies pour gérer et obtenir les avis des patients, ce qui permet d'enrichir les interactions avec les patients, d'améliorer leur présence en ligne et d'améliorer leur efficacité opérationnelle.</p><h2 id=\"\">Comment intégrer DrChrono + Synup&nbsp;?</h2><p id=\"\">L'intégration de DrChrono pour la gestion des soins de santé est disponible pour tous les abonnés de Synup. Pour consulter et gérer l'intégration, procédez comme suit&nbsp;:</p><ul id=\"\"><li id=\"\">Accédez à l'onglet Gestion des soins de santé sur la console de Synup.</li></ul><ul id=\"\"><li id=\"\">Cliquez sur le bouton Connect Healthcare Software.</li></ul><ul id=\"\"><li id=\"\">Sélectionnez DrChrono comme logiciel de santé.</li></ul><ul id=\"\"><li id=\"\">Authentifiez votre compte DrChrono.</li></ul><ul id=\"\"><li id=\"\">Terminez la configuration de la gestion des soins de santé.</li></ul><ul id=\"\"><li id=\"\">Gérez les processus de santé à l'aide de DrChrono.</li></ul><p id=\"\">‍</p>",
+  "integration_types": "sales-and-crm",
+  "show_on_home_page": false,
+  "popular_integration": false,
+  "seo": {
+    "title": "Dr Chrono",
+    "description": "Améliorez les soins aux patients grâce à l'intégration de DrChrono et Synup : rationalisez les opérations, renforcez votre présence en ligne et prenez des décisions éclairées.",
+    "canonical": "https://www.synup.com/fr/integrations/dr-chrono",
+    "ogImage": null
+  }
+}

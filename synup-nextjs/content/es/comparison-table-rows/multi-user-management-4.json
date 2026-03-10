@@ -1,0 +1,28 @@
+{
+  "slug": "multi-user-management-4",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Administración multiusuario",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da07fc9aee7d7140bb95",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:31 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:31 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "top-category",
+  "list_order": "2.0",
+  "select_pages": "synup-vs-yext; birdeye-alternative; uberall-alternative; chatmeter-alternative; soci-alternative; vendasta-alternative; moz-local-alternative; widewail-alternative; woobound-alternative; milestone-inc-alternative; partoo-alternative; review-trackers-alternative",
+  "tabel_category": "Administración multiusuario",
+  "alt_select_pages": "best-vendasta-alternative",
+  "seo": {
+    "title": "Administración multiusuario",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/multi-user-management-4",
+    "ogImage": null
+  }
+}

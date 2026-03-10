@@ -1,0 +1,27 @@
+{
+  "slug": "custom-leaderboard-report-2",
+  "locale": "es",
+  "collectionType": "comparison-table-rows",
+  "name": "Informe de clasificación personalizado 2",
+  "collection_id": "6891dac917be53a8753023b6",
+  "locale_id": "68a473ac6f18f13d93fc8275",
+  "item_id": "68a7da0ca1b1d5263a3ac7a6",
+  "archived": false,
+  "draft": false,
+  "created_on": "Fri Aug 22 2025 02:46:36 GMT+0000 (Coordinated Universal Time)",
+  "updated_on": "Fri Aug 22 2025 02:46:36 GMT+0000 (Coordinated Universal Time)",
+  "published_on": "Fri Aug 22 2025 03:09:46 GMT+0000 (Coordinated Universal Time)",
+  "sub_description": "__MISSING__",
+  "first_col": "Y",
+  "second_col": "Y",
+  "select_table_category": "reviews",
+  "list_order": "20.0",
+  "select_pages": "sproutloud-alternative; turbify-alternative; synup-vs-yotpo; synup-vs-powerreviews; synup-vs-grade-us; synup-vs-rannko; synup-vs-reviews-on-my-website; synup-vs-whitespark; synup-vs-get-more-reviews; promanage-alternative; zceppa-alternative; zoho-publish-alternative",
+  "tabel_category": "Informe de clasificación personalizado",
+  "seo": {
+    "title": "Informe de clasificación personalizado 2",
+    "description": "__MISSING__",
+    "canonical": "https://www.synup.com/es/comparison-table-rows/custom-leaderboard-report-2",
+    "ogImage": null
+  }
+}
