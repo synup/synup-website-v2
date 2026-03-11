@@ -155,12 +155,7 @@ export default async function LocaleLayout({
     <html lang={locale}>
       <body className="antialiased">
         <NextIntlClientProvider>
-          <Header
-            locale={locale}
-            navItems={buildNavItems(locale)}
-            cta={{ label: "Book a Demo", href: `${prefix}/book-a-demo` }}
-            secondaryCta={{ label: "Sign In", href: "https://app.synup.com" }}
-          />
+          <Header locale={locale} />
           <main>{children}</main>
           <Footer
             locale={locale}
