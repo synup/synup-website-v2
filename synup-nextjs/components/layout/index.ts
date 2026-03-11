@@ -3,7 +3,6 @@
  */
 
 export { Header } from "./Header";
-export type { HeaderProps, HeaderCTA } from "./Header";
 
 export { Footer } from "./Footer";
 export type { FooterProps, FooterLinkColumn, FooterLink } from "./Footer";
