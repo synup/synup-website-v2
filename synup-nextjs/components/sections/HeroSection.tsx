@@ -4,7 +4,7 @@ import Link from "next/link";
 const CDN = "https://cdn.prod.website-files.com/681cc7df3f89a5ee17bd04aa";
 const HERO_IMG = `${CDN}/68923b8a23016f6033221bc6_home-hero-section-synup.avif`;
 
-export interface HeroCTA { label: string; href: string; variant?: "primary" | "secondary"; }
+export interface HeroCTA { label: string; href: string; variant?: "primary" | "secondary"; external?: boolean; }
 export interface HeroSectionProps {
   eyebrow?: string; headline: string; subheadline?: string;
   ctas?: HeroCTA[]; image?: { src: string; alt: string; width?: number; height?: number };

@@ -49,7 +49,7 @@ export default async function CareersPage({
         eyebrow="CAREERS"
         headline="Join us and help change marketing forever."
         ctas={[
-          { label: "See Open Positions", href: "https://jobs.lever.co/synup", variant: "primary", external: true },
+          { label: "See Open Positions", href: "https://www.linkedin.com/company/synup/jobs/", variant: "primary", external: true },
         ]}
         centered
       />
@@ -75,7 +75,7 @@ Synup is an equal opportunity workplace that is committed to creating an inclusi
       <CTABanner
         eyebrow="Careers at Synup"
         headline="Explore Your Future Career Opportunities"
-        primaryCta={{ label: "See Open Positions", href: "https://jobs.lever.co/synup", external: true }}
+        primaryCta={{ label: "See Open Positions", href: "https://www.linkedin.com/company/synup/jobs/", external: true }}
         variant="brand"
       />
     </>
