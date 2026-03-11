@@ -1,10 +1,3 @@
-export const metadata = {
-  robots: {
-    index: false,
-    follow: false,
-    googleBot: { index: false, follow: false },
-  },
-};
 
 import type { Metadata } from "next";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
