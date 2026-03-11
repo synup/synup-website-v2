@@ -1,144 +1,55 @@
-/**
- * HeroSection — Full-width hero with headline, subheadline, CTA buttons, optional image.
- * Matches Webflow section: .section_header, .section-hero
- */
-
 import Image from "next/image";
-import { Button } from "@/components/ui/Button";
-import { Heading } from "@/components/ui/Typography";
-import { Container } from "@/components/ui/Container";
+import Link from "next/link";
 
-/* ─── Types ─────────────────────────────────────────────────────────────── */
+const CDN = "https://cdn.prod.website-files.com/681cc7df3f89a5ee17bd04aa";
+const HERO_IMG = `${CDN}/68923b8a23016f6033221bc6_home-hero-section-synup.avif`;
 
-export interface HeroCTA {
-  label: string;
-  href: string;
-  variant?: "primary" | "secondary" | "ghost";
-  external?: boolean;
-}
-
+export interface HeroCTA { label: string; href: string; variant?: "primary" | "secondary"; }
 export interface HeroSectionProps {
-  /** Eyebrow label above the headline */
-  eyebrow?: string;
-  /** Main headline — can include <br> via splitting on \n */
-  headline: string;
-  /** Supporting subheadline */
-  subheadline?: string;
-  /** Primary and optional secondary CTA */
-  ctas?: HeroCTA[];
-  /** Optional hero image displayed to the right on desktop */
-  image?: {
-    src: string;
-    alt: string;
-    width?: number;
-    height?: number;
-  };
-  /** Dark background variant */
-  dark?: boolean;
-  /** Center-aligned layout (default: left on desktop) */
-  centered?: boolean;
-  className?: string;
+  eyebrow?: string; headline: string; subheadline?: string;
+  ctas?: HeroCTA[]; image?: { src: string; alt: string; width?: number; height?: number };
+  dark?: boolean; centered?: boolean; className?: string;
 }
 
-/* ─── Component ──────────────────────────────────────────────────────────── */
-
-export function HeroSection({
-  eyebrow,
-  headline,
-  subheadline,
-  ctas,
-  image,
-  dark = false,
-  centered = false,
-  className = "",
-}: HeroSectionProps) {
-  const bgClass = dark
-    ? "bg-[var(--synup-color-bg-dark)] text-white"
-    : "bg-[var(--synup-color-bg-surface)]";
-
-  const contentClass = centered
-    ? "flex flex-col items-center text-center max-w-[var(--synup-container-medium)] mx-auto"
-    : image
-    ? "flex flex-col justify-center lg:w-1/2"
-    : "flex flex-col items-start max-w-[var(--synup-container-medium)]";
-
+export function HeroSection({ eyebrow, headline, subheadline, ctas, image, className = "" }: HeroSectionProps) {
+  const imgSrc = image?.src?.startsWith("/assets") ? HERO_IMG : (image?.src ?? HERO_IMG);
   return (
-    <section
-      className={[
-        "section_header",
-        bgClass,
-        "py-[var(--synup-space-section-lg)] overflow-hidden",
-        className,
-      ]
-        .filter(Boolean)
-        .join(" ")}
-    >
-      <Container size="large">
-        <div
-          className={[
-            "flex gap-[var(--synup-space-48)]",
-            image ? "lg:flex-row flex-col items-center" : "flex-col",
-            centered ? "items-center" : "",
-          ]
-            .filter(Boolean)
-            .join(" ")}
-        >
-          {/* Text content */}
-          <div className={contentClass}>
-            {eyebrow && (
-              <span className="inline-block mb-[var(--synup-space-16)] px-3 py-1 rounded-full text-[var(--synup-font-size-small)] font-[var(--synup-font-weight-medium)] bg-[var(--synup-color-tint-blue)] text-[var(--synup-color-brand-blue)]">
-                {eyebrow}
-              </span>
-            )}
-
-            <Heading
-              as="h1"
-              className={[
-                "text-[var(--synup-color-primary-text)]",
-                "mb-[var(--synup-space-24)]",
-              ].join(" ")}
-            >
-              {headline}
-            </Heading>
-
-            {subheadline && (
-              <p className="text-[var(--synup-font-size-medium)] leading-[var(--synup-line-height-relaxed)] text-[var(--synup-color-secondary-text)] mb-[var(--synup-space-32)] m-0">
-                {subheadline}
-              </p>
-            )}
-
-            {ctas && ctas.length > 0 && (
-              <div className="flex flex-wrap gap-[var(--synup-space-16)] mt-[var(--synup-space-8)]">
-                {ctas.map((cta, i) => (
-                  <Button
-                    key={i}
-                    href={cta.href}
-                    variant={cta.variant ?? (i === 0 ? "primary" : "secondary")}
-                    size="lg"
-                    external={cta.external}
-                  >
-                    {cta.label}
-                  </Button>
-                ))}
-              </div>
-            )}
-          </div>
-
-          {/* Optional image */}
-          {image && (
-            <div className="lg:w-1/2 w-full flex items-center justify-center">
-              <Image
-                src={image.src}
-                alt={image.alt}
-                width={image.width ?? 640}
-                height={image.height ?? 480}
-                className="w-full h-auto object-contain max-h-[500px]"
-                priority
-              />
+    <section className={["section_header", className].filter(Boolean).join(" ")}
+      style={{ backgroundColor: "#f5f6fc", padding: "72px 32px 0", overflow: "hidden" }}>
+      <div style={{ maxWidth: 1280, margin: "0 auto", display: "grid", gridTemplateColumns: image ? "1fr 1fr" : "1fr", gap: 48, alignItems: "center" }}>
+        <div style={{ paddingBottom: 72 }}>
+          {eyebrow && (
+            <div style={{ display: "inline-flex", alignItems: "center", backgroundColor: "#e2eaff", borderRadius: 100, padding: "6px 16px", marginBottom: 28 }}>
+              <span style={{ fontSize: 13, fontWeight: 600, color: "#1a56db", fontFamily: "Inter, sans-serif" }}>{eyebrow}</span>
+            </div>
+          )}
+          <h1 style={{ fontSize: "clamp(38px, 4.5vw, 62px)", fontWeight: 800, lineHeight: 1.08, marginBottom: 24, fontFamily: "Inter, sans-serif", letterSpacing: "-0.03em", color: "#000d5e" }}>
+            {headline}
+          </h1>
+          {subheadline && (
+            <p style={{ fontSize: 18, lineHeight: 1.65, color: "#4a4a7a", fontFamily: "Inter, sans-serif", marginBottom: 40, maxWidth: 500 }}>
+              {subheadline}
+            </p>
+          )}
+          {ctas && ctas.length > 0 && (
+            <div style={{ display: "flex", gap: 14, flexWrap: "wrap" }}>
+              {ctas.map((cta, i) => (
+                <Link key={i} href={cta.href} style={i === 0
+                  ? { padding: "14px 28px", fontSize: 16, fontWeight: 600, color: "#fff", backgroundColor: "#0085ff", borderRadius: 8, textDecoration: "none", fontFamily: "Inter, sans-serif", display: "inline-block" }
+                  : { padding: "14px 28px", fontSize: 16, fontWeight: 600, color: "#000d5e", backgroundColor: "#fff", borderRadius: 8, textDecoration: "none", border: "1.5px solid #d0d5e8", fontFamily: "Inter, sans-serif", display: "inline-block" }}>
+                  {cta.label}
+                </Link>
+              ))}
             </div>
           )}
         </div>
-      </Container>
+        {image && (
+          <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "flex-end", overflow: "hidden" }}>
+            <Image src={imgSrc} alt={image.alt} width={860} height={620} priority unoptimized
+              style={{ width: "100%", height: "auto", objectFit: "cover", objectPosition: "top left", borderRadius: "12px 12px 0 0", boxShadow: "0 8px 48px rgba(0,13,94,0.12)", maxHeight: 580 }} />
+          </div>
+        )}
+      </div>
     </section>
   );
 }
